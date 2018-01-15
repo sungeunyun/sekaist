@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 15 03:24:11 +0000 2018",
+		"id": 952743185486250000,
+		"id_str": "952743185486249984",
+		"text": "RT @jinu20: 기사가 악의적입니다. \n검사들이 ‘최악의 날’이라고 생각하지 않아요. 이명박근혜의 개로 국민들을 물어 뜯고 다니던 날들도 있었는데요....\n검사와 정부를 이간질하려는 게 너무 티나요. \nhttps://t.co/L31On7P1zk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jinu20",
+					"name": "주진우",
+					"id": 111236027,
+					"id_str": "111236027",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/L31On7P1zk",
+					"expanded_url": "http://v.media.daum.net/v/20180115012511274?f=m?rcmd=rn",
+					"display_url": "v.media.daum.net/v/201801150125…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 605,
+			"friends_count": 1153,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1333,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10061,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 14 23:21:23 +0000 2018",
+			"id": 952682085248000000,
+			"id_str": "952682085248000000",
+			"text": "기사가 악의적입니다. \n검사들이 ‘최악의 날’이라고 생각하지 않아요. 이명박근혜의 개로 국민들을 물어 뜯고 다니던 날들도 있었는데요....\n검사와 정부를 이간질하려는 게 너무 티나요. \nhttps://t.co/L31On7P1zk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/L31On7P1zk",
+						"expanded_url": "http://v.media.daum.net/v/20180115012511274?f=m?rcmd=rn",
+						"display_url": "v.media.daum.net/v/201801150125…",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 111236027,
+				"id_str": "111236027",
+				"name": "주진우",
+				"screen_name": "jinu20",
+				"location": "Seoul",
+				"description": "수줍고 철없는 시사IN 기자. 권력형 비리 전공. 부전공은 권력기관(삼성 포함), 종교, 조폭 그리고 축구. 비리 제보 환영.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1000898,
+				"friends_count": 1250,
+				"listed_count": 9115,
+				"created_at": "Thu Feb 04 06:51:29 +0000 2010",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2959,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/785388993097588736/7SXfd7gL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/785388993097588736/7SXfd7gL_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1867,
+			"favorite_count": 1174,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1867,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Jan 14 17:14:35 +0000 2018",
 		"id": 952589776732868600,
 		"id_str": "952589776732868608",
@@ -1898,7 +2084,7 @@ Grailbird.data.tweets_2018_01 =
 		},
 		"geo": {},
 		"id_str": "949682512376225792",
-		"text": "RT @BandMacguffin: 맥거핀의 1월 스케쥴입니다. 두 곡의 음원이 발매되니 많은 관심 부탁드려요. 맥거핀과 함께 즐거운 2018년을 시작해요🙋🏻‍♂️🙋🏻‍♂️\n\nhttps://t.co/yo8iAjzZWr https://t.co/5o3tf…",
+		"text": "RT @BandMacguffin: 맥거핀의 1월 스케쥴입니다. 두 곡의 음원이 발매되니 많은 관심 부탁드려요. 맥거핀과 함께 즐거운 2018년을 시작해요🙋🏻♂️🙋🏻♂️\n\nhttps://t.co/yo8iAjzZWr https://t.co/5o3tf…",
 		"retweeted_status": {
 			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 			"entities": {
@@ -1960,7 +2146,7 @@ Grailbird.data.tweets_2018_01 =
 			},
 			"geo": {},
 			"id_str": "949680612633276417",
-			"text": "맥거핀의 1월 스케쥴입니다. 두 곡의 음원이 발매되니 많은 관심 부탁드려요. 맥거핀과 함께 즐거운 2018년을 시작해요🙋🏻‍♂️🙋🏻‍♂️\n\nhttps://t.co/yo8iAjzZWr https://t.co/5o3tf87glB",
+			"text": "맥거핀의 1월 스케쥴입니다. 두 곡의 음원이 발매되니 많은 관심 부탁드려요. 맥거핀과 함께 즐거운 2018년을 시작해요🙋🏻♂️🙋🏻♂️\n\nhttps://t.co/yo8iAjzZWr https://t.co/5o3tf87glB",
 			"id": 949680612633276400,
 			"created_at": "2018-01-06 16:34:36 +0000",
 			"user": {
@@ -3339,7 +3525,7 @@ Grailbird.data.tweets_2018_01 =
 		},
 		"geo": {},
 		"id_str": "948142595271745536",
-		"text": "RT @BandMacguffin: [공연일정] 1월 12일 금요일 8PM\n맥거핀의 새해 공연에 함께해요🙋🏻‍♂️\n&lt;라운지락 시리즈 vol.93&gt;\n장소 : 에반스라운지\n라인업 : 더블랑 / 파이 / 맥거핀\n입장료 : 1만원+음료별도(필수) https:…",
+		"text": "RT @BandMacguffin: [공연일정] 1월 12일 금요일 8PM\n맥거핀의 새해 공연에 함께해요🙋🏻♂️\n&lt;라운지락 시리즈 vol.93&gt;\n장소 : 에반스라운지\n라인업 : 더블랑 / 파이 / 맥거핀\n입장료 : 1만원+음료별도(필수) https:…",
 		"retweeted_status": {
 			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 			"entities": {
@@ -3391,7 +3577,7 @@ Grailbird.data.tweets_2018_01 =
 			},
 			"geo": {},
 			"id_str": "948074151968882689",
-			"text": "[공연일정] 1월 12일 금요일 8PM\n맥거핀의 새해 공연에 함께해요🙋🏻‍♂️\n&lt;라운지락 시리즈 vol.93&gt;\n장소 : 에반스라운지\n라인업 : 더블랑 / 파이 / 맥거핀\n입장료 : 1만원+음료별도(필수) https://t.co/bn0OFKAnz8",
+			"text": "[공연일정] 1월 12일 금요일 8PM\n맥거핀의 새해 공연에 함께해요🙋🏻♂️\n&lt;라운지락 시리즈 vol.93&gt;\n장소 : 에반스라운지\n라인업 : 더블랑 / 파이 / 맥거핀\n입장료 : 1만원+음료별도(필수) https://t.co/bn0OFKAnz8",
 			"id": 948074151968882700,
 			"created_at": "2018-01-02 06:11:06 +0000",
 			"user": {
