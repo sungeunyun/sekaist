@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Mon Jan 22 04:09:57 +0000 2018",
+		"id": 955291418431406100,
+		"id_str": "955291418431406081",
+		"text": "RT @DrPyo: 평창이 뮌헨 등 쟁쟁한 유럽 및 북미 도시들  제치고 동계올림픽을 유치할 수 있었던 근본적이고 거의 유일한 이유는 ‘세계 유일 분단국가 접경지역 올림픽 개최로 세계 평화 기여’ 입니다. 한나라당 정권에서 남북단일팀 추진 내용담은…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrPyo",
+					"name": "표창원",
+					"id": 74048201,
+					"id_str": "74048201",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 605,
+			"friends_count": 1151,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1336,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10083,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 22 00:33:31 +0000 2018",
+			"id": 955236953351336000,
+			"id_str": "955236953351335936",
+			"text": "평창이 뮌헨 등 쟁쟁한 유럽 및 북미 도시들  제치고 동계올림픽을 유치할 수 있었던 근본적이고 거의 유일한 이유는 ‘세계 유일 분단국가 접경지역 올림픽 개최로 세계 평화 기여’ 입니다. 한나라당 정권에서 남… https://t.co/PvjvjI1ajD",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PvjvjI1ajD",
+						"expanded_url": "https://twitter.com/i/web/status/955236953351335936",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 74048201,
+				"id_str": "74048201",
+				"name": "표창원",
+				"screen_name": "DrPyo",
+				"location": "대한민국",
+				"description": "#대한민국 #국회의원 #표창원 #정면돌파 #더불어민주당 #용인정 #정의 #안전 #행정 #Justice #Safety #MemberOfParliament (후원계좌) 국민은행 431401-04-088652 (국회의원표창원 후원회)",
+				"url": "https://t.co/EbCFFQyW3q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EbCFFQyW3q",
+								"expanded_url": "http://naver.me/5Zwr3LNA",
+								"display_url": "naver.me/5Zwr3LNA",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 892138,
+				"friends_count": 123290,
+				"listed_count": 3295,
+				"created_at": "Mon Sep 14 02:48:25 +0000 2009",
+				"favourites_count": 1611,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 40907,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950741621846327296/OpsPzkvL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950741621846327296/OpsPzkvL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/74048201/1515509442",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2220,
+			"favorite_count": 1697,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2220,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Jan 21 13:24:20 +0000 2018",
 		"id": 955068545485819900,
 		"id_str": "955068545485819904",
