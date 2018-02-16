@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 15 03:21:18 +0000 2018",
+		"id": 963976486246953000,
+		"id_str": "963976486246952961",
+		"text": "RT @pyeongchang2018: Greetings from #Soohorang &amp; #Bandabi, \"Happy Lunar New Year's Holidays!\"👐 #2018평창 과 함께 행복하고 따뜻하고 즐거운 설 명절 보내세요!🙏 - 올림픽…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Soohorang",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"text": "Bandabi",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"text": "2018평창",
+					"indices": [
+						99,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pyeongchang2018",
+					"name": "PyeongChang 2018",
+					"id": 83529162,
+					"id_str": "83529162",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606,
+			"friends_count": 1156,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1365,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10206,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 15 01:40:45 +0000 2018",
+			"id": 963951179607695400,
+			"id_str": "963951179607695360",
+			"text": "Greetings from #Soohorang &amp; #Bandabi, \"Happy Lunar New Year's Holidays!\"👐 #2018평창 과 함께 행복하고 따뜻하고 즐거운 설 명절 보내세요!🙏 -… https://t.co/wpim9TA9dy",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Soohorang",
+						"indices": [
+							15,
+							25
+						]
+					},
+					{
+						"text": "Bandabi",
+						"indices": [
+							32,
+							40
+						]
+					},
+					{
+						"text": "2018평창",
+						"indices": [
+							78,
+							85
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wpim9TA9dy",
+						"expanded_url": "https://twitter.com/i/web/status/963951179607695360",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 83529162,
+				"id_str": "83529162",
+				"name": "PyeongChang 2018",
+				"screen_name": "pyeongchang2018",
+				"location": "대한민국",
+				"description": "The Olympic & Paralympic Winter Games #PyeongChang2018 | #2018평창 동계올림픽대회 및 동계패럴림픽대회 공식 트위터 | #2018年平昌冬奥会暨冬季残奥会官方推特 | #平昌2018 冬季オリンピック・パラリンピック大会",
+				"url": "https://t.co/h0T2Pk3iIy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/h0T2Pk3iIy",
+								"expanded_url": "http://www.pyeongchang2018.com",
+								"display_url": "pyeongchang2018.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 271546,
+				"friends_count": 2530,
+				"listed_count": 1203,
+				"created_at": "Mon Oct 19 05:22:41 +0000 2009",
+				"favourites_count": 706,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5133,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/442637118188175361/SFOWSwne.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/442637118188175361/SFOWSwne.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/964065220833329152/MnxkkCms_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/964065220833329152/MnxkkCms_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/83529162/1518226830",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1378,
+			"favorite_count": 1231,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1378,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Feb 14 11:59:06 +0000 2018",
 		"id": 963744404899971100,
 		"id_str": "963744404899971072",
