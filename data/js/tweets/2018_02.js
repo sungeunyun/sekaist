@@ -1,6 +1,666 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 21 16:07:51 +0000 2018",
+		"id": 966343720265179100,
+		"id_str": "966343720265179137",
+		"text": "성규 이번 앨범 곡 전부 김종완 곡이다 넘나 기대됨",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 605,
+			"friends_count": 1157,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1368,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10216,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Feb 21 09:33:43 +0000 2018",
+		"id": 966244533519335400,
+		"id_str": "966244533519335431",
+		"text": "RT @cinemadal: #인투더나잇 #소곤소곤꿀팁 👂🏼🎁✨\n\n2/23 (금) 오후 4시 🕺🏻제35회 #라이브클럽데이🕺🏻 티켓배부처로 오시면 &lt;인투 더 나잇&gt; #스티커굿즈 를 득템하실 수 있습니다! #이것이_바로_소확행 ♥️ https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인투더나잇",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "소곤소곤꿀팁",
+					"indices": [
+						22,
+						29
+					]
+				},
+				{
+					"text": "라이브클럽데이",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "스티커굿즈",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "이것이_바로_소확행",
+					"indices": [
+						118,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cinemadal",
+					"name": "Cinema DAL",
+					"id": 97352483,
+					"id_str": "97352483",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 605,
+			"friends_count": 1157,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1368,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10216,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 21 09:09:35 +0000 2018",
+			"id": 966238460418834400,
+			"id_str": "966238460418834432",
+			"text": "#인투더나잇 #소곤소곤꿀팁 👂🏼🎁✨\n\n2/23 (금) 오후 4시 🕺🏻제35회 #라이브클럽데이🕺🏻 티켓배부처로 오시면 &lt;인투 더 나잇&gt; #스티커굿즈 를 득템하실 수 있습니다! #이것이_바로_소확행 ♥️ https://t.co/BFdymgQIf2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "인투더나잇",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"text": "소곤소곤꿀팁",
+						"indices": [
+							7,
+							14
+						]
+					},
+					{
+						"text": "라이브클럽데이",
+						"indices": [
+							43,
+							51
+						]
+					},
+					{
+						"text": "스티커굿즈",
+						"indices": [
+							81,
+							87
+						]
+					},
+					{
+						"text": "이것이_바로_소확행",
+						"indices": [
+							103,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 966238449731645400,
+						"id_str": "966238449731645441",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/DWjEwCyUMAEFVbv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWjEwCyUMAEFVbv.jpg",
+						"url": "https://t.co/BFdymgQIf2",
+						"display_url": "pic.twitter.com/BFdymgQIf2",
+						"expanded_url": "https://twitter.com/cinemadal/status/966238460418834432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 966238449731645400,
+						"id_str": "966238449731645441",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/DWjEwCyUMAEFVbv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWjEwCyUMAEFVbv.jpg",
+						"url": "https://t.co/BFdymgQIf2",
+						"display_url": "pic.twitter.com/BFdymgQIf2",
+						"expanded_url": "https://twitter.com/cinemadal/status/966238460418834432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 97352483,
+				"id_str": "97352483",
+				"name": "Cinema DAL",
+				"screen_name": "cinemadal",
+				"location": "Seoul",
+				"description": "독립영화 제작 & 배급사 시네마달 | 시네마달의 모든 작품은 찾아가는 극장 '공동체상영'으로 관람 가능합니다. 문의 : 02-337-2135",
+				"url": "https://t.co/KMBZ9ecYRV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KMBZ9ecYRV",
+								"expanded_url": "https://goo.gl/9asisw",
+								"display_url": "goo.gl/9asisw",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18201,
+				"friends_count": 15487,
+				"listed_count": 419,
+				"created_at": "Thu Dec 17 03:28:09 +0000 2009",
+				"favourites_count": 394,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27094,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/653505620872593408/7bDV-3n1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/653505620872593408/7bDV-3n1.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966151623830470656/KIxy0tR6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966151623830470656/KIxy0tR6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/97352483/1519183503",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Feb 21 09:32:41 +0000 2018",
+		"id": 966244274298798100,
+		"id_str": "966244274298798082",
+		"text": "RT @pyeongchang2018: What are #BK and #Soohorang up to? Stay tuned to the #PyeongChang2018 and @AUSOlympicTeam channel to see what the misc…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BK",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "Soohorang",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"text": "PyeongChang2018",
+					"indices": [
+						74,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pyeongchang2018",
+					"name": "PyeongChang 2018",
+					"id": 83529162,
+					"id_str": "83529162",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "AUSOlympicTeam",
+					"name": "AUS Olympic Team",
+					"id": 19955768,
+					"id_str": "19955768",
+					"indices": [
+						95,
+						110
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 605,
+			"friends_count": 1157,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1368,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10216,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 21 09:01:55 +0000 2018",
+			"id": 966236530913116200,
+			"id_str": "966236530913116160",
+			"text": "What are #BK and #Soohorang up to? Stay tuned to the #PyeongChang2018 and @AUSOlympicTeam channel to see what the m… https://t.co/hqpKtfEpFg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BK",
+						"indices": [
+							9,
+							12
+						]
+					},
+					{
+						"text": "Soohorang",
+						"indices": [
+							17,
+							27
+						]
+					},
+					{
+						"text": "PyeongChang2018",
+						"indices": [
+							53,
+							69
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AUSOlympicTeam",
+						"name": "AUS Olympic Team",
+						"id": 19955768,
+						"id_str": "19955768",
+						"indices": [
+							74,
+							89
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/hqpKtfEpFg",
+						"expanded_url": "https://twitter.com/i/web/status/966236530913116160",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 83529162,
+				"id_str": "83529162",
+				"name": "PyeongChang 2018",
+				"screen_name": "pyeongchang2018",
+				"location": "대한민국",
+				"description": "The Olympic & Paralympic Winter Games #PyeongChang2018 | #2018평창 동계올림픽대회 및 동계패럴림픽대회 공식 트위터 | #2018年平昌冬奥会暨冬季残奥会官方推特 | #平昌2018 冬季オリンピック・パラリンピック大会",
+				"url": "https://t.co/h0T2Pk3iIy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/h0T2Pk3iIy",
+								"expanded_url": "http://www.pyeongchang2018.com",
+								"display_url": "pyeongchang2018.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 281041,
+				"friends_count": 2500,
+				"listed_count": 1240,
+				"created_at": "Mon Oct 19 05:22:41 +0000 2009",
+				"favourites_count": 712,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5306,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/442637118188175361/SFOWSwne.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/442637118188175361/SFOWSwne.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/964065220833329152/MnxkkCms_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/964065220833329152/MnxkkCms_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/83529162/1518226830",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 309,
+			"favorite_count": 367,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 309,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Feb 20 15:22:47 +0000 2018",
 		"id": 965969989613191200,
 		"id_str": "965969989613191168",
