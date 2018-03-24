@@ -1,6 +1,597 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Fri Mar 23 16:29:09 +0000 2018",
+		"id": 977220718701117400,
+		"id_str": "977220718701117441",
+		"text": "그린 파파야 향기 넘 좋아하는 영환데 조만간 날잡고 다시 봐야지. 요즘 뭘 본게 아무것도 없네. 그나마 매주 주말엔 극장가서 보긴 하지만..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 1088,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1382,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10312,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Mar 23 16:26:30 +0000 2018",
+		"id": 977220051454517200,
+		"id_str": "977220051454517248",
+		"text": "RT @ebsmovie: 자세히 보고 들으면 느낄 수 있는 잔잔한 것들의 아름다움, 보고만 있어도 마음이 편안해지는 영화 #ebsmovie &lt; #그린파파야향기 &gt; https://t.co/dsOKqgH0Fq #트란안홍 감독 https://t.co/pG…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ebsmovie",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "그린파파야향기",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "트란안홍",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ebsmovie",
+					"name": "EBS 영화",
+					"id": 1868350015,
+					"id_str": "1868350015",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dsOKqgH0Fq",
+					"expanded_url": "http://naver.me/GbT2Dadk",
+					"display_url": "naver.me/GbT2Dadk",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 1088,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1382,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10312,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 20 06:40:41 +0000 2018",
+			"id": 975985462820012000,
+			"id_str": "975985462820012032",
+			"text": "자세히 보고 들으면 느낄 수 있는 잔잔한 것들의 아름다움, 보고만 있어도 마음이 편안해지는 영화 #ebsmovie &lt; #그린파파야향기 &gt; https://t.co/dsOKqgH0Fq #트란안홍 감독 https://t.co/pGdUtmei6t",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ebsmovie",
+						"indices": [
+							54,
+							63
+						]
+					},
+					{
+						"text": "그린파파야향기",
+						"indices": [
+							69,
+							77
+						]
+					},
+					{
+						"text": "트란안홍",
+						"indices": [
+							107,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dsOKqgH0Fq",
+						"expanded_url": "http://naver.me/GbT2Dadk",
+						"display_url": "naver.me/GbT2Dadk",
+						"indices": [
+							83,
+							106
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 975985456625025000,
+						"id_str": "975985456625025024",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/DYtlmhAVAAAp8oo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYtlmhAVAAAp8oo.jpg",
+						"url": "https://t.co/pGdUtmei6t",
+						"display_url": "pic.twitter.com/pGdUtmei6t",
+						"expanded_url": "https://twitter.com/ebsmovie/status/975985462820012032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 524,
+								"h": 357,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 524,
+								"h": 357,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 524,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 975985456625025000,
+						"id_str": "975985456625025024",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/DYtlmhAVAAAp8oo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYtlmhAVAAAp8oo.jpg",
+						"url": "https://t.co/pGdUtmei6t",
+						"display_url": "pic.twitter.com/pGdUtmei6t",
+						"expanded_url": "https://twitter.com/ebsmovie/status/975985462820012032/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 524,
+								"h": 357,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 524,
+								"h": 357,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 524,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1868350015,
+				"id_str": "1868350015",
+				"name": "EBS 영화",
+				"screen_name": "ebsmovie",
+				"location": "EBS 영화 페이스북 페이지 아래 링크로..! 고고!",
+				"description": "한 번 보고 두 번 보고 자꾸만 보고싶네/금요영화극장,세계의 명화, 일요시네마, 한국영화특선, 그리고 1년에 1주일은 EIDF 국제다큐영화제.",
+				"url": "https://t.co/LnNl8QTEV0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LnNl8QTEV0",
+								"expanded_url": "https://www.facebook.com/EBS-%EC%98%81%ED%99%94-910001235782010/",
+								"display_url": "facebook.com/EBS-%EC%98%81%…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9058,
+				"friends_count": 1124,
+				"listed_count": 116,
+				"created_at": "Sun Sep 15 16:18:39 +0000 2013",
+				"favourites_count": 988,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1973,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/732493462419836928/fHW6bCNh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/732493462419836928/fHW6bCNh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1868350015/1520438818",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Mar 23 05:04:04 +0000 2018",
+		"id": 977048310828605400,
+		"id_str": "977048310828605440",
+		"text": "기레기가 기레기인 이유. 엠비한테 접대도 받고 우쭈쭈 대기업에서 지원해주는 해외연수도 가고 우쭈쭈 대통령과 대기업에서 대접받았는데 기사를 제대로 쓸 리가 있나 편향된 기사밖에 못쓰는 기레기들 존나 적폐 https://t.co/RNiUh14fZZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 977048305149534200,
+					"id_str": "977048305149534208",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/DY8sQcTV4AAODxM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DY8sQcTV4AAODxM.jpg",
+					"url": "https://t.co/RNiUh14fZZ",
+					"display_url": "pic.twitter.com/RNiUh14fZZ",
+					"expanded_url": "https://twitter.com/sekaist/status/977048310828605440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 647,
+							"h": 321,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 647,
+							"h": 321,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 321,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 977048305149534200,
+					"id_str": "977048305149534208",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/DY8sQcTV4AAODxM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DY8sQcTV4AAODxM.jpg",
+					"url": "https://t.co/RNiUh14fZZ",
+					"display_url": "pic.twitter.com/RNiUh14fZZ",
+					"expanded_url": "https://twitter.com/sekaist/status/977048310828605440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 647,
+							"h": 321,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 647,
+							"h": 321,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 321,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 977048305149534200,
+					"id_str": "977048305149534210",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/DY8sQcTV4AIMW_u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DY8sQcTV4AIMW_u.jpg",
+					"url": "https://t.co/RNiUh14fZZ",
+					"display_url": "pic.twitter.com/RNiUh14fZZ",
+					"expanded_url": "https://twitter.com/sekaist/status/977048310828605440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 647,
+							"h": 311,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 647,
+							"h": 311,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 647,
+							"h": 311,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 1088,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1382,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10312,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Mar 22 13:21:53 +0000 2018",
 		"id": 976811202281009200,
 		"id_str": "976811202281009153",
