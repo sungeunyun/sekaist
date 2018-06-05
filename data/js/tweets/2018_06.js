@@ -1,6 +1,658 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 04 14:19:49 +0000 2018",
+		"id": 1003642485543919600,
+		"id_str": "1003642485543919616",
+		"text": "RT @thomyorke: https://t.co/HmMqK5GHhu \n\nthis music i did",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomyorke",
+					"name": "Thom Yorke",
+					"id": 110509537,
+					"id_str": "110509537",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HmMqK5GHhu",
+					"expanded_url": "https://twitter.com/suspiriamovie/status/1003625501821292544?s=21",
+					"display_url": "twitter.com/suspiriamovie/…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606,
+			"friends_count": 1094,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10514,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 04 13:50:32 +0000 2018",
+			"id": 1003635112418988000,
+			"id_str": "1003635112418988033",
+			"text": "https://t.co/HmMqK5GHhu \n\nthis music i did",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HmMqK5GHhu",
+						"expanded_url": "https://twitter.com/suspiriamovie/status/1003625501821292544?s=21",
+						"display_url": "twitter.com/suspiriamovie/…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110509537,
+				"id_str": "110509537",
+				"name": "Thom Yorke",
+				"screen_name": "thomyorke",
+				"location": "europe",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1028117,
+				"friends_count": 220,
+				"listed_count": 9129,
+				"created_at": "Mon Feb 01 20:14:00 +0000 2010",
+				"favourites_count": 5,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 407,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/726840471713124354/--xPCH8W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/726840471713124354/--xPCH8W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110509537/1462127253",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1003625501821292500,
+			"quoted_status_id_str": "1003625501821292544",
+			"quoted_status": {
+				"created_at": "Mon Jun 04 13:12:20 +0000 2018",
+				"id": 1003625501821292500,
+				"id_str": "1003625501821292544",
+				"text": "https://t.co/cHD2ZcjnMn",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1003467129385975800,
+							"id_str": "1003467129385975810",
+							"indices": [
+								0,
+								23
+							],
+							"media_url": "http://pbs.twimg.com/media/De0NYKBUwAAXLgP.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/De0NYKBUwAAXLgP.jpg",
+							"url": "https://t.co/cHD2ZcjnMn",
+							"display_url": "pic.twitter.com/cHD2ZcjnMn",
+							"expanded_url": "https://twitter.com/suspiriamovie/status/1003625501821292544/video/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 1271,
+									"h": 681,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 364,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 643,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1003467129385975800,
+							"id_str": "1003467129385975810",
+							"indices": [
+								0,
+								23
+							],
+							"media_url": "http://pbs.twimg.com/media/De0NYKBUwAAXLgP.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/De0NYKBUwAAXLgP.jpg",
+							"url": "https://t.co/cHD2ZcjnMn",
+							"display_url": "pic.twitter.com/cHD2ZcjnMn",
+							"expanded_url": "https://twitter.com/suspiriamovie/status/1003625501821292544/video/1",
+							"type": "video",
+							"sizes": {
+								"large": {
+									"w": 1271,
+									"h": 681,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 364,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 643,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									16,
+									9
+								],
+								"duration_millis": 87420,
+								"variants": [
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/1003467129385975810/vid/640x360/djXwHEVf57yQ-iER.mp4?tag=2"
+									},
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/1003467129385975810/vid/1280x720/ZY53PcT7mKKlt_hq.mp4?tag=2"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/amplify_video/1003467129385975810/vid/320x180/mbVecA1OVvIDS58T.mp4?tag=2"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/amplify_video/1003467129385975810/pl/bhEUl9OMDVa_GOUQ.m3u8?tag=2"
+									}
+								]
+							},
+							"additional_media_info": {
+								"title": "Suspiria - Teaser Trailer",
+								"description": "Suspiria, from director Luca Guadagnino. Starring Dakota Johnson, Tilda Swinton, Mia Goth, Lutz Ebersdorf, Jessica Harper and Chloë Grace Moretz. In theaters November 2.",
+								"embeddable": true,
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 791335160222330900,
+					"id_str": "791335160222330880",
+					"name": "Suspiria",
+					"screen_name": "suspiriamovie",
+					"location": "",
+					"description": "#Suspiria, from director Luca Guadagnino. Starring Dakota Johnson, Tilda Swinton, Mia Goth, @JessicaHarper and @ChloeGMoretz. In theaters November 2.",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 9278,
+					"friends_count": 15,
+					"listed_count": 33,
+					"created_at": "Wed Oct 26 17:46:19 +0000 2016",
+					"favourites_count": 490,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 1387,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1003621249447165953/ir9A8zmM_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003621249447165953/ir9A8zmM_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/791335160222330880/1528117212",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 536,
+				"favorite_count": 1712,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"scopes": {
+					"followers": false
+				},
+				"lang": "und"
+			},
+			"retweet_count": 1997,
+			"favorite_count": 7699,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1003625501821292500,
+		"quoted_status_id_str": "1003625501821292544",
+		"retweet_count": 1997,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 04 11:24:15 +0000 2018",
+		"id": 1003598300581322800,
+		"id_str": "1003598300581322755",
+		"text": "@eunjitt0034 고마워고마워💕💕💕💕💕 https://t.co/2uxzEGxywK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eunjitt0034",
+					"name": "🔨으닞🔪",
+					"id": 3320449334,
+					"id_str": "3320449334",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1003598262698369000,
+					"id_str": "1003598262698369024",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/De1_TXlV4AAiVho.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/De1_TXlV4AAiVho.jpg",
+					"url": "https://t.co/2uxzEGxywK",
+					"display_url": "pic.twitter.com/2uxzEGxywK",
+					"expanded_url": "https://twitter.com/sekaist/status/1003598300581322755/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 350,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 350,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 350,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1003598262698369000,
+					"id_str": "1003598262698369024",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/De1_TXlV4AAiVho.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/De1_TXlV4AAiVho.jpg",
+					"url": "https://t.co/2uxzEGxywK",
+					"display_url": "pic.twitter.com/2uxzEGxywK",
+					"expanded_url": "https://twitter.com/sekaist/status/1003598300581322755/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 350,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 350,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 350,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							7,
+							6
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/De1_TXlV4AAiVho.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1003596018657554400,
+		"in_reply_to_status_id_str": "1003596018657554432",
+		"in_reply_to_user_id": 3320449334,
+		"in_reply_to_user_id_str": "3320449334",
+		"in_reply_to_screen_name": "eunjitt0034",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606,
+			"friends_count": 1094,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10514,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jun 04 11:00:19 +0000 2018",
+		"id": 1003592278978412500,
+		"id_str": "1003592278978412544",
+		"text": "@eunjitt0034 맥ㄱ ㅓ피ㄴ 투표하는건데 씨so앱 깔고 가입해서 인디스땅스 ㅆl소 온라인 투표하면돼 ㅋㅋㅋ 하트 하나만 눌러주면돼 ㅠㅠㅠ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eunjitt0034",
+					"name": "🔨으닞🔪",
+					"id": 3320449334,
+					"id_str": "3320449334",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1003591272102223900,
+		"in_reply_to_status_id_str": "1003591272102223872",
+		"in_reply_to_user_id": 3320449334,
+		"in_reply_to_user_id_str": "3320449334",
+		"in_reply_to_screen_name": "eunjitt0034",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606,
+			"friends_count": 1094,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10514,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Jun 03 10:47:28 +0000 2018",
 		"id": 1003226655723216900,
 		"id_str": "1003226655723216896",
