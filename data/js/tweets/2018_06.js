@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 11 03:23:41 +0000 2018",
+		"id": 1006014077171191800,
+		"id_str": "1006014077171191808",
+		"text": "RT @siduspictures: 비틀즈 이후 가장 영향력 있는 아티스트!\n위대한 브리티시 아이콘 #더스미스 아는 사람 손!\n#덩케르크 핵존잘 #잭로던 취향이신 분 손!\n소심 문학청년이 천재 뮤지션이 되기까지\n&lt;잉글랜드 이즈 마인&gt; 티저 포스터 공개…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "더스미스",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "덩케르크",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "잭로던",
+					"indices": [
+						80,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "siduspictures",
+					"name": "싸이더스",
+					"id": 199162694,
+					"id_str": "199162694",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606,
+			"friends_count": 1094,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10532,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 11 01:52:09 +0000 2018",
+			"id": 1005991042401701900,
+			"id_str": "1005991042401701888",
+			"text": "비틀즈 이후 가장 영향력 있는 아티스트!\n위대한 브리티시 아이콘 #더스미스 아는 사람 손!\n#덩케르크 핵존잘 #잭로던 취향이신 분 손!\n소심 문학청년이 천재 뮤지션이 되기까지\n&lt;잉글랜드 이즈 마인&gt; 티저 포… https://t.co/I6EWJU9pYa",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "더스미스",
+						"indices": [
+							36,
+							41
+						]
+					},
+					{
+						"text": "덩케르크",
+						"indices": [
+							51,
+							56
+						]
+					},
+					{
+						"text": "잭로던",
+						"indices": [
+							61,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/I6EWJU9pYa",
+						"expanded_url": "https://twitter.com/i/web/status/1005991042401701888",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							123,
+							146
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 199162694,
+				"id_str": "199162694",
+				"name": "싸이더스",
+				"screen_name": "siduspictures",
+				"location": "Seoul",
+				"description": "싸이더스 공식 트위터 입니다.",
+				"url": "https://t.co/jUwKsuBkPI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jUwKsuBkPI",
+								"expanded_url": "http://www.facebook.com/siduspictures",
+								"display_url": "facebook.com/siduspictures",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3660,
+				"friends_count": 3007,
+				"listed_count": 62,
+				"created_at": "Wed Oct 06 05:03:25 +0000 2010",
+				"favourites_count": 223,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2357,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1005990227859554304/FivDWjEo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005990227859554304/FivDWjEo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/199162694/1528680837",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 88,
+			"favorite_count": 51,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Jun 10 23:27:13 +0000 2018",
 		"id": 1005954566599237600,
 		"id_str": "1005954566599237632",
