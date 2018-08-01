@@ -1,6 +1,704 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Tue Jul 31 05:43:47 +0000 2018",
+		"id": 1024168727158243300,
+		"id_str": "1024168727158243328",
+		"text": "RT @sunkyu6: 진심으로 감사드려요 정말정말😊🙏🏻 https://t.co/SMjAau8Y0V",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sunkyu6",
+					"name": "SNOOQ(맥거핀)",
+					"id": 2199410418,
+					"id_str": "2199410418",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1024166669650804700,
+					"id_str": "1024166669650804736",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DjaSKOdUwAAyldN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjaSKOdUwAAyldN.jpg",
+					"url": "https://t.co/SMjAau8Y0V",
+					"display_url": "pic.twitter.com/SMjAau8Y0V",
+					"expanded_url": "https://twitter.com/sunkyu6/status/1024166681852014592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1316,
+							"h": 1861,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1024166681852014600,
+					"source_status_id_str": "1024166681852014592",
+					"source_user_id": 2199410418,
+					"source_user_id_str": "2199410418"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1024166669650804700,
+					"id_str": "1024166669650804736",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DjaSKOdUwAAyldN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjaSKOdUwAAyldN.jpg",
+					"url": "https://t.co/SMjAau8Y0V",
+					"display_url": "pic.twitter.com/SMjAau8Y0V",
+					"expanded_url": "https://twitter.com/sunkyu6/status/1024166681852014592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1316,
+							"h": 1861,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1024166681852014600,
+					"source_status_id_str": "1024166681852014592",
+					"source_user_id": 2199410418,
+					"source_user_id_str": "2199410418"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 612,
+			"friends_count": 1093,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10728,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 31 05:35:39 +0000 2018",
+			"id": 1024166681852014600,
+			"id_str": "1024166681852014592",
+			"text": "진심으로 감사드려요 정말정말😊🙏🏻 https://t.co/SMjAau8Y0V",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1024166669650804700,
+						"id_str": "1024166669650804736",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/DjaSKOdUwAAyldN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjaSKOdUwAAyldN.jpg",
+						"url": "https://t.co/SMjAau8Y0V",
+						"display_url": "pic.twitter.com/SMjAau8Y0V",
+						"expanded_url": "https://twitter.com/sunkyu6/status/1024166681852014592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1316,
+								"h": 1861,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 849,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1024166669650804700,
+						"id_str": "1024166669650804736",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/DjaSKOdUwAAyldN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjaSKOdUwAAyldN.jpg",
+						"url": "https://t.co/SMjAau8Y0V",
+						"display_url": "pic.twitter.com/SMjAau8Y0V",
+						"expanded_url": "https://twitter.com/sunkyu6/status/1024166681852014592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1316,
+								"h": 1861,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 849,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2199410418,
+				"id_str": "2199410418",
+				"name": "SNOOQ(맥거핀)",
+				"screen_name": "sunkyu6",
+				"location": "Shibuya City 渋谷区",
+				"description": "https://t.co/XyXcuX3Fzd",
+				"url": "https://t.co/a82bggXP2O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/a82bggXP2O",
+								"expanded_url": "http://Instagram.com/mgff_official",
+								"display_url": "Instagram.com/mgff_official",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XyXcuX3Fzd",
+								"expanded_url": "http://Instagram.com/90ssun",
+								"display_url": "Instagram.com/90ssun",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 157,
+				"friends_count": 50,
+				"listed_count": 1,
+				"created_at": "Sun Nov 17 12:05:20 +0000 2013",
+				"favourites_count": 607,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 868,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/979411648229208064/bzQcZLHe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/979411648229208064/bzQcZLHe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2199410418/1522345012",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 23,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 31 04:36:10 +0000 2018",
+		"id": 1024151709587656700,
+		"id_str": "1024151709587656704",
+		"text": "RT @qusgkrma: 모두 정말 감사합니다 https://t.co/ay2hzDGmu4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "qusgkrma",
+					"name": "qusgkrma",
+					"id": 858672530667692000,
+					"id_str": "858672530667692034",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1024150217363345400,
+					"id_str": "1024150217363345408",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DjaDMk6U0AA5osK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjaDMk6U0AA5osK.jpg",
+					"url": "https://t.co/ay2hzDGmu4",
+					"display_url": "pic.twitter.com/ay2hzDGmu4",
+					"expanded_url": "https://twitter.com/qusgkrma/status/1024150226049806336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1316,
+							"h": 1861,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1024150226049806300,
+					"source_status_id_str": "1024150226049806336",
+					"source_user_id": 858672530667692000,
+					"source_user_id_str": "858672530667692034"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1024150217363345400,
+					"id_str": "1024150217363345408",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DjaDMk6U0AA5osK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjaDMk6U0AA5osK.jpg",
+					"url": "https://t.co/ay2hzDGmu4",
+					"display_url": "pic.twitter.com/ay2hzDGmu4",
+					"expanded_url": "https://twitter.com/qusgkrma/status/1024150226049806336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1316,
+							"h": 1861,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1024150226049806300,
+					"source_status_id_str": "1024150226049806336",
+					"source_user_id": 858672530667692000,
+					"source_user_id_str": "858672530667692034"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 612,
+			"friends_count": 1093,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10728,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 31 04:30:16 +0000 2018",
+			"id": 1024150226049806300,
+			"id_str": "1024150226049806336",
+			"text": "모두 정말 감사합니다 https://t.co/ay2hzDGmu4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1024150217363345400,
+						"id_str": "1024150217363345408",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/DjaDMk6U0AA5osK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjaDMk6U0AA5osK.jpg",
+						"url": "https://t.co/ay2hzDGmu4",
+						"display_url": "pic.twitter.com/ay2hzDGmu4",
+						"expanded_url": "https://twitter.com/qusgkrma/status/1024150226049806336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1316,
+								"h": 1861,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 849,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1024150217363345400,
+						"id_str": "1024150217363345408",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/DjaDMk6U0AA5osK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjaDMk6U0AA5osK.jpg",
+						"url": "https://t.co/ay2hzDGmu4",
+						"display_url": "pic.twitter.com/ay2hzDGmu4",
+						"expanded_url": "https://twitter.com/qusgkrma/status/1024150226049806336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1316,
+								"h": 1861,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 849,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 858672530667692000,
+				"id_str": "858672530667692034",
+				"name": "qusgkrma",
+				"screen_name": "qusgkrma",
+				"location": "Seoul",
+				"description": "MGFF 1st EP ‘MUFFY’",
+				"url": "https://t.co/9gP7zYJiLC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9gP7zYJiLC",
+								"expanded_url": "http://bit.ly/2AxkA2k",
+								"display_url": "bit.ly/2AxkA2k",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 123,
+				"friends_count": 58,
+				"listed_count": 1,
+				"created_at": "Sun Apr 30 13:20:59 +0000 2017",
+				"favourites_count": 1724,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2138,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1012369104412422144/-JHsCZpB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012369104412422144/-JHsCZpB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/858672530667692034/1533026767",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 26,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jul 28 14:24:28 +0000 2018",
 		"id": 1023212598303449100,
 		"id_str": "1023212598303449089",
