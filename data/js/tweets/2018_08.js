@@ -1,6 +1,805 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Tue Aug 14 15:53:31 +0000 2018",
+		"id": 1029395603120255000,
+		"id_str": "1029395603120254976",
+		"text": "너때문에 나는 빠이빠이다🤗",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 607,
+			"friends_count": 1091,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Aug 14 02:55:16 +0000 2018",
+		"id": 1029199747247104000,
+		"id_str": "1029199747247104001",
+		"text": "RT @hellopolicy: 오늘, 8월 14일은 국가기념일인 일본군 '위안부' 피해자 기림의날 입니다. \n27년 전 故 김학순 할머니의 용기, 영원히 기억하겠습니다. https://t.co/VC1gY4XqR2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hellopolicy",
+					"name": "대한민국 정부",
+					"id": 134679265,
+					"id_str": "134679265",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1029161873948663800,
+					"id_str": "1029161873948663808",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DkhRRYkV4AAJNXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkhRRYkV4AAJNXI.jpg",
+					"url": "https://t.co/VC1gY4XqR2",
+					"display_url": "pic.twitter.com/VC1gY4XqR2",
+					"expanded_url": "https://twitter.com/hellopolicy/status/1029162042739978240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 709,
+							"h": 1059,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 709,
+							"h": 1059,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029162042739978200,
+					"source_status_id_str": "1029162042739978240",
+					"source_user_id": 134679265,
+					"source_user_id_str": "134679265"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1029161873948663800,
+					"id_str": "1029161873948663808",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DkhRRYkV4AAJNXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkhRRYkV4AAJNXI.jpg",
+					"url": "https://t.co/VC1gY4XqR2",
+					"display_url": "pic.twitter.com/VC1gY4XqR2",
+					"expanded_url": "https://twitter.com/hellopolicy/status/1029162042739978240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 709,
+							"h": 1059,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 709,
+							"h": 1059,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029162042739978200,
+					"source_status_id_str": "1029162042739978240",
+					"source_user_id": 134679265,
+					"source_user_id_str": "134679265"
+				},
+				{
+					"id": 1029161881414426600,
+					"id_str": "1029161881414426626",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DkhRR0YUYAIFCkw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkhRR0YUYAIFCkw.jpg",
+					"url": "https://t.co/VC1gY4XqR2",
+					"display_url": "pic.twitter.com/VC1gY4XqR2",
+					"expanded_url": "https://twitter.com/hellopolicy/status/1029162042739978240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 709,
+							"h": 709,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 709,
+							"h": 709,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029162042739978200,
+					"source_status_id_str": "1029162042739978240",
+					"source_user_id": 134679265,
+					"source_user_id_str": "134679265"
+				},
+				{
+					"id": 1029161908048285700,
+					"id_str": "1029161908048285701",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DkhRTXmU0AUGPZw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkhRTXmU0AUGPZw.jpg",
+					"url": "https://t.co/VC1gY4XqR2",
+					"display_url": "pic.twitter.com/VC1gY4XqR2",
+					"expanded_url": "https://twitter.com/hellopolicy/status/1029162042739978240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 709,
+							"h": 709,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 709,
+							"h": 709,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1029162042739978200,
+					"source_status_id_str": "1029162042739978240",
+					"source_user_id": 134679265,
+					"source_user_id_str": "134679265"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 607,
+			"friends_count": 1091,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 14 00:25:26 +0000 2018",
+			"id": 1029162042739978200,
+			"id_str": "1029162042739978240",
+			"text": "오늘, 8월 14일은 국가기념일인 일본군 '위안부' 피해자 기림의날 입니다. \n27년 전 故 김학순 할머니의 용기, 영원히 기억하겠습니다. https://t.co/VC1gY4XqR2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1029161873948663800,
+						"id_str": "1029161873948663808",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DkhRRYkV4AAJNXI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkhRRYkV4AAJNXI.jpg",
+						"url": "https://t.co/VC1gY4XqR2",
+						"display_url": "pic.twitter.com/VC1gY4XqR2",
+						"expanded_url": "https://twitter.com/hellopolicy/status/1029162042739978240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 709,
+								"h": 1059,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 709,
+								"h": 1059,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 455,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1029161873948663800,
+						"id_str": "1029161873948663808",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DkhRRYkV4AAJNXI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkhRRYkV4AAJNXI.jpg",
+						"url": "https://t.co/VC1gY4XqR2",
+						"display_url": "pic.twitter.com/VC1gY4XqR2",
+						"expanded_url": "https://twitter.com/hellopolicy/status/1029162042739978240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 709,
+								"h": 1059,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 709,
+								"h": 1059,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 455,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1029161881414426600,
+						"id_str": "1029161881414426626",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DkhRR0YUYAIFCkw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkhRR0YUYAIFCkw.jpg",
+						"url": "https://t.co/VC1gY4XqR2",
+						"display_url": "pic.twitter.com/VC1gY4XqR2",
+						"expanded_url": "https://twitter.com/hellopolicy/status/1029162042739978240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 709,
+								"h": 709,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 709,
+								"h": 709,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1029161908048285700,
+						"id_str": "1029161908048285701",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/DkhRTXmU0AUGPZw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkhRTXmU0AUGPZw.jpg",
+						"url": "https://t.co/VC1gY4XqR2",
+						"display_url": "pic.twitter.com/VC1gY4XqR2",
+						"expanded_url": "https://twitter.com/hellopolicy/status/1029162042739978240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 709,
+								"h": 709,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 709,
+								"h": 709,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 134679265,
+				"id_str": "134679265",
+				"name": "대한민국 정부",
+				"screen_name": "hellopolicy",
+				"location": "대한민국",
+				"description": "유용한 정책을 알려드리는 대한민국 정부 대표 트위터입니다.\n\n▶대한민국 정부 페이스북\nhttps://t.co/JqTQiNMO6Q\n\n▶정책공감 블로그 \nhttps://t.co/DxEWX9SDeP",
+				"url": "http://t.co/LZA3QF0ZP5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LZA3QF0ZP5",
+								"expanded_url": "http://blog.naver.com/hellopolicy",
+								"display_url": "blog.naver.com/hellopolicy",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JqTQiNMO6Q",
+								"expanded_url": "https://www.facebook.com/hipolicy/",
+								"display_url": "facebook.com/hipolicy/",
+								"indices": [
+									48,
+									71
+								]
+							},
+							{
+								"url": "https://t.co/DxEWX9SDeP",
+								"expanded_url": "http://blog.naver.com/hellopolicy",
+								"display_url": "blog.naver.com/hellopolicy",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 174090,
+				"friends_count": 39941,
+				"listed_count": 739,
+				"created_at": "Mon Apr 19 04:15:26 +0000 2010",
+				"favourites_count": 362,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18577,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1014066231014404096/kFQsiZIP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014066231014404096/kFQsiZIP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/134679265/1530607065",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7164,
+			"favorite_count": 2289,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7164,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Aug 14 02:45:03 +0000 2018",
+		"id": 1029197179032752100,
+		"id_str": "1029197179032752128",
+		"text": "RT @bigstarsam: ★ 오늘은 일본군 '위안부' 피해자 기림의 날이죠. 8월 14일은 故 김학순 할머니가 처음으로 일본군 '위안부' 피해 사실을 증언한 날로 일본군 '위안부' 피해자를 기리기 위해 국가 기념일로 지정되죠. 오늘 여가부와 함께…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bigstarsam",
+					"name": "최태성",
+					"id": 158206010,
+					"id_str": "158206010",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 607,
+			"friends_count": 1091,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 13 23:44:09 +0000 2018",
+			"id": 1029151651951595500,
+			"id_str": "1029151651951595520",
+			"text": "★ 오늘은 일본군 '위안부' 피해자 기림의 날이죠. 8월 14일은 故 김학순 할머니가 처음으로 일본군 '위안부' 피해 사실을 증언한 날로 일본군 '위안부' 피해자를 기리기 위해 국가 기념일로 지정되죠. 오늘… https://t.co/rGE8qw6dWj",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rGE8qw6dWj",
+						"expanded_url": "https://twitter.com/i/web/status/1029151651951595520",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 158206010,
+				"id_str": "158206010",
+				"name": "최태성",
+				"screen_name": "bigstarsam",
+				"location": "korea",
+				"description": "EBS에서 500만명 이상의 수강생을 만난 쌤 / 중고등학교 한국사 교과서 저자 / 교육과학기술부 장관상 표창 / 저서: 큰별쌤 최태성의 별★별한국사 한국사능력검정시험 고급(https://t.co/C5ObF1iNGi), 한국사 수업(https://t.co/80ATFb0BPq) 외 다수.",
+				"url": "https://t.co/Ws4TnCz5V3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ws4TnCz5V3",
+								"expanded_url": "http://www.etoos.com/bigstar/main.asp",
+								"display_url": "etoos.com/bigstar/main.a…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/C5ObF1iNGi",
+								"expanded_url": "https://bit.ly/2qGX2EO",
+								"display_url": "bit.ly/2qGX2EO",
+								"indices": [
+									97,
+									120
+								]
+							},
+							{
+								"url": "https://t.co/80ATFb0BPq",
+								"expanded_url": "https://bit.ly/2voCCoV",
+								"display_url": "bit.ly/2voCCoV",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 27490,
+				"friends_count": 1345,
+				"listed_count": 82,
+				"created_at": "Tue Jun 22 02:07:32 +0000 2010",
+				"favourites_count": 323,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2042,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/646515769497399297/IoUqRx-e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/646515769497399297/IoUqRx-e_normal.jpg",
+				"profile_link_color": "B80000",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 377,
+			"favorite_count": 145,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 377,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Aug 13 14:50:47 +0000 2018",
 		"id": 1029017428968104000,
 		"id_str": "1029017428968103936",
