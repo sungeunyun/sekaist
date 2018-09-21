@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Thu Sep 20 04:37:02 +0000 2018",
+		"id": 1042633712024793100,
+		"id_str": "1042633712024793089",
+		"text": "RT @TheBlueHouseKR: 문재인 대통령과 김정은 위원장이 백두산 정상 장군봉에 올랐습니다. \n손을 맞잡고 들어 올린 두 정상! 남과 북이 함께 걸어갈 평화의 길을 기대해봅니다. https://t.co/crw1Qks7z1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheBlueHouseKR",
+					"name": "대한민국 청와대",
+					"id": 867990237804249100,
+					"id_str": "867990237804249099",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1042632782730518500,
+					"id_str": "1042632782730518530",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/Dngs_eXUYAIhv4e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dngs_eXUYAIhv4e.jpg",
+					"url": "https://t.co/crw1Qks7z1",
+					"display_url": "pic.twitter.com/crw1Qks7z1",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1042632860987867137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 606,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 606,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1042632860987867100,
+					"source_status_id_str": "1042632860987867137",
+					"source_user_id": 867990237804249100,
+					"source_user_id_str": "867990237804249099"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1042632782730518500,
+					"id_str": "1042632782730518530",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/Dngs_eXUYAIhv4e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dngs_eXUYAIhv4e.jpg",
+					"url": "https://t.co/crw1Qks7z1",
+					"display_url": "pic.twitter.com/crw1Qks7z1",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1042632860987867137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 412,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 606,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 606,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1042632860987867100,
+					"source_status_id_str": "1042632860987867137",
+					"source_user_id": 867990237804249100,
+					"source_user_id_str": "867990237804249099"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613,
+			"friends_count": 1092,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10881,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 20 04:33:39 +0000 2018",
+			"id": 1042632860987867100,
+			"id_str": "1042632860987867137",
+			"text": "문재인 대통령과 김정은 위원장이 백두산 정상 장군봉에 올랐습니다. \n손을 맞잡고 들어 올린 두 정상! 남과 북이 함께 걸어갈 평화의 길을 기대해봅니다. https://t.co/crw1Qks7z1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1042632782730518500,
+						"id_str": "1042632782730518530",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/Dngs_eXUYAIhv4e.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dngs_eXUYAIhv4e.jpg",
+						"url": "https://t.co/crw1Qks7z1",
+						"display_url": "pic.twitter.com/crw1Qks7z1",
+						"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1042632860987867137/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 412,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 606,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 606,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1042632782730518500,
+						"id_str": "1042632782730518530",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/Dngs_eXUYAIhv4e.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dngs_eXUYAIhv4e.jpg",
+						"url": "https://t.co/crw1Qks7z1",
+						"display_url": "pic.twitter.com/crw1Qks7z1",
+						"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1042632860987867137/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 412,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 606,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 606,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 867990237804249100,
+				"id_str": "867990237804249099",
+				"name": "대한민국 청와대",
+				"screen_name": "TheBlueHouseKR",
+				"location": "대한민국",
+				"description": "대한민국 청와대의 공식 트위터입니다. Office of the President, the Republic of Korea 국민의 나라, 정의로운 대한민국을 함께 만들겠습니다. #청와대 #친절한_청와대 #소통 @moonriver365 @TheBlueHouseENG",
+				"url": "https://t.co/9OTbCZBZGD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9OTbCZBZGD",
+								"expanded_url": "http://www.president.go.kr/",
+								"display_url": "president.go.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 387104,
+				"friends_count": 33967,
+				"listed_count": 595,
+				"created_at": "Fri May 26 06:26:13 +0000 2017",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3199,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/867990237804249099/1527811453",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4768,
+			"favorite_count": 4740,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4768,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Sep 20 04:30:07 +0000 2018",
+		"id": 1042631970172235800,
+		"id_str": "1042631970172235776",
+		"text": "Maria Mena - Leaving You https://t.co/wKi9AujtDt - @YouTube",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wKi9AujtDt",
+					"expanded_url": "https://youtu.be/94TkNyCvlPo",
+					"display_url": "youtu.be/94TkNyCvlPo",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613,
+			"friends_count": 1092,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10881,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 19 16:47:07 +0000 2018",
 		"id": 1042455053712285700,
 		"id_str": "1042455053712285696",
