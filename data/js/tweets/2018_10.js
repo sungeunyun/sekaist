@@ -1,6 +1,1079 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 21 00:10:57 +0000 2018",
+		"id": 1053800771743998000,
+		"id_str": "1053800771743997952",
+		"full_text": "어제 놀다가 늦게 들어가서 결국 영상 하나도 못올리고 나왔네 노래 제목 찾다가 시간 다 감",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613,
+			"friends_count": 1090,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10997,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어제 놀다가 늦게 들어가서 결국 영상 하나도 못올리고 나왔네 노래 제목 찾다가 시간 다 감"
+	},
+	{
+		"created_at": "Sat Oct 20 18:40:49 +0000 2018",
+		"id": 1053717693071712300,
+		"id_str": "1053717693071712256",
+		"full_text": "공중그늘 헬로루키 본선 진출 추카요 우승하세요 제발",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613,
+			"friends_count": 1090,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10997,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "공중그늘 헬로루키 본선 진출 추카요 우승하세요 제발"
+	},
+	{
+		"created_at": "Sat Oct 20 07:37:34 +0000 2018",
+		"id": 1053550777409560600,
+		"id_str": "1053550777409560576",
+		"full_text": "오늘의 스타 임병욱이네",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613,
+			"friends_count": 1090,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10997,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오늘의 스타 임병욱이네"
+	},
+	{
+		"created_at": "Sat Oct 20 06:59:38 +0000 2018",
+		"id": 1053541232750653400,
+		"id_str": "1053541232750653441",
+		"full_text": "그림 잘 그리시네 https://t.co/00UbTCyfpM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/00UbTCyfpM",
+					"expanded_url": "https://youtu.be/1Fqmzw_Tjn4",
+					"display_url": "youtu.be/1Fqmzw_Tjn4",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613,
+			"friends_count": 1090,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10997,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그림 잘 그리시네 https://t.co/00UbTCyfpM"
+	},
+	{
+		"created_at": "Sat Oct 20 06:12:03 +0000 2018",
+		"id": 1053529260470632400,
+		"id_str": "1053529260470632449",
+		"full_text": "이따가 6시 더블에이 스튜디오 클럽룸\n1시간 반 셋리는 처음이라 긴장되네요.. https://t.co/6Dk8jsYbPA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053529247069823000,
+					"id_str": "1053529247069822977",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp7jRLQU4AEv7Oi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp7jRLQU4AEv7Oi.jpg",
+					"url": "https://t.co/6Dk8jsYbPA",
+					"display_url": "pic.twitter.com/6Dk8jsYbPA",
+					"expanded_url": "https://twitter.com/RAKENBEAR/status/1053529260470632449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053529247069823000,
+					"id_str": "1053529247069822977",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp7jRLQU4AEv7Oi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp7jRLQU4AEv7Oi.jpg",
+					"url": "https://t.co/6Dk8jsYbPA",
+					"display_url": "pic.twitter.com/6Dk8jsYbPA",
+					"expanded_url": "https://twitter.com/RAKENBEAR/status/1053529260470632449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 430329361,
+			"id_str": "430329361",
+			"name": "RAKENBEAR",
+			"screen_name": "RAKENBEAR",
+			"location": "대한민국 서울",
+			"description": "2piece Grunge rock band RAKENBEAR\n2인조 그런지 밴드 RAKENBEAR [라켄베어]\n2人のロックデュオ RAKENBEAR\nFrom Korea",
+			"url": "https://t.co/s7e3oszYRg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s7e3oszYRg",
+							"expanded_url": "http://facebook.com/rakenbear",
+							"display_url": "facebook.com/rakenbear",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40,
+			"friends_count": 42,
+			"listed_count": 0,
+			"created_at": "Wed Dec 07 01:31:22 +0000 2011",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950830587098447873/iy7i2vFS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950830587098447873/iy7i2vFS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/430329361/1516005553",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이따가 6시 더블에이 스튜디오 클럽룸\n1시간 반 셋리는 처음이라 긴장되네요.. https://t.co/6Dk8jsYbPA"
+	},
+	{
+		"created_at": "Sat Oct 20 06:04:57 +0000 2018",
+		"id": 1053527470123536400,
+		"id_str": "1053527470123536385",
+		"full_text": "@soarDam 노래 부르는 목소리도 좋은데 뒤따르는 멘트할때도 좋아서 ㅎㅎ 두번째 봤더니 더 좋네요",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soarDam",
+					"name": "DamE",
+					"id": 819459718154362900,
+					"id_str": "819459718154362880",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1053527124563247100,
+		"in_reply_to_status_id_str": "1053527124563247110",
+		"in_reply_to_user_id": 819459718154362900,
+		"in_reply_to_user_id_str": "819459718154362880",
+		"in_reply_to_screen_name": "soarDam",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613,
+			"friends_count": 1090,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10997,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@soarDam 노래 부르는 목소리도 좋은데 뒤따르는 멘트할때도 좋아서 ㅎㅎ 두번째 봤더니 더 좋네요"
+	},
+	{
+		"created_at": "Sat Oct 20 05:50:48 +0000 2018",
+		"id": 1053523912342958100,
+		"id_str": "1053523912342958080",
+		"full_text": "이재이 보컬 멘트 넘나 우아하다. 그래서 좋음. 예전 베이스님은 어디가셨을까",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613,
+			"friends_count": 1090,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10997,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이재이 보컬 멘트 넘나 우아하다. 그래서 좋음. 예전 베이스님은 어디가셨을까"
+	},
+	{
+		"created_at": "Sat Oct 20 04:41:51 +0000 2018",
+		"id": 1053506556929556500,
+		"id_str": "1053506556929556480",
+		"full_text": "나도 이 책 적오빠 때문에 알림와서 살뻔했음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613,
+			"friends_count": 1090,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10997,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "나도 이 책 적오빠 때문에 알림와서 살뻔했음"
+	},
+	{
+		"created_at": "Sat Oct 20 04:11:57 +0000 2018",
+		"id": 1053499036324380700,
+		"id_str": "1053499036324380672",
+		"full_text": "저도 모르는 사이에 제 가사들이 판매용 서적의 원고가 되었네요. 책에 가사가 소개된 다른 뮤지션분께 여쭤보았더니 역시 몰랐던 일이라고 하시는데... ‘작사가의 말’ 이란 무슨 얘기일지 알 수 없네요. 혹시라도 제가 직접 원고를 작성했다고 생각하고 구매하시는 팬 분들이 계실까봐 트윗 남깁니다 https://t.co/C9bjMU3SMu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053499030230036500,
+					"id_str": "1053499030230036480",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp7HyUwUcAAfu9P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp7HyUwUcAAfu9P.jpg",
+					"url": "https://t.co/C9bjMU3SMu",
+					"display_url": "pic.twitter.com/C9bjMU3SMu",
+					"expanded_url": "https://twitter.com/love_yuna/status/1053499036324380672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 570,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053499030230036500,
+					"id_str": "1053499030230036480",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp7HyUwUcAAfu9P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp7HyUwUcAAfu9P.jpg",
+					"url": "https://t.co/C9bjMU3SMu",
+					"display_url": "pic.twitter.com/C9bjMU3SMu",
+					"expanded_url": "https://twitter.com/love_yuna/status/1053499036324380672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 570,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1053499030230118400,
+					"id_str": "1053499030230118400",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp7HyUwVsAAXqIC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp7HyUwVsAAXqIC.jpg",
+					"url": "https://t.co/C9bjMU3SMu",
+					"display_url": "pic.twitter.com/C9bjMU3SMu",
+					"expanded_url": "https://twitter.com/love_yuna/status/1053499036324380672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 218,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120741919,
+			"id_str": "120741919",
+			"name": "김윤아",
+			"screen_name": "love_yuna",
+			"location": "",
+			"description": "singer-songwriter / lead singer for Jaurim 紫雨林",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 328336,
+			"friends_count": 436,
+			"listed_count": 3210,
+			"created_at": "Sun Mar 07 11:53:42 +0000 2010",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5846,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007462062690144256/sZt3QNFx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007462062690144256/sZt3QNFx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120741919/1529032649",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10965,
+		"favorite_count": 1161,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저도 모르는 사이에 제 가사들이 판매용 서적의 원고가 되었네요. 책에 가사가 소개된 다른 뮤지션분께 여쭤보았더니 역시 몰랐던 일이라고 하시는데... ‘작사가의 말’ 이란 무슨 얘기일지 알 수 없네요. 혹시라도 제가 직접 원고를 작성했다고 생각하고 구매하시는 팬 분들이 계실까봐 트윗 남깁니다 https://t.co/C9bjMU3SMu"
+	},
+	{
+		"created_at": "Sat Oct 20 04:29:50 +0000 2018",
+		"id": 1053503535374000100,
+		"id_str": "1053503535374000128",
+		"full_text": "@hoffen_kanarazu 라앤타 지혜 때문에 잊고 있던 노래가 생각났는데 마침 유튜브 인기영상에 떠서 ㅎㅎ 배다리도 넘 좋고",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hoffen_kanarazu",
+					"name": "Alice",
+					"id": 191501633,
+					"id_str": "191501633",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1053443403495534600,
+		"in_reply_to_status_id_str": "1053443403495534594",
+		"in_reply_to_user_id": 191501633,
+		"in_reply_to_user_id_str": "191501633",
+		"in_reply_to_screen_name": "hoffen_kanarazu",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613,
+			"friends_count": 1090,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10997,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@hoffen_kanarazu 라앤타 지혜 때문에 잊고 있던 노래가 생각났는데 마침 유튜브 인기영상에 떠서 ㅎㅎ 배다리도 넘 좋고"
+	},
+	{
 		"created_at": "Fri Oct 19 18:38:09 +0000 2018",
 		"id": 1053354634138443800,
 		"id_str": "1053354634138443776",
@@ -513,7 +1586,7 @@ Grailbird.data.tweets_2018_10 =
 		"created_at": "Fri Oct 19 17:22:07 +0000 2018",
 		"id": 1053335496561029100,
 		"id_str": "1053335496561029120",
-		"full_text": "오늘이랑 내일 내 동생이랑 내가 좋아하는 친구랑 좋은 결과 있었으면 좋겠다 진심으로 간절히 바랍니다🧞‍♂️",
+		"full_text": "오늘이랑 내일 내 동생이랑 내가 좋아하는 친구랑 좋은 결과 있었으면 좋겠다 진심으로 간절히 바랍니다🧞♂️",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -589,7 +1662,7 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "ko",
-		"text": "오늘이랑 내일 내 동생이랑 내가 좋아하는 친구랑 좋은 결과 있었으면 좋겠다 진심으로 간절히 바랍니다🧞‍♂️"
+		"text": "오늘이랑 내일 내 동생이랑 내가 좋아하는 친구랑 좋은 결과 있었으면 좋겠다 진심으로 간절히 바랍니다🧞♂️"
 	},
 	{
 		"created_at": "Fri Oct 19 15:38:47 +0000 2018",
@@ -1002,7 +2075,7 @@ Grailbird.data.tweets_2018_10 =
 		"created_at": "Fri Oct 19 06:41:01 +0000 2018",
 		"id": 1053174158496940000,
 		"id_str": "1053174158496940033",
-		"full_text": "양상치가 돌아왔다니🤦🏻‍♀️🙅🏻‍♀️",
+		"full_text": "양상치가 돌아왔다니🤦🏻♀️🙅🏻♀️",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1078,7 +2151,7 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "ko",
-		"text": "양상치가 돌아왔다니🤦🏻‍♀️🙅🏻‍♀️"
+		"text": "양상치가 돌아왔다니🤦🏻♀️🙅🏻♀️"
 	},
 	{
 		"created_at": "Thu Oct 18 15:19:33 +0000 2018",
