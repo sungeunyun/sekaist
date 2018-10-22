@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 21 03:37:13 +0000 2018",
+		"id": 1053852681561813000,
+		"id_str": "1053852681561812994",
+		"full_text": "@veryveryjin @k_jwnee 아니어요 어제 넘나 재밌어서 시간가는줄 몰랐음 그냥 당일에 본거 못올려서 답답한 성격에 냐옹 https://t.co/tTS4dRrYkj",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "veryveryjin",
+					"name": "탄롱",
+					"id": 151817168,
+					"id_str": "151817168",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "k_jwnee",
+					"name": "잰",
+					"id": 3030264154,
+					"id_str": "3030264154",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053852668613947400,
+					"id_str": "1053852668613947392",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DqAJayZU8AAEGP9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqAJayZU8AAEGP9.jpg",
+					"url": "https://t.co/tTS4dRrYkj",
+					"display_url": "pic.twitter.com/tTS4dRrYkj",
+					"expanded_url": "https://twitter.com/sekaist/status/1053852681561812994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2046,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053852668613947400,
+					"id_str": "1053852668613947392",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DqAJayZU8AAEGP9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqAJayZU8AAEGP9.jpg",
+					"url": "https://t.co/tTS4dRrYkj",
+					"display_url": "pic.twitter.com/tTS4dRrYkj",
+					"expanded_url": "https://twitter.com/sekaist/status/1053852681561812994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2046,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1053833714617200600,
+		"in_reply_to_status_id_str": "1053833714617200640",
+		"in_reply_to_user_id": 151817168,
+		"in_reply_to_user_id_str": "151817168",
+		"in_reply_to_screen_name": "veryveryjin",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 614,
+			"friends_count": 1091,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10998,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@veryveryjin @k_jwnee 아니어요 어제 넘나 재밌어서 시간가는줄 몰랐음 그냥 당일에 본거 못올려서 답답한 성격에 냐옹 https://t.co/tTS4dRrYkj"
+	},
+	{
 		"created_at": "Sun Oct 21 00:10:57 +0000 2018",
 		"id": 1053800771743998000,
 		"id_str": "1053800771743997952",
