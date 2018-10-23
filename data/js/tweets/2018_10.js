@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 22 06:27:18 +0000 2018",
+		"id": 1054257869971849200,
+		"id_str": "1054257869971849217",
+		"full_text": "친환경 M/V도 함께 공개되었습니다. 음원보다 멍 때리는 기분이 배가 되므로 집중력을 요하는 일을 하실 땐 가급적 피해주세요. 풀버젼은 링크 참조.\n\nhttps://t.co/gGZ9fwIYCH\n\n#노티스노트 #dancingtree https://t.co/gGZ9fwIYCH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "노티스노트",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "dancingtree",
+					"indices": [
+						116,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gGZ9fwIYCH",
+					"expanded_url": "https://youtu.be/mfMBLpYC6Lc",
+					"display_url": "youtu.be/mfMBLpYC6Lc",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/gGZ9fwIYCH",
+					"expanded_url": "https://youtu.be/mfMBLpYC6Lc",
+					"display_url": "youtu.be/mfMBLpYC6Lc",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 235076763,
+			"id_str": "235076763",
+			"name": "황득경",
+			"screen_name": "room1604",
+			"location": "",
+			"description": "주로 치고, 보통 쓰다가 덤으로 부르기도 함. \nhttp://t.co/lbKi1lMeXf\nhttp://t.co/1Q95Tk0NWt",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/lbKi1lMeXf",
+							"expanded_url": "http://www.facebook.com/noticenote",
+							"display_url": "facebook.com/noticenote",
+							"indices": [
+								27,
+								49
+							]
+						},
+						{
+							"url": "http://t.co/1Q95Tk0NWt",
+							"expanded_url": "http://www.facebook.com/kumapark80",
+							"display_url": "facebook.com/kumapark80",
+							"indices": [
+								50,
+								72
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 25,
+			"listed_count": 1,
+			"created_at": "Fri Jan 07 08:38:53 +0000 2011",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 130,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/469427982474293248/D2GqCvYk_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/469427982474293248/D2GqCvYk_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/235076763/1400755326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "친환경 M/V도 함께 공개되었습니다. 음원보다 멍 때리는 기분이 배가 되므로 집중력을 요하는 일을 하실 땐 가급적 피해주세요. 풀버젼은 링크 참조.\n\nhttps://t.co/gGZ9fwIYCH\n\n#노티스노트 #dancingtree https://t.co/gGZ9fwIYCH"
+	},
+	{
+		"created_at": "Mon Oct 22 05:31:25 +0000 2018",
+		"id": 1054243806705414100,
+		"id_str": "1054243806705414144",
+		"full_text": "오늘 저녁 7시 맥거핀 EP 발매 후 첫 단독 콘서트 &lt;NEMO&gt; 의 티켓이 오픈됩니다.\n원하는 자리 겟하시길 바랄게요!\n\n ▶️ 티켓 오픈: 10/22(월) PM7\nhttps://t.co/0TVBGHOCLB\n\n• 공연일시: 11월 10일 (토) PM 7:00\n• 장소: 합정 드림홀 (마포구 양화로 64) https://t.co/z0bXXhtfEO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0TVBGHOCLB",
+					"expanded_url": "https://m.ticket.melon.com/public/index.html#performance.index?prodId=202477",
+					"display_url": "m.ticket.melon.com/public/index.h…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1054243800648826900,
+					"id_str": "1054243800648826880",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/DqFtJqxUwAAMxiD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqFtJqxUwAAMxiD.jpg",
+					"url": "https://t.co/z0bXXhtfEO",
+					"display_url": "pic.twitter.com/z0bXXhtfEO",
+					"expanded_url": "https://twitter.com/BandMacguffin/status/1054243806705414144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054243800648826900,
+					"id_str": "1054243800648826880",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/DqFtJqxUwAAMxiD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqFtJqxUwAAMxiD.jpg",
+					"url": "https://t.co/z0bXXhtfEO",
+					"display_url": "pic.twitter.com/z0bXXhtfEO",
+					"expanded_url": "https://twitter.com/BandMacguffin/status/1054243806705414144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 678,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 911595592974868500,
+			"id_str": "911595592974868482",
+			"name": "밴드맥거핀봇",
+			"screen_name": "BandMacguffin",
+			"location": "",
+			"description": "밴드 맥거핀(Macguffin) 팬계정입니다.",
+			"url": "https://t.co/a82bggXP2O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a82bggXP2O",
+							"expanded_url": "http://Instagram.com/mgff_official",
+							"display_url": "Instagram.com/mgff_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 144,
+			"friends_count": 133,
+			"listed_count": 1,
+			"created_at": "Sat Sep 23 14:18:20 +0000 2017",
+			"favourites_count": 108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 453,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912146229219360769/QSxZQK5v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912146229219360769/QSxZQK5v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/911595592974868482/1527592886",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 저녁 7시 맥거핀 EP 발매 후 첫 단독 콘서트 &lt;NEMO&gt; 의 티켓이 오픈됩니다.\n원하는 자리 겟하시길 바랄게요!\n\n ▶️ 티켓 오픈: 10/22(월) PM7\nhttps://t.co/0TVBGHOCLB\n\n• 공연일시: 11월 10일 (토) PM 7:00\n• 장소: 합정 드림홀 (마포구 양화로 64) https://t.co/z0bXXhtfEO"
+	},
+	{
 		"created_at": "Sun Oct 21 03:37:13 +0000 2018",
 		"id": 1053852681561813000,
 		"id_str": "1053852681561812994",
