@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Tue Oct 30 13:39:39 +0000 2018",
+		"id": 1057265780931256300,
+		"id_str": "1057265780931256320",
+		"full_text": "아니 이런거 나오면 좀 알려줘야지 음원 나온지 8일됐는데 ㅋㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 616,
+			"friends_count": 1091,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1535,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11042,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아니 이런거 나오면 좀 알려줘야지 음원 나온지 8일됐는데 ㅋㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Tue Oct 30 13:35:18 +0000 2018",
+		"id": 1057264683948724200,
+		"id_str": "1057264683948724225",
+		"full_text": "에세이집 &lt;모든 순간이 너였다&gt;의 하태완 작가가 직접 가사를 쓴 음원에 맥거핀 하은님이 보컬로 참여한 &lt;모든 순간이 너였다&gt; 라는 곡을 벅스뮤직에서 들으실 수 있다고 합니다. 깜짝 선물같은 음악이네요!\n관련기사 : https://t.co/9Zzl4zhYJo\n음원 : https://t.co/GajLGKot1I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9Zzl4zhYJo",
+					"expanded_url": "http://news.kmib.co.kr/article/view.asp?arcid=0012788884&code=61171111&cp=nv",
+					"display_url": "news.kmib.co.kr/article/view.a…",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/GajLGKot1I",
+					"expanded_url": "https://music.bugs.co.kr/album/805573?wl_ref=list_tr_07_search",
+					"display_url": "music.bugs.co.kr/album/805573?w…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 911595592974868500,
+			"id_str": "911595592974868482",
+			"name": "밴드맥거핀봇",
+			"screen_name": "BandMacguffin",
+			"location": "",
+			"description": "밴드 맥거핀(Macguffin) 팬계정입니다.",
+			"url": "https://t.co/a82bggXP2O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a82bggXP2O",
+							"expanded_url": "http://Instagram.com/mgff_official",
+							"display_url": "Instagram.com/mgff_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149,
+			"friends_count": 139,
+			"listed_count": 1,
+			"created_at": "Sat Sep 23 14:18:20 +0000 2017",
+			"favourites_count": 108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 468,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912146229219360769/QSxZQK5v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912146229219360769/QSxZQK5v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/911595592974868482/1527592886",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에세이집 &lt;모든 순간이 너였다&gt;의 하태완 작가가 직접 가사를 쓴 음원에 맥거핀 하은님이 보컬로 참여한 &lt;모든 순간이 너였다&gt; 라는 곡을 벅스뮤직에서 들으실 수 있다고 합니다. 깜짝 선물같은 음악이네요!\n관련기사 : https://t.co/9Zzl4zhYJo\n음원 : https://t.co/GajLGKot1I"
+	},
+	{
+		"created_at": "Tue Oct 30 11:01:39 +0000 2018",
+		"id": 1057226017935319000,
+		"id_str": "1057226017935319040",
+		"full_text": "어떻게 알려야 하나. 미리 알리는 게 좋은 일일까. 여러 고민이 있었습니다만.. 이 공간에 시간과 추억과 마음을 담아두셨던 분들께는 미리 소식을 전해야 할 것 같아서 이렇게 짧은 글을 남깁니다. https://t.co/Aup2YbwzHX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1057225993138499600,
+					"id_str": "1057225993138499584",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DqwFcHhUcAA1v48.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqwFcHhUcAA1v48.jpg",
+					"url": "https://t.co/Aup2YbwzHX",
+					"display_url": "pic.twitter.com/Aup2YbwzHX",
+					"expanded_url": "https://twitter.com/ruloorala/status/1057226017935319040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 634,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1118,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1057225993138499600,
+					"id_str": "1057225993138499584",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DqwFcHhUcAA1v48.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqwFcHhUcAA1v48.jpg",
+					"url": "https://t.co/Aup2YbwzHX",
+					"display_url": "pic.twitter.com/Aup2YbwzHX",
+					"expanded_url": "https://twitter.com/ruloorala/status/1057226017935319040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 634,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1118,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118141218,
+			"id_str": "118141218",
+			"name": "한잔의 룰루랄라",
+			"screen_name": "ruloorala",
+			"location": "홍대역 8번 출구 롯데시네마 옆",
+			"description": "카페, 맥주집, 만화방, 작업실, 가끔 공연장. 요샌 어쩐지 카레집. #GIRLS_CAN_DO_ANYTHING",
+			"url": "https://t.co/3xhljh8lKf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3xhljh8lKf",
+							"expanded_url": "https://www.facebook.com/caferuloorala",
+							"display_url": "facebook.com/caferuloorala",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11018,
+			"friends_count": 5216,
+			"listed_count": 267,
+			"created_at": "Sat Feb 27 18:44:30 +0000 2010",
+			"favourites_count": 1442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 63370,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/954230576050946048/26ROl-mw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/954230576050946048/26ROl-mw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118141218/1521126169",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 865,
+		"favorite_count": 321,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어떻게 알려야 하나. 미리 알리는 게 좋은 일일까. 여러 고민이 있었습니다만.. 이 공간에 시간과 추억과 마음을 담아두셨던 분들께는 미리 소식을 전해야 할 것 같아서 이렇게 짧은 글을 남깁니다. https://t.co/Aup2YbwzHX"
+	},
+	{
 		"created_at": "Mon Oct 29 18:44:36 +0000 2018",
 		"id": 1056980136065622000,
 		"id_str": "1056980136065622016",
