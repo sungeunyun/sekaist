@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 04 07:17:27 +0000 2018",
+		"id": 1058981533996871700,
+		"id_str": "1058981533996871681",
+		"full_text": "대한민국의 4계절은\n\n롯데\n삼성\n정권\nLG\n\n로 이루어져 있다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948748274135064600,
+			"id_str": "948748274135064576",
+			"name": "설향[雪香]",
+			"screen_name": "3runjack_",
+			"location": "대한민국 남양주시",
+			"description": "MLB(#Mets, #BlueJays), Lovelive Series(μ’s, Aqours, PDP), Im@sCG(美優, 奏)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 178,
+			"friends_count": 320,
+			"listed_count": 6,
+			"created_at": "Thu Jan 04 02:49:50 +0000 2018",
+			"favourites_count": 681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2427,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057621821078425602/DGxyRXKD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057621821078425602/DGxyRXKD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/948748274135064576/1541247127",
+			"profile_link_color": "560018",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 155,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "대한민국의 4계절은\n\n롯데\n삼성\n정권\nLG\n\n로 이루어져 있다"
+	},
+	{
+		"created_at": "Sun Nov 04 06:30:32 +0000 2018",
+		"id": 1058969729858121700,
+		"id_str": "1058969729858121728",
+		"full_text": "쿨하게 덕질하는 방법 : 덜 좋아하면 됨",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 616,
+			"friends_count": 1093,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11064,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "쿨하게 덕질하는 방법 : 덜 좋아하면 됨"
+	},
+	{
+		"created_at": "Sun Nov 04 05:39:30 +0000 2018",
+		"id": 1058956884386828300,
+		"id_str": "1058956884386828289",
+		"full_text": "직접 만든 시디, 티셔츠 직접 유통 합니다. \n주문 작성 시트를 작성하시고 입금하시면 배송합니다.\nhttps://t.co/wkmkjVNMdf\n\n영상 - sekaist1225 https://t.co/WMtRfGyVg6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wkmkjVNMdf",
+					"expanded_url": "https://naver.me/xfGY4rfj",
+					"display_url": "naver.me/xfGY4rfj",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1058956271213150200,
+					"id_str": "1058956271213150209",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058956271213150209/pu/img/zu4R5mzjQS9hwngh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058956271213150209/pu/img/zu4R5mzjQS9hwngh.jpg",
+					"url": "https://t.co/WMtRfGyVg6",
+					"display_url": "pic.twitter.com/WMtRfGyVg6",
+					"expanded_url": "https://twitter.com/RAKENBEAR/status/1058956884386828289/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1058956271213150200,
+					"id_str": "1058956271213150209",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1058956271213150209/pu/img/zu4R5mzjQS9hwngh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1058956271213150209/pu/img/zu4R5mzjQS9hwngh.jpg",
+					"url": "https://t.co/WMtRfGyVg6",
+					"display_url": "pic.twitter.com/WMtRfGyVg6",
+					"expanded_url": "https://twitter.com/RAKENBEAR/status/1058956884386828289/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1058956271213150209/pu/vid/320x180/8mgDkf3PV6nDMkzx.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1058956271213150209/pu/vid/854x480/c-ogLUNaY9mJRFi3.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1058956271213150209/pu/pl/NkANatwEe6n2xw3i.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1058956271213150209/pu/vid/640x360/jt0yX7HBmyxGcrwI.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 430329361,
+			"id_str": "430329361",
+			"name": "RAKENBEAR",
+			"screen_name": "RAKENBEAR",
+			"location": "대한민국 서울",
+			"description": "2piece Grunge rock band RAKENBEAR\n2인조 그런지 밴드 RAKENBEAR [라켄베어]\n2人のロックデュオ RAKENBEAR\nFrom Korea",
+			"url": "https://t.co/s7e3oszYRg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s7e3oszYRg",
+							"expanded_url": "http://facebook.com/rakenbear",
+							"display_url": "facebook.com/rakenbear",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42,
+			"friends_count": 44,
+			"listed_count": 0,
+			"created_at": "Wed Dec 07 01:31:22 +0000 2011",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 102,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950830587098447873/iy7i2vFS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950830587098447873/iy7i2vFS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/430329361/1516005553",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "직접 만든 시디, 티셔츠 직접 유통 합니다. \n주문 작성 시트를 작성하시고 입금하시면 배송합니다.\nhttps://t.co/wkmkjVNMdf\n\n영상 - sekaist1225 https://t.co/WMtRfGyVg6"
+	},
+	{
 		"created_at": "Sat Nov 03 08:01:08 +0000 2018",
 		"id": 1058630138223452200,
 		"id_str": "1058630138223452160",
