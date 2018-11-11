@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 10 15:00:51 +0000 2018",
+		"id": 1061272480600354800,
+		"id_str": "1061272480600354816",
+		"full_text": "오늘은 또 이런날이라고 합니다 https://t.co/bktUX4qkkU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061272475411992600,
+					"id_str": "1061272475411992577",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/DrplsYrU0AEi2Ry.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrplsYrU0AEi2Ry.jpg",
+					"url": "https://t.co/bktUX4qkkU",
+					"display_url": "pic.twitter.com/bktUX4qkkU",
+					"expanded_url": "https://twitter.com/sekaist/status/1061272480600354816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 163,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061272475411992600,
+					"id_str": "1061272475411992577",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/DrplsYrU0AEi2Ry.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrplsYrU0AEi2Ry.jpg",
+					"url": "https://t.co/bktUX4qkkU",
+					"display_url": "pic.twitter.com/bktUX4qkkU",
+					"expanded_url": "https://twitter.com/sekaist/status/1061272480600354816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 163,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 1096,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11098,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘은 또 이런날이라고 합니다 https://t.co/bktUX4qkkU"
+	},
+	{
+		"created_at": "Sat Nov 10 12:44:19 +0000 2018",
+		"id": 1061238118844493800,
+		"id_str": "1061238118844493825",
+		"full_text": "마요미에게 인형 선물하기 미션을 성공했습니다 ㅋㅋ 직접 착용까지 해주셔서 너무 좋음ㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n#동네사람들 무대인사 (2018.11.10) 메가박스 상봉 4관 종영시\n#임진순 감독 #마동석 #김새론 #이상엽 배우 https://t.co/LSzxBr0o64",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "동네사람들",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "임진순",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "마동석",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "김새론",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "이상엽",
+					"indices": [
+						114,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061238052079624200,
+					"id_str": "1061238052079624193",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1061238052079624193/pu/img/mLQvjelnsM-5TBWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1061238052079624193/pu/img/mLQvjelnsM-5TBWa.jpg",
+					"url": "https://t.co/LSzxBr0o64",
+					"display_url": "pic.twitter.com/LSzxBr0o64",
+					"expanded_url": "https://twitter.com/cymovie/status/1061238118844493825/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061238052079624200,
+					"id_str": "1061238052079624193",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1061238052079624193/pu/img/mLQvjelnsM-5TBWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1061238052079624193/pu/img/mLQvjelnsM-5TBWa.jpg",
+					"url": "https://t.co/LSzxBr0o64",
+					"display_url": "pic.twitter.com/LSzxBr0o64",
+					"expanded_url": "https://twitter.com/cymovie/status/1061238118844493825/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 23070,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1061238052079624193/pu/vid/640x360/F5AXz1c9VZPIaInC.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1061238052079624193/pu/vid/854x480/MJySesgtQXJzYDU4.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1061238052079624193/pu/vid/320x180/QQVmfWXqEpMV7X4P.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1061238052079624193/pu/pl/MO8QxXr9QUDEd2DH.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 422373638,
+			"id_str": "422373638",
+			"name": "cymovie",
+			"screen_name": "cymovie",
+			"location": "S.Korea",
+			"description": "성공한 덕후가 되자 ll 영화, 무대인사 일정, 관객과의 대화 일정 알려드립니다 :)",
+			"url": "https://t.co/QcpciwpWXg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QcpciwpWXg",
+							"expanded_url": "http://www.cymovie.co.kr",
+							"display_url": "cymovie.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7114,
+			"friends_count": 117,
+			"listed_count": 34,
+			"created_at": "Sun Nov 27 05:33:22 +0000 2011",
+			"favourites_count": 369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4578,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/972123924992466944/XBtnI1Oi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/972123924992466944/XBtnI1Oi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/422373638/1520607381",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2235,
+		"favorite_count": 991,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마요미에게 인형 선물하기 미션을 성공했습니다 ㅋㅋ 직접 착용까지 해주셔서 너무 좋음ㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n#동네사람들 무대인사 (2018.11.10) 메가박스 상봉 4관 종영시\n#임진순 감독 #마동석 #김새론 #이상엽 배우 https://t.co/LSzxBr0o64"
+	},
+	{
+		"created_at": "Sat Nov 10 07:35:57 +0000 2018",
+		"id": 1061160517304180700,
+		"id_str": "1061160517304180736",
+		"full_text": "@Festivgoer 너는 정체가 뭐였어 나는 환자였다....",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Festivgoer",
+					"name": "ㅇㅂㅈ",
+					"id": 490025247,
+					"id_str": "490025247",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1061156916632514600,
+		"in_reply_to_status_id_str": "1061156916632514560",
+		"in_reply_to_user_id": 490025247,
+		"in_reply_to_user_id_str": "490025247",
+		"in_reply_to_screen_name": "Festivgoer",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 1096,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11098,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Festivgoer 너는 정체가 뭐였어 나는 환자였다...."
+	},
+	{
 		"created_at": "Fri Nov 09 19:04:24 +0000 2018",
 		"id": 1060971383025324000,
 		"id_str": "1060971383025324033",
