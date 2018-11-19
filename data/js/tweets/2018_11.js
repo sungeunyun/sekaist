@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 18 10:45:33 +0000 2018",
+		"id": 1064107334350266400,
+		"id_str": "1064107334350266368",
+		"full_text": "Tom Misch - Movie (Official Video) https://t.co/QodnuF0VdJ - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						61,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QodnuF0VdJ",
+					"expanded_url": "https://youtu.be/DUzEYcR2VtM",
+					"display_url": "youtu.be/DUzEYcR2VtM",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613,
+			"friends_count": 1097,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11147,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tom Misch - Movie (Official Video) https://t.co/QodnuF0VdJ - @YouTube"
+	},
+	{
+		"created_at": "Sat Nov 17 16:36:04 +0000 2018",
+		"id": 1063833157458247700,
+		"id_str": "1063833157458247680",
+		"full_text": "SLEEQ - E Q U A L I S T (sanesarajyeosm) https://t.co/HLXeQLN9oL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063833068178292700,
+					"id_str": "1063833068178292738",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063833068178292738/pu/img/J2KvHlrSw9Wqq12G.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063833068178292738/pu/img/J2KvHlrSw9Wqq12G.jpg",
+					"url": "https://t.co/HLXeQLN9oL",
+					"display_url": "pic.twitter.com/HLXeQLN9oL",
+					"expanded_url": "https://twitter.com/squarksleeq/status/1063833157458247680/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063833068178292700,
+					"id_str": "1063833068178292738",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063833068178292738/pu/img/J2KvHlrSw9Wqq12G.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063833068178292738/pu/img/J2KvHlrSw9Wqq12G.jpg",
+					"url": "https://t.co/HLXeQLN9oL",
+					"display_url": "pic.twitter.com/HLXeQLN9oL",
+					"expanded_url": "https://twitter.com/squarksleeq/status/1063833157458247680/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 119917,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063833068178292738/pu/vid/320x180/ej7Ivo7DCFCjKj_Y.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1063833068178292738/pu/pl/RKfqh7y0VJFlfeWi.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063833068178292738/pu/vid/640x360/8Bf5ZApZSbad-UbN.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063833068178292738/pu/vid/854x480/06kF-yjqkLIipfCP.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109774581,
+			"id_str": "109774581",
+			"name": "슬릭",
+			"screen_name": "squarksleeq",
+			"location": "세련이다",
+			"description": "그리고 랩도 잘하고",
+			"url": "https://t.co/f4vKqjO3xn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f4vKqjO3xn",
+							"expanded_url": "https://m.youtube.com/watch?v=lDDbR28KegQ&feature=youtu.be",
+							"display_url": "m.youtube.com/watch?v=lDDbR2…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13987,
+			"friends_count": 207,
+			"listed_count": 60,
+			"created_at": "Sat Jan 30 06:12:14 +0000 2010",
+			"favourites_count": 1057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21804,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059716014517051392/TgszvV90_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059716014517051392/TgszvV90_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109774581/1541491017",
+			"profile_link_color": "00BBFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25494,
+		"favorite_count": 14639,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ro",
+		"text": "SLEEQ - E Q U A L I S T (sanesarajyeosm) https://t.co/HLXeQLN9oL"
+	},
+	{
 		"created_at": "Sat Nov 17 16:36:04 +0000 2018",
 		"id": 1063833157458247700,
 		"id_str": "1063833157458247680",
