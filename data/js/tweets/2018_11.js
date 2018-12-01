@@ -1,6 +1,874 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 30 18:02:09 +0000 2018",
+		"id": 1068565862628487200,
+		"id_str": "1068565862628487168",
+		"full_text": "Roger Taylor - Radio Ga Ga - Live at the Cyberbarn - Revisited 2014 https://t.co/xpyJfkwwOj - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xpyJfkwwOj",
+					"expanded_url": "https://youtu.be/6P0PGSQ0dRA",
+					"display_url": "youtu.be/6P0PGSQ0dRA",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 609,
+			"friends_count": 1096,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11204,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Roger Taylor - Radio Ga Ga - Live at the Cyberbarn - Revisited 2014 https://t.co/xpyJfkwwOj - @YouTube"
+	},
+	{
+		"created_at": "Fri Nov 30 16:34:05 +0000 2018",
+		"id": 1068543701721374700,
+		"id_str": "1068543701721374720",
+		"full_text": "@dacapo119 없어진지 몇달 됐어요ㅠㅠ 독립영화관 정보 말고도 이런저런 영화소식 많이 받아봤는데 아쉽네요. 인스타 계정은 있는지 몰랐네요",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dacapo119",
+					"name": "대건",
+					"id": 216698664,
+					"id_str": "216698664",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1068542857907122200,
+		"in_reply_to_status_id_str": "1068542857907122178",
+		"in_reply_to_user_id": 216698664,
+		"in_reply_to_user_id_str": "216698664",
+		"in_reply_to_screen_name": "dacapo119",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 609,
+			"friends_count": 1096,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11204,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@dacapo119 없어진지 몇달 됐어요ㅠㅠ 독립영화관 정보 말고도 이런저런 영화소식 많이 받아봤는데 아쉽네요. 인스타 계정은 있는지 몰랐네요"
+	},
+	{
+		"created_at": "Fri Nov 30 15:48:36 +0000 2018",
+		"id": 1068532252819173400,
+		"id_str": "1068532252819173377",
+		"full_text": "오늘 독립영화관 서독제 특집이다. 독립영화관 계정 없어져서 너무 아쉽.. 금요일에 하는줄도 몰랐네",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 609,
+			"friends_count": 1096,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11204,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오늘 독립영화관 서독제 특집이다. 독립영화관 계정 없어져서 너무 아쉽.. 금요일에 하는줄도 몰랐네"
+	},
+	{
+		"created_at": "Fri Nov 30 14:19:00 +0000 2018",
+		"id": 1068509704396009500,
+		"id_str": "1068509704396009479",
+		"full_text": "12월의 첫날부터 마지막날까지 팬들과 함께하는 맥거핀의 겨울 스케쥴! 맥거핀과 함께 따뜻한 연말 되시길 바랍니다!⛄️ https://t.co/4fLviBEm0e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1068509681226702800,
+					"id_str": "1068509681226702849",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DtQb5NSVYAERkFi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DtQb5NSVYAERkFi.jpg",
+					"url": "https://t.co/4fLviBEm0e",
+					"display_url": "pic.twitter.com/4fLviBEm0e",
+					"expanded_url": "https://twitter.com/BandMacguffin/status/1068509704396009479/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2030,
+							"h": 2030,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068509681226702800,
+					"id_str": "1068509681226702849",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DtQb5NSVYAERkFi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DtQb5NSVYAERkFi.jpg",
+					"url": "https://t.co/4fLviBEm0e",
+					"display_url": "pic.twitter.com/4fLviBEm0e",
+					"expanded_url": "https://twitter.com/BandMacguffin/status/1068509704396009479/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2030,
+							"h": 2030,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DtQb5NSVYAERkFi.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 911595592974868500,
+			"id_str": "911595592974868482",
+			"name": "밴드맥거핀봇",
+			"screen_name": "BandMacguffin",
+			"location": "",
+			"description": "밴드 맥거핀(Macguffin) 팬계정입니다.",
+			"url": "https://t.co/a82bggXP2O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a82bggXP2O",
+							"expanded_url": "http://Instagram.com/mgff_official",
+							"display_url": "Instagram.com/mgff_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176,
+			"friends_count": 169,
+			"listed_count": 1,
+			"created_at": "Sat Sep 23 14:18:20 +0000 2017",
+			"favourites_count": 116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 515,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912146229219360769/QSxZQK5v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912146229219360769/QSxZQK5v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/911595592974868482/1527592886",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "12월의 첫날부터 마지막날까지 팬들과 함께하는 맥거핀의 겨울 스케쥴! 맥거핀과 함께 따뜻한 연말 되시길 바랍니다!⛄️ https://t.co/4fLviBEm0e"
+	},
+	{
+		"created_at": "Fri Nov 30 07:05:10 +0000 2018",
+		"id": 1068400526650294300,
+		"id_str": "1068400526650294272",
+		"full_text": "[genie][공유]Give Yourself A Try - The 1975\nhttps://t.co/4JmkZ2kV5d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4JmkZ2kV5d",
+					"expanded_url": "http://genie.co.kr/YWVHS1",
+					"display_url": "genie.co.kr/YWVHS1",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.genie.co.kr\" rel=\"nofollow\">iGenieMusic</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 609,
+			"friends_count": 1096,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11204,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[genie][공유]Give Yourself A Try - The 1975\nhttps://t.co/4JmkZ2kV5d"
+	},
+	{
+		"created_at": "Wed Nov 28 16:12:23 +0000 2018",
+		"id": 1067813462514909200,
+		"id_str": "1067813462514909184",
+		"full_text": "넘 좋았던 구숫의 아파트〰️♥️ https://t.co/BKdXhcrpf6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1067812913052770300,
+					"id_str": "1067812913052770304",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1067812913052770304/pu/img/92vQMmsR5Ysfz7bs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1067812913052770304/pu/img/92vQMmsR5Ysfz7bs.jpg",
+					"url": "https://t.co/BKdXhcrpf6",
+					"display_url": "pic.twitter.com/BKdXhcrpf6",
+					"expanded_url": "https://twitter.com/hoffen_kanarazu/status/1067813462514909184/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1067812913052770300,
+					"id_str": "1067812913052770304",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1067812913052770304/pu/img/92vQMmsR5Ysfz7bs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1067812913052770304/pu/img/92vQMmsR5Ysfz7bs.jpg",
+					"url": "https://t.co/BKdXhcrpf6",
+					"display_url": "pic.twitter.com/BKdXhcrpf6",
+					"expanded_url": "https://twitter.com/hoffen_kanarazu/status/1067813462514909184/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 82090,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1067812913052770304/pu/vid/720x1280/_uv-Mg8VDLWFHUo4.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1067812913052770304/pu/pl/sBZf-MzBCC1gexI_.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1067812913052770304/pu/vid/360x640/oceCFwzRX8vYx79M.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1067812913052770304/pu/vid/180x320/Fh_xcj23xQBC2GaT.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 191501633,
+			"id_str": "191501633",
+			"name": "Alice",
+			"screen_name": "hoffen_kanarazu",
+			"location": "Seoul, Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 568,
+			"friends_count": 857,
+			"listed_count": 3,
+			"created_at": "Thu Sep 16 16:22:49 +0000 2010",
+			"favourites_count": 6363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14872,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046100124525580288/JWqs-BzF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046100124525580288/JWqs-BzF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/191501633/1529906351",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "넘 좋았던 구숫의 아파트〰️♥️ https://t.co/BKdXhcrpf6"
+	},
+	{
+		"created_at": "Wed Nov 28 15:47:19 +0000 2018",
+		"id": 1067807154210451500,
+		"id_str": "1067807154210451456",
+		"full_text": "까도까도 자꾸만 나오는 9와숫자들 9의 무한 흑역사 대방출! 은근 중독성 쩌는 15년전 대표곡 물먹은 아리랑 (2018 윤덕원의 ... https://t.co/C79HEeV4rl @YouTube 님이 공유",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						100,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C79HEeV4rl",
+					"expanded_url": "https://youtu.be/W8v3fYV9ZB4",
+					"display_url": "youtu.be/W8v3fYV9ZB4",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101530424,
+			"id_str": "101530424",
+			"name": "윤덕원",
+			"screen_name": "yoondw",
+			"location": "",
+			"description": "브로콜리너마저",
+			"url": "https://t.co/m3tAfV2ax7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m3tAfV2ax7",
+							"expanded_url": "http://facebook.com/yoondukwon",
+							"display_url": "facebook.com/yoondukwon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15026,
+			"friends_count": 2645,
+			"listed_count": 382,
+			"created_at": "Sun Jan 03 17:37:11 +0000 2010",
+			"favourites_count": 872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19044,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860057706962354176/STdblLEp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860057706962354176/STdblLEp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101530424/1483354216",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "까도까도 자꾸만 나오는 9와숫자들 9의 무한 흑역사 대방출! 은근 중독성 쩌는 15년전 대표곡 물먹은 아리랑 (2018 윤덕원의 ... https://t.co/C79HEeV4rl @YouTube 님이 공유"
+	},
+	{
 		"created_at": "Wed Nov 28 16:12:23 +0000 2018",
 		"id": 1067813462514909200,
 		"id_str": "1067813462514909184",
