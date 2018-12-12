@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 11 05:52:59 +0000 2018",
+		"id": 1072368631173050400,
+		"id_str": "1072368631173050368",
+		"full_text": "&lt;메이트&gt; 의미심장한 '리얼 연애' 티저 예고편 전격 공개!\n\n\"우리 동네 친구 할래요?\"\n심희섭X정혜성의 가슴 설레는 특급 만남!\n\n&lt;메이트&gt; 2019.1월 Coming soon♥\n\n#메이트 #KAFA #2019 #01 #현실연애백서 :)\n#심희섭 #정혜성 #충무로 #배우 #19년개봉 https://t.co/2vFr9dVhif",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "메이트",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "KAFA",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "현실연애백서",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "심희섭",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "정혜성",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "충무로",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "배우",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "19년개봉",
+					"indices": [
+						166,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2vFr9dVhif",
+					"expanded_url": "https://www.facebook.com/kafa1984/videos/563324654092546/",
+					"display_url": "facebook.com/kafa1984/video…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 252834355,
+			"id_str": "252834355",
+			"name": "KAFA 한국영화아카데미",
+			"screen_name": "kafa21",
+			"location": "부산광역시 수영구 수영로 521번길 55",
+			"description": "안녕하세요, KAFA 한국영화아카데미의 트위터입니다 :)",
+			"url": "https://t.co/DRhhaL4yaw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DRhhaL4yaw",
+							"expanded_url": "http://www.kafa.ac/",
+							"display_url": "kafa.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7652,
+			"friends_count": 2455,
+			"listed_count": 52,
+			"created_at": "Wed Feb 16 00:50:59 +0000 2011",
+			"favourites_count": 67,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2985,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068425771050364928/9xvHV59k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068425771050364928/9xvHV59k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/252834355/1543567545",
+			"profile_link_color": "CA006C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;메이트&gt; 의미심장한 '리얼 연애' 티저 예고편 전격 공개!\n\n\"우리 동네 친구 할래요?\"\n심희섭X정혜성의 가슴 설레는 특급 만남!\n\n&lt;메이트&gt; 2019.1월 Coming soon♥\n\n#메이트 #KAFA #2019 #01 #현실연애백서 :)\n#심희섭 #정혜성 #충무로 #배우 #19년개봉 https://t.co/2vFr9dVhif"
+	},
+	{
+		"created_at": "Tue Dec 11 05:25:25 +0000 2018",
+		"id": 1072361692879880200,
+		"id_str": "1072361692879880192",
+		"full_text": "에브리싱글데이 공연 보고 싶은데 고민되네 무슨일이 생길지 몰라서 예매를 못함",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 1061,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11255,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "에브리싱글데이 공연 보고 싶은데 고민되네 무슨일이 생길지 몰라서 예매를 못함"
+	},
+	{
+		"created_at": "Tue Dec 11 05:22:23 +0000 2018",
+		"id": 1072360930292449300,
+		"id_str": "1072360930292449280",
+		"full_text": "두산은 정말 답답하다.... 저런 선수를 왜 놓치는지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 1061,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11255,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "두산은 정말 답답하다.... 저런 선수를 왜 놓치는지"
+	},
+	{
+		"created_at": "Tue Dec 11 03:47:47 +0000 2018",
+		"id": 1072337123599102000,
+		"id_str": "1072337123599101953",
+		"full_text": "제발 정보좀 파악하고 올리던가 왜케 선동당함? 음란물 차단하는 기술로 선정된 양진호 회사 뮤레카 그알에서 웹하드 카르텔 얘기 나오고 압수수색 당하고 낙찰도 취소됐고요. 필터링 업체랑 한통속 된게 2008년 인데 뭔 현정부에서 방조했다고 구라까는지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 1061,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11255,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "제발 정보좀 파악하고 올리던가 왜케 선동당함? 음란물 차단하는 기술로 선정된 양진호 회사 뮤레카 그알에서 웹하드 카르텔 얘기 나오고 압수수색 당하고 낙찰도 취소됐고요. 필터링 업체랑 한통속 된게 2008년 인데 뭔 현정부에서 방조했다고 구라까는지."
+	},
+	{
 		"created_at": "Sun Dec 09 16:35:23 +0000 2018",
 		"id": 1071805520476954600,
 		"id_str": "1071805520476954624",
