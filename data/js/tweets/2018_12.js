@@ -1,6 +1,461 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 12 16:23:12 +0000 2018",
+		"id": 1072889615479001100,
+		"id_str": "1072889615479001088",
+		"full_text": "https://t.co/GN3yhHcl9m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GN3yhHcl9m",
+					"expanded_url": "https://youtu.be/5jje2x1HP0c",
+					"display_url": "youtu.be/5jje2x1HP0c",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 858672530667692000,
+			"id_str": "858672530667692034",
+			"name": "qusgkrma",
+			"screen_name": "qusgkrma",
+			"location": "Seoul",
+			"description": "MGFF 1st EP ‘MUFFY’",
+			"url": "https://t.co/9gP7zYJiLC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9gP7zYJiLC",
+							"expanded_url": "http://bit.ly/2AxkA2k",
+							"display_url": "bit.ly/2AxkA2k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Sun Apr 30 13:20:59 +0000 2017",
+			"favourites_count": 1737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1869,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1036670501861486592/NkrR0-Gj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036670501861486592/NkrR0-Gj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/858672530667692034/1535996484",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/GN3yhHcl9m"
+	},
+	{
+		"created_at": "Wed Dec 12 15:53:34 +0000 2018",
+		"id": 1072882160485359600,
+		"id_str": "1072882160485359617",
+		"full_text": "Jai Guru Deva, Om https://t.co/aYpwZX9Xog",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aYpwZX9Xog",
+					"expanded_url": "https://youtu.be/90M60PzmxEE",
+					"display_url": "youtu.be/90M60PzmxEE",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 1061,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11258,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Jai Guru Deva, Om https://t.co/aYpwZX9Xog"
+	},
+	{
+		"created_at": "Wed Dec 12 09:48:57 +0000 2018",
+		"id": 1072790399322751000,
+		"id_str": "1072790399322750977",
+		"full_text": "[genie][공유]Lacuna - Lacuna (라쿠나)\nhttps://t.co/KPsly32hAk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KPsly32hAk",
+					"expanded_url": "http://genie.co.kr/G2LHN9",
+					"display_url": "genie.co.kr/G2LHN9",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.genie.co.kr\" rel=\"nofollow\">iGenieMusic</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 1061,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11258,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[genie][공유]Lacuna - Lacuna (라쿠나)\nhttps://t.co/KPsly32hAk"
+	},
+	{
+		"created_at": "Tue Dec 11 05:52:59 +0000 2018",
+		"id": 1072368631173050400,
+		"id_str": "1072368631173050368",
+		"full_text": "&lt;메이트&gt; 의미심장한 '리얼 연애' 티저 예고편 전격 공개!\n\n\"우리 동네 친구 할래요?\"\n심희섭X정혜성의 가슴 설레는 특급 만남!\n\n&lt;메이트&gt; 2019.1월 Coming soon♥\n\n#메이트 #KAFA #2019 #01 #현실연애백서 :)\n#심희섭 #정혜성 #충무로 #배우 #19년개봉 https://t.co/2vFr9dVhif",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "메이트",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "KAFA",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "현실연애백서",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "심희섭",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "정혜성",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "충무로",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "배우",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "19년개봉",
+					"indices": [
+						166,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2vFr9dVhif",
+					"expanded_url": "https://www.facebook.com/kafa1984/videos/563324654092546/",
+					"display_url": "facebook.com/kafa1984/video…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 252834355,
+			"id_str": "252834355",
+			"name": "KAFA 한국영화아카데미",
+			"screen_name": "kafa21",
+			"location": "부산광역시 수영구 수영로 521번길 55",
+			"description": "안녕하세요, KAFA 한국영화아카데미의 트위터입니다 :)",
+			"url": "https://t.co/DRhhaL4yaw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DRhhaL4yaw",
+							"expanded_url": "http://www.kafa.ac/",
+							"display_url": "kafa.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7635,
+			"friends_count": 2455,
+			"listed_count": 52,
+			"created_at": "Wed Feb 16 00:50:59 +0000 2011",
+			"favourites_count": 67,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2987,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068425771050364928/9xvHV59k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068425771050364928/9xvHV59k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/252834355/1543567545",
+			"profile_link_color": "CA006C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;메이트&gt; 의미심장한 '리얼 연애' 티저 예고편 전격 공개!\n\n\"우리 동네 친구 할래요?\"\n심희섭X정혜성의 가슴 설레는 특급 만남!\n\n&lt;메이트&gt; 2019.1월 Coming soon♥\n\n#메이트 #KAFA #2019 #01 #현실연애백서 :)\n#심희섭 #정혜성 #충무로 #배우 #19년개봉 https://t.co/2vFr9dVhif"
+	},
+	{
 		"created_at": "Tue Dec 11 05:52:59 +0000 2018",
 		"id": 1072368631173050400,
 		"id_str": "1072368631173050368",
