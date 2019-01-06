@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 05 02:26:40 +0000 2019",
+		"id": 1081376406519439400,
+		"id_str": "1081376406519439360",
+		"full_text": "#레토\n2019 첫 뮤직 아트버스터 &lt;레토&gt;의 주인공\n유태오 배우가 ✨바로 오늘✨ 극장으로 찾아갑니다!\n\n* 무대인사, GV 일정은 사정에 따라 변경될 수 있습니다.\n\n예매 바로가기\n📌 CGV https://t.co/z2h25zyIsH\n📌 메가박스 https://t.co/0fVpmklhY9\n📌 롯데시네마 https://t.co/CPl3YIDUl6 https://t.co/56HPYVO9uq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레토",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z2h25zyIsH",
+					"expanded_url": "http://bitly.kr/TiJH",
+					"display_url": "bitly.kr/TiJH",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/0fVpmklhY9",
+					"expanded_url": "http://bitly.kr/t4J9x",
+					"display_url": "bitly.kr/t4J9x",
+					"indices": [
+						145,
+						168
+					]
+				},
+				{
+					"url": "https://t.co/CPl3YIDUl6",
+					"expanded_url": "http://bitly.kr/fOJcS",
+					"display_url": "bitly.kr/fOJcS",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1081376396910374900,
+					"id_str": "1081376396910374912",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/DwHSGoZVsAALa9B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwHSGoZVsAALa9B.jpg",
+					"url": "https://t.co/56HPYVO9uq",
+					"display_url": "pic.twitter.com/56HPYVO9uq",
+					"expanded_url": "https://twitter.com/at9film/status/1081376406519439360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081376396910374900,
+					"id_str": "1081376396910374912",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/DwHSGoZVsAALa9B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwHSGoZVsAALa9B.jpg",
+					"url": "https://t.co/56HPYVO9uq",
+					"display_url": "pic.twitter.com/56HPYVO9uq",
+					"expanded_url": "https://twitter.com/at9film/status/1081376406519439360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1081376396927062000,
+					"id_str": "1081376396927062016",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/DwHSGodUUAAThn_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwHSGodUUAAThn_.jpg",
+					"url": "https://t.co/56HPYVO9uq",
+					"display_url": "pic.twitter.com/56HPYVO9uq",
+					"expanded_url": "https://twitter.com/at9film/status/1081376406519439360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119295834,
+			"id_str": "119295834",
+			"name": "ATNINE FILM",
+			"screen_name": "at9film",
+			"location": "",
+			"description": "영화사 엣나인필름 공식 계정 ATNINE FILM CO., LTD. official twitter. https://t.co/7unczk7HpJ",
+			"url": "https://t.co/pSwybtWmaV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pSwybtWmaV",
+							"expanded_url": "http://facebook.com/at9film",
+							"display_url": "facebook.com/at9film",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7unczk7HpJ",
+							"expanded_url": "http://www.facebook.com/at9film",
+							"display_url": "facebook.com/at9film",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9999,
+			"friends_count": 5159,
+			"listed_count": 153,
+			"created_at": "Wed Mar 03 06:36:15 +0000 2010",
+			"favourites_count": 2723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17942,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080651259055460354/eMRjew5s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080651259055460354/eMRjew5s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119295834/1546482313",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#레토\n2019 첫 뮤직 아트버스터 &lt;레토&gt;의 주인공\n유태오 배우가 ✨바로 오늘✨ 극장으로 찾아갑니다!\n\n* 무대인사, GV 일정은 사정에 따라 변경될 수 있습니다.\n\n예매 바로가기\n📌 CGV https://t.co/z2h25zyIsH\n📌 메가박스 https://t.co/0fVpmklhY9\n📌 롯데시네마 https://t.co/CPl3YIDUl6 https://t.co/56HPYVO9uq"
+	},
+	{
 		"created_at": "Fri Jan 04 17:53:40 +0000 2019",
 		"id": 1081247304957349900,
 		"id_str": "1081247304957349888",
