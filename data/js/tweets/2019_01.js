@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 28 14:26:31 +0000 2019",
+		"id": 1089892481322299400,
+		"id_str": "1089892481322299393",
+		"full_text": "지난 8개월 모든걸 재껴두고 할머니 곁에서 마지막 삶을 기록했습니다. 조금 전 일본군 성노예제 피해자 김복동 할머니께서 별세 했습니다. 너무 고통스럽게 눈을 감았습니다. 슬픕니다.. https://t.co/meyvdMm2Nc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089892469959942100,
+					"id_str": "1089892469959942144",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DyATbUtV4AAzb8l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyATbUtV4AAzb8l.jpg",
+					"url": "https://t.co/meyvdMm2Nc",
+					"display_url": "pic.twitter.com/meyvdMm2Nc",
+					"expanded_url": "https://twitter.com/mediamongu/status/1089892481322299393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089892469959942100,
+					"id_str": "1089892469959942144",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DyATbUtV4AAzb8l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyATbUtV4AAzb8l.jpg",
+					"url": "https://t.co/meyvdMm2Nc",
+					"display_url": "pic.twitter.com/meyvdMm2Nc",
+					"expanded_url": "https://twitter.com/mediamongu/status/1089892481322299393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1089892469955715100,
+					"id_str": "1089892469955715072",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DyATbUsVYAASVRQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyATbUsVYAASVRQ.jpg",
+					"url": "https://t.co/meyvdMm2Nc",
+					"display_url": "pic.twitter.com/meyvdMm2Nc",
+					"expanded_url": "https://twitter.com/mediamongu/status/1089892481322299393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1089892469951455200,
+					"id_str": "1089892469951455232",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DyATbUrUYAAL7yq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyATbUrUYAAL7yq.jpg",
+					"url": "https://t.co/meyvdMm2Nc",
+					"display_url": "pic.twitter.com/meyvdMm2Nc",
+					"expanded_url": "https://twitter.com/mediamongu/status/1089892481322299393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1089892470001827800,
+					"id_str": "1089892470001827840",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DyATbU3VAAA9ggj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyATbU3VAAA9ggj.jpg",
+					"url": "https://t.co/meyvdMm2Nc",
+					"display_url": "pic.twitter.com/meyvdMm2Nc",
+					"expanded_url": "https://twitter.com/mediamongu/status/1089892481322299393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61760149,
+			"id_str": "61760149",
+			"name": "미디어몽구",
+			"screen_name": "mediamongu",
+			"location": "현장",
+			"description": "시대의기록자🎗",
+			"url": "https://t.co/tPayjRkhkp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tPayjRkhkp",
+							"expanded_url": "http://mongu.net",
+							"display_url": "mongu.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 482063,
+			"friends_count": 1503,
+			"listed_count": 5691,
+			"created_at": "Fri Jul 31 12:33:02 +0000 2009",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10042,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1699113480/__2_reasonably_small_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1699113480/__2_reasonably_small_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61760149/1521153774",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3660,
+		"favorite_count": 1233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난 8개월 모든걸 재껴두고 할머니 곁에서 마지막 삶을 기록했습니다. 조금 전 일본군 성노예제 피해자 김복동 할머니께서 별세 했습니다. 너무 고통스럽게 눈을 감았습니다. 슬픕니다.. https://t.co/meyvdMm2Nc"
+	},
+	{
 		"created_at": "Sat Jan 26 15:54:54 +0000 2019",
 		"id": 1089189948475859000,
 		"id_str": "1089189948475858944",
