@@ -1,6 +1,790 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 30 08:56:33 +0000 2019",
+		"id": 1090534216813621200,
+		"id_str": "1090534216813621248",
+		"full_text": "임종석 특보, \"경수야! 이럴 땐 정치를 한다는 게 죽도록 싫다. '정치하지 마라'던 노무현 대통령님의 유언이 다시 아프게 와서 꽂힌다. 경수야, 우리는 널 굳게 믿는다. 사람 김경수를 좋아하고 믿는다. 정치인 김경수를 한없이 신뢰하고 응원한다. 견뎌내 다오. 견뎌서 이겨다오. 미안하다\"\n\n아,ㅠㅠ https://t.co/5DCoBJb919",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1090534208756305900,
+					"id_str": "1090534208756305920",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/DyJbFcBU0AAr5d5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyJbFcBU0AAr5d5.jpg",
+					"url": "https://t.co/5DCoBJb919",
+					"display_url": "pic.twitter.com/5DCoBJb919",
+					"expanded_url": "https://twitter.com/happy_CSR/status/1090534216813621248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 707,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 707,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 641,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090534208756305900,
+					"id_str": "1090534208756305920",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/DyJbFcBU0AAr5d5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyJbFcBU0AAr5d5.jpg",
+					"url": "https://t.co/5DCoBJb919",
+					"display_url": "pic.twitter.com/5DCoBJb919",
+					"expanded_url": "https://twitter.com/happy_CSR/status/1090534216813621248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 707,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 707,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 641,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 864143387770757100,
+			"id_str": "864143387770757121",
+			"name": "sora",
+			"screen_name": "happy_CSR",
+			"location": "",
+			"description": "이제 머지않아 한반도의 항구적 평화와 '함께 잘사는 혁신적 포용국가'가 우리 앞에 도달할 것입니다. 공동의 목표를 잃지 않고 우리는 여기까지 왔습니다. 우리는 추위 속에서 많은 것을 이뤘습니다. 평화도, 혁신 성장도, 포용국가도 우리는 이뤄낼 것입니다./문재인 대통령, 신년기자회견 연설",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16356,
+			"friends_count": 3073,
+			"listed_count": 63,
+			"created_at": "Mon May 15 15:40:13 +0000 2017",
+			"favourites_count": 25855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27193,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631355778195457/eHF8IA7r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631355778195457/eHF8IA7r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/864143387770757121/1547143916",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1445,
+		"favorite_count": 1261,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "임종석 특보, \"경수야! 이럴 땐 정치를 한다는 게 죽도록 싫다. '정치하지 마라'던 노무현 대통령님의 유언이 다시 아프게 와서 꽂힌다. 경수야, 우리는 널 굳게 믿는다. 사람 김경수를 좋아하고 믿는다. 정치인 김경수를 한없이 신뢰하고 응원한다. 견뎌내 다오. 견뎌서 이겨다오. 미안하다\"\n\n아,ㅠㅠ https://t.co/5DCoBJb919"
+	},
+	{
+		"created_at": "Wed Jan 30 06:34:13 +0000 2019",
+		"id": 1090498399047057400,
+		"id_str": "1090498399047057408",
+		"full_text": "아 열받아 ㅠㅠ 갱수님 ㅠㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 596,
+			"friends_count": 1055,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11596,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아 열받아 ㅠㅠ 갱수님 ㅠㅠㅠ"
+	},
+	{
+		"created_at": "Wed Jan 30 06:23:54 +0000 2019",
+		"id": 1090495804605816800,
+		"id_str": "1090495804605816832",
+		"full_text": "국민이 동의할 수 없는 판결입니다.\n\n정치특검의 논리를 그대로 이어 받은 \n재판부에 경악을 금치 못합니다.\n\n사법부에 대한 사회적 신뢰를 \n법원이 걷어찬 판결입니다.\n\n진실을 되찾기 위해 \n김경수지사와 끝까지 함께 하겠습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2625477554,
+			"id_str": "2625477554",
+			"name": "박광온(평화가 밥이다!)",
+			"screen_name": "parkkwangon",
+			"location": "대한민국 수원시",
+			"description": "#공수처설치 #허위조작정보유통방지법 #사회적가치법 #문재인케어 #아동수당 #한반도_신경제지도 #언론자유 #국민의나라 #당원의정당 #랜선효녀아빠 #포용국가시리즈법 #조세정의 #일자리만들기 #세상을_바꾸는_헌법 #소득주도성장_혁신성장_공정경제 #2019년_포용국가_평화국가_원년",
+			"url": "https://t.co/5xaVol1mij",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5xaVol1mij",
+							"expanded_url": "http://blog.naver.com/kopark2012",
+							"display_url": "blog.naver.com/kopark2012",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50022,
+			"friends_count": 10336,
+			"listed_count": 231,
+			"created_at": "Sat Jul 12 13:59:35 +0000 2014",
+			"favourites_count": 9345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2763,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077728713880481792/9T799z3K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077728713880481792/9T799z3K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2625477554/1535957314",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3817,
+		"favorite_count": 3521,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "국민이 동의할 수 없는 판결입니다.\n\n정치특검의 논리를 그대로 이어 받은 \n재판부에 경악을 금치 못합니다.\n\n사법부에 대한 사회적 신뢰를 \n법원이 걷어찬 판결입니다.\n\n진실을 되찾기 위해 \n김경수지사와 끝까지 함께 하겠습니다."
+	},
+	{
+		"created_at": "Wed Jan 30 05:35:45 +0000 2019",
+		"id": 1090483687307776000,
+		"id_str": "1090483687307776000",
+		"full_text": "지방에서는 영화관 조차 나갈 엄두가 안나는데. 내가 입사하고 5년을 시골살면서 영화관을 5번도 채 못간거 같다. 심지어 내가 살던 시골은 영화관도 없어서 옆 도시로 가서야 볼 수 있었구요. 서울이랑 지방이랑 인프라 차이가 얼마나 나는지는 서울에만 살던 사람이 어찌 알겠어요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 596,
+			"friends_count": 1055,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11596,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "지방에서는 영화관 조차 나갈 엄두가 안나는데. 내가 입사하고 5년을 시골살면서 영화관을 5번도 채 못간거 같다. 심지어 내가 살던 시골은 영화관도 없어서 옆 도시로 가서야 볼 수 있었구요. 서울이랑 지방이랑 인프라 차이가 얼마나 나는지는 서울에만 살던 사람이 어찌 알겠어요."
+	},
+	{
+		"created_at": "Wed Jan 30 05:27:07 +0000 2019",
+		"id": 1090481511957033000,
+		"id_str": "1090481511957032960",
+		"full_text": "2012년 겨울까지 시골살다가(레알 시골임 XX읍...) 2013년에 서울로 이사와서 처음으로 아트하우스관에 갔는데 그게 압구정 CGV였고 그때 본 영화는 실버라이닝플레이북이었다. 동네 극장도 아니었는데 아마 영화가 거기밖에 상영을 안해서 갔을듯한",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 596,
+			"friends_count": 1055,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11596,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "2012년 겨울까지 시골살다가(레알 시골임 XX읍...) 2013년에 서울로 이사와서 처음으로 아트하우스관에 갔는데 그게 압구정 CGV였고 그때 본 영화는 실버라이닝플레이북이었다. 동네 극장도 아니었는데 아마 영화가 거기밖에 상영을 안해서 갔을듯한"
+	},
+	{
+		"created_at": "Mon Jan 28 14:26:31 +0000 2019",
+		"id": 1089892481322299400,
+		"id_str": "1089892481322299393",
+		"full_text": "지난 8개월 모든걸 재껴두고 할머니 곁에서 마지막 삶을 기록했습니다. 조금 전 일본군 성노예제 피해자 김복동 할머니께서 별세 했습니다. 너무 고통스럽게 눈을 감았습니다. 슬픕니다.. https://t.co/meyvdMm2Nc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089892469959942100,
+					"id_str": "1089892469959942144",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DyATbUtV4AAzb8l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyATbUtV4AAzb8l.jpg",
+					"url": "https://t.co/meyvdMm2Nc",
+					"display_url": "pic.twitter.com/meyvdMm2Nc",
+					"expanded_url": "https://twitter.com/mediamongu/status/1089892481322299393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089892469959942100,
+					"id_str": "1089892469959942144",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DyATbUtV4AAzb8l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyATbUtV4AAzb8l.jpg",
+					"url": "https://t.co/meyvdMm2Nc",
+					"display_url": "pic.twitter.com/meyvdMm2Nc",
+					"expanded_url": "https://twitter.com/mediamongu/status/1089892481322299393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1089892469955715100,
+					"id_str": "1089892469955715072",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DyATbUsVYAASVRQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyATbUsVYAASVRQ.jpg",
+					"url": "https://t.co/meyvdMm2Nc",
+					"display_url": "pic.twitter.com/meyvdMm2Nc",
+					"expanded_url": "https://twitter.com/mediamongu/status/1089892481322299393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1089892469951455200,
+					"id_str": "1089892469951455232",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DyATbUrUYAAL7yq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyATbUrUYAAL7yq.jpg",
+					"url": "https://t.co/meyvdMm2Nc",
+					"display_url": "pic.twitter.com/meyvdMm2Nc",
+					"expanded_url": "https://twitter.com/mediamongu/status/1089892481322299393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1089892470001827800,
+					"id_str": "1089892470001827840",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/DyATbU3VAAA9ggj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyATbU3VAAA9ggj.jpg",
+					"url": "https://t.co/meyvdMm2Nc",
+					"display_url": "pic.twitter.com/meyvdMm2Nc",
+					"expanded_url": "https://twitter.com/mediamongu/status/1089892481322299393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61760149,
+			"id_str": "61760149",
+			"name": "미디어몽구",
+			"screen_name": "mediamongu",
+			"location": "현장",
+			"description": "시대의기록자🎗",
+			"url": "https://t.co/tPayjRkhkp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tPayjRkhkp",
+							"expanded_url": "http://mongu.net",
+							"display_url": "mongu.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 481357,
+			"friends_count": 1501,
+			"listed_count": 5690,
+			"created_at": "Fri Jul 31 12:33:02 +0000 2009",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10046,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1699113480/__2_reasonably_small_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1699113480/__2_reasonably_small_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61760149/1521153774",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6992,
+		"favorite_count": 2656,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난 8개월 모든걸 재껴두고 할머니 곁에서 마지막 삶을 기록했습니다. 조금 전 일본군 성노예제 피해자 김복동 할머니께서 별세 했습니다. 너무 고통스럽게 눈을 감았습니다. 슬픕니다.. https://t.co/meyvdMm2Nc"
+	},
+	{
 		"created_at": "Mon Jan 28 14:26:31 +0000 2019",
 		"id": 1089892481322299400,
 		"id_str": "1089892481322299393",
