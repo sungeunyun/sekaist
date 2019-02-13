@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 11:32:33 +0000 2019",
+		"id": 1095284520230637600,
+		"id_str": "1095284520230637568",
+		"full_text": "[예매안내] 3월 30일 토요일 &lt;콘서트누리\n맥거핀&gt; 공연 예매가 진행중입니다. \n• 장소 : 김해문화의전당\n• 입장료 : 예매 2만원\n• 예매링크 : \n- 김해문화의전당 ( https://t.co/rNJTyPF32g )\n- 인터파크 ( https://t.co/Br3hHofRiU )\n김해문화의전당은 2/15일까지 1차 선예매 20% 할인 적용됩니다 https://t.co/YQyKEfPO0J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rNJTyPF32g",
+					"expanded_url": "http://bit.ly/2thvEOr",
+					"display_url": "bit.ly/2thvEOr",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/Br3hHofRiU",
+					"expanded_url": "http://bit.ly/2RTUMVn",
+					"display_url": "bit.ly/2RTUMVn",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095284515214286800,
+					"id_str": "1095284515214286850",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/DzM7dqlVYAIjj-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzM7dqlVYAIjj-v.jpg",
+					"url": "https://t.co/YQyKEfPO0J",
+					"display_url": "pic.twitter.com/YQyKEfPO0J",
+					"expanded_url": "https://twitter.com/BandMacguffin/status/1095284520230637568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 638,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 746,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 746,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095284515214286800,
+					"id_str": "1095284515214286850",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/DzM7dqlVYAIjj-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzM7dqlVYAIjj-v.jpg",
+					"url": "https://t.co/YQyKEfPO0J",
+					"display_url": "pic.twitter.com/YQyKEfPO0J",
+					"expanded_url": "https://twitter.com/BandMacguffin/status/1095284520230637568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 638,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 746,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 746,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 911595592974868500,
+			"id_str": "911595592974868482",
+			"name": "밴드맥거핀봇",
+			"screen_name": "BandMacguffin",
+			"location": "",
+			"description": "밴드 맥거핀(Macguffin) 팬계정입니다.",
+			"url": "https://t.co/a82bggXP2O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a82bggXP2O",
+							"expanded_url": "http://Instagram.com/mgff_official",
+							"display_url": "Instagram.com/mgff_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160,
+			"friends_count": 148,
+			"listed_count": 1,
+			"created_at": "Sat Sep 23 14:18:20 +0000 2017",
+			"favourites_count": 112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 572,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912146229219360769/QSxZQK5v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912146229219360769/QSxZQK5v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/911595592974868482/1527592886",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[예매안내] 3월 30일 토요일 &lt;콘서트누리\n맥거핀&gt; 공연 예매가 진행중입니다. \n• 장소 : 김해문화의전당\n• 입장료 : 예매 2만원\n• 예매링크 : \n- 김해문화의전당 ( https://t.co/rNJTyPF32g )\n- 인터파크 ( https://t.co/Br3hHofRiU )\n김해문화의전당은 2/15일까지 1차 선예매 20% 할인 적용됩니다 https://t.co/YQyKEfPO0J"
+	},
+	{
+		"created_at": "Tue Feb 12 07:15:40 +0000 2019",
+		"id": 1095219871976046600,
+		"id_str": "1095219871976046593",
+		"full_text": "2014년 4월 16일 세월호 참사 희생자인 경기도 단원고등학교 학생 250명에 대한 명예졸업식이 오늘 12일 진행되었습니다. 하늘의 별이 된 250명의 아이들과\n일반인 사고 희생자 분들 모두, 우리 사회는 잊지 않겠습니다. 이 분들의 희생이 헛되지 않도록 안전한 대한민국을 위해 최선을 다하겠습니다. https://t.co/Swty0Nv1Xw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095219755252731900,
+					"id_str": "1095219755252731904",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/DzMAkI7UUAApoq0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzMAkI7UUAApoq0.jpg",
+					"url": "https://t.co/Swty0Nv1Xw",
+					"display_url": "pic.twitter.com/Swty0Nv1Xw",
+					"expanded_url": "https://twitter.com/hellopolicy/status/1095219871976046593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 992,
+							"h": 1488,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095219755252731900,
+					"id_str": "1095219755252731904",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/DzMAkI7UUAApoq0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzMAkI7UUAApoq0.jpg",
+					"url": "https://t.co/Swty0Nv1Xw",
+					"display_url": "pic.twitter.com/Swty0Nv1Xw",
+					"expanded_url": "https://twitter.com/hellopolicy/status/1095219871976046593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 992,
+							"h": 1488,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134679265,
+			"id_str": "134679265",
+			"name": "대한민국 정부",
+			"screen_name": "hellopolicy",
+			"location": "대한민국",
+			"description": "유용한 정책을 알려드리는 대한민국 정부 대표 트위터입니다.  \n▶대한민국 정부 페이스북 https://t.co/JqTQiNMO6Q \n▶정책브리핑\nhttps://t.co/z0IbNhDE0L",
+			"url": "http://t.co/LZA3QF0ZP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/LZA3QF0ZP5",
+							"expanded_url": "http://blog.naver.com/hellopolicy",
+							"display_url": "blog.naver.com/hellopolicy",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JqTQiNMO6Q",
+							"expanded_url": "https://www.facebook.com/hipolicy/",
+							"display_url": "facebook.com/hipolicy/",
+							"indices": [
+								49,
+								72
+							]
+						},
+						{
+							"url": "https://t.co/z0IbNhDE0L",
+							"expanded_url": "http://www.korea.kr/main.do",
+							"display_url": "korea.kr/main.do",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 168254,
+			"friends_count": 38425,
+			"listed_count": 775,
+			"created_at": "Mon Apr 19 04:15:26 +0000 2010",
+			"favourites_count": 367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19892,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045576983780896768/0lwTfu99_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045576983780896768/0lwTfu99_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134679265/1543891122",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2394,
+		"favorite_count": 1331,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2014년 4월 16일 세월호 참사 희생자인 경기도 단원고등학교 학생 250명에 대한 명예졸업식이 오늘 12일 진행되었습니다. 하늘의 별이 된 250명의 아이들과\n일반인 사고 희생자 분들 모두, 우리 사회는 잊지 않겠습니다. 이 분들의 희생이 헛되지 않도록 안전한 대한민국을 위해 최선을 다하겠습니다. https://t.co/Swty0Nv1Xw"
+	},
+	{
 		"created_at": "Mon Feb 11 08:52:46 +0000 2019",
 		"id": 1094881920595324900,
 		"id_str": "1094881920595324928",
