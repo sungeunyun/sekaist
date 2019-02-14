@@ -146,6 +146,199 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
+			"followers_count": 159,
+			"friends_count": 147,
+			"listed_count": 1,
+			"created_at": "Sat Sep 23 14:18:20 +0000 2017",
+			"favourites_count": 112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 571,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912146229219360769/QSxZQK5v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912146229219360769/QSxZQK5v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/911595592974868482/1527592886",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[예매안내] 3월 30일 토요일 &lt;콘서트누리\n맥거핀&gt; 공연 예매가 진행중입니다. \n• 장소 : 김해문화의전당\n• 입장료 : 예매 2만원\n• 예매링크 : \n- 김해문화의전당 ( https://t.co/rNJTyPF32g )\n- 인터파크 ( https://t.co/Br3hHofRiU )\n김해문화의전당은 2/15일까지 1차 선예매 20% 할인 적용됩니다 https://t.co/YQyKEfPO0J"
+	},
+	{
+		"created_at": "Tue Feb 12 11:32:33 +0000 2019",
+		"id": 1095284520230637600,
+		"id_str": "1095284520230637568",
+		"full_text": "[예매안내] 3월 30일 토요일 &lt;콘서트누리\n맥거핀&gt; 공연 예매가 진행중입니다. \n• 장소 : 김해문화의전당\n• 입장료 : 예매 2만원\n• 예매링크 : \n- 김해문화의전당 ( https://t.co/rNJTyPF32g )\n- 인터파크 ( https://t.co/Br3hHofRiU )\n김해문화의전당은 2/15일까지 1차 선예매 20% 할인 적용됩니다 https://t.co/YQyKEfPO0J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rNJTyPF32g",
+					"expanded_url": "http://bit.ly/2thvEOr",
+					"display_url": "bit.ly/2thvEOr",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/Br3hHofRiU",
+					"expanded_url": "http://bit.ly/2RTUMVn",
+					"display_url": "bit.ly/2RTUMVn",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1095284515214286800,
+					"id_str": "1095284515214286850",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/DzM7dqlVYAIjj-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzM7dqlVYAIjj-v.jpg",
+					"url": "https://t.co/YQyKEfPO0J",
+					"display_url": "pic.twitter.com/YQyKEfPO0J",
+					"expanded_url": "https://twitter.com/BandMacguffin/status/1095284520230637568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 638,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 746,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 746,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095284515214286800,
+					"id_str": "1095284515214286850",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/DzM7dqlVYAIjj-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzM7dqlVYAIjj-v.jpg",
+					"url": "https://t.co/YQyKEfPO0J",
+					"display_url": "pic.twitter.com/YQyKEfPO0J",
+					"expanded_url": "https://twitter.com/BandMacguffin/status/1095284520230637568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 638,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 746,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 746,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 911595592974868500,
+			"id_str": "911595592974868482",
+			"name": "밴드맥거핀봇",
+			"screen_name": "BandMacguffin",
+			"location": "",
+			"description": "밴드 맥거핀(Macguffin) 팬계정입니다.",
+			"url": "https://t.co/a82bggXP2O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a82bggXP2O",
+							"expanded_url": "http://Instagram.com/mgff_official",
+							"display_url": "Instagram.com/mgff_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 160,
 			"friends_count": 148,
 			"listed_count": 1,
