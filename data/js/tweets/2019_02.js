@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 24 17:33:50 +0000 2019",
+		"id": 1099724092754714600,
+		"id_str": "1099724092754714624",
+		"full_text": "오늘 무인 다녀오니 나도 최애 배우 덕질하고프다 유태오 배우님 언제 돌아오시나욥 https://t.co/iuFHTtoyeH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099724063604260900,
+					"id_str": "1099724063604260864",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D0MBNZIUwAAe1QV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D0MBNZIUwAAe1QV.jpg",
+					"url": "https://t.co/iuFHTtoyeH",
+					"display_url": "pic.twitter.com/iuFHTtoyeH",
+					"expanded_url": "https://twitter.com/sekaist/status/1099724092754714624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099724063604260900,
+					"id_str": "1099724063604260864",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D0MBNZIUwAAe1QV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D0MBNZIUwAAe1QV.jpg",
+					"url": "https://t.co/iuFHTtoyeH",
+					"display_url": "pic.twitter.com/iuFHTtoyeH",
+					"expanded_url": "https://twitter.com/sekaist/status/1099724092754714624/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 362,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							480,
+							181
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D0MBNZIUwAAe1QV.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 밴드 맥거핀 입덕하새오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 593,
+			"friends_count": 1055,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11652,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 무인 다녀오니 나도 최애 배우 덕질하고프다 유태오 배우님 언제 돌아오시나욥 https://t.co/iuFHTtoyeH"
+	},
+	{
 		"created_at": "Fri Feb 22 08:38:05 +0000 2019",
 		"id": 1098864491465306100,
 		"id_str": "1098864491465306112",
