@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 11 23:14:19 +0000 2019",
+		"id": 1116479622789472300,
+		"id_str": "1116479622789472257",
+		"full_text": "@littlething_sun @veryveryjin 오옹 글쿠나 보이파블로 들으니까 품 노래 나오고 얘 노래까지 추천을,,, 비슷한 노래 추천하기 전문가셔",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "littlething_sun",
+					"name": "그냥",
+					"id": 769779663988138000,
+					"id_str": "769779663988137984",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "veryveryjin",
+					"name": "탄롱",
+					"id": 151817168,
+					"id_str": "151817168",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1116358377838456800,
+		"in_reply_to_status_id_str": "1116358377838456832",
+		"in_reply_to_user_id": 769779663988138000,
+		"in_reply_to_user_id_str": "769779663988137984",
+		"in_reply_to_screen_name": "littlething_sun",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 583,
+			"friends_count": 1050,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11951,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@littlething_sun @veryveryjin 오옹 글쿠나 보이파블로 들으니까 품 노래 나오고 얘 노래까지 추천을,,, 비슷한 노래 추천하기 전문가셔"
+	},
+	{
+		"created_at": "Thu Apr 11 10:12:38 +0000 2019",
+		"id": 1116225766503538700,
+		"id_str": "1116282904194113536",
+		"full_text": "나는 이게 민주당계 정당이 실질적으로 집권을 하여 이룩해 가는, 법과 제도를 통한 '거대한 변혁'이라고 생각함. 비록 이 과정에서 시민사회 진영으로부터 '왜 더 혁명적 진보를 주창하지 않느냐'며 수많은 비난과 공격을 받지만, 이 또한 책임 있는 집권 세력으로서 민주당이 짊어진 운명이기도 함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1116221864538296300,
+		"in_reply_to_status_id_str": "1116221864538296320",
+		"in_reply_to_user_id": 391204503,
+		"in_reply_to_user_id_str": "391204503",
+		"in_reply_to_screen_name": "soundly_s",
+		"user": {
+			"id": 391204503,
+			"id_str": "391204503",
+			"name": "Hooo",
+			"screen_name": "soundly_s",
+			"location": "",
+			"description": "충분한 수면과 균형 잡힌 식단",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4628,
+			"friends_count": 142,
+			"listed_count": 79,
+			"created_at": "Sat Oct 15 06:32:10 +0000 2011",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1982,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/880360927903666176/e9jbIlsR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/880360927903666176/e9jbIlsR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391204503/1494939949",
+			"profile_link_color": "616161",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 559,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "나는 이게 민주당계 정당이 실질적으로 집권을 하여 이룩해 가는, 법과 제도를 통한 '거대한 변혁'이라고 생각함. 비록 이 과정에서 시민사회 진영으로부터 '왜 더 혁명적 진보를 주창하지 않느냐'며 수많은 비난과 공격을 받지만, 이 또한 책임 있는 집권 세력으로서 민주당이 짊어진 운명이기도 함."
+	},
+	{
 		"created_at": "Wed Apr 10 23:44:43 +0000 2019",
 		"id": 1116124884063535100,
 		"id_str": "1116124884063535105",
