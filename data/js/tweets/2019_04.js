@@ -1,6 +1,478 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 15 23:14:42 +0000 2019",
+		"id": 1117928956726919200,
+		"id_str": "1117929270704082944",
+		"full_text": "[4/15, KBS뉴스9 단독보도영상]\n\n1. 세월호DVR 수색영상 입수, “사라진 20분-수색영상도 조작됐다!”\nhttps://t.co/DMJUajuA8N \n\n2. 두 장의 인수인계서.. “바꿔치기 의혹, 재수사해야!!”\nhttps://t.co/MaSTAQfQgC \n\n**특별수사단 국민청원**\nhttps://t.co/b5nRAo6YUT https://t.co/dkMaIgmP5S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DMJUajuA8N",
+					"expanded_url": "https://youtu.be/Keco8o7qrug",
+					"display_url": "youtu.be/Keco8o7qrug",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/MaSTAQfQgC",
+					"expanded_url": "https://youtu.be/M6KgSrRXcMY",
+					"display_url": "youtu.be/M6KgSrRXcMY",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"url": "https://t.co/b5nRAo6YUT",
+					"expanded_url": "https://www1.president.go.kr/petitions/577697?navigation=petitions",
+					"display_url": "www1.president.go.kr/petitions/5776…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1117928948510277600,
+					"id_str": "1117928948510277632",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/D4OudKQUwAA9QkP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4OudKQUwAA9QkP.jpg",
+					"url": "https://t.co/dkMaIgmP5S",
+					"display_url": "pic.twitter.com/dkMaIgmP5S",
+					"expanded_url": "https://twitter.com/snk21c/status/1117928956726919168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 905,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117928948510277600,
+					"id_str": "1117928948510277632",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/D4OudKQUwAA9QkP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4OudKQUwAA9QkP.jpg",
+					"url": "https://t.co/dkMaIgmP5S",
+					"display_url": "pic.twitter.com/dkMaIgmP5S",
+					"expanded_url": "https://twitter.com/snk21c/status/1117928956726919168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 905,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1117928948518621200,
+					"id_str": "1117928948518621184",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/D4OudKSUEAAGc2O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4OudKSUEAAGc2O.jpg",
+					"url": "https://t.co/dkMaIgmP5S",
+					"display_url": "pic.twitter.com/dkMaIgmP5S",
+					"expanded_url": "https://twitter.com/snk21c/status/1117928956726919168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 904,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1117928948522868700,
+					"id_str": "1117928948522868738",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/D4OudKTU4AI4upR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4OudKTU4AI4upR.jpg",
+					"url": "https://t.co/dkMaIgmP5S",
+					"display_url": "pic.twitter.com/dkMaIgmP5S",
+					"expanded_url": "https://twitter.com/snk21c/status/1117928956726919168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 357,
+							"h": 357,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 357,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 357,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1117928948522860500,
+					"id_str": "1117928948522860545",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/D4OudKTUwAEnRFz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4OudKTUwAEnRFz.jpg",
+					"url": "https://t.co/dkMaIgmP5S",
+					"display_url": "pic.twitter.com/dkMaIgmP5S",
+					"expanded_url": "https://twitter.com/snk21c/status/1117928956726919168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 357,
+							"h": 357,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 357,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 357,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108496938,
+			"id_str": "108496938",
+			"name": "예은아빠 유경근",
+			"screen_name": "snk21c",
+			"location": "",
+			"description": "단원고2-3 유예은 아빠. 세월호참사 진상규명!! The truth shall not sink with SEWOL!!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105062,
+			"friends_count": 28797,
+			"listed_count": 311,
+			"created_at": "Tue Jan 26 03:40:40 +0000 2010",
+			"favourites_count": 577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6216,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042781659051917312/9NoRNIVN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042781659051917312/9NoRNIVN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108496938/1537453656",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 138,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[4/15, KBS뉴스9 단독보도영상]\n\n1. 세월호DVR 수색영상 입수, “사라진 20분-수색영상도 조작됐다!”\nhttps://t.co/DMJUajuA8N \n\n2. 두 장의 인수인계서.. “바꿔치기 의혹, 재수사해야!!”\nhttps://t.co/MaSTAQfQgC \n\n**특별수사단 국민청원**\nhttps://t.co/b5nRAo6YUT https://t.co/dkMaIgmP5S"
+	},
+	{
+		"created_at": "Mon Apr 15 23:13:37 +0000 2019",
+		"id": 1117928998074347500,
+		"id_str": "1117928998074347521",
+		"full_text": "남겨진 사람들이 덜 아팠으면 좋겠다. 항상 기억하겠습니다🎗",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 583,
+			"friends_count": 1050,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11984,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "남겨진 사람들이 덜 아팠으면 좋겠다. 항상 기억하겠습니다🎗"
+	},
+	{
+		"created_at": "Mon Apr 15 23:07:19 +0000 2019",
+		"id": 1117927410253439000,
+		"id_str": "1117927410253438976",
+		"full_text": "@liiiliii126 이거 올리고 얘처럼 잠들었숴😴",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "liiiliii126",
+					"name": "코알라",
+					"id": 2912290532,
+					"id_str": "2912290532",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117784300257026000,
+		"in_reply_to_status_id_str": "1117784300257026048",
+		"in_reply_to_user_id": 2912290532,
+		"in_reply_to_user_id_str": "2912290532",
+		"in_reply_to_screen_name": "liiiliii126",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 583,
+			"friends_count": 1050,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11984,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@liiiliii126 이거 올리고 얘처럼 잠들었숴😴"
+	},
+	{
 		"created_at": "Sun Apr 14 13:50:02 +0000 2019",
 		"id": 1117424777218515000,
 		"id_str": "1117424777218514946",
