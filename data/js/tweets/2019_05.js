@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 10 23:33:23 +0000 2019",
+		"id": 1126993668290703400,
+		"id_str": "1126993668290703360",
+		"full_text": "가끔 총리님이 촌철살인의 말씀 하실 때 넘 통쾌하고 든든함",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 1051,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12121,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "가끔 총리님이 촌철살인의 말씀 하실 때 넘 통쾌하고 든든함"
+	},
+	{
+		"created_at": "Fri May 10 23:29:12 +0000 2019",
+		"id": 1126864769615458300,
+		"id_str": "1126992614098522113",
+		"full_text": "김군. 올해 가장 흥미로운 예고편. https://t.co/zXCVDdsNsR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126864152402677800,
+					"id_str": "1126864152402677760",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1126864152402677760/pu/img/DKRK1lozR_5O0-XR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1126864152402677760/pu/img/DKRK1lozR_5O0-XR.jpg",
+					"url": "https://t.co/zXCVDdsNsR",
+					"display_url": "pic.twitter.com/zXCVDdsNsR",
+					"expanded_url": "https://twitter.com/applevirus/status/1126864769615458304/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126864152402677800,
+					"id_str": "1126864152402677760",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1126864152402677760/pu/img/DKRK1lozR_5O0-XR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1126864152402677760/pu/img/DKRK1lozR_5O0-XR.jpg",
+					"url": "https://t.co/zXCVDdsNsR",
+					"display_url": "pic.twitter.com/zXCVDdsNsR",
+					"expanded_url": "https://twitter.com/applevirus/status/1126864769615458304/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 82082,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1126864152402677760/pu/vid/1280x720/Ew4yCfRUxlqRUNpY.mp4?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1126864152402677760/pu/vid/320x180/iojVqAcYhhw7Wecx.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1126864152402677760/pu/vid/640x360/KvRjNjvkiDDP54n8.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1126864152402677760/pu/pl/8V6oTkwqJ9t-UXZh.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126354150,
+			"id_str": "126354150",
+			"name": "applevirus",
+			"screen_name": "applevirus",
+			"location": "Somewhere in Universe",
+			"description": "★ I Want you today more than yesterday ★",
+			"url": "https://t.co/gF65icy5Jk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gF65icy5Jk",
+							"expanded_url": "http://applevirus.tistory.com",
+							"display_url": "applevirus.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Thu Mar 25 15:59:21 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1632,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/714208541188493312/F7xQaNsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/714208541188493312/F7xQaNsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126354150/1459115559",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFD012",
+			"profile_sidebar_fill_color": "95DE7C",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 392,
+		"favorite_count": 243,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김군. 올해 가장 흥미로운 예고편. https://t.co/zXCVDdsNsR"
+	},
+	{
 		"created_at": "Thu May 09 15:05:56 +0000 2019",
 		"id": 1126503576849641500,
 		"id_str": "1126503576849641478",
@@ -1044,7 +1331,7 @@ Grailbird.data.tweets_2019_05 =
 			"name": "윤갑희노애락",
 			"screen_name": "yoongaphee",
 			"location": "Seoul",
-			"description": "[재밌다! 평양을 세일합니다] \n✷교보 : https://t.co/djI1cmKTVP\n✷알라딘 : https://t.co/MNVNLAK8EO\n* yes24 : https://t.co/zN2xPoiPXb​",
+			"description": "[재밌다! 평양을 세일합니다] \n✷교보 : https://t.co/djI1cmKTVP\n✷알라딘 : https://t.co/MNVNLAK8EO\n* yes24 : https://t.co/zN2xPoiPXb",
 			"url": null,
 			"entities": {
 				"description": {
