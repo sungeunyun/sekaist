@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 23:23:51 +0000 2019",
+		"id": 1131339922818736100,
+		"id_str": "1131339922818736128",
+		"full_text": "@fallsstar 저도 곧 나갈거같네요 절이 싫으면 저따위 중이 나가야죠 ‘ㅋㅋㅋㅋㅋㅋㅋ’ 10줄 치면서 카톡 쌓이는데 사담이 짧다니,,,",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fallsstar",
+					"name": "HR",
+					"id": 265341125,
+					"id_str": "265341125",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1131338459619008500,
+		"in_reply_to_status_id_str": "1131338459619008512",
+		"in_reply_to_user_id": 265341125,
+		"in_reply_to_user_id_str": "265341125",
+		"in_reply_to_screen_name": "fallsstar",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 1050,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@fallsstar 저도 곧 나갈거같네요 절이 싫으면 저따위 중이 나가야죠 ‘ㅋㅋㅋㅋㅋㅋㅋ’ 10줄 치면서 카톡 쌓이는데 사담이 짧다니,,,"
+	},
+	{
+		"created_at": "Wed May 22 23:16:41 +0000 2019",
+		"id": 1131338117913333800,
+		"id_str": "1131338117913333760",
+		"full_text": "@fallsstar 우리가 나가야 하나봐요,,,,,",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fallsstar",
+					"name": "HR",
+					"id": 265341125,
+					"id_str": "265341125",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1131336324911210500,
+		"in_reply_to_status_id_str": "1131336324911210497",
+		"in_reply_to_user_id": 265341125,
+		"in_reply_to_user_id_str": "265341125",
+		"in_reply_to_screen_name": "fallsstar",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 1050,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@fallsstar 우리가 나가야 하나봐요,,,,,"
+	},
+	{
+		"created_at": "Wed May 22 21:50:38 +0000 2019",
+		"id": 1131233803937017900,
+		"id_str": "1131316465934557184",
+		"full_text": "노무현 대통령, \"성숙한 민주주의를 위해서 우리 시민들이 할 몫이 있습니다. 그것은 참여. 정치인들은 정치에 발을 들여놓은 순간 다음 자기 당선을 위해서 소신껏 다하기 어렵죠. 시민들은 그렇지 않습니다. 시민 여러분들은 계속 밀고 갈 수 있습니다. 참여 민주주의, 그거 한번 합시다\" https://t.co/zQQKv9LxkI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131233546280955900,
+					"id_str": "1131233546280955906",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1131233546280955906/pu/img/joAM-sxOFXMPczQu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1131233546280955906/pu/img/joAM-sxOFXMPczQu.jpg",
+					"url": "https://t.co/zQQKv9LxkI",
+					"display_url": "pic.twitter.com/zQQKv9LxkI",
+					"expanded_url": "https://twitter.com/happy_CSR/status/1131233803937017856/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131233546280955900,
+					"id_str": "1131233546280955906",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1131233546280955906/pu/img/joAM-sxOFXMPczQu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1131233546280955906/pu/img/joAM-sxOFXMPczQu.jpg",
+					"url": "https://t.co/zQQKv9LxkI",
+					"display_url": "pic.twitter.com/zQQKv9LxkI",
+					"expanded_url": "https://twitter.com/happy_CSR/status/1131233803937017856/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140007,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1131233546280955906/pu/pl/3gbWUqBhliNl0ZKL.m3u8?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1131233546280955906/pu/vid/640x360/UoEVWMB0kpjtLorZ.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1131233546280955906/pu/vid/1280x720/-2yWPsvlGOIid79_.mp4?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1131233546280955906/pu/vid/320x180/fAKphJx9UUbv6JTq.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 864143387770757100,
+			"id_str": "864143387770757121",
+			"name": "sora",
+			"screen_name": "happy_CSR",
+			"location": "",
+			"description": "감격의 그날, 판문점 선언 1년이 되었습니다. 우리는 평화롭게 살 자격이 있습니다. 우리는 한반도를 넘어 대륙을 꿈꿀 능력이 있습니다. 우리 모두, 또 남과 북이 함께 출발한 평화의 길입니다. 도보다리의 산새들에게도 안부를 물어봅니다./문재인 대통령, 4.27 판문점 선언 1주년 메시지",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17714,
+			"friends_count": 3025,
+			"listed_count": 69,
+			"created_at": "Mon May 15 15:40:13 +0000 2017",
+			"favourites_count": 30799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081631355778195457/eHF8IA7r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081631355778195457/eHF8IA7r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/864143387770757121/1556302222",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 288,
+		"favorite_count": 346,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노무현 대통령, \"성숙한 민주주의를 위해서 우리 시민들이 할 몫이 있습니다. 그것은 참여. 정치인들은 정치에 발을 들여놓은 순간 다음 자기 당선을 위해서 소신껏 다하기 어렵죠. 시민들은 그렇지 않습니다. 시민 여러분들은 계속 밀고 갈 수 있습니다. 참여 민주주의, 그거 한번 합시다\" https://t.co/zQQKv9LxkI"
+	},
+	{
 		"created_at": "Tue May 21 23:34:36 +0000 2019",
 		"id": 1130980238106644500,
 		"id_str": "1130980238106644481",
