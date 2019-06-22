@@ -1,6 +1,723 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 21 17:41:56 +0000 2019",
+		"id": 1142125513609105400,
+		"id_str": "1142125513609105408",
+		"full_text": "삼각대를 사든가 해야지 원 힘들게 망원 가져가면 뭐하나 영상이 흔들흔들 손떨림 보정하려다가 넘 오래걸려서 참았다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 1050,
+			"listed_count": 18,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "삼각대를 사든가 해야지 원 힘들게 망원 가져가면 뭐하나 영상이 흔들흔들 손떨림 보정하려다가 넘 오래걸려서 참았다"
+	},
+	{
+		"created_at": "Fri Jun 21 17:28:46 +0000 2019",
+		"id": 1142106045470445600,
+		"id_str": "1142122197881778181",
+		"full_text": "Making our return to South Korea for Incheon Pentaport Rock Festival on August 11th https://t.co/5QtDMZNriI https://t.co/2B3978hor3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5QtDMZNriI",
+					"expanded_url": "http://bit.ly/2Y40t7g",
+					"display_url": "bit.ly/2Y40t7g",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142105881015914500,
+					"id_str": "1142105881015914502",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/D9mTP2XWkAYEERG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9mTP2XWkAYEERG.jpg",
+					"url": "https://t.co/2B3978hor3",
+					"display_url": "pic.twitter.com/2B3978hor3",
+					"expanded_url": "https://twitter.com/Weezer/status/1142106045470445568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 833,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1421,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142105881015914500,
+					"id_str": "1142105881015914502",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/D9mTP2XWkAYEERG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9mTP2XWkAYEERG.jpg",
+					"url": "https://t.co/2B3978hor3",
+					"display_url": "pic.twitter.com/2B3978hor3",
+					"expanded_url": "https://twitter.com/Weezer/status/1142106045470445568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 833,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1421,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16685316,
+			"id_str": "16685316",
+			"name": "weezer",
+			"screen_name": "Weezer",
+			"location": "Los Angeles",
+			"description": "The Black Album is out. This is now your reality https://t.co/3lvqqCzIUY Spring tour w/ @PIXIES on sale now https://t.co/GDUMuOiLaf",
+			"url": "https://t.co/DzBNqP4yLJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DzBNqP4yLJ",
+							"expanded_url": "https://weezer.com",
+							"display_url": "weezer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3lvqqCzIUY",
+							"expanded_url": "https://weezer.lnk.to/TheBlackAlbum",
+							"display_url": "weezer.lnk.to/TheBlackAlbum",
+							"indices": [
+								49,
+								72
+							]
+						},
+						{
+							"url": "https://t.co/GDUMuOiLaf",
+							"expanded_url": "http://weezer.com/tour",
+							"display_url": "weezer.com/tour",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1740077,
+			"friends_count": 521,
+			"listed_count": 9711,
+			"created_at": "Fri Oct 10 16:33:54 +0000 2008",
+			"favourites_count": 595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065289082366943232/lpVIANUd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065289082366943232/lpVIANUd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16685316/1553182158",
+			"profile_link_color": "FF2200",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "050505",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Making our return to South Korea for Incheon Pentaport Rock Festival on August 11th https://t.co/5QtDMZNriI https://t.co/2B3978hor3"
+	},
+	{
+		"created_at": "Fri Jun 21 17:28:28 +0000 2019",
+		"id": 1142122123223109600,
+		"id_str": "1142122123223109632",
+		"full_text": "@_dongle_berry 저에게 너무나도 큰 시련을,,,, 그날 12월에 상마 안갔으면 계획대로 ㅈㄱ씨 덕질했을텐데 최애 눈치보여서 한눈 못팔거같아요",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_dongle_berry",
+					"name": "동글베리",
+					"id": 787971364313378800,
+					"id_str": "787971364313378817",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1142110864943669200,
+		"in_reply_to_status_id_str": "1142110864943669253",
+		"in_reply_to_user_id": 787971364313378800,
+		"in_reply_to_user_id_str": "787971364313378817",
+		"in_reply_to_screen_name": "_dongle_berry",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 1050,
+			"listed_count": 18,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@_dongle_berry 저에게 너무나도 큰 시련을,,,, 그날 12월에 상마 안갔으면 계획대로 ㅈㄱ씨 덕질했을텐데 최애 눈치보여서 한눈 못팔거같아요"
+	},
+	{
+		"created_at": "Fri Jun 21 16:42:12 +0000 2019",
+		"id": 1142110478446972900,
+		"id_str": "1142110478446972928",
+		"full_text": "@_dongle_berry 저도 무서우시라고 다 누름 아니 젤먼저 뜬게 욕조지 뭐에요 너무 놀래서 프로필로 들어갔죠,,,,,",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_dongle_berry",
+					"name": "동글베리",
+					"id": 787971364313378800,
+					"id_str": "787971364313378817",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1142110304140009500,
+		"in_reply_to_status_id_str": "1142110304140009477",
+		"in_reply_to_user_id": 787971364313378800,
+		"in_reply_to_user_id_str": "787971364313378817",
+		"in_reply_to_screen_name": "_dongle_berry",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 1050,
+			"listed_count": 18,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@_dongle_berry 저도 무서우시라고 다 누름 아니 젤먼저 뜬게 욕조지 뭐에요 너무 놀래서 프로필로 들어갔죠,,,,,"
+	},
+	{
+		"created_at": "Fri Jun 21 15:49:33 +0000 2019",
+		"id": 1142097232193179600,
+		"id_str": "1142097232193179648",
+		"full_text": "와우 ㅈㅈㄱ 화보 미쳤네 최애랑 같이만 안나왔어도 흑흑,,,,",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 1050,
+			"listed_count": 18,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "와우 ㅈㅈㄱ 화보 미쳤네 최애랑 같이만 안나왔어도 흑흑,,,,"
+	},
+	{
+		"created_at": "Fri Jun 21 11:41:06 +0000 2019",
+		"id": 1142034707393024000,
+		"id_str": "1142034707393024000",
+		"full_text": "같은 서울인데 이러기 있기없기 우리동네는 폭우 수준으로 퍼붓더만 여기는 땅이 말라있네",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 1050,
+			"listed_count": 18,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "같은 서울인데 이러기 있기없기 우리동네는 폭우 수준으로 퍼붓더만 여기는 땅이 말라있네"
+	},
+	{
+		"created_at": "Fri Jun 21 11:34:40 +0000 2019",
+		"id": 1142033088119111700,
+		"id_str": "1142033088119111680",
+		"full_text": "공연보다가 졸거같은 상태인데😇",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 1050,
+			"listed_count": 18,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "공연보다가 졸거같은 상태인데😇"
+	},
+	{
 		"created_at": "Wed Jun 19 16:11:12 +0000 2019",
 		"id": 1141377904988708900,
 		"id_str": "1141377904988708864",
