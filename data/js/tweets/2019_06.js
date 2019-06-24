@@ -1,6 +1,655 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 23 23:07:00 +0000 2019",
+		"id": 1142727752652476400,
+		"id_str": "1142932092466028544",
+		"full_text": "나도 숙대에 황교안이 어떻게 강의하러 갔을까 궁금했는데 황교안 부른 교수가 정외과 교수고 강의 안들어오면 학점 안준다그래서 어쩔 수 없이 들어갔고, 사전 동의 없이 기자를 데려와서 사진 찍고, 학생들 몇 학년인지도 모르고 들어가서 삭아보인다는 둥 개소리했다고 함. 진짜 어이없다... https://t.co/slOG5RItlk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142727741965340700,
+					"id_str": "1142727741965340673",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D9vI067UEAE2Mwt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9vI067UEAE2Mwt.jpg",
+					"url": "https://t.co/slOG5RItlk",
+					"display_url": "pic.twitter.com/slOG5RItlk",
+					"expanded_url": "https://twitter.com/nenne_zZ/status/1142727752652476416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 756,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 502,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 756,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142727741965340700,
+					"id_str": "1142727741965340673",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D9vI067UEAE2Mwt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9vI067UEAE2Mwt.jpg",
+					"url": "https://t.co/slOG5RItlk",
+					"display_url": "pic.twitter.com/slOG5RItlk",
+					"expanded_url": "https://twitter.com/nenne_zZ/status/1142727752652476416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 756,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 502,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 756,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1142727741956972500,
+					"id_str": "1142727741956972549",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D9vI065UYAUH9fT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9vI065UYAUH9fT.jpg",
+					"url": "https://t.co/slOG5RItlk",
+					"display_url": "pic.twitter.com/slOG5RItlk",
+					"expanded_url": "https://twitter.com/nenne_zZ/status/1142727752652476416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1142727741957005300,
+					"id_str": "1142727741957005312",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D9vI065U4AAQ4Gi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9vI065U4AAQ4Gi.jpg",
+					"url": "https://t.co/slOG5RItlk",
+					"display_url": "pic.twitter.com/slOG5RItlk",
+					"expanded_url": "https://twitter.com/nenne_zZ/status/1142727752652476416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 590,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 590,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 912534228083949600,
+			"id_str": "912534228083949568",
+			"name": "ɴ ᴇ ɴ ɴ ᴇ",
+			"screen_name": "nenne_zZ",
+			"location": "",
+			"description": "좋아하는 것 : 고양이, 떡볶이, 드라마, 영화, 집",
+			"url": "https://t.co/qQJIGX5Alo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qQJIGX5Alo",
+							"expanded_url": "http://ask.fm/nenne_zZ",
+							"display_url": "ask.fm/nenne_zZ",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5558,
+			"friends_count": 127,
+			"listed_count": 32,
+			"created_at": "Tue Sep 26 04:28:08 +0000 2017",
+			"favourites_count": 53760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086491049357279233/__2VhlQg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086491049357279233/__2VhlQg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/912534228083949568/1527082115",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2384,
+		"favorite_count": 330,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나도 숙대에 황교안이 어떻게 강의하러 갔을까 궁금했는데 황교안 부른 교수가 정외과 교수고 강의 안들어오면 학점 안준다그래서 어쩔 수 없이 들어갔고, 사전 동의 없이 기자를 데려와서 사진 찍고, 학생들 몇 학년인지도 모르고 들어가서 삭아보인다는 둥 개소리했다고 함. 진짜 어이없다... https://t.co/slOG5RItlk"
+	},
+	{
+		"created_at": "Sun Jun 23 14:29:27 +0000 2019",
+		"id": 1142801849143054300,
+		"id_str": "1142801849143054336",
+		"full_text": "@k_jwnee @veryveryjin @YouTube 펜타 토요일에 가야합니다🥰🥰",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "k_jwnee",
+					"name": "잰",
+					"id": 3030264154,
+					"id_str": "3030264154",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "veryveryjin",
+					"name": "탄롱",
+					"id": 151817168,
+					"id_str": "151817168",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						22,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1142796376171933700,
+		"in_reply_to_status_id_str": "1142796376171933697",
+		"in_reply_to_user_id": 3030264154,
+		"in_reply_to_user_id_str": "3030264154",
+		"in_reply_to_screen_name": "k_jwnee",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 1050,
+			"listed_count": 18,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@k_jwnee @veryveryjin @YouTube 펜타 토요일에 가야합니다🥰🥰"
+	},
+	{
+		"created_at": "Sun Jun 23 05:52:41 +0000 2019",
+		"id": 1142671800209309700,
+		"id_str": "1142671800209309697",
+		"full_text": "@nomad_612 저의 문제라는거죠? 그 친구의 문제가 아니라.. 너무 특정인물이 생생하게 등장해서 좀 충격적이었어요 ㅠㅠ 어제 넘나 피곤해서 그런가 평소에 꿈도 잘 기억못하는데 이상하네요",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nomad_612",
+					"name": "길날",
+					"id": 992295677798465500,
+					"id_str": "992295677798465536",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1142664490405597200,
+		"in_reply_to_status_id_str": "1142664490405597185",
+		"in_reply_to_user_id": 992295677798465500,
+		"in_reply_to_user_id_str": "992295677798465536",
+		"in_reply_to_screen_name": "nomad_612",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 1050,
+			"listed_count": 18,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@nomad_612 저의 문제라는거죠? 그 친구의 문제가 아니라.. 너무 특정인물이 생생하게 등장해서 좀 충격적이었어요 ㅠㅠ 어제 넘나 피곤해서 그런가 평소에 꿈도 잘 기억못하는데 이상하네요"
+	},
+	{
+		"created_at": "Sun Jun 23 05:51:52 +0000 2019",
+		"id": 1142671594889732100,
+		"id_str": "1142671594889732096",
+		"full_text": "@hoffen_kanarazu 오 그럼 다행이다 걱정되서 연락했더니 그냥 평소랑 똑같더라고 ㅎㅎ 좋은 일 생겼으면 좋겠네",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hoffen_kanarazu",
+					"name": "Alice",
+					"id": 191501633,
+					"id_str": "191501633",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1142661732126449700,
+		"in_reply_to_status_id_str": "1142661732126449664",
+		"in_reply_to_user_id": 191501633,
+		"in_reply_to_user_id_str": "191501633",
+		"in_reply_to_screen_name": "hoffen_kanarazu",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 1050,
+			"listed_count": 18,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@hoffen_kanarazu 오 그럼 다행이다 걱정되서 연락했더니 그냥 평소랑 똑같더라고 ㅎㅎ 좋은 일 생겼으면 좋겠네"
+	},
+	{
+		"created_at": "Sun Jun 23 04:49:51 +0000 2019",
+		"id": 1142655987054067700,
+		"id_str": "1142655987054067712",
+		"full_text": "이불이 따뜻하네 내가 들어있네 커다란 애벌레 상태로 못일어나고 있음 침대에서 유튜브로 노래듣는게 최고시다 181111 홍갑 - 11시에 봅시다 @한잔의 룰루랄라 https://t.co/GyJjipH6Xf - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						116,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GyJjipH6Xf",
+					"expanded_url": "https://youtu.be/p5wHhUDVmC0",
+					"display_url": "youtu.be/p5wHhUDVmC0",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 1050,
+			"listed_count": 18,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이불이 따뜻하네 내가 들어있네 커다란 애벌레 상태로 못일어나고 있음 침대에서 유튜브로 노래듣는게 최고시다 181111 홍갑 - 11시에 봅시다 @한잔의 룰루랄라 https://t.co/GyJjipH6Xf - @YouTube"
+	},
+	{
 		"created_at": "Sat Jun 22 18:38:15 +0000 2019",
 		"id": 1142502071691644900,
 		"id_str": "1142502071691644928",
