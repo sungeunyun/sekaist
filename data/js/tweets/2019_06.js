@@ -1,6 +1,568 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 28 10:28:03 +0000 2019",
+		"id": 1144553035495923700,
+		"id_str": "1144553035495923713",
+		"full_text": "기레기들아 이것이 홀대.gif다 https://t.co/rKVH3tLSuJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1144552981590732800,
+					"id_str": "1144552981590732800",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D-JE32ZUcAAJfaY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D-JE32ZUcAAJfaY.jpg",
+					"url": "https://t.co/rKVH3tLSuJ",
+					"display_url": "pic.twitter.com/rKVH3tLSuJ",
+					"expanded_url": "https://twitter.com/sekaist/status/1144553035495923713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144552981590732800,
+					"id_str": "1144552981590732800",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D-JE32ZUcAAJfaY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D-JE32ZUcAAJfaY.jpg",
+					"url": "https://t.co/rKVH3tLSuJ",
+					"display_url": "pic.twitter.com/rKVH3tLSuJ",
+					"expanded_url": "https://twitter.com/sekaist/status/1144553035495923713/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 608,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 608,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							19,
+							15
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D-JE32ZUcAAJfaY.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 589,
+			"friends_count": 1052,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기레기들아 이것이 홀대.gif다 https://t.co/rKVH3tLSuJ"
+	},
+	{
+		"created_at": "Fri Jun 28 08:51:42 +0000 2019",
+		"id": 1144508961648861200,
+		"id_str": "1144528790426509313",
+		"full_text": "안녕? 그동안 잘지냈나요?\n행복을 부르는 우리 모두의 인생 영화🍀\n&lt;마담 프루스트의 비밀 정원&gt; 7월 25일\n5년 만에 재개봉 확정!\n⠀⠀⠀\n마법 같은 비밀 정원의 문이 다시 열립니다😊🌹\n⠀⠀⠀\n#영화 #마담프루스트의비밀정원\n#재개봉 #5주년 #인생영화 #띵작 #비주얼깡패 https://t.co/HOB883J9Ig",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "영화",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "마담프루스트의비밀정원",
+					"indices": [
+						119,
+						131
+					]
+				},
+				{
+					"text": "재개봉",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "5주년",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "인생영화",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "띵작",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "비주얼깡패",
+					"indices": [
+						152,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1144508904644083700,
+					"id_str": "1144508904644083712",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D-IcyO-VAAAI1LB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-IcyO-VAAAI1LB.jpg",
+					"url": "https://t.co/HOB883J9Ig",
+					"display_url": "pic.twitter.com/HOB883J9Ig",
+					"expanded_url": "https://twitter.com/challanfilm/status/1144508961648861186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 678,
+							"h": 365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 678,
+							"h": 365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 678,
+							"h": 365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144508904644083700,
+					"id_str": "1144508904644083712",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D-IcyO-VAAAI1LB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-IcyO-VAAAI1LB.jpg",
+					"url": "https://t.co/HOB883J9Ig",
+					"display_url": "pic.twitter.com/HOB883J9Ig",
+					"expanded_url": "https://twitter.com/challanfilm/status/1144508961648861186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 678,
+							"h": 365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 678,
+							"h": 365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 678,
+							"h": 365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1144508915125592000,
+					"id_str": "1144508915125592064",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D-Icy2BUIAA44vI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-Icy2BUIAA44vI.jpg",
+					"url": "https://t.co/HOB883J9Ig",
+					"display_url": "pic.twitter.com/HOB883J9Ig",
+					"expanded_url": "https://twitter.com/challanfilm/status/1144508961648861186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1363,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1144508936046780400,
+					"id_str": "1144508936046780416",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/D-Ic0D9UIAA32fE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-Ic0D9UIAA32fE.jpg",
+					"url": "https://t.co/HOB883J9Ig",
+					"display_url": "pic.twitter.com/HOB883J9Ig",
+					"expanded_url": "https://twitter.com/challanfilm/status/1144508961648861186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1363,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 277891188,
+			"id_str": "277891188",
+			"name": "찬란",
+			"screen_name": "challanfilm",
+			"location": "강남,신사,가로수길",
+			"description": "로튼토마토 100% '유전' 감독 신작 '미드소마' 밤보다 무서운 대낮 공포가 시작된다! 7월 11일 커밍순! https://t.co/4tILlDe0H0",
+			"url": "https://t.co/RsFd05j5p9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RsFd05j5p9",
+							"expanded_url": "http://www.challan.co.kr/",
+							"display_url": "challan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4tILlDe0H0",
+							"expanded_url": "http://Instagram.com/challanfilm",
+							"display_url": "Instagram.com/challanfilm",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3886,
+			"friends_count": 2499,
+			"listed_count": 64,
+			"created_at": "Wed Apr 06 06:32:47 +0000 2011",
+			"favourites_count": 4659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/560332004311314432/AM9jHHqF_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/560332004311314432/AM9jHHqF_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/277891188/1560483073",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕? 그동안 잘지냈나요?\n행복을 부르는 우리 모두의 인생 영화🍀\n&lt;마담 프루스트의 비밀 정원&gt; 7월 25일\n5년 만에 재개봉 확정!\n⠀⠀⠀\n마법 같은 비밀 정원의 문이 다시 열립니다😊🌹\n⠀⠀⠀\n#영화 #마담프루스트의비밀정원\n#재개봉 #5주년 #인생영화 #띵작 #비주얼깡패 https://t.co/HOB883J9Ig"
+	},
+	{
+		"created_at": "Fri Jun 28 01:33:16 +0000 2019",
+		"id": 1144418455250014200,
+		"id_str": "1144418455250014208",
+		"full_text": "회사 메일함 30기가중에 3.25기가 찼는데 30기가가 다 차기전에 퇴사하고 싶다는 작은 소망",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 589,
+			"friends_count": 1052,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "회사 메일함 30기가중에 3.25기가 찼는데 30기가가 다 차기전에 퇴사하고 싶다는 작은 소망"
+	},
+	{
 		"created_at": "Thu Jun 27 15:47:20 +0000 2019",
 		"id": 1144270999292002300,
 		"id_str": "1144270999292002306",
