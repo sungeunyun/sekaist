@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 08 07:00:43 +0000 2019",
+		"id": 1148123585958957000,
+		"id_str": "1148124738746589184",
+		"full_text": "☆작은 RT이벤트☆\n반스 뮤지션 원티드 2019\n밴드 라쿠나(Lacuna)에게 소중한 한표 부탁드립니다! \n로그인 따로 필요없으며 페이지에 접속후 투표하기 누르시면 끝!!😊 누르신후 투표 수를 캡쳐하여 답글 + RT해주신 분들 중 2분을 뽑아 기프티콘 발송해 드리겠습니다😊😊😊\nhttps://t.co/YRzka73p4U https://t.co/E6M95OSkjN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YRzka73p4U",
+					"expanded_url": "https://hovasia.com/musicianswanted/ko-kr/musicians/37664998499615130",
+					"display_url": "hovasia.com/musicianswante…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1148123474755330000,
+					"id_str": "1148123474755330048",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D-70N58UIAA47dG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-70N58UIAA47dG.jpg",
+					"url": "https://t.co/E6M95OSkjN",
+					"display_url": "pic.twitter.com/E6M95OSkjN",
+					"expanded_url": "https://twitter.com/fallsstar/status/1148123585958957057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 968,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1339,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148123474755330000,
+					"id_str": "1148123474755330048",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D-70N58UIAA47dG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-70N58UIAA47dG.jpg",
+					"url": "https://t.co/E6M95OSkjN",
+					"display_url": "pic.twitter.com/E6M95OSkjN",
+					"expanded_url": "https://twitter.com/fallsstar/status/1148123585958957057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 968,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1339,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1148123499736645600,
+					"id_str": "1148123499736645632",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/D-70PXAUwAAYm_f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-70PXAUwAAYm_f.jpg",
+					"url": "https://t.co/E6M95OSkjN",
+					"display_url": "pic.twitter.com/E6M95OSkjN",
+					"expanded_url": "https://twitter.com/fallsstar/status/1148123585958957057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 862,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265341125,
+			"id_str": "265341125",
+			"name": "HR",
+			"screen_name": "fallsstar",
+			"location": "korea",
+			"description": "❇트위터외의 재업 금지, 2차 가공금지❇ 🌜💙🌜💙🌛💙🌛 😼5년차프로집사😺💕🐧MACGUFFIN🐧💕🐯LACUNA🐯🐋CALF🐋🌿LIFE&TIME🌿🐸GUCKKASTEN🐸instagram🐥: hr_pic youtube🎬:hr_pic.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168,
+			"friends_count": 247,
+			"listed_count": 0,
+			"created_at": "Sun Mar 13 11:39:08 +0000 2011",
+			"favourites_count": 29556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112860082222460928/xVG0sgeq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112860082222460928/xVG0sgeq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265341125/1554162091",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "☆작은 RT이벤트☆\n반스 뮤지션 원티드 2019\n밴드 라쿠나(Lacuna)에게 소중한 한표 부탁드립니다! \n로그인 따로 필요없으며 페이지에 접속후 투표하기 누르시면 끝!!😊 누르신후 투표 수를 캡쳐하여 답글 + RT해주신 분들 중 2분을 뽑아 기프티콘 발송해 드리겠습니다😊😊😊\nhttps://t.co/YRzka73p4U https://t.co/E6M95OSkjN"
+	},
+	{
+		"created_at": "Mon Jul 08 06:58:42 +0000 2019",
+		"id": 1148105984297934800,
+		"id_str": "1148124231395241984",
+		"full_text": "저어기 트친님들아 https://t.co/fJKqrGTksr \n한국-록-높은 득표순으로 정렬하시면 한 6번째 줄에 아뮤하(atom music heart)라는 듣도보도 못한 밴드 하나 나와요 거기에 투표 하나만 해주시면",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fJKqrGTksr",
+					"expanded_url": "https://hovasia.com/musicianswanted/ko-kr/musicians",
+					"display_url": "hovasia.com/musicianswante…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213209467,
+			"id_str": "213209467",
+			"name": "순간순간자주자주 행복한 Sophia.",
+			"screen_name": "Sophia_1979",
+			"location": "With Sul.",
+			"description": "덕질DNA 있어요. \n오독의 가능성을 두려워하는 사람.\n강냥이야 기다려줘 다시 만날때까지.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4463,
+			"friends_count": 432,
+			"listed_count": 50,
+			"created_at": "Mon Nov 08 08:37:22 +0000 2010",
+			"favourites_count": 78988,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132575980592062464/uhgipnFm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132575980592062464/uhgipnFm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213209467/1561190237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저어기 트친님들아 https://t.co/fJKqrGTksr \n한국-록-높은 득표순으로 정렬하시면 한 6번째 줄에 아뮤하(atom music heart)라는 듣도보도 못한 밴드 하나 나와요 거기에 투표 하나만 해주시면"
+	},
+	{
+		"created_at": "Mon Jul 08 05:37:37 +0000 2019",
+		"id": 1148103826706030600,
+		"id_str": "1148103826706030593",
+		"full_text": "반스 최다 득표수 보니까 경쟁의식 완전 불타네,,,, 지금부터 수단과 방법을 가리지 않고 투표하겠음.. 에헴",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 1053,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "반스 최다 득표수 보니까 경쟁의식 완전 불타네,,,, 지금부터 수단과 방법을 가리지 않고 투표하겠음.. 에헴"
+	},
+	{
 		"created_at": "Sun Jul 07 17:00:47 +0000 2019",
 		"id": 1147913364623908900,
 		"id_str": "1147913364623908865",
