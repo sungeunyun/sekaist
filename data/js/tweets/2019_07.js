@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 09 06:40:51 +0000 2019",
+		"id": 1148480948620578800,
+		"id_str": "1148482127387750401",
+		"full_text": "오늘 생일 맞은 🎂 🎨 💦 \n이 시대가 사랑하는 아티스트\n‘데이비드 호크니’\n\n그의 모든 것을 만난다! 다큐 #호크니 8월 개봉 확정! \n영앤올드 포스터 공개!\n\n#호크니 #davidhockney #hockney #데이비드호크니 https://t.co/lTBe9UBI7y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "호크니",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "호크니",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "davidhockney",
+					"indices": [
+						96,
+						109
+					]
+				},
+				{
+					"text": "hockney",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "데이비드호크니",
+					"indices": [
+						119,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148480266542829600,
+					"id_str": "1148480266542829568",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D_A4t67U0AAo4sz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_A4t67U0AAo4sz.jpg",
+					"url": "https://t.co/lTBe9UBI7y",
+					"display_url": "pic.twitter.com/lTBe9UBI7y",
+					"expanded_url": "https://twitter.com/greennaraemovie/status/1148480948620578818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 839,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1432,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148480266542829600,
+					"id_str": "1148480266542829568",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D_A4t67U0AAo4sz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_A4t67U0AAo4sz.jpg",
+					"url": "https://t.co/lTBe9UBI7y",
+					"display_url": "pic.twitter.com/lTBe9UBI7y",
+					"expanded_url": "https://twitter.com/greennaraemovie/status/1148480948620578818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 839,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1432,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1148480300189540400,
+					"id_str": "1148480300189540352",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/D_A4v4RU4AA95Oq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_A4v4RU4AA95Oq.jpg",
+					"url": "https://t.co/lTBe9UBI7y",
+					"display_url": "pic.twitter.com/lTBe9UBI7y",
+					"expanded_url": "https://twitter.com/greennaraemovie/status/1148480948620578818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 839,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1432,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 630900025,
+			"id_str": "630900025",
+			"name": "그린나래미디어",
+			"screen_name": "greennaraemovie",
+			"location": "",
+			"description": "영화만 사랑하는 회사랑",
+			"url": "https://t.co/KMRA5pOcJh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KMRA5pOcJh",
+							"expanded_url": "https://Instagram.com/greennaraemedia",
+							"display_url": "Instagram.com/greennaraemedia",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3636,
+			"friends_count": 2005,
+			"listed_count": 24,
+			"created_at": "Mon Jul 09 08:00:13 +0000 2012",
+			"favourites_count": 2319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "363535",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/672592440293916672/OFKHByD5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/672592440293916672/OFKHByD5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/630900025/1561943025",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 생일 맞은 🎂 🎨 💦 \n이 시대가 사랑하는 아티스트\n‘데이비드 호크니’\n\n그의 모든 것을 만난다! 다큐 #호크니 8월 개봉 확정! \n영앤올드 포스터 공개!\n\n#호크니 #davidhockney #hockney #데이비드호크니 https://t.co/lTBe9UBI7y"
+	},
+	{
+		"created_at": "Tue Jul 09 06:40:41 +0000 2019",
+		"id": 1148479424150401000,
+		"id_str": "1148482084920422403",
+		"full_text": "일본 불매운동이 발발한 지금 7월 25일 한 다큐멘터리가 개봉합니다. 주전장은 일본 정부가 갖가지 방법으로 일본군 성노예(위안부)를 덮기 위한 아베 정권의 계략을 밝혀낸 다큐영화입니다.\n\n#BoycottJapan\n'주전장' 충격적인 아베 정권의 숨겨진 이야기 \"정말 무섭습니다\"\nhttps://t.co/PXh44JqNru",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoycottJapan",
+					"indices": [
+						105,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PXh44JqNru",
+					"expanded_url": "https://entertain.v.daum.net/v/20190709134222032",
+					"display_url": "entertain.v.daum.net/v/201907091342…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1125701453387927600,
+			"id_str": "1125701453387927552",
+			"name": "🌼하슬라(일본불매)🌼",
+			"screen_name": "glma1616",
+			"location": "",
+			"description": "한국의 보통 국민",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Tue May 07 09:58:35 +0000 2019",
+			"favourites_count": 1149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1147562319402041344/XV5yrjnZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147562319402041344/XV5yrjnZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1125701453387927552/1562200539",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본 불매운동이 발발한 지금 7월 25일 한 다큐멘터리가 개봉합니다. 주전장은 일본 정부가 갖가지 방법으로 일본군 성노예(위안부)를 덮기 위한 아베 정권의 계략을 밝혀낸 다큐영화입니다.\n\n#BoycottJapan\n'주전장' 충격적인 아베 정권의 숨겨진 이야기 \"정말 무섭습니다\"\nhttps://t.co/PXh44JqNru"
+	},
+	{
+		"created_at": "Tue Jul 09 02:18:30 +0000 2019",
+		"id": 1148416102642282500,
+		"id_str": "1148416102642282497",
+		"full_text": "어제 아이폰 백업한다고 8시간이나 켜놨는데도 완료가 안됐는데 회사와서 1시간만에 끝남.. 집 pc SSD는 용량이 적어서 하드로 우회해놨는데 그래서 그런가.. 당황스럽네",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 587,
+			"friends_count": 1053,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어제 아이폰 백업한다고 8시간이나 켜놨는데도 완료가 안됐는데 회사와서 1시간만에 끝남.. 집 pc SSD는 용량이 적어서 하드로 우회해놨는데 그래서 그런가.. 당황스럽네"
+	},
+	{
 		"created_at": "Mon Jul 08 07:00:43 +0000 2019",
 		"id": 1148123585958957000,
 		"id_str": "1148124738746589184",
