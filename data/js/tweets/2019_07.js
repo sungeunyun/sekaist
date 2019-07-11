@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 10 22:49:24 +0000 2019",
+		"id": 1148856946750918700,
+		"id_str": "1149088258627788800",
+		"full_text": "페미니스트 현대미술가인\n바바라 쿠르거의\n아시아 첫 전시회가 용산구에 있는\n아모레퍼시픽미술관에서 진행중이라고 합니다.\n\n기간 : 6.27~12.29\n입장료 : 성인 13000, 학생 9000, 어린이 7000 https://t.co/5JA0Elqw3c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148856897472086000,
+					"id_str": "1148856897472086016",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/D_GPQueUwAAgLD2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_GPQueUwAAgLD2.jpg",
+					"url": "https://t.co/5JA0Elqw3c",
+					"display_url": "pic.twitter.com/5JA0Elqw3c",
+					"expanded_url": "https://twitter.com/gomisgom77/status/1148856946750918656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1058,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148856897472086000,
+					"id_str": "1148856897472086016",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/D_GPQueUwAAgLD2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_GPQueUwAAgLD2.jpg",
+					"url": "https://t.co/5JA0Elqw3c",
+					"display_url": "pic.twitter.com/5JA0Elqw3c",
+					"expanded_url": "https://twitter.com/gomisgom77/status/1148856946750918656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1058,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1148856908494692400,
+					"id_str": "1148856908494692352",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/D_GPRXiUYAAXzRK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_GPRXiUYAAXzRK.jpg",
+					"url": "https://t.co/5JA0Elqw3c",
+					"display_url": "pic.twitter.com/5JA0Elqw3c",
+					"expanded_url": "https://twitter.com/gomisgom77/status/1148856946750918656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 661,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 375,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1961,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1148856929587884000,
+					"id_str": "1148856929587884032",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/D_GPSmHU8AABl1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_GPSmHU8AABl1Q.jpg",
+					"url": "https://t.co/5JA0Elqw3c",
+					"display_url": "pic.twitter.com/5JA0Elqw3c",
+					"expanded_url": "https://twitter.com/gomisgom77/status/1148856946750918656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 829,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 522,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 829,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1148856939264086000,
+					"id_str": "1148856939264086016",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/D_GPTKKUEAAP1yG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_GPTKKUEAAP1yG.jpg",
+					"url": "https://t.co/5JA0Elqw3c",
+					"display_url": "pic.twitter.com/5JA0Elqw3c",
+					"expanded_url": "https://twitter.com/gomisgom77/status/1148856946750918656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 905,
+							"h": 909,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 905,
+							"h": 909,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114770411634348000,
+			"id_str": "1114770411634348032",
+			"name": "곰",
+			"screen_name": "gomisgom77",
+			"location": "",
+			"description": "6B",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110,
+			"friends_count": 84,
+			"listed_count": 0,
+			"created_at": "Sun Apr 07 06:02:32 +0000 2019",
+			"favourites_count": 121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114772290707660800/eE9RUvAo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114772290707660800/eE9RUvAo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114770411634348032/1554898412",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 800,
+		"favorite_count": 411,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페미니스트 현대미술가인\n바바라 쿠르거의\n아시아 첫 전시회가 용산구에 있는\n아모레퍼시픽미술관에서 진행중이라고 합니다.\n\n기간 : 6.27~12.29\n입장료 : 성인 13000, 학생 9000, 어린이 7000 https://t.co/5JA0Elqw3c"
+	},
+	{
 		"created_at": "Tue Jul 09 06:40:51 +0000 2019",
 		"id": 1148480948620578800,
 		"id_str": "1148482127387750401",
