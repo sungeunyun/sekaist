@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 11 14:31:43 +0000 2019",
+		"id": 1149144501224521700,
+		"id_str": "1149325400310308869",
+		"full_text": "고산지대의 귀염둥이 마못! 호기심이 많아 춤추면서 다가가면 도망가지 않는대요 https://t.co/ct1obqyiW5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149144485697216500,
+					"id_str": "1149144485697216512",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D_KU0kGU4AAtX8E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_KU0kGU4AAtX8E.jpg",
+					"url": "https://t.co/ct1obqyiW5",
+					"display_url": "pic.twitter.com/ct1obqyiW5",
+					"expanded_url": "https://twitter.com/miyari_s/status/1149144501224521728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149144485697216500,
+					"id_str": "1149144485697216512",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D_KU0kGU4AAtX8E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_KU0kGU4AAtX8E.jpg",
+					"url": "https://t.co/ct1obqyiW5",
+					"display_url": "pic.twitter.com/ct1obqyiW5",
+					"expanded_url": "https://twitter.com/miyari_s/status/1149144501224521728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1149144485680468000,
+					"id_str": "1149144485680467968",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D_KU0kCVUAAvKxq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_KU0kCVUAAvKxq.jpg",
+					"url": "https://t.co/ct1obqyiW5",
+					"display_url": "pic.twitter.com/ct1obqyiW5",
+					"expanded_url": "https://twitter.com/miyari_s/status/1149144501224521728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1149144485688778800,
+					"id_str": "1149144485688778752",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D_KU0kEUIAA0Rw6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_KU0kEUIAA0Rw6.jpg",
+					"url": "https://t.co/ct1obqyiW5",
+					"display_url": "pic.twitter.com/ct1obqyiW5",
+					"expanded_url": "https://twitter.com/miyari_s/status/1149144501224521728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1149144485680435200,
+					"id_str": "1149144485680435200",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D_KU0kCU0AADk9s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_KU0kCU0AADk9s.jpg",
+					"url": "https://t.co/ct1obqyiW5",
+					"display_url": "pic.twitter.com/ct1obqyiW5",
+					"expanded_url": "https://twitter.com/miyari_s/status/1149144501224521728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1017892758063702000,
+			"id_str": "1017892758063702016",
+			"name": "동물짤 모으는 나랑이",
+			"screen_name": "miyari_s",
+			"location": "Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41014,
+			"friends_count": 0,
+			"listed_count": 135,
+			"created_at": "Fri Jul 13 22:05:19 +0000 2018",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091786324783198208/-QC1wjVL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091786324783198208/-QC1wjVL_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4681,
+		"favorite_count": 4043,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고산지대의 귀염둥이 마못! 호기심이 많아 춤추면서 다가가면 도망가지 않는대요 https://t.co/ct1obqyiW5"
+	},
+	{
+		"created_at": "Thu Jul 11 10:22:25 +0000 2019",
+		"id": 1149262660719878100,
+		"id_str": "1149262660719878144",
+		"full_text": "강남역에 지나가는데 추승균 선수봄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 587,
+			"friends_count": 1054,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "강남역에 지나가는데 추승균 선수봄"
+	},
+	{
+		"created_at": "Thu Jul 11 10:20:50 +0000 2019",
+		"id": 1149259534084399100,
+		"id_str": "1149262261380214784",
+		"full_text": "아뮤하 EP제작과 공연을 위한 텀블벅프로젝트가 시작되었습니다 https://t.co/TLnpbWcJ4f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TLnpbWcJ4f",
+					"expanded_url": "https://tumblbug.com/amh",
+					"display_url": "tumblbug.com/amh",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 161948294,
+			"id_str": "161948294",
+			"name": "Hun Joe",
+			"screen_name": "rokomore",
+			"location": "",
+			"description": "페이스북 hun joe 치면 나옴",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163,
+			"friends_count": 26,
+			"listed_count": 3,
+			"created_at": "Fri Jul 02 05:47:20 +0000 2010",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/945799406544027648/wytPlu-T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/945799406544027648/wytPlu-T_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아뮤하 EP제작과 공연을 위한 텀블벅프로젝트가 시작되었습니다 https://t.co/TLnpbWcJ4f"
+	},
+	{
 		"created_at": "Wed Jul 10 22:49:24 +0000 2019",
 		"id": 1148856946750918700,
 		"id_str": "1149088258627788800",
