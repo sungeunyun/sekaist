@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 13 01:23:54 +0000 2019",
+		"id": 1149676410589438000,
+		"id_str": "1149851913292091392",
+		"full_text": "그런 황교안을  한심하 듯 쳐다보는 조영택 조직위사무총장. https://t.co/0iWRcSSY5G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149676386358943700,
+					"id_str": "1149676386358943745",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D_R4lQeUYAE6P4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_R4lQeUYAE6P4D.jpg",
+					"url": "https://t.co/0iWRcSSY5G",
+					"display_url": "pic.twitter.com/0iWRcSSY5G",
+					"expanded_url": "https://twitter.com/moolpang/status/1149676410589437952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 457,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 457,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 457,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149676386358943700,
+					"id_str": "1149676386358943745",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D_R4lQeUYAE6P4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_R4lQeUYAE6P4D.jpg",
+					"url": "https://t.co/0iWRcSSY5G",
+					"display_url": "pic.twitter.com/0iWRcSSY5G",
+					"expanded_url": "https://twitter.com/moolpang/status/1149676410589437952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 457,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 457,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 457,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1149676408748118000,
+		"in_reply_to_status_id_str": "1149676408748118016",
+		"in_reply_to_user_id": 45232577,
+		"in_reply_to_user_id_str": "45232577",
+		"in_reply_to_screen_name": "moolpang",
+		"user": {
+			"id": 45232577,
+			"id_str": "45232577",
+			"name": "𝑹𝒂𝒐𝒏𝑵𝒖𝒓𝒊",
+			"screen_name": "moolpang",
+			"location": "대한민국",
+			"description": "더불어 사는 사회, 상식이 통하는 사회, 다같이 잘 사는 사회를 꿈꾸며... 수꼴, 극우, 일베충 절대사절 /  적폐정당 자유당 해체",
+			"url": "http://t.co/eLsLHFySEL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/eLsLHFySEL",
+							"expanded_url": "http://twitaddons.com/moolpang",
+							"display_url": "twitaddons.com/moolpang",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8265,
+			"friends_count": 8867,
+			"listed_count": 3,
+			"created_at": "Sat Jun 06 22:51:38 +0000 2009",
+			"favourites_count": 2901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146662254089134080/Tz-Yuj13_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146662254089134080/Tz-Yuj13_normal.png",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그런 황교안을  한심하 듯 쳐다보는 조영택 조직위사무총장. https://t.co/0iWRcSSY5G"
+	},
+	{
 		"created_at": "Fri Jul 12 11:28:17 +0000 2019",
 		"id": 1149641623560577000,
 		"id_str": "1149641623560577024",
