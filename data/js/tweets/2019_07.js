@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 17 12:22:26 +0000 2019",
+		"id": 1151467190979199000,
+		"id_str": "1151467190979198976",
+		"full_text": "180520 라쿠나(Lacuna) - 열아홉 + 빈방에 남은 열여덟살 @클럽FF https://t.co/qJJArdE0mR - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						71,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qJJArdE0mR",
+					"expanded_url": "https://youtu.be/j6m845YDYuc",
+					"display_url": "youtu.be/j6m845YDYuc",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 587,
+			"friends_count": 1054,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "180520 라쿠나(Lacuna) - 열아홉 + 빈방에 남은 열여덟살 @클럽FF https://t.co/qJJArdE0mR - @YouTube"
+	},
+	{
+		"created_at": "Wed Jul 17 11:08:16 +0000 2019",
+		"id": 1151426683871776800,
+		"id_str": "1151448528108920832",
+		"full_text": "1965년 한일 청구권 협정에서 일본이 배상하는 대상은 ‘국가’입니다. 강제징용을 당했던 피해자에 대한 사과와 배상은 단 한 번도 없었습니다. https://t.co/kO5CTem6qB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1151426677810946000,
+					"id_str": "1151426677810946049",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/D_qwdoPUYAEojQt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_qwdoPUYAEojQt.jpg",
+					"url": "https://t.co/kO5CTem6qB",
+					"display_url": "pic.twitter.com/kO5CTem6qB",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1151426683871776768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 890,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 964,
+							"h": 1300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1151426677810946000,
+					"id_str": "1151426677810946049",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/D_qwdoPUYAEojQt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_qwdoPUYAEojQt.jpg",
+					"url": "https://t.co/kO5CTem6qB",
+					"display_url": "pic.twitter.com/kO5CTem6qB",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1151426683871776768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 890,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 964,
+							"h": 1300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1151426678020661200,
+					"id_str": "1151426678020661248",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/D_qwdpBUYAAAFND.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_qwdpBUYAAAFND.jpg",
+					"url": "https://t.co/kO5CTem6qB",
+					"display_url": "pic.twitter.com/kO5CTem6qB",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1151426683871776768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 890,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 972,
+							"h": 1310,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1151426678175879200,
+					"id_str": "1151426678175879168",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/D_qwdpmU0AAcwWG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_qwdpmU0AAcwWG.jpg",
+					"url": "https://t.co/kO5CTem6qB",
+					"display_url": "pic.twitter.com/kO5CTem6qB",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1151426683871776768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 966,
+							"h": 1300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 892,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 505,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1151426678209388500,
+					"id_str": "1151426678209388544",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/D_qwdpuUIAAdpck.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_qwdpuUIAAdpck.jpg",
+					"url": "https://t.co/kO5CTem6qB",
+					"display_url": "pic.twitter.com/kO5CTem6qB",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1151426683871776768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 962,
+							"h": 1298,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 889,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1151424914940821500,
+		"in_reply_to_status_id_str": "1151424914940821504",
+		"in_reply_to_user_id": 867990237804249100,
+		"in_reply_to_user_id_str": "867990237804249099",
+		"in_reply_to_screen_name": "TheBlueHouseKR",
+		"user": {
+			"id": 867990237804249100,
+			"id_str": "867990237804249099",
+			"name": "대한민국 청와대",
+			"screen_name": "TheBlueHouseKR",
+			"location": "대한민국",
+			"description": "대한민국 청와대의 공식 트위터입니다. Office of the President, the Republic of Korea 국민의 나라, 정의로운 대한민국을 함께 만들겠습니다. #청와대 #친절한청와대 #소통 @moonriver365 @TheBlueHouseENG",
+			"url": "https://t.co/9OTbCZBZGD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9OTbCZBZGD",
+							"expanded_url": "http://www.president.go.kr/",
+							"display_url": "president.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 415569,
+			"friends_count": 32597,
+			"listed_count": 736,
+			"created_at": "Fri May 26 06:26:13 +0000 2017",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/867990237804249099/1527811453",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1612,
+		"favorite_count": 1557,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1965년 한일 청구권 협정에서 일본이 배상하는 대상은 ‘국가’입니다. 강제징용을 당했던 피해자에 대한 사과와 배상은 단 한 번도 없었습니다. https://t.co/kO5CTem6qB"
+	},
+	{
 		"created_at": "Tue Jul 16 13:46:38 +0000 2019",
 		"id": 1151125994842935300,
 		"id_str": "1151125994842935296",
