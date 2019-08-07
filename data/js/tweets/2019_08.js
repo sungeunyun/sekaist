@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 06 04:54:55 +0000 2019",
+		"id": 1158598393175740400,
+		"id_str": "1158602327101591552",
+		"full_text": "탄생 100년을 맞이한 한국영화의 과거와 현재, 그리고 미래를 마주하고자 기획된 '한국영화 100년 기념사업'의 '100X100' 포스터와 프로젝트 참여 감독 리스트를 전합니다. '100X100' 프로젝트는 한국영화감독 100인이 100초의 단편영화 100편을 제작하는 기념사업입니다.\n\nhttps://t.co/MnkBap9CuF https://t.co/b861kNTdR4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MnkBap9CuF",
+					"expanded_url": "https://kofic.or.kr/koreanfilm100years",
+					"display_url": "kofic.or.kr/koreanfilm100y…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1158596527901667300,
+					"id_str": "1158596527901667328",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EBQpZ1OUcAAZG8R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBQpZ1OUcAAZG8R.jpg",
+					"url": "https://t.co/b861kNTdR4",
+					"display_url": "pic.twitter.com/b861kNTdR4",
+					"expanded_url": "https://twitter.com/IndieSpace_kr/status/1158598393175740416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1429,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158596527901667300,
+					"id_str": "1158596527901667328",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EBQpZ1OUcAAZG8R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBQpZ1OUcAAZG8R.jpg",
+					"url": "https://t.co/b861kNTdR4",
+					"display_url": "pic.twitter.com/b861kNTdR4",
+					"expanded_url": "https://twitter.com/IndieSpace_kr/status/1158598393175740416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1429,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1158598372162281500,
+					"id_str": "1158598372162281472",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EBQrFLoUIAA8olD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBQrFLoUIAA8olD.jpg",
+					"url": "https://t.co/b861kNTdR4",
+					"display_url": "pic.twitter.com/b861kNTdR4",
+					"expanded_url": "https://twitter.com/IndieSpace_kr/status/1158598393175740416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 170,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 513,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114669821,
+			"id_str": "114669821",
+			"name": "인디스페이스 INDIESPACE",
+			"screen_name": "IndieSpace_kr",
+			"location": "서울 종로구 돈화문로 13 서울극장 내",
+			"description": "당신을 기다립니다. 독립영화전용관 인디스페이스.",
+			"url": "https://t.co/v1IrWn95AM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v1IrWn95AM",
+							"expanded_url": "http://indiespace.kr",
+							"display_url": "indiespace.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36748,
+			"friends_count": 20301,
+			"listed_count": 428,
+			"created_at": "Tue Feb 16 06:35:40 +0000 2010",
+			"favourites_count": 1813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925619377663123457/HSialiL__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925619377663123457/HSialiL__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114669821/1517210431",
+			"profile_link_color": "DC143C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "탄생 100년을 맞이한 한국영화의 과거와 현재, 그리고 미래를 마주하고자 기획된 '한국영화 100년 기념사업'의 '100X100' 포스터와 프로젝트 참여 감독 리스트를 전합니다. '100X100' 프로젝트는 한국영화감독 100인이 100초의 단편영화 100편을 제작하는 기념사업입니다.\n\nhttps://t.co/MnkBap9CuF https://t.co/b861kNTdR4"
+	},
+	{
 		"created_at": "Mon Aug 05 12:34:21 +0000 2019",
 		"id": 1158355559537447000,
 		"id_str": "1158355559537446913",
