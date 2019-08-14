@@ -1,6 +1,365 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 22:14:45 +0000 2019",
+		"id": 1161400723885580300,
+		"id_str": "1161400723885580288",
+		"full_text": "밴드 라쿠나의 일상 븰록 https://t.co/vIxHhtzNqv - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						40,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vIxHhtzNqv",
+					"expanded_url": "https://youtu.be/Hu5qOe5BwgE",
+					"display_url": "youtu.be/Hu5qOe5BwgE",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 586,
+			"friends_count": 1054,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "밴드 라쿠나의 일상 븰록 https://t.co/vIxHhtzNqv - @YouTube"
+	},
+	{
+		"created_at": "Tue Aug 13 15:11:31 +0000 2019",
+		"id": 1161294216825204700,
+		"id_str": "1161294216825204736",
+		"full_text": "오늘 유퀴즈 방송 넘 좋다. 생존해계신 독립운동가분 인터뷰에 반성하게 되고 눈물이 흐르네. 독립운동가분들 보면 저 시대에 태어났으면 나에게 저런 용기가 있었을까 싶다ㅠㅠ 넘 감사드리고 죄송스러움. 불매운동 열심히 해서 나라를 지키는데 일조하겠습니다 ㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 586,
+			"friends_count": 1054,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오늘 유퀴즈 방송 넘 좋다. 생존해계신 독립운동가분 인터뷰에 반성하게 되고 눈물이 흐르네. 독립운동가분들 보면 저 시대에 태어났으면 나에게 저런 용기가 있었을까 싶다ㅠㅠ 넘 감사드리고 죄송스러움. 불매운동 열심히 해서 나라를 지키는데 일조하겠습니다 ㅠㅠ"
+	},
+	{
+		"created_at": "Tue Aug 13 12:18:10 +0000 2019",
+		"id": 1161159859573678000,
+		"id_str": "1161250589700833280",
+		"full_text": "한솔교육 북스북스 회원들에게 전달된 2004년 구름빵 초판을 구하고 있습니다.먹구름이 낀 한늘에 전봇대가 서있는 그림이 표지입니다. &lt;구름빵저작권을 돌려받기 위한 재판&gt;에 쓰일 중요한 증거 자료인데 실물을 분실하여 같은 책을 찾고 있습니다. https://t.co/myrb4l6WXS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1161159850564259800,
+					"id_str": "1161159850564259842",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EB1Eu2RUEAIqP_M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB1Eu2RUEAIqP_M.jpg",
+					"url": "https://t.co/myrb4l6WXS",
+					"display_url": "pic.twitter.com/myrb4l6WXS",
+					"expanded_url": "https://twitter.com/heenastory/status/1161159859573678081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 738,
+							"h": 504,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 738,
+							"h": 504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161159850564259800,
+					"id_str": "1161159850564259842",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EB1Eu2RUEAIqP_M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB1Eu2RUEAIqP_M.jpg",
+					"url": "https://t.co/myrb4l6WXS",
+					"display_url": "pic.twitter.com/myrb4l6WXS",
+					"expanded_url": "https://twitter.com/heenastory/status/1161159859573678081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 738,
+							"h": 504,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 738,
+							"h": 504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1161159846177022000,
+		"in_reply_to_status_id_str": "1161159846177021957",
+		"in_reply_to_user_id": 226401917,
+		"in_reply_to_user_id_str": "226401917",
+		"in_reply_to_screen_name": "heenastory",
+		"user": {
+			"id": 226401917,
+			"id_str": "226401917",
+			"name": "백희나 Heena Baek",
+			"screen_name": "heenastory",
+			"location": "Seoul",
+			"description": "그림책 만들고 또또 또... 광속으로 늙어가고있음 구름빵 저작권은 저에게 없습니다. 사용관련 문의는 저에게 하지말아주십시오. 학생들 과제를 위한 인터뷰는 응대불가합니다. 이해부탁드립니다 강연문의는 책읽는 곰 출판사로 해주십시오 전시계획은 당분간 없습니다",
+			"url": "https://t.co/bIFFztMTep",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bIFFztMTep",
+							"expanded_url": "http://www.storybowl.com",
+							"display_url": "storybowl.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5239,
+			"friends_count": 177,
+			"listed_count": 52,
+			"created_at": "Tue Dec 14 02:26:48 +0000 2010",
+			"favourites_count": 720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1707813475/heenastory_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1707813475/heenastory_normal.jpg",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13421,
+		"favorite_count": 1625,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한솔교육 북스북스 회원들에게 전달된 2004년 구름빵 초판을 구하고 있습니다.먹구름이 낀 한늘에 전봇대가 서있는 그림이 표지입니다. &lt;구름빵저작권을 돌려받기 위한 재판&gt;에 쓰일 중요한 증거 자료인데 실물을 분실하여 같은 책을 찾고 있습니다. https://t.co/myrb4l6WXS"
+	},
+	{
 		"created_at": "Mon Aug 12 08:14:43 +0000 2019",
 		"id": 1160826935288578000,
 		"id_str": "1160826935288578048",
