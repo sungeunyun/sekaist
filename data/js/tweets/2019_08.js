@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 20 23:28:29 +0000 2019",
+		"id": 1163937295159849000,
+		"id_str": "1163955998534410240",
+		"full_text": "(속보)이용마 기자님이 조금전 사랑하는 가족을 남겨두고 세상을 떠나셨습니다.ㅠㅠ https://t.co/4OZTbORquL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1163937292345475000,
+					"id_str": "1163937292345475073",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/ECcizPMVAAESAhi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECcizPMVAAESAhi.jpg",
+					"url": "https://t.co/4OZTbORquL",
+					"display_url": "pic.twitter.com/4OZTbORquL",
+					"expanded_url": "https://twitter.com/tgs432004/status/1163937295159848962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 571,
+							"h": 313,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 571,
+							"h": 313,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 571,
+							"h": 313,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1163937292345475000,
+					"id_str": "1163937292345475073",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/ECcizPMVAAESAhi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECcizPMVAAESAhi.jpg",
+					"url": "https://t.co/4OZTbORquL",
+					"display_url": "pic.twitter.com/4OZTbORquL",
+					"expanded_url": "https://twitter.com/tgs432004/status/1163937295159848962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 571,
+							"h": 313,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 571,
+							"h": 313,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 571,
+							"h": 313,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 537141203,
+			"id_str": "537141203",
+			"name": "파란을 일으켰다!(공수처 설치)",
+			"screen_name": "tgs432004",
+			"location": "",
+			"description": "사람이 존중받는 세상,\n이런 세상을 꿈꾸었는데 지금 이 순간\n나는 존중받고 있는 세상에 살고 있다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21380,
+			"friends_count": 3288,
+			"listed_count": 76,
+			"created_at": "Mon Mar 26 11:39:56 +0000 2012",
+			"favourites_count": 2787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2998572270/3be1efafe9a77e89f5512a3b85b44940_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2998572270/3be1efafe9a77e89f5512a3b85b44940_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/537141203/1518404050",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 215,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(속보)이용마 기자님이 조금전 사랑하는 가족을 남겨두고 세상을 떠나셨습니다.ㅠㅠ https://t.co/4OZTbORquL"
+	},
+	{
+		"created_at": "Tue Aug 20 11:25:27 +0000 2019",
+		"id": 1163766962175926300,
+		"id_str": "1163774038675611648",
+		"full_text": "[채널씬디] \n이번 채널씬디 주인공은 단란한 모습을 보여주고 있는 동화 같은 밴드 라쿠나와 함께하였는데요💛지금 바로 영상을 통해 확인해보세요 📹\n\n♬ BGM: 라쿠나 - Cake ♬\n\n페이스북 ▶️ https://t.co/Rd0JfbJDHX\n유튜브 ▶️ https://t.co/l1OgH6up9f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rd0JfbJDHX",
+					"expanded_url": "http://bitly.kr/CzEU86",
+					"display_url": "bitly.kr/CzEU86",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/l1OgH6up9f",
+					"expanded_url": "https://youtu.be/WJkOQ4fY4R4",
+					"display_url": "youtu.be/WJkOQ4fY4R4",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "공연 정보를 한 눈에 확인할 수 있는 온·오프라인 티켓 판매처\n\n※ 운영시간 : 1-9PM (단, 화요일은 3–8:30PM), 저녁시간 : 6-7PM\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2701,
+			"friends_count": 2587,
+			"listed_count": 24,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 4502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062234533746008064/ktqPo5Xl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1542091439",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[채널씬디] \n이번 채널씬디 주인공은 단란한 모습을 보여주고 있는 동화 같은 밴드 라쿠나와 함께하였는데요💛지금 바로 영상을 통해 확인해보세요 📹\n\n♬ BGM: 라쿠나 - Cake ♬\n\n페이스북 ▶️ https://t.co/Rd0JfbJDHX\n유튜브 ▶️ https://t.co/l1OgH6up9f"
+	},
+	{
 		"created_at": "Sun Aug 18 18:00:20 +0000 2019",
 		"id": 1163148639130099700,
 		"id_str": "1163148639130099713",
