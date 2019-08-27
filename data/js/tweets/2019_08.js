@@ -1,6 +1,645 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 26 15:59:24 +0000 2019",
+		"id": 1165944181283414000,
+		"id_str": "1166017307404992513",
+		"full_text": "&lt;개같은날의오후&gt;는 언젠가 꼭 다시금 상영되었으면 하는 영화중의 하나이다. 한시간 반 정도되는 러닝타임 안에 가정폭력, 가부장제, 남성, 편향된 공권력, 트랜스젠더, 분리주의와 편견, 그리고 연대와 임파워링까지, 페미니즘과 관련지을 수 있는 온갖 것들을 다 보여준다. https://t.co/NUsehKOi2l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1165944174635470800,
+					"id_str": "1165944174635470848",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EC5EDKUVUAAsCOa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC5EDKUVUAAsCOa.jpg",
+					"url": "https://t.co/NUsehKOi2l",
+					"display_url": "pic.twitter.com/NUsehKOi2l",
+					"expanded_url": "https://twitter.com/hihihi1987/status/1165944181283414017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 300,
+							"h": 439,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 439,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165944174635470800,
+					"id_str": "1165944174635470848",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EC5EDKUVUAAsCOa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC5EDKUVUAAsCOa.jpg",
+					"url": "https://t.co/NUsehKOi2l",
+					"display_url": "pic.twitter.com/NUsehKOi2l",
+					"expanded_url": "https://twitter.com/hihihi1987/status/1165944181283414017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 300,
+							"h": 439,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 439,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 439,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1165944174635409400,
+					"id_str": "1165944174635409408",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EC5EDKUUYAALank.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC5EDKUUYAALank.jpg",
+					"url": "https://t.co/NUsehKOi2l",
+					"display_url": "pic.twitter.com/NUsehKOi2l",
+					"expanded_url": "https://twitter.com/hihihi1987/status/1165944181283414017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 303,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 303,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 303,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 100733957,
+			"id_str": "100733957",
+			"name": "김민수",
+			"screen_name": "hihihi1987",
+			"location": "지금,여기",
+			"description": "찰나의 우연이 가져다주는 순간을 운좋게 남깁니다 / 남자가 좋은사람 / 리트윗끄기/뮤트/언팔은 자유롭게- 우리 덜 후회하고 더 웃고 사랑하며 살아요!-♪ / 많은 이야기를 나눠가기를- /",
+			"url": "https://t.co/F1Jxn6OxP1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F1Jxn6OxP1",
+							"expanded_url": "http://one-shot-a-day.tumblr.com",
+							"display_url": "one-shot-a-day.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2424,
+			"friends_count": 2889,
+			"listed_count": 18,
+			"created_at": "Thu Dec 31 09:51:22 +0000 2009",
+			"favourites_count": 10540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 166235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137866585534689281/Qo6QmybL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137866585534689281/Qo6QmybL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/100733957/1560123713",
+			"profile_link_color": "FF0066",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 255,
+		"favorite_count": 219,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;개같은날의오후&gt;는 언젠가 꼭 다시금 상영되었으면 하는 영화중의 하나이다. 한시간 반 정도되는 러닝타임 안에 가정폭력, 가부장제, 남성, 편향된 공권력, 트랜스젠더, 분리주의와 편견, 그리고 연대와 임파워링까지, 페미니즘과 관련지을 수 있는 온갖 것들을 다 보여준다. https://t.co/NUsehKOi2l"
+	},
+	{
+		"created_at": "Mon Aug 26 14:00:20 +0000 2019",
+		"id": 1165987343716634600,
+		"id_str": "1165987343716634624",
+		"full_text": "@haruz_on 저도 무슨 말씀이시지 하면서 사진 클릭해보고 터짐 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "haruz_on",
+					"name": "[dANbO]",
+					"id": 110678464,
+					"id_str": "110678464",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1165985452773400600,
+		"in_reply_to_status_id_str": "1165985452773400576",
+		"in_reply_to_user_id": 110678464,
+		"in_reply_to_user_id_str": "110678464",
+		"in_reply_to_screen_name": "haruz_on",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1054,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@haruz_on 저도 무슨 말씀이시지 하면서 사진 클릭해보고 터짐 ㅋㅋㅋㅋㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Mon Aug 26 13:40:45 +0000 2019",
+		"id": 1165982417510785000,
+		"id_str": "1165982417510785025",
+		"full_text": "미스터쇼 너무 웃기잖아요 눈물남 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1054,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "미스터쇼 너무 웃기잖아요 눈물남 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Mon Aug 26 13:36:12 +0000 2019",
+		"id": 1165981269785661400,
+		"id_str": "1165981269785661440",
+		"full_text": "@haruz_on ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 웃어서 죄송 상황이 웃기고 단보님 대화 웃기고 태현씨 귀엽네요",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "haruz_on",
+					"name": "[dANbO]",
+					"id": 110678464,
+					"id_str": "110678464",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1165969040797421600,
+		"in_reply_to_status_id_str": "1165969040797421568",
+		"in_reply_to_user_id": 110678464,
+		"in_reply_to_user_id_str": "110678464",
+		"in_reply_to_screen_name": "haruz_on",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1054,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@haruz_on ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 웃어서 죄송 상황이 웃기고 단보님 대화 웃기고 태현씨 귀엽네요"
+	},
+	{
+		"created_at": "Mon Aug 26 11:05:02 +0000 2019",
+		"id": 1165942086572490800,
+		"id_str": "1165943229981720582",
+		"full_text": "https://t.co/VpL8qakh6W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1165942076300640300,
+					"id_str": "1165942076300640257",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EC5CJBaUwAEHQcn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC5CJBaUwAEHQcn.jpg",
+					"url": "https://t.co/VpL8qakh6W",
+					"display_url": "pic.twitter.com/VpL8qakh6W",
+					"expanded_url": "https://twitter.com/patriamea/status/1165942086572490752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 1134,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165942076300640300,
+					"id_str": "1165942076300640257",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EC5CJBaUwAEHQcn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC5CJBaUwAEHQcn.jpg",
+					"url": "https://t.co/VpL8qakh6W",
+					"display_url": "pic.twitter.com/VpL8qakh6W",
+					"expanded_url": "https://twitter.com/patriamea/status/1165942086572490752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 1134,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63437440,
+			"id_str": "63437440",
+			"name": "조국",
+			"screen_name": "patriamea",
+			"location": "Seoul, Korea",
+			"description": "학문과 앙가주망의 변증법",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1043268,
+			"friends_count": 26558,
+			"listed_count": 9604,
+			"created_at": "Thu Aug 06 10:11:36 +0000 2009",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159614974223761408/oRbHM6Uw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159614974223761408/oRbHM6Uw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63437440/1561756421",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3463,
+		"favorite_count": 3954,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/VpL8qakh6W"
+	},
+	{
 		"created_at": "Sun Aug 25 16:27:36 +0000 2019",
 		"id": 1165662017148997600,
 		"id_str": "1165662017148997632",
