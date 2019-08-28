@@ -1,6 +1,477 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 27 15:09:46 +0000 2019",
+		"id": 1166367206030094300,
+		"id_str": "1166367206030094336",
+		"full_text": "[MV] 보수동쿨러 (Bosudong Cooler) - 0308 / Official Music Video https://t.co/ms8CWR14ro - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						85,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ms8CWR14ro",
+					"expanded_url": "https://youtu.be/WHhbac6PVqs",
+					"display_url": "youtu.be/WHhbac6PVqs",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1054,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV] 보수동쿨러 (Bosudong Cooler) - 0308 / Official Music Video https://t.co/ms8CWR14ro - @YouTube"
+	},
+	{
+		"created_at": "Tue Aug 27 08:39:14 +0000 2019",
+		"id": 1166268923483787300,
+		"id_str": "1166268923483787264",
+		"full_text": "오예 라쿠나랑 공중그늘 https://t.co/KlXgIUU9qC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1166268915720151000,
+					"id_str": "1166268915720151040",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EC9rZlIUYAAGF2B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC9rZlIUYAAGF2B.jpg",
+					"url": "https://t.co/KlXgIUU9qC",
+					"display_url": "pic.twitter.com/KlXgIUU9qC",
+					"expanded_url": "https://twitter.com/sekaist/status/1166268923483787264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1166268915720151000,
+					"id_str": "1166268915720151040",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EC9rZlIUYAAGF2B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC9rZlIUYAAGF2B.jpg",
+					"url": "https://t.co/KlXgIUU9qC",
+					"display_url": "pic.twitter.com/KlXgIUU9qC",
+					"expanded_url": "https://twitter.com/sekaist/status/1166268923483787264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1054,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오예 라쿠나랑 공중그늘 https://t.co/KlXgIUU9qC"
+	},
+	{
+		"created_at": "Tue Aug 27 07:22:37 +0000 2019",
+		"id": 1166249642092200000,
+		"id_str": "1166249642092199937",
+		"full_text": "@Suyeong82 @YouTube 저도 고민해봤는데 딱 이 영화라고 정의를 못내리겠어요 막 가슴이 벅차고 움찔움찔했던 영화들은 몇 편 생각나기는 하는데 ㅎㅎ 언제부터 좋아하게 된건지 그 시점은 모르겠네요",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Suyeong82",
+					"name": "솔빛시인",
+					"id": 116071583,
+					"id_str": "116071583",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1166190113178546200,
+		"in_reply_to_status_id_str": "1166190113178546176",
+		"in_reply_to_user_id": 116071583,
+		"in_reply_to_user_id_str": "116071583",
+		"in_reply_to_screen_name": "Suyeong82",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1054,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Suyeong82 @YouTube 저도 고민해봤는데 딱 이 영화라고 정의를 못내리겠어요 막 가슴이 벅차고 움찔움찔했던 영화들은 몇 편 생각나기는 하는데 ㅎㅎ 언제부터 좋아하게 된건지 그 시점은 모르겠네요"
+	},
+	{
+		"created_at": "Tue Aug 27 07:21:23 +0000 2019",
+		"id": 1166249332963627000,
+		"id_str": "1166249332963627008",
+		"full_text": "@BaekJaeho @YouTube 고민해봤는데 인생영화 질문엔 항상 대답을 못하겠어요. 영화제 처돌이로 만든 작품은 허우샤오시엔 빨간풍선인거 같구요. 그때부터 열심히 영화제 다니면서 새로운 영화들 많이 본 거 같아요 좋은건지 나쁜건지",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BaekJaeho",
+					"name": "백재호",
+					"id": 125013263,
+					"id_str": "125013263",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1166199559531331600,
+		"in_reply_to_status_id_str": "1166199559531331584",
+		"in_reply_to_user_id": 125013263,
+		"in_reply_to_user_id_str": "125013263",
+		"in_reply_to_screen_name": "BaekJaeho",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1054,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@BaekJaeho @YouTube 고민해봤는데 인생영화 질문엔 항상 대답을 못하겠어요. 영화제 처돌이로 만든 작품은 허우샤오시엔 빨간풍선인거 같구요. 그때부터 열심히 영화제 다니면서 새로운 영화들 많이 본 거 같아요 좋은건지 나쁜건지"
+	},
+	{
 		"created_at": "Mon Aug 26 15:59:24 +0000 2019",
 		"id": 1165944181283414000,
 		"id_str": "1166017307404992513",
