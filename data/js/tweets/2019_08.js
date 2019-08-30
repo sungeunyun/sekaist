@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 29 16:28:28 +0000 2019",
+		"id": 1167111786685816800,
+		"id_str": "1167111786685816832",
+		"full_text": "다음주 2000년 2월 27일 인기가요 100회 특집 기억나,,, 카이스트 출연진들 나와서 맑게 개인 하늘을 보며~~~ 크게 한번 소리 질러봐~~~ 나란히 서서 부르던거",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1054,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "다음주 2000년 2월 27일 인기가요 100회 특집 기억나,,, 카이스트 출연진들 나와서 맑게 개인 하늘을 보며~~~ 크게 한번 소리 질러봐~~~ 나란히 서서 부르던거"
+	},
+	{
+		"created_at": "Thu Aug 29 13:38:17 +0000 2019",
+		"id": 1167068957120970800,
+		"id_str": "1167068957120970752",
+		"full_text": "부국제 예매권 공지에 처음에 시작일이 명시되어 있지 않아서 잊고 있다가 마감 20분 전에 급하게 성공",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1054,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "부국제 예매권 공지에 처음에 시작일이 명시되어 있지 않아서 잊고 있다가 마감 20분 전에 급하게 성공"
+	},
+	{
+		"created_at": "Thu Aug 29 11:28:41 +0000 2019",
+		"id": 1167024891654103000,
+		"id_str": "1167036343068684288",
+		"full_text": "&lt;문준용씨 페북글&gt;\n\n원한다면 목소리를 내도 됩니다. 이건 지금은 부모님의 싸움이지만 앞으로는 자신의 싸움이 될 수도 있어요. 이건 부당한게 맞습니다. https://t.co/JhH55q8UJn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167024773987094500,
+					"id_str": "1167024773987094535",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EDIa2UmU0Acfmsa.png",
+					"media_url_https": "https://pbs.twimg.com/media/EDIa2UmU0Acfmsa.png",
+					"url": "https://t.co/JhH55q8UJn",
+					"display_url": "pic.twitter.com/JhH55q8UJn",
+					"expanded_url": "https://twitter.com/JirimKwan/status/1167024891654103042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 505,
+							"h": 616,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 505,
+							"h": 616,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 505,
+							"h": 616,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167024773987094500,
+					"id_str": "1167024773987094535",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EDIa2UmU0Acfmsa.png",
+					"media_url_https": "https://pbs.twimg.com/media/EDIa2UmU0Acfmsa.png",
+					"url": "https://t.co/JhH55q8UJn",
+					"display_url": "pic.twitter.com/JhH55q8UJn",
+					"expanded_url": "https://twitter.com/JirimKwan/status/1167024891654103042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 505,
+							"h": 616,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 505,
+							"h": 616,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 505,
+							"h": 616,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 942277386615210000,
+			"id_str": "942277386615209984",
+			"name": "관지림 (No Japan, Yes 조국)",
+			"screen_name": "JirimKwan",
+			"location": "",
+			"description": "🤬이재명 류와 이해찬 류, 구좌파 류를 반대합니다. 이 부류의 지지자들은 팔로하지 마세요. 차단합니다.🤨답글로 반말, 혼잣말, 주어 유무 상관없이 욕 섞어 보내는 분 차단합니다. 😊오로지 문재인 대통령님만 보고 갑니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10504,
+			"friends_count": 4690,
+			"listed_count": 30,
+			"created_at": "Sun Dec 17 06:16:50 +0000 2017",
+			"favourites_count": 54190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164152170121293824/g3d9E-b9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164152170121293824/g3d9E-b9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/942277386615209984/1565481673",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1794,
+		"favorite_count": 1551,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;문준용씨 페북글&gt;\n\n원한다면 목소리를 내도 됩니다. 이건 지금은 부모님의 싸움이지만 앞으로는 자신의 싸움이 될 수도 있어요. 이건 부당한게 맞습니다. https://t.co/JhH55q8UJn"
+	},
+	{
 		"created_at": "Wed Aug 28 23:42:15 +0000 2019",
 		"id": 1166858563181875200,
 		"id_str": "1166858563181875200",
