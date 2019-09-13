@@ -1,6 +1,894 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 12 05:25:55 +0000 2019",
+		"id": 1172018482684186600,
+		"id_str": "1172018482684186625",
+		"full_text": "@November1004 네네 화기가 이제 좀 빠진 것 같아요 엄청 따가웠네요ㅠㅠ 부위가 커서 흉터 남을거같아요 https://t.co/6IaqsbPxej",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "November1004",
+					"name": "푸른밤",
+					"id": 209986826,
+					"id_str": "209986826",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172018473758683100,
+					"id_str": "1172018473758683136",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EEPYl56U8AAEHE5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EEPYl56U8AAEHE5.jpg",
+					"url": "https://t.co/6IaqsbPxej",
+					"display_url": "pic.twitter.com/6IaqsbPxej",
+					"expanded_url": "https://twitter.com/sekaist/status/1172018482684186625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 134,
+							"h": 134,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 176,
+							"h": 134,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 176,
+							"h": 134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 176,
+							"h": 134,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172018473758683100,
+					"id_str": "1172018473758683136",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EEPYl56U8AAEHE5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EEPYl56U8AAEHE5.jpg",
+					"url": "https://t.co/6IaqsbPxej",
+					"display_url": "pic.twitter.com/6IaqsbPxej",
+					"expanded_url": "https://twitter.com/sekaist/status/1172018482684186625/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 134,
+							"h": 134,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 176,
+							"h": 134,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 176,
+							"h": 134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 176,
+							"h": 134,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							88,
+							67
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EEPYl56U8AAEHE5.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1172017936694837200,
+		"in_reply_to_status_id_str": "1172017936694837249",
+		"in_reply_to_user_id": 209986826,
+		"in_reply_to_user_id_str": "209986826",
+		"in_reply_to_screen_name": "November1004",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 583,
+			"friends_count": 1052,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@November1004 네네 화기가 이제 좀 빠진 것 같아요 엄청 따가웠네요ㅠㅠ 부위가 커서 흉터 남을거같아요 https://t.co/6IaqsbPxej"
+	},
+	{
+		"created_at": "Thu Sep 12 05:16:49 +0000 2019",
+		"id": 1172016192464097300,
+		"id_str": "1172016192464097281",
+		"full_text": "@November1004 전 부치고 움직이다가 펜에 다리가 닿았어요 흑흑....",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "November1004",
+					"name": "푸른밤",
+					"id": 209986826,
+					"id_str": "209986826",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1172016009626017800,
+		"in_reply_to_status_id_str": "1172016009626017792",
+		"in_reply_to_user_id": 209986826,
+		"in_reply_to_user_id_str": "209986826",
+		"in_reply_to_screen_name": "November1004",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 583,
+			"friends_count": 1052,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@November1004 전 부치고 움직이다가 펜에 다리가 닿았어요 흑흑...."
+	},
+	{
+		"created_at": "Thu Sep 12 05:10:20 +0000 2019",
+		"id": 1172014557784494000,
+		"id_str": "1172014557784494080",
+		"full_text": "추석은 물집을 남기고~~ 따흐흑",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 583,
+			"friends_count": 1052,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "추석은 물집을 남기고~~ 따흐흑"
+	},
+	{
+		"created_at": "Thu Sep 12 05:01:45 +0000 2019",
+		"id": 1171955802912874500,
+		"id_str": "1172012400528125952",
+		"full_text": "늦게 배운 이름자도 병환끝에 잊어버린 박금분 할머니가 “사랑합니다 너무 사랑합니다”라고 쓰고 싶으셨다는 답장이 뭉클합니다. 글자에 다 담지 못하신 다정한 마음 잘 받았습니다. 보름달 같은 희망안고 살아오신 할머니들의  마음을 추석연휴 고향가는 길에 함께 나눕니다. https://t.co/iQMLTtiowN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171955730825408500,
+					"id_str": "1171955730825408512",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOfhyRU8AAIsJ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOfhyRU8AAIsJ5.jpg",
+					"url": "https://t.co/iQMLTtiowN",
+					"display_url": "pic.twitter.com/iQMLTtiowN",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1171955802912874502/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 660,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171955730825408500,
+					"id_str": "1171955730825408512",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOfhyRU8AAIsJ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOfhyRU8AAIsJ5.jpg",
+					"url": "https://t.co/iQMLTtiowN",
+					"display_url": "pic.twitter.com/iQMLTtiowN",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1171955802912874502/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 660,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171955730615693300,
+					"id_str": "1171955730615693312",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOfhxfU8AAYGH1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOfhxfU8AAYGH1.jpg",
+					"url": "https://t.co/iQMLTtiowN",
+					"display_url": "pic.twitter.com/iQMLTtiowN",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1171955802912874502/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 664,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 664,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171955731043516400,
+					"id_str": "1171955731043516416",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOfhzFVAAADQVW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOfhzFVAAADQVW.jpg",
+					"url": "https://t.co/iQMLTtiowN",
+					"display_url": "pic.twitter.com/iQMLTtiowN",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1171955802912874502/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 648,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 648,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1171954609264312300,
+		"in_reply_to_status_id_str": "1171954609264312320",
+		"in_reply_to_user_id": 867990237804249100,
+		"in_reply_to_user_id_str": "867990237804249099",
+		"in_reply_to_screen_name": "TheBlueHouseKR",
+		"user": {
+			"id": 867990237804249100,
+			"id_str": "867990237804249099",
+			"name": "대한민국 청와대",
+			"screen_name": "TheBlueHouseKR",
+			"location": "대한민국",
+			"description": "대한민국 청와대의 공식 트위터입니다. Office of the President, the Republic of Korea 국민의 나라, 정의로운 대한민국을 함께 만들겠습니다. #청와대 #친절한청와대 #소통 @moonriver365 @TheBlueHouseENG",
+			"url": "https://t.co/9OTbCZBZGD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9OTbCZBZGD",
+							"expanded_url": "http://www.president.go.kr/",
+							"display_url": "president.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 425442,
+			"friends_count": 32379,
+			"listed_count": 762,
+			"created_at": "Fri May 26 06:26:13 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/867990237804249099/1527811453",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1462,
+		"favorite_count": 1966,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "늦게 배운 이름자도 병환끝에 잊어버린 박금분 할머니가 “사랑합니다 너무 사랑합니다”라고 쓰고 싶으셨다는 답장이 뭉클합니다. 글자에 다 담지 못하신 다정한 마음 잘 받았습니다. 보름달 같은 희망안고 살아오신 할머니들의  마음을 추석연휴 고향가는 길에 함께 나눕니다. https://t.co/iQMLTtiowN"
+	},
+	{
+		"created_at": "Thu Sep 12 05:01:43 +0000 2019",
+		"id": 1171954609264312300,
+		"id_str": "1172012390424010754",
+		"full_text": "추석을 앞두고 경북 칠곡에서 정성 가득한 손편지가 도착했습니다. 편지 주인공은 영화 '칠곡가시나들'에 출연한 할머니들. 김정숙 여사는 추석을 맞아 할머니들께 명절선물을 보냈는데요. 할머니들께서는 선물을 잘 받았다며 한 글자 한 글자 정성을 담아 쓴 답장을 보내주셨습니다. https://t.co/sl69jOrbg1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171954601366450200,
+					"id_str": "1171954601366450176",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOegCtU8AAzmjH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOegCtU8AAzmjH.jpg",
+					"url": "https://t.co/sl69jOrbg1",
+					"display_url": "pic.twitter.com/sl69jOrbg1",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1171954609264312320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 644,
+							"h": 959,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 644,
+							"h": 959,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171954601366450200,
+					"id_str": "1171954601366450176",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOegCtU8AAzmjH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOegCtU8AAzmjH.jpg",
+					"url": "https://t.co/sl69jOrbg1",
+					"display_url": "pic.twitter.com/sl69jOrbg1",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1171954609264312320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 644,
+							"h": 959,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 644,
+							"h": 959,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171954601324470300,
+					"id_str": "1171954601324470272",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOegCjUYAAVNs8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOegCjUYAAVNs8.jpg",
+					"url": "https://t.co/sl69jOrbg1",
+					"display_url": "pic.twitter.com/sl69jOrbg1",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1171954609264312320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 686,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 686,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171954601295151000,
+					"id_str": "1171954601295151104",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOegCcVAAAYhDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOegCcVAAAYhDq.jpg",
+					"url": "https://t.co/sl69jOrbg1",
+					"display_url": "pic.twitter.com/sl69jOrbg1",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1171954609264312320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 672,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1171954601320255500,
+					"id_str": "1171954601320255489",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EEOegCiUEAEjtBL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEOegCiUEAEjtBL.jpg",
+					"url": "https://t.co/sl69jOrbg1",
+					"display_url": "pic.twitter.com/sl69jOrbg1",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1171954609264312320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 671,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 671,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 867990237804249100,
+			"id_str": "867990237804249099",
+			"name": "대한민국 청와대",
+			"screen_name": "TheBlueHouseKR",
+			"location": "대한민국",
+			"description": "대한민국 청와대의 공식 트위터입니다. Office of the President, the Republic of Korea 국민의 나라, 정의로운 대한민국을 함께 만들겠습니다. #청와대 #친절한청와대 #소통 @moonriver365 @TheBlueHouseENG",
+			"url": "https://t.co/9OTbCZBZGD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9OTbCZBZGD",
+							"expanded_url": "http://www.president.go.kr/",
+							"display_url": "president.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 425442,
+			"friends_count": 32379,
+			"listed_count": 762,
+			"created_at": "Fri May 26 06:26:13 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/867990237804249099/1527811453",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3029,
+		"favorite_count": 3731,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "추석을 앞두고 경북 칠곡에서 정성 가득한 손편지가 도착했습니다. 편지 주인공은 영화 '칠곡가시나들'에 출연한 할머니들. 김정숙 여사는 추석을 맞아 할머니들께 명절선물을 보냈는데요. 할머니들께서는 선물을 잘 받았다며 한 글자 한 글자 정성을 담아 쓴 답장을 보내주셨습니다. https://t.co/sl69jOrbg1"
+	},
+	{
 		"created_at": "Wed Sep 11 07:17:31 +0000 2019",
 		"id": 1171684178011705300,
 		"id_str": "1171684178011705344",
