@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 13 13:08:34 +0000 2019",
+		"id": 1172462862750474200,
+		"id_str": "1172497298334466049",
+		"full_text": "❤️'접속! 무비월드' 금주 이벤트 고지❤️\n\n*&lt;마왕의 딸 이리샤&gt; 시사회\n*&lt;미드 90&gt; 예매권\n\n리트윗 후 신청하러 가기➡️https://t.co/Ip8bl6Qr12  \n**신청 양식 장석 시 꼭! 자신의 sns계정 아이디, 닉네임을 적어주세요!\n\n#접속무비월드 #9월14일 #시사회 #예매권 #마왕의딸이리샤 #미드90 https://t.co/vEvEsLRMzx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "접속무비월드",
+					"indices": [
+						154,
+						161
+					]
+				},
+				{
+					"text": "9월14일",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "시사회",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "예매권",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "마왕의딸이리샤",
+					"indices": [
+						179,
+						187
+					]
+				},
+				{
+					"text": "미드90",
+					"indices": [
+						188,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ip8bl6Qr12",
+					"expanded_url": "http://tv.sbs.co.kr/movieworld/",
+					"display_url": "tv.sbs.co.kr/movieworld/",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1172462779665485800,
+					"id_str": "1172462779665485824",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EEVsr6ZUEAAalYQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEVsr6ZUEAAalYQ.jpg",
+					"url": "https://t.co/vEvEsLRMzx",
+					"display_url": "pic.twitter.com/vEvEsLRMzx",
+					"expanded_url": "https://twitter.com/sbsmovieworld/status/1172462862750474240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1429,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172462779665485800,
+					"id_str": "1172462779665485824",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EEVsr6ZUEAAalYQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEVsr6ZUEAAalYQ.jpg",
+					"url": "https://t.co/vEvEsLRMzx",
+					"display_url": "pic.twitter.com/vEvEsLRMzx",
+					"expanded_url": "https://twitter.com/sbsmovieworld/status/1172462862750474240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1429,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1172462808203591700,
+					"id_str": "1172462808203591680",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EEVstktVAAAGCwO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEVstktVAAAGCwO.jpg",
+					"url": "https://t.co/vEvEsLRMzx",
+					"display_url": "pic.twitter.com/vEvEsLRMzx",
+					"expanded_url": "https://twitter.com/sbsmovieworld/status/1172462862750474240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1430,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 257006494,
+			"id_str": "257006494",
+			"name": "접속!무비월드",
+			"screen_name": "sbsmovieworld",
+			"location": "",
+			"description": "목요일엔 “접속! 무비월드”",
+			"url": "https://t.co/AyZt5ufmJ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AyZt5ufmJ6",
+							"expanded_url": "http://tv.sbs.co.kr/movieworld/",
+							"display_url": "tv.sbs.co.kr/movieworld/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 859,
+			"friends_count": 182,
+			"listed_count": 25,
+			"created_at": "Thu Feb 24 14:36:05 +0000 2011",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125716352621109248/O5LEYOWZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125716352621109248/O5LEYOWZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/257006494/1557219336",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️'접속! 무비월드' 금주 이벤트 고지❤️\n\n*&lt;마왕의 딸 이리샤&gt; 시사회\n*&lt;미드 90&gt; 예매권\n\n리트윗 후 신청하러 가기➡️https://t.co/Ip8bl6Qr12  \n**신청 양식 장석 시 꼭! 자신의 sns계정 아이디, 닉네임을 적어주세요!\n\n#접속무비월드 #9월14일 #시사회 #예매권 #마왕의딸이리샤 #미드90 https://t.co/vEvEsLRMzx"
+	},
+	{
 		"created_at": "Thu Sep 12 05:25:55 +0000 2019",
 		"id": 1172018482684186600,
 		"id_str": "1172018482684186625",
