@@ -1,6 +1,818 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 19 16:48:01 +0000 2019",
+		"id": 1174726852583157800,
+		"id_str": "1174726852583157770",
+		"full_text": "60p로 찍었는데 30p로 인코딩한 멍청이가 접니다 하... 두시간동안 했는데",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 583,
+			"friends_count": 1054,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "60p로 찍었는데 30p로 인코딩한 멍청이가 접니다 하... 두시간동안 했는데"
+	},
+	{
+		"created_at": "Thu Sep 19 16:34:10 +0000 2019",
+		"id": 1174723364595753000,
+		"id_str": "1174723364595752960",
+		"full_text": "어제 패닉 추억팔이 좀 했다고 유튜브 추천에 바로 뜨네 이러다 온갖 머리의 이적 다 보겠음 ㅋㅋㅋㅋㅋㅋㅋ\n패닉-아무도 https://t.co/PFyaz5tTUO - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PFyaz5tTUO",
+					"expanded_url": "https://youtu.be/unH27cTCVVw",
+					"display_url": "youtu.be/unH27cTCVVw",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 583,
+			"friends_count": 1054,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어제 패닉 추억팔이 좀 했다고 유튜브 추천에 바로 뜨네 이러다 온갖 머리의 이적 다 보겠음 ㅋㅋㅋㅋㅋㅋㅋ\n패닉-아무도 https://t.co/PFyaz5tTUO - @YouTube"
+	},
+	{
+		"created_at": "Thu Sep 19 16:32:58 +0000 2019",
+		"id": 1174667075958132700,
+		"id_str": "1174723062823972865",
+		"full_text": "잎사귀를 입사귀라고 쓸 정도로 흥분한 코알라사랑꾼... 근데 진짜 사람들아 오늘 우리 포토그래퍼가 찍은 걸 봐요 미쳤다고 정말 https://t.co/ROWP91VCbY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1174667034044428300,
+					"id_str": "1174667034044428288",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EE1BcZ2UcAA3Lyt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE1BcZ2UcAA3Lyt.jpg",
+					"url": "https://t.co/ROWP91VCbY",
+					"display_url": "pic.twitter.com/ROWP91VCbY",
+					"expanded_url": "https://twitter.com/kimtolkong/status/1174667075958132736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174667034044428300,
+					"id_str": "1174667034044428288",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EE1BcZ2UcAA3Lyt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE1BcZ2UcAA3Lyt.jpg",
+					"url": "https://t.co/ROWP91VCbY",
+					"display_url": "pic.twitter.com/ROWP91VCbY",
+					"expanded_url": "https://twitter.com/kimtolkong/status/1174667075958132736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1174667034052874200,
+					"id_str": "1174667034052874241",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EE1BcZ4VUAELw6Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE1BcZ4VUAELw6Y.jpg",
+					"url": "https://t.co/ROWP91VCbY",
+					"display_url": "pic.twitter.com/ROWP91VCbY",
+					"expanded_url": "https://twitter.com/kimtolkong/status/1174667075958132736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1174667034036035600,
+					"id_str": "1174667034036035584",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EE1BcZ0UYAARTyM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE1BcZ0UYAARTyM.jpg",
+					"url": "https://t.co/ROWP91VCbY",
+					"display_url": "pic.twitter.com/ROWP91VCbY",
+					"expanded_url": "https://twitter.com/kimtolkong/status/1174667075958132736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1174667034040230000,
+					"id_str": "1174667034040229889",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EE1BcZ1UYAEs6aV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE1BcZ1UYAEs6aV.jpg",
+					"url": "https://t.co/ROWP91VCbY",
+					"display_url": "pic.twitter.com/ROWP91VCbY",
+					"expanded_url": "https://twitter.com/kimtolkong/status/1174667075958132736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1174660374869598200,
+		"in_reply_to_status_id_str": "1174660374869598209",
+		"in_reply_to_user_id": 54411115,
+		"in_reply_to_user_id_str": "54411115",
+		"in_reply_to_screen_name": "kimtolkong",
+		"user": {
+			"id": 54411115,
+			"id_str": "54411115",
+			"name": "톨콩",
+			"screen_name": "kimtolkong",
+			"location": "",
+			"description": "🌰신간 #여자둘이살고있습니다 고양이 넷 사람 하나와 같이 삽니다. 단정한 것을 좋아하고, 툭하면 열광합니다. 예스24 팟캐스트 #책읽아웃 #김하나의측면돌파 진행중🐿",
+			"url": "https://t.co/CcaSmanerO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CcaSmanerO",
+							"expanded_url": "https://youtu.be/leK9szJkQQ4",
+							"display_url": "youtu.be/leK9szJkQQ4",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23882,
+			"friends_count": 494,
+			"listed_count": 159,
+			"created_at": "Tue Jul 07 01:57:36 +0000 2009",
+			"favourites_count": 9583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096227616732762113/dA4zCABG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096227616732762113/dA4zCABG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54411115/1520909617",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잎사귀를 입사귀라고 쓸 정도로 흥분한 코알라사랑꾼... 근데 진짜 사람들아 오늘 우리 포토그래퍼가 찍은 걸 봐요 미쳤다고 정말 https://t.co/ROWP91VCbY"
+	},
+	{
+		"created_at": "Thu Sep 19 16:27:14 +0000 2019",
+		"id": 1174721623183646700,
+		"id_str": "1174721623183646721",
+		"full_text": "평일 덕질 두탕 무사히 마무리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 583,
+			"friends_count": 1054,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "평일 덕질 두탕 무사히 마무리"
+	},
+	{
+		"created_at": "Thu Sep 19 15:54:06 +0000 2019",
+		"id": 1174624594637885400,
+		"id_str": "1174713282990505984",
+		"full_text": "가을특선 왕초보 기타&amp;베이스 레슨 모집합니다. 기타 고르기부터 롹스타까지!! 은둥조교가 함께 합니다. #통기타 #레슨 #기타레슨 #통기타레슨 #어쿠스틱기타 #어쿠스틱 #어쿠스틱기타레슨 #레슨 https://t.co/egSRCaNDcm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "통기타",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "레슨",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "기타레슨",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "통기타레슨",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "어쿠스틱기타",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "어쿠스틱",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "어쿠스틱기타레슨",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"text": "레슨",
+					"indices": [
+						107,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1174624555853238300,
+					"id_str": "1174624555853238272",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1174624555853238272/pu/img/YhHRAnlaNKNQqaAM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1174624555853238272/pu/img/YhHRAnlaNKNQqaAM.jpg",
+					"url": "https://t.co/egSRCaNDcm",
+					"display_url": "pic.twitter.com/egSRCaNDcm",
+					"expanded_url": "https://twitter.com/coolbursut/status/1174624594637885440/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174624555853238300,
+					"id_str": "1174624555853238272",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1174624555853238272/pu/img/YhHRAnlaNKNQqaAM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1174624555853238272/pu/img/YhHRAnlaNKNQqaAM.jpg",
+					"url": "https://t.co/egSRCaNDcm",
+					"display_url": "pic.twitter.com/egSRCaNDcm",
+					"expanded_url": "https://twitter.com/coolbursut/status/1174624594637885440/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 12500,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1174624555853238272/pu/vid/720x1280/oHu5-yaDiAY7qj-7.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1174624555853238272/pu/vid/360x640/6o1dy84blRHapmjW.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1174624555853238272/pu/vid/320x568/bjzFFdY_iw_4ZHMi.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1174624555853238272/pu/pl/lDY3_g-KznIYtcGL.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 129088794,
+			"id_str": "129088794",
+			"name": "꿀버섯",
+			"screen_name": "coolbursut",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/a0wbprIc1q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a0wbprIc1q",
+							"expanded_url": "https://instagram.com/coolbursut",
+							"display_url": "instagram.com/coolbursut",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 938,
+			"friends_count": 64,
+			"listed_count": 20,
+			"created_at": "Sat Apr 03 04:18:28 +0000 2010",
+			"favourites_count": 4655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAD7EF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134156640725348352/Z3OfB-Wc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134156640725348352/Z3OfB-Wc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/129088794/1551676472",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가을특선 왕초보 기타&amp;베이스 레슨 모집합니다. 기타 고르기부터 롹스타까지!! 은둥조교가 함께 합니다. #통기타 #레슨 #기타레슨 #통기타레슨 #어쿠스틱기타 #어쿠스틱 #어쿠스틱기타레슨 #레슨 https://t.co/egSRCaNDcm"
+	},
+	{
 		"created_at": "Wed Sep 18 14:23:49 +0000 2019",
 		"id": 1174328175339266000,
 		"id_str": "1174328175339266048",
