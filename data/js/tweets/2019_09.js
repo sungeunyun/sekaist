@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 22 13:49:48 +0000 2019",
+		"id": 1175767358285025300,
+		"id_str": "1175769166101372928",
+		"full_text": "영화 메기 이옥섭 감독의 단편 '걸스온탑'\n천우희 이주영 출연\n(타래로 계속) https://t.co/G1HSMdTXJ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1175766981405884400,
+					"id_str": "1175766981405884416",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175766981405884416/pu/img/mXm-ezNVIHrPlCgR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175766981405884416/pu/img/mXm-ezNVIHrPlCgR.jpg",
+					"url": "https://t.co/G1HSMdTXJ1",
+					"display_url": "pic.twitter.com/G1HSMdTXJ1",
+					"expanded_url": "https://twitter.com/9kyo8/status/1175767358285025280/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1332,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 649,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1175766981405884400,
+					"id_str": "1175766981405884416",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175766981405884416/pu/img/mXm-ezNVIHrPlCgR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175766981405884416/pu/img/mXm-ezNVIHrPlCgR.jpg",
+					"url": "https://t.co/G1HSMdTXJ1",
+					"display_url": "pic.twitter.com/G1HSMdTXJ1",
+					"expanded_url": "https://twitter.com/9kyo8/status/1175767358285025280/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1332,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 649,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							37,
+							20
+						],
+						"duration_millis": 127503,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1175766981405884416/pu/vid/666x360/l-QngzLVvsHHB1Ac.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1175766981405884416/pu/vid/1332x720/zRIf_4XEMJtGILfr.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1175766981405884416/pu/vid/498x270/stCxYrsa8HPJYYMq.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1175766981405884416/pu/pl/YWuF7L5EU72i071w.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 142550901,
+			"id_str": "142550901",
+			"name": "nine exchange",
+			"screen_name": "9kyo8",
+			"location": "",
+			"description": "메기중",
+			"url": "https://t.co/y7nr8sfJgW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y7nr8sfJgW",
+							"expanded_url": "https://youtube.com/user/gookyo8",
+							"display_url": "youtube.com/user/gookyo8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 462,
+			"friends_count": 133,
+			"listed_count": 4,
+			"created_at": "Tue May 11 04:46:55 +0000 2010",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169878572363726850/fGIR9Fzn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169878572363726850/fGIR9Fzn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/142550901/1486850113",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영화 메기 이옥섭 감독의 단편 '걸스온탑'\n천우희 이주영 출연\n(타래로 계속) https://t.co/G1HSMdTXJ1"
+	},
+	{
+		"created_at": "Sun Sep 22 03:26:11 +0000 2019",
+		"id": 1175599295300427800,
+		"id_str": "1175612228084457473",
+		"full_text": "#벌새 9만 관객 돌파🥳🥳\n은희&amp;지숙&amp;유리와 함께한 귀여운 9만 돌파 영상을 공개합니다!\n10만까지 &lt;벌새&gt;와 계속 날아주세요🥰\n&lt;벌새&gt; 절찬상영중! https://t.co/pv5NrtuyEn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "벌새",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1175599234373914600,
+					"id_str": "1175599234373914624",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175599234373914624/pu/img/8RpaQ-6WiHIRPqJR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175599234373914624/pu/img/8RpaQ-6WiHIRPqJR.jpg",
+					"url": "https://t.co/pv5NrtuyEn",
+					"display_url": "pic.twitter.com/pv5NrtuyEn",
+					"expanded_url": "https://twitter.com/at9film/status/1175599295300427777/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1175599234373914600,
+					"id_str": "1175599234373914624",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175599234373914624/pu/img/8RpaQ-6WiHIRPqJR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175599234373914624/pu/img/8RpaQ-6WiHIRPqJR.jpg",
+					"url": "https://t.co/pv5NrtuyEn",
+					"display_url": "pic.twitter.com/pv5NrtuyEn",
+					"expanded_url": "https://twitter.com/at9film/status/1175599295300427777/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 36375,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1175599234373914624/pu/pl/REU3FY4v0fx0P-fJ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1175599234373914624/pu/vid/320x320/M-LdVhDnUk8-LAdW.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1175599234373914624/pu/vid/480x480/d3ftA6kaf-u5Ps0G.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119295834,
+			"id_str": "119295834",
+			"name": "ATNINE FILM",
+			"screen_name": "at9film",
+			"location": "",
+			"description": "영화사 엣나인필름 공식 계정 ATNINE FILM CO., LTD. official twitter. https://t.co/7unczk7HpJ",
+			"url": "https://t.co/pSwybtWmaV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pSwybtWmaV",
+							"expanded_url": "http://facebook.com/at9film",
+							"display_url": "facebook.com/at9film",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7unczk7HpJ",
+							"expanded_url": "http://www.facebook.com/at9film",
+							"display_url": "facebook.com/at9film",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10843,
+			"friends_count": 5025,
+			"listed_count": 157,
+			"created_at": "Wed Mar 03 06:36:15 +0000 2010",
+			"favourites_count": 3071,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163367102058655744/6m5LXqGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163367102058655744/6m5LXqGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119295834/1566203308",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2289,
+		"favorite_count": 1342,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#벌새 9만 관객 돌파🥳🥳\n은희&amp;지숙&amp;유리와 함께한 귀여운 9만 돌파 영상을 공개합니다!\n10만까지 &lt;벌새&gt;와 계속 날아주세요🥰\n&lt;벌새&gt; 절찬상영중! https://t.co/pv5NrtuyEn"
+	},
+	{
 		"created_at": "Sat Sep 21 15:06:08 +0000 2019",
 		"id": 1173594206268354600,
 		"id_str": "1175425989628743681",
