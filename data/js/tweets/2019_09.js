@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 25 21:48:49 +0000 2019",
+		"id": 1176896057231343600,
+		"id_str": "1176976879095439360",
+		"full_text": "전쟁 같은 하루를 보내고 오늘에서야\n딸 생일 케잌 들고 퇴근하는 모습..\n이 가족에게 무슨 짓을 하는지 모르겠다\n버텨라 응원하는 것도 순간 일종의\n폭력인가 하는 생각이 들 정도로.. https://t.co/TQbqYFuLiF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1176896049429893000,
+					"id_str": "1176896049429893122",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EFUsuLPUUAIna9o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFUsuLPUUAIna9o.jpg",
+					"url": "https://t.co/TQbqYFuLiF",
+					"display_url": "pic.twitter.com/TQbqYFuLiF",
+					"expanded_url": "https://twitter.com/lalapesto/status/1176896057231343616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 560,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 315,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1176896049429893000,
+					"id_str": "1176896049429893122",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EFUsuLPUUAIna9o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFUsuLPUUAIna9o.jpg",
+					"url": "https://t.co/TQbqYFuLiF",
+					"display_url": "pic.twitter.com/TQbqYFuLiF",
+					"expanded_url": "https://twitter.com/lalapesto/status/1176896057231343616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 560,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 315,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 805660444815859700,
+			"id_str": "805660444815859712",
+			"name": "Luna🧚‍♂️🌕",
+			"screen_name": "lalapesto",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16550,
+			"friends_count": 974,
+			"listed_count": 88,
+			"created_at": "Mon Dec 05 06:29:53 +0000 2016",
+			"favourites_count": 7031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077507454554927104/_cRJEZvN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077507454554927104/_cRJEZvN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/805660444815859712/1524150355",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 196,
+		"favorite_count": 239,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전쟁 같은 하루를 보내고 오늘에서야\n딸 생일 케잌 들고 퇴근하는 모습..\n이 가족에게 무슨 짓을 하는지 모르겠다\n버텨라 응원하는 것도 순간 일종의\n폭력인가 하는 생각이 들 정도로.. https://t.co/TQbqYFuLiF"
+	},
+	{
+		"created_at": "Wed Sep 25 16:02:51 +0000 2019",
+		"id": 1176889812315324400,
+		"id_str": "1176889812315324416",
+		"full_text": "완전 속물들 조합이네 얼굴 왜케 켄지스럽냐 ㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1176888914017046500,
+		"in_reply_to_status_id_str": "1176888914017046530",
+		"in_reply_to_user_id": 133336572,
+		"in_reply_to_user_id_str": "133336572",
+		"in_reply_to_screen_name": "sekaist",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 583,
+			"friends_count": 1054,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "완전 속물들 조합이네 얼굴 왜케 켄지스럽냐 ㅋㅋ"
+	},
+	{
+		"created_at": "Wed Sep 25 15:59:17 +0000 2019",
+		"id": 1176888914017046500,
+		"id_str": "1176888914017046530",
+		"full_text": "《D+100》 신아가 감독 : 한국영화 100년 기념영화 [100X100]_070 https://t.co/51Oqd43N2z - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						72,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/51Oqd43N2z",
+					"expanded_url": "https://youtu.be/nvAABmmjuMQ",
+					"display_url": "youtu.be/nvAABmmjuMQ",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 583,
+			"friends_count": 1054,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "《D+100》 신아가 감독 : 한국영화 100년 기념영화 [100X100]_070 https://t.co/51Oqd43N2z - @YouTube"
+	},
+	{
+		"created_at": "Wed Sep 25 11:34:04 +0000 2019",
+		"id": 1176732304531587000,
+		"id_str": "1176822170854379520",
+		"full_text": "정경심 교수의 딸•아들에 대한 글을 보면서 검찰의 악랄함을 다시 한번 확인할 수 있었고,그렇게 달려들어 겨우 한 것이 가정파괴가 전부인 게 현재란 사실에 검찰 스스로 과연 반성을 할까 싶은 의문이 드는 지금.현재 이런 검찰은 해체가 우선 아닌가 싶네.경찰서마다 검사실 두고 더부살이 시켜야.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2321803459,
+			"id_str": "2321803459",
+			"name": "왕수⚗️",
+			"screen_name": "_qazplm__",
+			"location": "",
+			"description": "안철수와 국지모는 정신차리세요. 손가혁도 같이 정신차리세요. + 주장할 때는 (자신의 신념이 아닌) 근거를 갖춰 해주세요. 차단의 이유가 될 수 있습니다. 논쟁 좋아합니다. 대신 상대 수준에 맞춰서 합니다. 언팔하시려거든 차단해주세요.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6926,
+			"friends_count": 746,
+			"listed_count": 47,
+			"created_at": "Sat Feb 01 05:07:10 +0000 2014",
+			"favourites_count": 11836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079739470948102145/cO64g2FF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079739470948102145/cO64g2FF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2321803459/1564753923",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 560,
+		"favorite_count": 468,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "정경심 교수의 딸•아들에 대한 글을 보면서 검찰의 악랄함을 다시 한번 확인할 수 있었고,그렇게 달려들어 겨우 한 것이 가정파괴가 전부인 게 현재란 사실에 검찰 스스로 과연 반성을 할까 싶은 의문이 드는 지금.현재 이런 검찰은 해체가 우선 아닌가 싶네.경찰서마다 검사실 두고 더부살이 시켜야."
+	},
+	{
+		"created_at": "Wed Sep 25 10:45:04 +0000 2019",
+		"id": 1176809840707944400,
+		"id_str": "1176809840707944449",
+		"full_text": "엄마가 부국제 티켓 발권해야하지 않냐고 연락옴 울엄마 최고 10년 넘게 카탈로그 챙겨주시고 티켓 빳빳한 부산은행 용지로 발권해주심🥰",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   밴드 맥거핀이 최애입니다 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 583,
+			"friends_count": 1054,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "엄마가 부국제 티켓 발권해야하지 않냐고 연락옴 울엄마 최고 10년 넘게 카탈로그 챙겨주시고 티켓 빳빳한 부산은행 용지로 발권해주심🥰"
+	},
+	{
 		"created_at": "Tue Sep 24 22:36:27 +0000 2019",
 		"id": 1176626476923281400,
 		"id_str": "1176626476923281409",
