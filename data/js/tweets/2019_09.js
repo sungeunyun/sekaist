@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 29 10:34:29 +0000 2019",
+		"id": 1178207841196236800,
+		"id_str": "1178256727084396545",
+		"full_text": "드레스코드 못들은 사람 https://t.co/8C2CZcRN4u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1178207828726538200,
+					"id_str": "1178207828726538241",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EFnVxx7UYAEct6f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFnVxx7UYAEct6f.jpg",
+					"url": "https://t.co/8C2CZcRN4u",
+					"display_url": "pic.twitter.com/8C2CZcRN4u",
+					"expanded_url": "https://twitter.com/audio_oreo/status/1178207841196236800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178207828726538200,
+					"id_str": "1178207828726538241",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EFnVxx7UYAEct6f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFnVxx7UYAEct6f.jpg",
+					"url": "https://t.co/8C2CZcRN4u",
+					"display_url": "pic.twitter.com/8C2CZcRN4u",
+					"expanded_url": "https://twitter.com/audio_oreo/status/1178207841196236800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178207828726562800,
+					"id_str": "1178207828726562816",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EFnVxx7UwAA-_lz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFnVxx7UwAA-_lz.jpg",
+					"url": "https://t.co/8C2CZcRN4u",
+					"display_url": "pic.twitter.com/8C2CZcRN4u",
+					"expanded_url": "https://twitter.com/audio_oreo/status/1178207841196236800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 378,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 378,
+							"h": 384,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 378,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 870155219224547300,
+			"id_str": "870155219224547328",
+			"name": "도마도",
+			"screen_name": "audio_oreo",
+			"location": "",
+			"description": "본거 또 보고 있는 사람",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130,
+			"friends_count": 95,
+			"listed_count": 1,
+			"created_at": "Thu Jun 01 05:49:05 +0000 2017",
+			"favourites_count": 2574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/989767027156922368/A0PJlugy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/989767027156922368/A0PJlugy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/870155219224547328/1543060203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 298,
+		"favorite_count": 212,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드레스코드 못들은 사람 https://t.co/8C2CZcRN4u"
+	},
+	{
 		"created_at": "Sat Sep 28 15:15:54 +0000 2019",
 		"id": 1177965160645808000,
 		"id_str": "1177965160645808128",
