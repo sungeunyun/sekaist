@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 05 04:49:13 +0000 2019",
+		"id": 1180339021815304200,
+		"id_str": "1180344166791802881",
+		"full_text": "숲요정 https://t.co/8W9nl7gei6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1180339009584631800,
+					"id_str": "1180339009584631808",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/EGFoE1TUEAALbpW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGFoE1TUEAALbpW.jpg",
+					"url": "https://t.co/8W9nl7gei6",
+					"display_url": "pic.twitter.com/8W9nl7gei6",
+					"expanded_url": "https://twitter.com/dog__sookie/status/1180339021815304192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1180339009584631800,
+					"id_str": "1180339009584631808",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/EGFoE1TUEAALbpW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGFoE1TUEAALbpW.jpg",
+					"url": "https://t.co/8W9nl7gei6",
+					"display_url": "pic.twitter.com/8W9nl7gei6",
+					"expanded_url": "https://twitter.com/dog__sookie/status/1180339021815304192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1180339009588842500,
+					"id_str": "1180339009588842497",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/EGFoE1UUUAElmV7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGFoE1UUUAElmV7.jpg",
+					"url": "https://t.co/8W9nl7gei6",
+					"display_url": "pic.twitter.com/8W9nl7gei6",
+					"expanded_url": "https://twitter.com/dog__sookie/status/1180339021815304192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127510976,
+			"id_str": "127510976",
+			"name": "숙희",
+			"screen_name": "dog__sookie",
+			"location": "",
+			"description": "남포동 스트릿 출신 코리안테리어 '숙희'",
+			"url": "https://t.co/9QiBn1Xshq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9QiBn1Xshq",
+							"expanded_url": "http://Instagram.com/dog_sookie",
+							"display_url": "Instagram.com/dog_sookie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5682,
+			"friends_count": 208,
+			"listed_count": 77,
+			"created_at": "Mon Mar 29 12:52:02 +0000 2010",
+			"favourites_count": 5406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1147364038705209349/EMjnevrg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147364038705209349/EMjnevrg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127510976/1554128904",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 177,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "숲요정 https://t.co/8W9nl7gei6"
+	},
+	{
 		"created_at": "Fri Oct 04 21:27:50 +0000 2019",
 		"id": 1180233088342909000,
 		"id_str": "1180233088342908928",
