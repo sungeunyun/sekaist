@@ -1,6 +1,1138 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 29 23:56:17 +0000 2019",
+		"id": 1189330144554561500,
+		"id_str": "1189330144554561538",
+		"full_text": "@fallsstar 잘쉥긴 사람이라 그래여......",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fallsstar",
+					"name": "ʜʀ ᴘɪᴄ.",
+					"id": 265341125,
+					"id_str": "265341125",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1189329217986662400,
+		"in_reply_to_status_id_str": "1189329217986662402",
+		"in_reply_to_user_id": 265341125,
+		"in_reply_to_user_id_str": "265341125",
+		"in_reply_to_screen_name": "fallsstar",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 584,
+			"friends_count": 1057,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@fallsstar 잘쉥긴 사람이라 그래여......"
+	},
+	{
+		"created_at": "Tue Oct 29 22:55:04 +0000 2019",
+		"id": 1189282366705094700,
+		"id_str": "1189314737865142272",
+		"full_text": "저희 어머니가 소천하셨습니다.\n다행히 편안한 얼굴로 마지막 떠나시는 모습을 저와 가족들이 지킬 수 있었습니다. 평생 돌아갈 수 없는 고향을 그리워하셨고, 이땅의 모든 어머니들처럼 고생도 하셨지만 \"그래도 행복했다.\"는 말을 남기셨습니다. https://t.co/kFfGpxftTy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189282353820000300,
+					"id_str": "1189282353820000256",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EIEt_-0U4AAEhhi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIEt_-0U4AAEhhi.jpg",
+					"url": "https://t.co/kFfGpxftTy",
+					"display_url": "pic.twitter.com/kFfGpxftTy",
+					"expanded_url": "https://twitter.com/moonriver365/status/1189282366705094658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189282353820000300,
+					"id_str": "1189282353820000256",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EIEt_-0U4AAEhhi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIEt_-0U4AAEhhi.jpg",
+					"url": "https://t.co/kFfGpxftTy",
+					"display_url": "pic.twitter.com/kFfGpxftTy",
+					"expanded_url": "https://twitter.com/moonriver365/status/1189282366705094658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444465942,
+			"id_str": "444465942",
+			"name": "문재인",
+			"screen_name": "moonriver365",
+			"location": "대한민국",
+			"description": "대한민국 대통령 문재인입니다. President of the Republic of Korea. 나라다운 나라를 만들기 위해 국민여러분과 함께 하겠습니다. @thebluehousekr @TheBlueHouseENG",
+			"url": "https://t.co/FAKWOwyhHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FAKWOwyhHd",
+							"expanded_url": "http://www.president.go.kr",
+							"display_url": "president.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1778995,
+			"friends_count": 150606,
+			"listed_count": 8291,
+			"created_at": "Fri Dec 23 08:46:08 +0000 2011",
+			"favourites_count": 725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/444465942/1562655905",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6521,
+		"favorite_count": 10192,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저희 어머니가 소천하셨습니다.\n다행히 편안한 얼굴로 마지막 떠나시는 모습을 저와 가족들이 지킬 수 있었습니다. 평생 돌아갈 수 없는 고향을 그리워하셨고, 이땅의 모든 어머니들처럼 고생도 하셨지만 \"그래도 행복했다.\"는 말을 남기셨습니다. https://t.co/kFfGpxftTy"
+	},
+	{
+		"created_at": "Tue Oct 29 15:59:18 +0000 2019",
+		"id": 1189210108321906700,
+		"id_str": "1189210108321906688",
+		"full_text": "밴드 카프 김수환무거북이와두루미.... https://t.co/oQ35CAgq7X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189210103045488600,
+					"id_str": "1189210103045488640",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EIDsSbtVAAAtgz0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIDsSbtVAAAtgz0.jpg",
+					"url": "https://t.co/oQ35CAgq7X",
+					"display_url": "pic.twitter.com/oQ35CAgq7X",
+					"expanded_url": "https://twitter.com/sekaist/status/1189210108321906688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189210103045488600,
+					"id_str": "1189210103045488640",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EIDsSbtVAAAtgz0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIDsSbtVAAAtgz0.jpg",
+					"url": "https://t.co/oQ35CAgq7X",
+					"display_url": "pic.twitter.com/oQ35CAgq7X",
+					"expanded_url": "https://twitter.com/sekaist/status/1189210108321906688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 584,
+			"friends_count": 1057,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "밴드 카프 김수환무거북이와두루미.... https://t.co/oQ35CAgq7X"
+	},
+	{
+		"created_at": "Tue Oct 29 11:37:30 +0000 2019",
+		"id": 1189142816573685800,
+		"id_str": "1189144220671467521",
+		"full_text": "\"누군가 물었습니다. 인생에서 가장 고마운 사람이 누구입니까? 저는 대답했습니다. 어머니와 아내입니다. 그가 다시 물었습니다. 한 사람만 꼽는다면 누구입니까? 저는 잠깐 생각한 후에 다시 대답했습니다. 어머니입니다. 아내에겐 내가 준 것도 있을 테지만, 어머니에겐 받기만 했으니까요\" https://t.co/NTAXR0YyAz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189142814317150200,
+					"id_str": "1189142814317150208",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EICvFtqVAAA9CHv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EICvFtqVAAA9CHv.jpg",
+					"url": "https://t.co/NTAXR0YyAz",
+					"display_url": "pic.twitter.com/NTAXR0YyAz",
+					"expanded_url": "https://twitter.com/happy_CSR/status/1189142816573685761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 434,
+							"h": 323,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 434,
+							"h": 323,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 434,
+							"h": 323,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189142814317150200,
+					"id_str": "1189142814317150208",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/EICvFtqVAAA9CHv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EICvFtqVAAA9CHv.jpg",
+					"url": "https://t.co/NTAXR0YyAz",
+					"display_url": "pic.twitter.com/NTAXR0YyAz",
+					"expanded_url": "https://twitter.com/happy_CSR/status/1189142816573685761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 434,
+							"h": 323,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 434,
+							"h": 323,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 434,
+							"h": 323,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 864143387770757100,
+			"id_str": "864143387770757121",
+			"name": "sora",
+			"screen_name": "happy_CSR",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22117,
+			"friends_count": 2992,
+			"listed_count": 78,
+			"created_at": "Mon May 15 15:40:13 +0000 2017",
+			"favourites_count": 37101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173097642705879042/D1UaLngM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173097642705879042/D1UaLngM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/864143387770757121/1572155777",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1339,
+		"favorite_count": 1654,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"누군가 물었습니다. 인생에서 가장 고마운 사람이 누구입니까? 저는 대답했습니다. 어머니와 아내입니다. 그가 다시 물었습니다. 한 사람만 꼽는다면 누구입니까? 저는 잠깐 생각한 후에 다시 대답했습니다. 어머니입니다. 아내에겐 내가 준 것도 있을 테지만, 어머니에겐 받기만 했으니까요\" https://t.co/NTAXR0YyAz"
+	},
+	{
+		"created_at": "Tue Oct 29 11:24:39 +0000 2019",
+		"id": 1189135008276959200,
+		"id_str": "1189140988628893696",
+		"full_text": "문재인 대통령의 모친 강한옥 여사께서 10월 29일, 향년 92세를 일기로 별세하셨습니다.대통령은 고인의 뜻에 따라 장례는 가족들과 차분하게 치를 예정이며, 조문과 조화는 정중히 사양하겠다는 뜻을 전했습니다. 애도와 추모의 뜻은 마음으로 전해 주시기 바랍니다. 고민정 대변인의 브리핑입니다. https://t.co/n1VyzAifLT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189134999573819400,
+					"id_str": "1189134999573819393",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EICn-1eU8AEDvPp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EICn-1eU8AEDvPp.jpg",
+					"url": "https://t.co/n1VyzAifLT",
+					"display_url": "pic.twitter.com/n1VyzAifLT",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1189135008276959234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 648,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 61,
+									"y": 300,
+									"h": 200,
+									"w": 200
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 35,
+									"y": 170,
+									"h": 113,
+									"w": 113
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 64,
+									"y": 310,
+									"h": 207,
+									"w": 207
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 64,
+									"y": 310,
+									"h": 207,
+									"w": 207
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189134999573819400,
+					"id_str": "1189134999573819393",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EICn-1eU8AEDvPp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EICn-1eU8AEDvPp.jpg",
+					"url": "https://t.co/n1VyzAifLT",
+					"display_url": "pic.twitter.com/n1VyzAifLT",
+					"expanded_url": "https://twitter.com/TheBlueHouseKR/status/1189135008276959234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 627,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 648,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 61,
+									"y": 300,
+									"h": 200,
+									"w": 200
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 35,
+									"y": 170,
+									"h": 113,
+									"w": 113
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 64,
+									"y": 310,
+									"h": 207,
+									"w": 207
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 64,
+									"y": 310,
+									"h": 207,
+									"w": 207
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 867990237804249100,
+			"id_str": "867990237804249099",
+			"name": "대한민국 청와대",
+			"screen_name": "TheBlueHouseKR",
+			"location": "대한민국",
+			"description": "대한민국 청와대의 공식 트위터입니다. Office of the President, the Republic of Korea 국민의 나라, 정의로운 대한민국을 함께 만들겠습니다. #청와대 #친절한청와대 #소통 @moonriver365 @TheBlueHouseENG",
+			"url": "https://t.co/9OTbCZBZGD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9OTbCZBZGD",
+							"expanded_url": "http://www.president.go.kr/",
+							"display_url": "president.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 431781,
+			"friends_count": 32180,
+			"listed_count": 768,
+			"created_at": "Fri May 26 06:26:13 +0000 2017",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869475833928237056/6naZ3Y_2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/867990237804249099/1527811453",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5616,
+		"favorite_count": 5406,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "문재인 대통령의 모친 강한옥 여사께서 10월 29일, 향년 92세를 일기로 별세하셨습니다.대통령은 고인의 뜻에 따라 장례는 가족들과 차분하게 치를 예정이며, 조문과 조화는 정중히 사양하겠다는 뜻을 전했습니다. 애도와 추모의 뜻은 마음으로 전해 주시기 바랍니다. 고민정 대변인의 브리핑입니다. https://t.co/n1VyzAifLT"
+	},
+	{
+		"created_at": "Tue Oct 29 10:55:32 +0000 2019",
+		"id": 1189131465075773400,
+		"id_str": "1189133660089282561",
+		"full_text": "아들을 기다리셨던 어머니와\n그런 어머니 곁을 지킨 아들.\n\n삼가 고인의 명복을 빕니다. https://t.co/NysSl7PYO8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189131456666206200,
+					"id_str": "1189131456666206208",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/EICkwnHVAAA1qP3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EICkwnHVAAA1qP3.jpg",
+					"url": "https://t.co/NysSl7PYO8",
+					"display_url": "pic.twitter.com/NysSl7PYO8",
+					"expanded_url": "https://twitter.com/happy_CSR/status/1189131465075773440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 607,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 607,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 607,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189131456666206200,
+					"id_str": "1189131456666206208",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/EICkwnHVAAA1qP3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EICkwnHVAAA1qP3.jpg",
+					"url": "https://t.co/NysSl7PYO8",
+					"display_url": "pic.twitter.com/NysSl7PYO8",
+					"expanded_url": "https://twitter.com/happy_CSR/status/1189131465075773440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 607,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 607,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 607,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 864143387770757100,
+			"id_str": "864143387770757121",
+			"name": "sora",
+			"screen_name": "happy_CSR",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22117,
+			"friends_count": 2992,
+			"listed_count": 78,
+			"created_at": "Mon May 15 15:40:13 +0000 2017",
+			"favourites_count": 37101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173097642705879042/D1UaLngM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173097642705879042/D1UaLngM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/864143387770757121/1572155777",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 366,
+		"favorite_count": 511,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아들을 기다리셨던 어머니와\n그런 어머니 곁을 지킨 아들.\n\n삼가 고인의 명복을 빕니다. https://t.co/NysSl7PYO8"
+	},
+	{
 		"created_at": "Mon Oct 28 13:59:39 +0000 2019",
 		"id": 1188817605970104300,
 		"id_str": "1188817605970104321",
