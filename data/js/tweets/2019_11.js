@@ -1,6 +1,762 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 16 13:19:15 +0000 2019",
+		"id": 1195692808415244300,
+		"id_str": "1195692808415244289",
+		"full_text": "펭수 세나펭영상 끝에 투개월 number1 깔려서 갑자기 신재평이 생각났고 펩톤 올해 한번도 못봐서 넘 보고싶어서 단공 예대 걸었다 미친 의식의 흐름",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 586,
+			"friends_count": 1062,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "펭수 세나펭영상 끝에 투개월 number1 깔려서 갑자기 신재평이 생각났고 펩톤 올해 한번도 못봐서 넘 보고싶어서 단공 예대 걸었다 미친 의식의 흐름"
+	},
+	{
+		"created_at": "Sat Nov 16 03:06:44 +0000 2019",
+		"id": 1195528916611432400,
+		"id_str": "1195538664974979072",
+		"full_text": "[속보] 시흥 해로 X 펭수 티저공개\n\n성공했다 해로‼ 펭수 실물영접!!\n이제..해로토로도 뜰 수 있나요? (간절)\n\n#시흥시_신규공뭔_해로토로\n#비주얼담당 #시흥시간판 \n#토로는_연가중 #못나옴_쉿\n#펭수랑_지독하게_얽히고싶다\n#해로토로도_10만유튜버각 \n#해로_본격_펭수코인탑승 #질척 #떤배님♡ https://t.co/N1LkaJVbOU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "시흥시_신규공뭔_해로토로",
+					"indices": [
+						66,
+						80
+					]
+				},
+				{
+					"text": "비주얼담당",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "시흥시간판",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "토로는_연가중",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "못나옴_쉿",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "펭수랑_지독하게_얽히고싶다",
+					"indices": [
+						112,
+						127
+					]
+				},
+				{
+					"text": "해로토로도_10만유튜버각",
+					"indices": [
+						128,
+						142
+					]
+				},
+				{
+					"text": "해로_본격_펭수코인탑승",
+					"indices": [
+						144,
+						157
+					]
+				},
+				{
+					"text": "질척",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "떤배님",
+					"indices": [
+						162,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195528835527131100,
+					"id_str": "1195528835527131142",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EJdfJEhUwAYNnNI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJdfJEhUwAYNnNI.jpg",
+					"url": "https://t.co/N1LkaJVbOU",
+					"display_url": "pic.twitter.com/N1LkaJVbOU",
+					"expanded_url": "https://twitter.com/siheung/status/1195528916611432453/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 849,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 28,
+									"y": 308,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 23,
+									"y": 367,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 309,
+									"y": 356,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 11,
+									"y": 129,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 9,
+									"y": 154,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 546,
+									"y": 628,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 20,
+									"y": 228,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 17,
+									"y": 271,
+									"h": 61,
+									"w": 61
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 849,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 28,
+									"y": 308,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 23,
+									"y": 367,
+									"h": 83,
+									"w": 83
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195528835527131100,
+					"id_str": "1195528835527131142",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EJdfJEhUwAYNnNI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJdfJEhUwAYNnNI.jpg",
+					"url": "https://t.co/N1LkaJVbOU",
+					"display_url": "pic.twitter.com/N1LkaJVbOU",
+					"expanded_url": "https://twitter.com/siheung/status/1195528916611432453/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 849,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 28,
+									"y": 308,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 23,
+									"y": 367,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 309,
+									"y": 356,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 11,
+									"y": 129,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 9,
+									"y": 154,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 546,
+									"y": 628,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 20,
+									"y": 228,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 17,
+									"y": 271,
+									"h": 61,
+									"w": 61
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 849,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 28,
+									"y": 308,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 23,
+									"y": 367,
+									"h": 83,
+									"w": 83
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1195528855827570700,
+					"id_str": "1195528855827570689",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EJdfKQJU4AEqlTd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJdfKQJU4AEqlTd.jpg",
+					"url": "https://t.co/N1LkaJVbOU",
+					"display_url": "pic.twitter.com/N1LkaJVbOU",
+					"expanded_url": "https://twitter.com/siheung/status/1195528916611432453/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1195528869308035000,
+					"id_str": "1195528869308035072",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EJdfLCXUcAAjbIX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJdfLCXUcAAjbIX.jpg",
+					"url": "https://t.co/N1LkaJVbOU",
+					"display_url": "pic.twitter.com/N1LkaJVbOU",
+					"expanded_url": "https://twitter.com/siheung/status/1195528916611432453/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1195528899188281300,
+					"id_str": "1195528899188281344",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EJdfMxrU0AAp8_z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJdfMxrU0AAp8_z.jpg",
+					"url": "https://t.co/N1LkaJVbOU",
+					"display_url": "pic.twitter.com/N1LkaJVbOU",
+					"expanded_url": "https://twitter.com/siheung/status/1195528916611432453/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 847,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1446,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64884760,
+			"id_str": "64884760",
+			"name": "시흥시",
+			"screen_name": "siheung",
+			"location": "시흥시",
+			"description": "행복한 변화 새로운 시흥 \"시민과 함께 만들겠습니다\"",
+			"url": "https://t.co/P0KERebr29",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P0KERebr29",
+							"expanded_url": "http://www.siheung.go.kr/",
+							"display_url": "siheung.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7802,
+			"friends_count": 7625,
+			"listed_count": 124,
+			"created_at": "Wed Aug 12 00:56:29 +0000 2009",
+			"favourites_count": 1524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194168135202398208/evrqciEz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194168135202398208/evrqciEz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64884760/1572512194",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 569,
+		"favorite_count": 392,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[속보] 시흥 해로 X 펭수 티저공개\n\n성공했다 해로‼ 펭수 실물영접!!\n이제..해로토로도 뜰 수 있나요? (간절)\n\n#시흥시_신규공뭔_해로토로\n#비주얼담당 #시흥시간판 \n#토로는_연가중 #못나옴_쉿\n#펭수랑_지독하게_얽히고싶다\n#해로토로도_10만유튜버각 \n#해로_본격_펭수코인탑승 #질척 #떤배님♡ https://t.co/N1LkaJVbOU"
+	},
+	{
+		"created_at": "Sat Nov 16 02:05:22 +0000 2019",
+		"id": 1195523219823845400,
+		"id_str": "1195523219823845376",
+		"full_text": "@sister_eun 네네 그냥 패스했어요😭😭",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sister_eun",
+					"name": "죽은깨",
+					"id": 1177201735,
+					"id_str": "1177201735",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1195339894907818000,
+		"in_reply_to_status_id_str": "1195339894907817984",
+		"in_reply_to_user_id": 1177201735,
+		"in_reply_to_user_id_str": "1177201735",
+		"in_reply_to_screen_name": "sister_eun",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 586,
+			"friends_count": 1062,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sister_eun 네네 그냥 패스했어요😭😭"
+	},
+	{
 		"created_at": "Fri Nov 15 11:54:44 +0000 2019",
 		"id": 1195309151578030000,
 		"id_str": "1195309151578030080",
