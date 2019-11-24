@@ -1,6 +1,856 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 23 18:43:50 +0000 2019",
+		"id": 1197673549541953500,
+		"id_str": "1198311207440019457",
+		"full_text": "나의 씨름은 무게에 비례하지 않는다! \nKBS 새 예능 #씨름의희열\n11월 30일(토) 밤10시 45분 첫방송!\n#태백에서금강까지 #씨름아이돌 https://t.co/gd6Iz2DRSc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "씨름의희열",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "태백에서금강까지",
+					"indices": [
+						63,
+						72
+					]
+				},
+				{
+					"text": "씨름아이돌",
+					"indices": [
+						73,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1197297952022122500,
+					"id_str": "1197297952022122497",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ2o51-UwAEfZtH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ2o51-UwAEfZtH.jpg",
+					"url": "https://t.co/gd6Iz2DRSc",
+					"display_url": "pic.twitter.com/gd6Iz2DRSc",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1197673549541953537/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197297952022122500,
+					"id_str": "1197297952022122497",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ2o51-UwAEfZtH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ2o51-UwAEfZtH.jpg",
+					"url": "https://t.co/gd6Iz2DRSc",
+					"display_url": "pic.twitter.com/gd6Iz2DRSc",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1197673549541953537/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 112746,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1197297952022122497/pl/xj5CyMzvnA8-pGj4.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1197297952022122497/vid/1280x720/RNuEVtaB9gfyVd2C.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1197297952022122497/vid/640x360/eQMPs-GzOMqQMn7x.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1197297952022122497/vid/480x270/UDgxGTfnUjBGQsDK.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/V6p1lhj6qs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V6p1lhj6qs",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1074559,
+			"friends_count": 61043,
+			"listed_count": 2479,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 50321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124218444763680768/m7Owd1My_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124218444763680768/m7Owd1My_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1570662238",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "나의 씨름은 무게에 비례하지 않는다! \nKBS 새 예능 #씨름의희열\n11월 30일(토) 밤10시 45분 첫방송!\n#태백에서금강까지 #씨름아이돌 https://t.co/gd6Iz2DRSc"
+	},
+	{
+		"created_at": "Sat Nov 23 16:28:27 +0000 2019",
+		"id": 1198277137100238800,
+		"id_str": "1198277137100238850",
+		"full_text": "여름에 지하철에서 땀냄새 나는 사람들에게도 함부로 말하지 않는다. 그 사람이 땀을 흘릴 수 밖에 없는 어떤 노동을 하고 탔는지 판단할 길이 없기 때문에. 내가 뭐라고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1060,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "여름에 지하철에서 땀냄새 나는 사람들에게도 함부로 말하지 않는다. 그 사람이 땀을 흘릴 수 밖에 없는 어떤 노동을 하고 탔는지 판단할 길이 없기 때문에. 내가 뭐라고."
+	},
+	{
+		"created_at": "Sat Nov 23 16:26:01 +0000 2019",
+		"id": 1198263688345469000,
+		"id_str": "1198276525491048448",
+		"full_text": "깔끔하고 잘 씻는 사람이 좋지만, 이것조차도 옷 빨아 널기 좋고, 따뜻한 물 잘 나오는 집에서 살 때 가능한 일이란 생각이 들면서 남의 위생 상태에 대해서도 함부로 말할 수 없게 되었다...\n\n세상살이가 참 복합적이고 다면적이다...켜켜이 쌓인 알지못할 사연들이 참 많다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3009235471,
+			"id_str": "3009235471",
+			"name": "크리스마스를 기다리는 다림🎄",
+			"screen_name": "DARIM_0",
+			"location": "당신 곁",
+			"description": "미래는 예측이 아닌 상상하는 자들에 의해 만들어진다는 말을 믿어보기로. 교육관련 소식을 모아요. 깊이읽을수록 깊이 생각한대요.(@growth_learn)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3549,
+			"friends_count": 380,
+			"listed_count": 34,
+			"created_at": "Tue Feb 03 12:51:58 +0000 2015",
+			"favourites_count": 39011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 150142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196386335847636993/ynJrvniC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196386335847636993/ynJrvniC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3009235471/1492271871",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 146,
+		"favorite_count": 179,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "깔끔하고 잘 씻는 사람이 좋지만, 이것조차도 옷 빨아 널기 좋고, 따뜻한 물 잘 나오는 집에서 살 때 가능한 일이란 생각이 들면서 남의 위생 상태에 대해서도 함부로 말할 수 없게 되었다...\n\n세상살이가 참 복합적이고 다면적이다...켜켜이 쌓인 알지못할 사연들이 참 많다..."
+	},
+	{
+		"created_at": "Sat Nov 23 13:23:57 +0000 2019",
+		"id": 1198230706725326800,
+		"id_str": "1198230706725326849",
+		"full_text": "라방 보느라 집에 늦게와서 전반 못봤는데 흥민이 골 넣었구나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1060,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "라방 보느라 집에 늦게와서 전반 못봤는데 흥민이 골 넣었구나"
+	},
+	{
+		"created_at": "Sat Nov 23 10:48:20 +0000 2019",
+		"id": 1198191547247779800,
+		"id_str": "1198191547247779840",
+		"full_text": "다음 중 더 레어한 공연은\n1번은 다음번 공연을 기약할 수 없음\n2번은 올해 5월에도 내한했지만 못갔음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1060,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "다음 중 더 레어한 공연은\n1번은 다음번 공연을 기약할 수 없음\n2번은 올해 5월에도 내한했지만 못갔음"
+	},
+	{
+		"created_at": "Sat Nov 23 10:46:32 +0000 2019",
+		"id": 1198191091834486800,
+		"id_str": "1198191091834486786",
+		"full_text": "공중그늘은 단공 준비 많이 한 게 티가 많이 나서 만족감 200퍼센트의 공연이었다. 브이제잉 영상을 튼게 아니라 쏴주니까 전부 흰옷 입은 멤버들 옷이 마치 흰도화지에 그림을 그린 느낌으로 효과가 극대화된 것 같았다. 마치 무대의 일부처럼. 눈과 귀가 모두 만족되는 황홀한 공연이었음 https://t.co/R15VoB3Pda",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198190888268157000,
+					"id_str": "1198190888268156929",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198190888268156929/pu/img/NeF6xsQJ77bC4ubQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198190888268156929/pu/img/NeF6xsQJ77bC4ubQ.jpg",
+					"url": "https://t.co/R15VoB3Pda",
+					"display_url": "pic.twitter.com/R15VoB3Pda",
+					"expanded_url": "https://twitter.com/sekaist/status/1198191091834486786/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198190888268157000,
+					"id_str": "1198190888268156929",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198190888268156929/pu/img/NeF6xsQJ77bC4ubQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198190888268156929/pu/img/NeF6xsQJ77bC4ubQ.jpg",
+					"url": "https://t.co/R15VoB3Pda",
+					"display_url": "pic.twitter.com/R15VoB3Pda",
+					"expanded_url": "https://twitter.com/sekaist/status/1198191091834486786/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 87015,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198190888268156929/pu/vid/1280x720/OhxnPYs7dwuryrkc.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1198190888268156929/pu/pl/aRQ5ggfzWQyjIKNk.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198190888268156929/pu/vid/640x360/p7p__06tGCwo1u28.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198190888268156929/pu/vid/480x270/ujWhGbaNDM1c9RFV.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1060,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공중그늘은 단공 준비 많이 한 게 티가 많이 나서 만족감 200퍼센트의 공연이었다. 브이제잉 영상을 튼게 아니라 쏴주니까 전부 흰옷 입은 멤버들 옷이 마치 흰도화지에 그림을 그린 느낌으로 효과가 극대화된 것 같았다. 마치 무대의 일부처럼. 눈과 귀가 모두 만족되는 황홀한 공연이었음 https://t.co/R15VoB3Pda"
+	},
+	{
+		"created_at": "Sat Nov 23 10:20:33 +0000 2019",
+		"id": 1198184555544342500,
+		"id_str": "1198184555544342529",
+		"full_text": "붕어빵의 계절이 오니 먹다 남은 식은 붕어빵에 버터 넣어서 앙붕어 만들어 잡수시던 누군가의 글이 생각이 나네",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1060,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "붕어빵의 계절이 오니 먹다 남은 식은 붕어빵에 버터 넣어서 앙붕어 만들어 잡수시던 누군가의 글이 생각이 나네"
+	},
+	{
 		"created_at": "Fri Nov 22 17:11:29 +0000 2019",
 		"id": 1197844942824956000,
 		"id_str": "1197925578784919552",
