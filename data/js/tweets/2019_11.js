@@ -1,6 +1,691 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 25 13:25:54 +0000 2019",
+		"id": 1198955972783296500,
+		"id_str": "1198955972783296512",
+		"full_text": "https://t.co/IS3kqp9HCJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198955958518472700,
+					"id_str": "1198955958518472706",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOMF4jU4AIPT9b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOMF4jU4AIPT9b.jpg",
+					"url": "https://t.co/IS3kqp9HCJ",
+					"display_url": "pic.twitter.com/IS3kqp9HCJ",
+					"expanded_url": "https://twitter.com/sekaist/status/1198955972783296512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 1320,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 265,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 97,
+									"y": 136,
+									"h": 27,
+									"w": 27
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 265,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 172,
+									"y": 240,
+									"h": 49,
+									"w": 49
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198955958518472700,
+					"id_str": "1198955958518472706",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOMF4jU4AIPT9b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOMF4jU4AIPT9b.jpg",
+					"url": "https://t.co/IS3kqp9HCJ",
+					"display_url": "pic.twitter.com/IS3kqp9HCJ",
+					"expanded_url": "https://twitter.com/sekaist/status/1198955972783296512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 880,
+							"h": 1320,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 265,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 97,
+									"y": 136,
+									"h": 27,
+									"w": 27
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 265,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 172,
+									"y": 240,
+									"h": 49,
+									"w": 49
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 586,
+			"friends_count": 1060,
+			"listed_count": 17,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/IS3kqp9HCJ"
+	},
+	{
+		"created_at": "Mon Nov 25 12:47:58 +0000 2019",
+		"id": 1198868866367029200,
+		"id_str": "1198946427591770113",
+		"full_text": "故 구하라 님의 명복을 빕니다.\n\n태양이와 희망이, 보람이는 아주 어린 시절 보호소 앞에 캐리어에 담긴 채 버려져 있었습니다. 삼남매는 보호소의 작은 공간에서 옹기종기 모여 하염없이 사람을 기다리곤 했었습니다. https://t.co/Nw0OCbojmL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198868846112718800,
+					"id_str": "1198868846112718849",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EKM83RjUwAE9w5p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKM83RjUwAE9w5p.jpg",
+					"url": "https://t.co/Nw0OCbojmL",
+					"display_url": "pic.twitter.com/Nw0OCbojmL",
+					"expanded_url": "https://twitter.com/ekara_org/status/1198868866367029248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 669,
+									"y": 120,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 421,
+									"y": 75,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 669,
+									"y": 120,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 669,
+									"y": 120,
+									"h": 176,
+									"w": 176
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198868846112718800,
+					"id_str": "1198868846112718849",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EKM83RjUwAE9w5p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKM83RjUwAE9w5p.jpg",
+					"url": "https://t.co/Nw0OCbojmL",
+					"display_url": "pic.twitter.com/Nw0OCbojmL",
+					"expanded_url": "https://twitter.com/ekara_org/status/1198868866367029248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 669,
+									"y": 120,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 421,
+									"y": 75,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 669,
+									"y": 120,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 669,
+									"y": 120,
+									"h": 176,
+									"w": 176
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1198868846121087000,
+					"id_str": "1198868846121086977",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EKM83RlUcAEn8Yh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKM83RlUcAEn8Yh.jpg",
+					"url": "https://t.co/Nw0OCbojmL",
+					"display_url": "pic.twitter.com/Nw0OCbojmL",
+					"expanded_url": "https://twitter.com/ekara_org/status/1198868866367029248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 191,
+									"y": 81,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 304,
+									"y": 130,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 304,
+									"y": 130,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 304,
+									"y": 130,
+									"h": 72,
+									"w": 72
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1198868846121087000,
+					"id_str": "1198868846121086976",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EKM83RlUcAAuUfk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKM83RlUcAAuUfk.jpg",
+					"url": "https://t.co/Nw0OCbojmL",
+					"display_url": "pic.twitter.com/Nw0OCbojmL",
+					"expanded_url": "https://twitter.com/ekara_org/status/1198868866367029248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1198868846129508400,
+					"id_str": "1198868846129508352",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EKM83RnU8AAwvQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKM83RnU8AAwvQc.jpg",
+					"url": "https://t.co/Nw0OCbojmL",
+					"display_url": "pic.twitter.com/Nw0OCbojmL",
+					"expanded_url": "https://twitter.com/ekara_org/status/1198868866367029248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 177415321,
+			"id_str": "177415321",
+			"name": "동물권행동 카라",
+			"screen_name": "ekara_org",
+			"location": "서울시 마포구 서교동 잔다리로122",
+			"description": "동물권행동 카라의 공식트위터입니다 :)",
+			"url": "https://t.co/jBcdwpNSQW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jBcdwpNSQW",
+							"expanded_url": "http://www.ekara.org",
+							"display_url": "ekara.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33695,
+			"friends_count": 187,
+			"listed_count": 257,
+			"created_at": "Thu Aug 12 02:19:04 +0000 2010",
+			"favourites_count": 236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "03AAEC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087504768832925696/k0G-cb-6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087504768832925696/k0G-cb-6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/177415321/1571722215",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "9CD645",
+			"profile_text_color": "9E009E",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4487,
+		"favorite_count": 1619,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "故 구하라 님의 명복을 빕니다.\n\n태양이와 희망이, 보람이는 아주 어린 시절 보호소 앞에 캐리어에 담긴 채 버려져 있었습니다. 삼남매는 보호소의 작은 공간에서 옹기종기 모여 하염없이 사람을 기다리곤 했었습니다. https://t.co/Nw0OCbojmL"
+	},
+	{
 		"created_at": "Sun Nov 24 03:35:08 +0000 2019",
 		"id": 1198444916785000400,
 		"id_str": "1198444916785000448",
