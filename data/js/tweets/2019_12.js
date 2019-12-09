@@ -1,6 +1,1269 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 23:21:42 +0000 2019",
+		"id": 1203816954269552600,
+		"id_str": "1203816954269552640",
+		"full_text": "@fallsstar 이 날 안태어나길 잘했네요 https://t.co/VwTqSaThQZ",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fallsstar",
+					"name": "ʜʀ ᴘɪᴄ.",
+					"id": 265341125,
+					"id_str": "265341125",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203816933650337800,
+					"id_str": "1203816933650337792",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELTRH4DUEAAUvyi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELTRH4DUEAAUvyi.jpg",
+					"url": "https://t.co/VwTqSaThQZ",
+					"display_url": "pic.twitter.com/VwTqSaThQZ",
+					"expanded_url": "https://twitter.com/sekaist/status/1203816954269552640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203816933650337800,
+					"id_str": "1203816933650337792",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELTRH4DUEAAUvyi.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELTRH4DUEAAUvyi.jpg",
+					"url": "https://t.co/VwTqSaThQZ",
+					"display_url": "pic.twitter.com/VwTqSaThQZ",
+					"expanded_url": "https://twitter.com/sekaist/status/1203816954269552640/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							5,
+							7
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ELTRH4DUEAAUvyi.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1203816622659498000,
+		"in_reply_to_status_id_str": "1203816622659497984",
+		"in_reply_to_user_id": 265341125,
+		"in_reply_to_user_id_str": "265341125",
+		"in_reply_to_screen_name": "fallsstar",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1060,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@fallsstar 이 날 안태어나길 잘했네요 https://t.co/VwTqSaThQZ"
+	},
+	{
+		"created_at": "Sun Dec 08 12:50:33 +0000 2019",
+		"id": 1203653904279359500,
+		"id_str": "1203658119827447808",
+		"full_text": "U2 공연 중에 vcr에 뜬 한국의 여성들. 온 몸으로 부딪히며 Herstory를 만들고 있는 이분들을 보세요.\n영부인 김정숙 여사님, 설리님, 이수정님, 정경화님, 서지현님, 해녀, 그리고 이 시간 역사를 만들고 계신 수많은 여성분들이 만드는 사랑을. https://t.co/o2gFzYQmpr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203653882598977500,
+					"id_str": "1203653882598977536",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ELQ81DjU8AAtu5l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELQ81DjU8AAtu5l.jpg",
+					"url": "https://t.co/o2gFzYQmpr",
+					"display_url": "pic.twitter.com/o2gFzYQmpr",
+					"expanded_url": "https://twitter.com/saturdayarena/status/1203653904279359489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 554,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 946,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 359,
+									"y": 146,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 133,
+									"y": 75,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 344,
+									"y": 116,
+									"h": 61,
+									"w": 61
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 633,
+									"y": 258,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 235,
+									"y": 132,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 608,
+									"y": 206,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1082,
+									"y": 442,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 402,
+									"y": 226,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 1038,
+									"y": 352,
+									"h": 186,
+									"w": 186
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1082,
+									"y": 442,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 402,
+									"y": 226,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 1038,
+									"y": 352,
+									"h": 186,
+									"w": 186
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203653882598977500,
+					"id_str": "1203653882598977536",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ELQ81DjU8AAtu5l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELQ81DjU8AAtu5l.jpg",
+					"url": "https://t.co/o2gFzYQmpr",
+					"display_url": "pic.twitter.com/o2gFzYQmpr",
+					"expanded_url": "https://twitter.com/saturdayarena/status/1203653904279359489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 554,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 946,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 359,
+									"y": 146,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 133,
+									"y": 75,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 344,
+									"y": 116,
+									"h": 61,
+									"w": 61
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 633,
+									"y": 258,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 235,
+									"y": 132,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 608,
+									"y": 206,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1082,
+									"y": 442,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 402,
+									"y": 226,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 1038,
+									"y": 352,
+									"h": 186,
+									"w": 186
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1082,
+									"y": 442,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 402,
+									"y": 226,
+									"h": 144,
+									"w": 144
+								},
+								{
+									"x": 1038,
+									"y": 352,
+									"h": 186,
+									"w": 186
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203653882586353700,
+					"id_str": "1203653882586353665",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ELQ81DgUUAEOANb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELQ81DgUUAEOANb.jpg",
+					"url": "https://t.co/o2gFzYQmpr",
+					"display_url": "pic.twitter.com/o2gFzYQmpr",
+					"expanded_url": "https://twitter.com/saturdayarena/status/1203653904279359489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 946,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 554,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1196,
+									"y": 432,
+									"h": 174,
+									"w": 174
+								},
+								{
+									"x": 774,
+									"y": 440,
+									"h": 270,
+									"w": 270
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 397,
+									"y": 143,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 256,
+									"y": 146,
+									"h": 89,
+									"w": 89
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 700,
+									"y": 253,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 453,
+									"y": 257,
+									"h": 158,
+									"w": 158
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1196,
+									"y": 432,
+									"h": 174,
+									"w": 174
+								},
+								{
+									"x": 774,
+									"y": 440,
+									"h": 270,
+									"w": 270
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203653882649305000,
+					"id_str": "1203653882649305088",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ELQ81DvU4AAhrDi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELQ81DvU4AAhrDi.jpg",
+					"url": "https://t.co/o2gFzYQmpr",
+					"display_url": "pic.twitter.com/o2gFzYQmpr",
+					"expanded_url": "https://twitter.com/saturdayarena/status/1203653904279359489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 554,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 946,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 656,
+									"y": 234,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 526,
+									"y": 230,
+									"h": 78,
+									"w": 78
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1120,
+									"y": 400,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 898,
+									"y": 394,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1120,
+									"y": 400,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 898,
+									"y": 394,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 371,
+									"y": 132,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 298,
+									"y": 130,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1203652179963154400,
+		"in_reply_to_status_id_str": "1203652179963154432",
+		"in_reply_to_user_id": 1088640681407438800,
+		"in_reply_to_user_id_str": "1088640681407438848",
+		"in_reply_to_screen_name": "saturdayarena",
+		"user": {
+			"id": 1088640681407438800,
+			"id_str": "1088640681407438848",
+			"name": "불광동오함마",
+			"screen_name": "saturdayarena",
+			"location": "",
+			"description": "불광동 비고 모텐슨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1367,
+			"friends_count": 38,
+			"listed_count": 3,
+			"created_at": "Fri Jan 25 03:32:19 +0000 2019",
+			"favourites_count": 6884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200052146890108929/oX35k3Qh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200052146890108929/oX35k3Qh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088640681407438848/1548387595",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1000,
+		"favorite_count": 511,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "U2 공연 중에 vcr에 뜬 한국의 여성들. 온 몸으로 부딪히며 Herstory를 만들고 있는 이분들을 보세요.\n영부인 김정숙 여사님, 설리님, 이수정님, 정경화님, 서지현님, 해녀, 그리고 이 시간 역사를 만들고 계신 수많은 여성분들이 만드는 사랑을. https://t.co/o2gFzYQmpr"
+	},
+	{
+		"created_at": "Sun Dec 08 12:50:06 +0000 2019",
+		"id": 1203652179963154400,
+		"id_str": "1203658007998943233",
+		"full_text": "미친 나 운다 지금 U2 공연 중에 history글자 지워지고 Herstory라고 화면에 뜨면서 설리님, 김정숙 여사님, 제주 해녀분들, 서지현 검사 등등 vcr에 뜸..ㅠㅠ\n사회에 생각의 씨앗을 던진 큰 여성들..\n\n“우리 모두가 평등해질 때까지는 우리 누구도 평등하지 않다.” 문구 나옴..ㅠㅠ https://t.co/4LPbrp3eOH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203652167875195000,
+					"id_str": "1203652167875194891",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ELQ7RPtUcAsjBhZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELQ7RPtUcAsjBhZ.jpg",
+					"url": "https://t.co/4LPbrp3eOH",
+					"display_url": "pic.twitter.com/4LPbrp3eOH",
+					"expanded_url": "https://twitter.com/saturdayarena/status/1203652179963154432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 462,
+									"y": 202,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 190,
+									"y": 192,
+									"h": 165,
+									"w": 165
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 462,
+									"y": 202,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 190,
+									"y": 192,
+									"h": 165,
+									"w": 165
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 134,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 126,
+									"y": 127,
+									"h": 109,
+									"w": 109
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 462,
+									"y": 202,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 190,
+									"y": 192,
+									"h": 165,
+									"w": 165
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203652167875195000,
+					"id_str": "1203652167875194891",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ELQ7RPtUcAsjBhZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELQ7RPtUcAsjBhZ.jpg",
+					"url": "https://t.co/4LPbrp3eOH",
+					"display_url": "pic.twitter.com/4LPbrp3eOH",
+					"expanded_url": "https://twitter.com/saturdayarena/status/1203652179963154432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 462,
+									"y": 202,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 190,
+									"y": 192,
+									"h": 165,
+									"w": 165
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 462,
+									"y": 202,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 190,
+									"y": 192,
+									"h": 165,
+									"w": 165
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 134,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 126,
+									"y": 127,
+									"h": 109,
+									"w": 109
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 462,
+									"y": 202,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 190,
+									"y": 192,
+									"h": 165,
+									"w": 165
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1203652167917166600,
+					"id_str": "1203652167917166592",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ELQ7RP3U4AAx__g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELQ7RP3U4AAx__g.jpg",
+					"url": "https://t.co/4LPbrp3eOH",
+					"display_url": "pic.twitter.com/4LPbrp3eOH",
+					"expanded_url": "https://twitter.com/saturdayarena/status/1203652179963154432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 250,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 250,
+									"y": 254,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 527,
+									"y": 241,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 250,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 250,
+									"y": 254,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 527,
+									"y": 241,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 250,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 250,
+									"y": 254,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 527,
+									"y": 241,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 31,
+									"y": 166,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 166,
+									"y": 168,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 349,
+									"y": 160,
+									"h": 79,
+									"w": 79
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1203644269984014300,
+		"in_reply_to_status_id_str": "1203644269984014336",
+		"in_reply_to_user_id": 1088640681407438800,
+		"in_reply_to_user_id_str": "1088640681407438848",
+		"in_reply_to_screen_name": "saturdayarena",
+		"user": {
+			"id": 1088640681407438800,
+			"id_str": "1088640681407438848",
+			"name": "불광동오함마",
+			"screen_name": "saturdayarena",
+			"location": "",
+			"description": "불광동 비고 모텐슨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1367,
+			"friends_count": 38,
+			"listed_count": 3,
+			"created_at": "Fri Jan 25 03:32:19 +0000 2019",
+			"favourites_count": 6884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200052146890108929/oX35k3Qh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200052146890108929/oX35k3Qh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088640681407438848/1548387595",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5024,
+		"favorite_count": 2229,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미친 나 운다 지금 U2 공연 중에 history글자 지워지고 Herstory라고 화면에 뜨면서 설리님, 김정숙 여사님, 제주 해녀분들, 서지현 검사 등등 vcr에 뜸..ㅠㅠ\n사회에 생각의 씨앗을 던진 큰 여성들..\n\n“우리 모두가 평등해질 때까지는 우리 누구도 평등하지 않다.” 문구 나옴..ㅠㅠ https://t.co/4LPbrp3eOH"
+	},
+	{
+		"created_at": "Sun Dec 08 11:15:44 +0000 2019",
+		"id": 1203634257429532700,
+		"id_str": "1203634257429532672",
+		"full_text": "Chopin - The 21 Nocturnes (recording of the Century : Claudio Arrau) https://t.co/BCg7hFCAzv - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BCg7hFCAzv",
+					"expanded_url": "https://youtu.be/uUdoxvigIl8",
+					"display_url": "youtu.be/uUdoxvigIl8",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1060,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Chopin - The 21 Nocturnes (recording of the Century : Claudio Arrau) https://t.co/BCg7hFCAzv - @YouTube"
+	},
+	{
 		"created_at": "Sat Dec 07 15:14:46 +0000 2019",
 		"id": 1203332026490736600,
 		"id_str": "1203332026490736641",
