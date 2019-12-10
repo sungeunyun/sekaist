@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 09 23:56:43 +0000 2019",
+		"id": 1204188153684168700,
+		"id_str": "1204188153684168705",
+		"full_text": "어제 낑낑거리며 생수 배달하는 쓱배송 기사님을 봐서 그런가 구숫 24L 노래 들으면서 생수 2L짜리 12병을 배달시켰다고...? 이 생각이 드네 어느 시점부터 물 배달은 절대 안시킴",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1060,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어제 낑낑거리며 생수 배달하는 쓱배송 기사님을 봐서 그런가 구숫 24L 노래 들으면서 생수 2L짜리 12병을 배달시켰다고...? 이 생각이 드네 어느 시점부터 물 배달은 절대 안시킴"
+	},
+	{
+		"created_at": "Mon Dec 09 10:09:17 +0000 2019",
+		"id": 1203979925146878000,
+		"id_str": "1203979925146877952",
+		"full_text": "내가 아는 재현씨 얼굴은 이랬는데 넘나 변한듯... 베이스 탈퇴한 것도 아쉽고 여러모로.. 180701 이재이(Yijay) - 감춰줘 @롤링홀 https://t.co/McQL6szTzM - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						106,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/McQL6szTzM",
+					"expanded_url": "https://youtu.be/rartDHcvH4k",
+					"display_url": "youtu.be/rartDHcvH4k",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 1060,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내가 아는 재현씨 얼굴은 이랬는데 넘나 변한듯... 베이스 탈퇴한 것도 아쉽고 여러모로.. 180701 이재이(Yijay) - 감춰줘 @롤링홀 https://t.co/McQL6szTzM - @YouTube"
+	},
+	{
+		"created_at": "Mon Dec 09 03:05:37 +0000 2019",
+		"id": 1203860072356429800,
+		"id_str": "1203873306153107458",
+		"full_text": "김용균 씨의 죽음은 우리 사회에 ‘위험의 외주화’라는 의제를 던졌다. 하지만 현장은 달라지지 않았다는 게 중론이다. 고 김용균 어머니 김미숙 씨 \"산업안전법은 졸속 처리돼\"…\"현장에서 돈 이유로 안전 방치“ #김용균_1주기 #더이상_죽이지_마라 https://t.co/rRdJ0NJQFW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김용균_1주기",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "더이상_죽이지_마라",
+					"indices": [
+						125,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rRdJ0NJQFW",
+					"expanded_url": "http://www.mediaus.co.kr/news/articleView.html?idxno=169337",
+					"display_url": "mediaus.co.kr/news/articleVi…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109174878,
+			"id_str": "109174878",
+			"name": "미디어스",
+			"screen_name": "mediaus",
+			"location": "매체비평지 / 미디어전문지",
+			"description": "인터넷신문 미디어스 공식 트위터입니다. 민주주의 최후의 보루는 깨어있는 시민의 조직된 힘입니다. 좋은 언론은 시민 여러분이 만들 수 있습니다. 보다 나은 세상을 위해 치열하게 고민하고 쓰겠습니다. 미디어스를 후원해주십시오. *미디어스 후원 계좌 안내 : 하나은행 777-910027-50",
+			"url": "http://t.co/yLO67TC48o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/yLO67TC48o",
+							"expanded_url": "http://www.mediaus.co.kr",
+							"display_url": "mediaus.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18125,
+			"friends_count": 5152,
+			"listed_count": 475,
+			"created_at": "Thu Jan 28 05:38:42 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1823541216/1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1823541216/1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109174878/1445844138",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김용균 씨의 죽음은 우리 사회에 ‘위험의 외주화’라는 의제를 던졌다. 하지만 현장은 달라지지 않았다는 게 중론이다. 고 김용균 어머니 김미숙 씨 \"산업안전법은 졸속 처리돼\"…\"현장에서 돈 이유로 안전 방치“ #김용균_1주기 #더이상_죽이지_마라 https://t.co/rRdJ0NJQFW"
+	},
+	{
 		"created_at": "Sun Dec 08 23:21:42 +0000 2019",
 		"id": 1203816954269552600,
 		"id_str": "1203816954269552640",
