@@ -1,6 +1,584 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 27 12:28:46 +0000 2020",
+		"id": 1221617454188826600,
+		"id_str": "1221772032032923649",
+		"full_text": "Not to be outdone by the Zola crew #MINARI #Sundance2020 https://t.co/OtdEw4Awyx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MINARI",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"text": "Sundance2020",
+					"indices": [
+						43,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221617447926628400,
+					"id_str": "1221617447926628353",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EPQOmLMWAAEulhe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPQOmLMWAAEulhe.jpg",
+					"url": "https://t.co/OtdEw4Awyx",
+					"display_url": "pic.twitter.com/OtdEw4Awyx",
+					"expanded_url": "https://twitter.com/A24/status/1221617454188826624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "16409285",
+									"screen_name": "steveyeun",
+									"name": "steven yeun"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 296,
+									"y": 388,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 56,
+									"y": 255,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 892,
+									"y": 1168,
+									"h": 228,
+									"w": 228
+								},
+								{
+									"x": 170,
+									"y": 768,
+									"h": 252,
+									"w": 252
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 522,
+									"y": 684,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 99,
+									"y": 449,
+									"h": 147,
+									"w": 147
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 892,
+									"y": 1168,
+									"h": 228,
+									"w": 228
+								},
+								{
+									"x": 170,
+									"y": 768,
+									"h": 252,
+									"w": 252
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221617447926628400,
+					"id_str": "1221617447926628353",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EPQOmLMWAAEulhe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPQOmLMWAAEulhe.jpg",
+					"url": "https://t.co/OtdEw4Awyx",
+					"display_url": "pic.twitter.com/OtdEw4Awyx",
+					"expanded_url": "https://twitter.com/A24/status/1221617454188826624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "16409285",
+									"screen_name": "steveyeun",
+									"name": "steven yeun"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 296,
+									"y": 388,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 56,
+									"y": 255,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 892,
+									"y": 1168,
+									"h": 228,
+									"w": 228
+								},
+								{
+									"x": 170,
+									"y": 768,
+									"h": 252,
+									"w": 252
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 522,
+									"y": 684,
+									"h": 133,
+									"w": 133
+								},
+								{
+									"x": 99,
+									"y": 449,
+									"h": 147,
+									"w": 147
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 892,
+									"y": 1168,
+									"h": 228,
+									"w": 228
+								},
+								{
+									"x": 170,
+									"y": 768,
+									"h": 252,
+									"w": 252
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1221617447733731300,
+					"id_str": "1221617447733731328",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EPQOmKeWoAACvC1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPQOmKeWoAACvC1.jpg",
+					"url": "https://t.co/OtdEw4Awyx",
+					"display_url": "pic.twitter.com/OtdEw4Awyx",
+					"expanded_url": "https://twitter.com/A24/status/1221617454188826624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "16409285",
+									"screen_name": "steveyeun",
+									"name": "steven yeun"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 245,
+									"y": 48,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 112,
+									"y": 96,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 182,
+									"y": 152,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 146,
+									"h": 206,
+									"w": 206
+								},
+								{
+									"x": 340,
+									"y": 290,
+									"h": 170,
+									"w": 170
+								},
+								{
+									"x": 550,
+									"y": 460,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 432,
+									"y": 85,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 199,
+									"y": 169,
+									"h": 99,
+									"w": 99
+								},
+								{
+									"x": 322,
+									"y": 269,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 146,
+									"h": 206,
+									"w": 206
+								},
+								{
+									"x": 340,
+									"y": 290,
+									"h": 170,
+									"w": 170
+								},
+								{
+									"x": 550,
+									"y": 460,
+									"h": 176,
+									"w": 176
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1221617447733727200,
+					"id_str": "1221617447733727233",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/EPQOmKeWkAEuw8X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPQOmKeWkAEuw8X.jpg",
+					"url": "https://t.co/OtdEw4Awyx",
+					"display_url": "pic.twitter.com/OtdEw4Awyx",
+					"expanded_url": "https://twitter.com/A24/status/1221617454188826624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "16409285",
+									"screen_name": "steveyeun",
+									"name": "steven yeun"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 190,
+									"y": 228,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 215,
+									"y": 133,
+									"h": 89,
+									"w": 89
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 574,
+									"y": 688,
+									"h": 166,
+									"w": 166
+								},
+								{
+									"x": 648,
+									"y": 402,
+									"h": 270,
+									"w": 270
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 336,
+									"y": 403,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 379,
+									"y": 235,
+									"h": 158,
+									"w": 158
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 574,
+									"y": 688,
+									"h": 166,
+									"w": 166
+								},
+								{
+									"x": 648,
+									"y": 402,
+									"h": 270,
+									"w": 270
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 546076148,
+			"id_str": "546076148",
+			"name": "A24",
+			"screen_name": "A24",
+			"location": "NYC/LA",
+			"description": "𝗡𝗢𝗪 𝗣𝗟𝗔𝗬𝗜𝗡𝗚: Uncut Gems 𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡: Saint Maud, First Cow, The Green Knight, Zola, Minari & more",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1542449,
+			"friends_count": 1123,
+			"listed_count": 1476,
+			"created_at": "Thu Apr 05 15:54:35 +0000 2012",
+			"favourites_count": 9985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809168662057943040/amh6diDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809168662057943040/amh6diDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/546076148/1551717429",
+			"profile_link_color": "6A696A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 385,
+		"favorite_count": 3422,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not to be outdone by the Zola crew #MINARI #Sundance2020 https://t.co/OtdEw4Awyx"
+	},
+	{
 		"created_at": "Fri Jan 24 12:16:35 +0000 2020",
 		"id": 1220681802408292400,
 		"id_str": "1220681802408292352",
