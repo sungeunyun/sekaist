@@ -1,6 +1,848 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 19 12:40:40 +0000 2020",
+		"id": 1230087153540976600,
+		"id_str": "1230109945611210752",
+		"full_text": "🙂🙃스마일리스마일의 ‘사거리’ 🙂🙃뮤지스땅스 [무소속프로젝트2019]  라이브 영상 https://t.co/iKbIFsWeHX - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iKbIFsWeHX",
+					"expanded_url": "https://youtu.be/J2V5OOTnmTw",
+					"display_url": "youtu.be/J2V5OOTnmTw",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116798627,
+			"id_str": "116798627",
+			"name": "안토니오박",
+			"screen_name": "AntonioPark_",
+			"location": "37.585126,127.017102",
+			"description": "스마일리스마일/ 신촌전자",
+			"url": "https://t.co/92bm2cP0BU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/92bm2cP0BU",
+							"expanded_url": "https://www.youtube.com/channel/UCsLtonN25TzKZQrOXhGocuA",
+							"display_url": "youtube.com/channel/UCsLto…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 504,
+			"friends_count": 448,
+			"listed_count": 5,
+			"created_at": "Tue Feb 23 16:15:38 +0000 2010",
+			"favourites_count": 1663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187307407954694144/mkoslTet_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187307407954694144/mkoslTet_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116798627/1571911172",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01a241300ef51ff0",
+			"url": "https://api.twitter.com/1.1/geo/id/01a241300ef51ff0.json",
+			"place_type": "city",
+			"name": "서대문구",
+			"full_name": "대한민국 서대문구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.909647851736,
+							37.5525984433707
+						],
+						[
+							126.970218583433,
+							37.5525984433707
+						],
+						[
+							126.970218583433,
+							37.600879441397
+						],
+						[
+							126.909647851736,
+							37.600879441397
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🙂🙃스마일리스마일의 ‘사거리’ 🙂🙃뮤지스땅스 [무소속프로젝트2019]  라이브 영상 https://t.co/iKbIFsWeHX - @YouTube"
+	},
+	{
+		"created_at": "Wed Feb 19 12:37:15 +0000 2020",
+		"id": 1230109089406931000,
+		"id_str": "1230109089406930944",
+		"full_text": "사람 최애 때문에 머니게임 틀었는데 펭귄 최애 광고 나와서 햄벅 https://t.co/smONoA9ati",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230109075309904000,
+					"id_str": "1230109075309903873",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERI5r8TUwAEBMOr.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERI5r8TUwAEBMOr.jpg",
+					"url": "https://t.co/smONoA9ati",
+					"display_url": "pic.twitter.com/smONoA9ati",
+					"expanded_url": "https://twitter.com/sekaist/status/1230109089406930944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 514,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 546,
+							"h": 722,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 546,
+							"h": 722,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230109075309904000,
+					"id_str": "1230109075309903873",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERI5r8TUwAEBMOr.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERI5r8TUwAEBMOr.jpg",
+					"url": "https://t.co/smONoA9ati",
+					"display_url": "pic.twitter.com/smONoA9ati",
+					"expanded_url": "https://twitter.com/sekaist/status/1230109089406930944/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 514,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 546,
+							"h": 722,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 546,
+							"h": 722,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							273,
+							361
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ERI5r8TUwAEBMOr.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 584,
+			"friends_count": 1062,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사람 최애 때문에 머니게임 틀었는데 펭귄 최애 광고 나와서 햄벅 https://t.co/smONoA9ati"
+	},
+	{
+		"created_at": "Wed Feb 19 11:37:54 +0000 2020",
+		"id": 1230094152462819300,
+		"id_str": "1230094152462819329",
+		"full_text": "오늘 펭카 배송오기로 했는데 수령인 부재중이라고 배송 실패했다고 뜨네 연락도 안왔는데 펭카아아아아아아 빨리 받고싶다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 584,
+			"friends_count": 1062,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오늘 펭카 배송오기로 했는데 수령인 부재중이라고 배송 실패했다고 뜨네 연락도 안왔는데 펭카아아아아아아 빨리 받고싶다"
+	},
+	{
+		"created_at": "Wed Feb 19 06:07:32 +0000 2020",
+		"id": 1230011013266673700,
+		"id_str": "1230011013266673664",
+		"full_text": "@k_jwnee https://t.co/vfeeWQ9hj1",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "k_jwnee",
+					"name": "잰",
+					"id": 3030264154,
+					"id_str": "3030264154",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230010994274914300,
+					"id_str": "1230010994274914304",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERHge3-U0AAjyGJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERHge3-U0AAjyGJ.jpg",
+					"url": "https://t.co/vfeeWQ9hj1",
+					"display_url": "pic.twitter.com/vfeeWQ9hj1",
+					"expanded_url": "https://twitter.com/sekaist/status/1230011013266673664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 514,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 546,
+							"h": 722,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 546,
+							"h": 722,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230010994274914300,
+					"id_str": "1230010994274914304",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERHge3-U0AAjyGJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERHge3-U0AAjyGJ.jpg",
+					"url": "https://t.co/vfeeWQ9hj1",
+					"display_url": "pic.twitter.com/vfeeWQ9hj1",
+					"expanded_url": "https://twitter.com/sekaist/status/1230011013266673664/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 514,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 546,
+							"h": 722,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 546,
+							"h": 722,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							273,
+							361
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ERHge3-U0AAjyGJ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1229992703150059500,
+		"in_reply_to_status_id_str": "1229992703150059521",
+		"in_reply_to_user_id": 3030264154,
+		"in_reply_to_user_id_str": "3030264154",
+		"in_reply_to_screen_name": "k_jwnee",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 584,
+			"friends_count": 1062,
+			"listed_count": 16,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@k_jwnee https://t.co/vfeeWQ9hj1"
+	},
+	{
+		"created_at": "Wed Feb 19 04:26:20 +0000 2020",
+		"id": 1229978917253132300,
+		"id_str": "1229985546396549120",
+		"full_text": "매력 부자 유진한의 매력에 허우적 허우적💕\n\n매주 [수목] 밤 9시 30분 방송\n#tvN #수목드라마 #머니게임\n#고수 #이성민 #심은경 https://t.co/7zn2jSiGbV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tvN",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "수목드라마",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "머니게임",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "고수",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "이성민",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "심은경",
+					"indices": [
+						72,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229973152446345200,
+					"id_str": "1229973152446345217",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/ERG-1jJVUAIj4Y6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERG-1jJVUAIj4Y6.jpg",
+					"url": "https://t.co/7zn2jSiGbV",
+					"display_url": "pic.twitter.com/7zn2jSiGbV",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1229978917253132290/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229973152446345200,
+					"id_str": "1229973152446345217",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/ERG-1jJVUAIj4Y6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERG-1jJVUAIj4Y6.jpg",
+					"url": "https://t.co/7zn2jSiGbV",
+					"display_url": "pic.twitter.com/7zn2jSiGbV",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1229978917253132290/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 213714,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1229973152446345217/pl/U10GsS0ziviG-kYf.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229973152446345217/vid/480x480/NNoNihn6WdLRYlOo.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229973152446345217/vid/720x720/pS9tuUKw7SQxKLhL.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1229973152446345217/vid/320x320/Jz-kH_UOkO9b2O9T.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335749973,
+			"id_str": "335749973",
+			"name": "tvN 드라마",
+			"screen_name": "CJnDrama",
+			"location": "",
+			"description": "tvN 드라마 공식 계정 #tvN #티비엔 #블랙독 #머니게임 #사랑의불시착 #드라마스테이지2020",
+			"url": "https://t.co/Em6okU1Ysx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Em6okU1Ysx",
+							"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+							"display_url": "youtube.com/user/CJENMDRAMA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 359537,
+			"friends_count": 42,
+			"listed_count": 603,
+			"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+			"favourites_count": 184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23876,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1578650610",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 159,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매력 부자 유진한의 매력에 허우적 허우적💕\n\n매주 [수목] 밤 9시 30분 방송\n#tvN #수목드라마 #머니게임\n#고수 #이성민 #심은경 https://t.co/7zn2jSiGbV"
+	},
+	{
 		"created_at": "Tue Feb 18 15:46:27 +0000 2020",
 		"id": 1229794313053331500,
 		"id_str": "1229794313053331456",
