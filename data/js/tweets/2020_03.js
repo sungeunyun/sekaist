@@ -1,6 +1,711 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 23:41:22 +0000 2020",
+		"id": 1237886364483326000,
+		"id_str": "1237886364483325953",
+		"full_text": "유튜브뮤직에서 이소은 노래 들었더니 베이시스 노래 들으면서 손이 고운 사람 품은 어떤건가 상상하다가 박지윤 steal away로 이어지는 완벽한 흐름",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 590,
+			"friends_count": 1064,
+			"listed_count": 15,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "유튜브뮤직에서 이소은 노래 들었더니 베이시스 노래 들으면서 손이 고운 사람 품은 어떤건가 상상하다가 박지윤 steal away로 이어지는 완벽한 흐름"
+	},
+	{
+		"created_at": "Wed Mar 11 23:39:03 +0000 2020",
+		"id": 1237770260826243000,
+		"id_str": "1237885781152124929",
+		"full_text": "\"Don't let anyone ever make you feel like you don't deserve what you want. Go for it.\" - 10 Things I Hate About You (1999) https://t.co/RUxPx2KBv5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237770258112487400,
+					"id_str": "1237770258112487424",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/ES1xfeRWoAAYPZV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES1xfeRWoAAYPZV.jpg",
+					"url": "https://t.co/RUxPx2KBv5",
+					"display_url": "pic.twitter.com/RUxPx2KBv5",
+					"expanded_url": "https://twitter.com/IMDb/status/1237770260826243072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237770258112487400,
+					"id_str": "1237770258112487424",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/ES1xfeRWoAAYPZV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES1xfeRWoAAYPZV.jpg",
+					"url": "https://t.co/RUxPx2KBv5",
+					"display_url": "pic.twitter.com/RUxPx2KBv5",
+					"expanded_url": "https://twitter.com/IMDb/status/1237770260826243072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17602896,
+			"id_str": "17602896",
+			"name": "IMDb",
+			"screen_name": "IMDb",
+			"location": "Seattle",
+			"description": "The folks at IMDb talking about movies, TV and celebrities.",
+			"url": "https://t.co/knY83wIwTD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/knY83wIwTD",
+							"expanded_url": "http://www.imdb.com",
+							"display_url": "imdb.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4503166,
+			"friends_count": 1134,
+			"listed_count": 21362,
+			"created_at": "Mon Nov 24 22:18:17 +0000 2008",
+			"favourites_count": 5870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976507090624589824/0x28al44_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976507090624589824/0x28al44_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17602896/1583174639",
+			"profile_link_color": "C7AE20",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C6D7E2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 256,
+		"favorite_count": 1037,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Don't let anyone ever make you feel like you don't deserve what you want. Go for it.\" - 10 Things I Hate About You (1999) https://t.co/RUxPx2KBv5"
+	},
+	{
+		"created_at": "Wed Mar 11 23:32:15 +0000 2020",
+		"id": 1237884070471712800,
+		"id_str": "1237884070471712768",
+		"full_text": "국영씨 나왔던 라스 봐야겠네 근데 다들 노래방에서 떴다 그녀 부를때 저정도로 하지 않나요 저거보다 더 심한거 같은데 ㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 590,
+			"friends_count": 1064,
+			"listed_count": 15,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "국영씨 나왔던 라스 봐야겠네 근데 다들 노래방에서 떴다 그녀 부를때 저정도로 하지 않나요 저거보다 더 심한거 같은데 ㅋㅋㅋ"
+	},
+	{
+		"created_at": "Wed Mar 11 23:31:11 +0000 2020",
+		"id": 1237735999569977300,
+		"id_str": "1237883798701797384",
+		"full_text": "아니 장국영 본체 배우도 조용하게 미쳐있는 사람이었잖아 https://t.co/w2D1JffpB7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237735875884093400,
+					"id_str": "1237735875884093440",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1237735875884093440/pu/img/-8JtNzVzda7EJe2Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1237735875884093440/pu/img/-8JtNzVzda7EJe2Q.jpg",
+					"url": "https://t.co/w2D1JffpB7",
+					"display_url": "pic.twitter.com/w2D1JffpB7",
+					"expanded_url": "https://twitter.com/zzinpro/status/1237735999569977350/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237735875884093400,
+					"id_str": "1237735875884093440",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1237735875884093440/pu/img/-8JtNzVzda7EJe2Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1237735875884093440/pu/img/-8JtNzVzda7EJe2Q.jpg",
+					"url": "https://t.co/w2D1JffpB7",
+					"display_url": "pic.twitter.com/w2D1JffpB7",
+					"expanded_url": "https://twitter.com/zzinpro/status/1237735999569977350/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 66053,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1237735875884093440/pu/vid/1280x720/aimxAATNPBOtiBi9.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1237735875884093440/pu/vid/640x360/qA1Y8Ig1XCArxIBP.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1237735875884093440/pu/pl/SWySnMM_IFozPEHj.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1237735875884093440/pu/vid/480x270/S3wx1Er1n4slwWvA.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1085318436186542100,
+			"id_str": "1085318436186542080",
+			"name": "ZZIN",
+			"screen_name": "zzinpro",
+			"location": "문화예술오타쿠",
+			"description": "이 사직서는...쓰지 말라구 이렇게 획이 많은가봐",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 195,
+			"listed_count": 0,
+			"created_at": "Tue Jan 15 23:30:54 +0000 2019",
+			"favourites_count": 4477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224306895105609728/XnU_zIKR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224306895105609728/XnU_zIKR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1085318436186542080/1576568089",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니 장국영 본체 배우도 조용하게 미쳐있는 사람이었잖아 https://t.co/w2D1JffpB7"
+	},
+	{
+		"created_at": "Wed Mar 11 11:50:07 +0000 2020",
+		"id": 1237707371415126000,
+		"id_str": "1237707371415126018",
+		"full_text": "찬실이팀 라방 너무 재밌었다 감독님이랑 말금 배우님 만담 콤비같고요 코로나때문에 이런 시간을 극장에서 못갖는게 너무 아쉽다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 590,
+			"friends_count": 1064,
+			"listed_count": 15,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "찬실이팀 라방 너무 재밌었다 감독님이랑 말금 배우님 만담 콤비같고요 코로나때문에 이런 시간을 극장에서 못갖는게 너무 아쉽다"
+	},
+	{
+		"created_at": "Wed Mar 11 03:04:26 +0000 2020",
+		"id": 1237575079807963100,
+		"id_str": "1237575079807963136",
+		"full_text": "@nomad_612 파파고 제일 잘 쓰고요??",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nomad_612",
+					"name": "길날",
+					"id": 992295677798465500,
+					"id_str": "992295677798465536",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1237567386321965000,
+		"in_reply_to_status_id_str": "1237567386321965057",
+		"in_reply_to_user_id": 992295677798465500,
+		"in_reply_to_user_id_str": "992295677798465536",
+		"in_reply_to_screen_name": "nomad_612",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 590,
+			"friends_count": 1064,
+			"listed_count": 15,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@nomad_612 파파고 제일 잘 쓰고요??"
+	},
+	{
 		"created_at": "Tue Mar 10 16:39:44 +0000 2020",
 		"id": 1237417866539847700,
 		"id_str": "1237417866539847680",
@@ -1109,7 +1814,7 @@ Grailbird.data.tweets_2020_03 =
 		"created_at": "Tue Mar 10 01:09:54 +0000 2020",
 		"id": 1237183630704705500,
 		"id_str": "1237183869754806272",
-		"full_text": "복댕이들의 응원에 힘 입어 \n&lt;찬실이는 복도 많지&gt; 1만 돌파!♥\n\n찬실이는 오늘 관객만 보고 살어 대신 애써서 해🏃‍♀️\n\n#강말금 #윤여정 \n#찬실이는복도많지 #절찬복배달중 https://t.co/AWC5oLkYe8",
+		"full_text": "복댕이들의 응원에 힘 입어 \n&lt;찬실이는 복도 많지&gt; 1만 돌파!♥\n\n찬실이는 오늘 관객만 보고 살어 대신 애써서 해🏃♀️\n\n#강말금 #윤여정 \n#찬실이는복도많지 #절찬복배달중 https://t.co/AWC5oLkYe8",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1347,7 +2052,7 @@ Grailbird.data.tweets_2020_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "복댕이들의 응원에 힘 입어 \n&lt;찬실이는 복도 많지&gt; 1만 돌파!♥\n\n찬실이는 오늘 관객만 보고 살어 대신 애써서 해🏃‍♀️\n\n#강말금 #윤여정 \n#찬실이는복도많지 #절찬복배달중 https://t.co/AWC5oLkYe8"
+		"text": "복댕이들의 응원에 힘 입어 \n&lt;찬실이는 복도 많지&gt; 1만 돌파!♥\n\n찬실이는 오늘 관객만 보고 살어 대신 애써서 해🏃♀️\n\n#강말금 #윤여정 \n#찬실이는복도많지 #절찬복배달중 https://t.co/AWC5oLkYe8"
 	},
 	{
 		"created_at": "Mon Mar 09 23:59:24 +0000 2020",
