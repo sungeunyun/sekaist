@@ -1,6 +1,1147 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 13 08:34:55 +0000 2020",
+		"id": 1238378274197090300,
+		"id_str": "1238383021880942602",
+		"full_text": "20190111 영화 레토 관객과의 대화\n\n유태오배우님 노래부르는거,,\n이제 갖고 있는게 이거뿐 😉 https://t.co/HjIvetPoi1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238378012468342800,
+					"id_str": "1238378012468342784",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238378012468342784/pu/img/KIFesmf0-F-zp55l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238378012468342784/pu/img/KIFesmf0-F-zp55l.jpg",
+					"url": "https://t.co/HjIvetPoi1",
+					"display_url": "pic.twitter.com/HjIvetPoi1",
+					"expanded_url": "https://twitter.com/November1004/status/1238378274197090304/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238378012468342800,
+					"id_str": "1238378012468342784",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238378012468342784/pu/img/KIFesmf0-F-zp55l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238378012468342784/pu/img/KIFesmf0-F-zp55l.jpg",
+					"url": "https://t.co/HjIvetPoi1",
+					"display_url": "pic.twitter.com/HjIvetPoi1",
+					"expanded_url": "https://twitter.com/November1004/status/1238378274197090304/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 59915,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238378012468342784/pu/vid/320x400/ADzjctlidPKhokGB.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238378012468342784/pu/vid/360x450/Q9cYBodJER3MkNbK.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1238378012468342784/pu/pl/vzyhU5S0xIeKJaRG.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238378012468342784/pu/vid/720x900/O4SE8lp9CReTWOMg.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 209986826,
+			"id_str": "209986826",
+			"name": "푸른밤",
+			"screen_name": "November1004",
+			"location": "굿나잇책방",
+			"description": "다시 가벼움쪽으로 한걸음,, 헤더는 @ inkyust",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1419,
+			"friends_count": 244,
+			"listed_count": 16,
+			"created_at": "Sat Oct 30 09:24:06 +0000 2010",
+			"favourites_count": 33039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112731896562094086/nnKSyz6w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112731896562094086/nnKSyz6w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/209986826/1582300213",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "20190111 영화 레토 관객과의 대화\n\n유태오배우님 노래부르는거,,\n이제 갖고 있는게 이거뿐 😉 https://t.co/HjIvetPoi1"
+	},
+	{
+		"created_at": "Fri Mar 13 08:00:01 +0000 2020",
+		"id": 1238372994533052400,
+		"id_str": "1238374240207818753",
+		"full_text": "#레토\n\n#유태오 배우가 직접 기타로 연주하는\n영화 &lt;레토&gt;의 사운드 트랙 'The Mood I'm in'\n\n&lt;레토&gt;는 오늘부터 #아트나인 에서 진행되는 특별상영을 통해 만날 수 있습니다.\n\n* 메가박스 모바일앱과 홈페이지 및 기타 예매 사이트에서 가능합니다. https://t.co/a5j0bc2sgd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레토",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "유태오",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "아트나인",
+					"indices": [
+						84,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238372947682709500,
+					"id_str": "1238372947682709505",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238372947682709505/pu/img/YYqW_thVa0vINkCV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238372947682709505/pu/img/YYqW_thVa0vINkCV.jpg",
+					"url": "https://t.co/a5j0bc2sgd",
+					"display_url": "pic.twitter.com/a5j0bc2sgd",
+					"expanded_url": "https://twitter.com/at9film/status/1238372994533052417/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238372947682709500,
+					"id_str": "1238372947682709505",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238372947682709505/pu/img/YYqW_thVa0vINkCV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238372947682709505/pu/img/YYqW_thVa0vINkCV.jpg",
+					"url": "https://t.co/a5j0bc2sgd",
+					"display_url": "pic.twitter.com/a5j0bc2sgd",
+					"expanded_url": "https://twitter.com/at9film/status/1238372994533052417/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17535,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1238372947682709505/pu/pl/TjvCQBwumCSvXjNQ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238372947682709505/pu/vid/640x360/piCX4CD17F8Mc2CR.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238372947682709505/pu/vid/480x270/vQ_-_E05wXxWkajM.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119295834,
+			"id_str": "119295834",
+			"name": "ATNINE FILM",
+			"screen_name": "at9film",
+			"location": "",
+			"description": "영화사 엣나인필름 공식 계정 ATNINE FILM CO., LTD. official twitter. https://t.co/7unczk7HpJ",
+			"url": "https://t.co/pSwybtWmaV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pSwybtWmaV",
+							"expanded_url": "http://facebook.com/at9film",
+							"display_url": "facebook.com/at9film",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7unczk7HpJ",
+							"expanded_url": "http://www.facebook.com/at9film",
+							"display_url": "facebook.com/at9film",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11050,
+			"friends_count": 4927,
+			"listed_count": 151,
+			"created_at": "Wed Mar 03 06:36:15 +0000 2010",
+			"favourites_count": 3317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232142383896096768/7RWttnV1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232142383896096768/7RWttnV1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119295834/1582600613",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#레토\n\n#유태오 배우가 직접 기타로 연주하는\n영화 &lt;레토&gt;의 사운드 트랙 'The Mood I'm in'\n\n&lt;레토&gt;는 오늘부터 #아트나인 에서 진행되는 특별상영을 통해 만날 수 있습니다.\n\n* 메가박스 모바일앱과 홈페이지 및 기타 예매 사이트에서 가능합니다. https://t.co/a5j0bc2sgd"
+	},
+	{
+		"created_at": "Fri Mar 13 06:46:20 +0000 2020",
+		"id": 1238355698645217300,
+		"id_str": "1238355698645217281",
+		"full_text": "@gentlejaein 오잉 양산 토크 콘서트.... 하 그래도 그날이 왠지 멀었으면 좋겠네요",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gentlejaein",
+					"name": "젠틀재인",
+					"id": 350130697,
+					"id_str": "350130697",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1238354828884971500,
+		"in_reply_to_status_id_str": "1238354828884971523",
+		"in_reply_to_user_id": 350130697,
+		"in_reply_to_user_id_str": "350130697",
+		"in_reply_to_screen_name": "gentlejaein",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 590,
+			"friends_count": 1063,
+			"listed_count": 15,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@gentlejaein 오잉 양산 토크 콘서트.... 하 그래도 그날이 왠지 멀었으면 좋겠네요"
+	},
+	{
+		"created_at": "Fri Mar 13 05:30:20 +0000 2020",
+		"id": 1238336572790952000,
+		"id_str": "1238336572790951936",
+		"full_text": "정중엽씨 지비 가고픈데 전날 가는데 어쩔",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 590,
+			"friends_count": 1063,
+			"listed_count": 15,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "정중엽씨 지비 가고픈데 전날 가는데 어쩔"
+	},
+	{
+		"created_at": "Fri Mar 13 05:27:49 +0000 2020",
+		"id": 1238335937131626500,
+		"id_str": "1238335937131626496",
+		"full_text": "달봉이 샀는데 앞으로 들일이 있겠나 싶다가 다음 대선때 써야지 했다가 문프 임기 끝난다고 생각하니 눙물이",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 590,
+			"friends_count": 1063,
+			"listed_count": 15,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "달봉이 샀는데 앞으로 들일이 있겠나 싶다가 다음 대선때 써야지 했다가 문프 임기 끝난다고 생각하니 눙물이"
+	},
+	{
+		"created_at": "Fri Mar 13 04:22:29 +0000 2020",
+		"id": 1238319495929671700,
+		"id_str": "1238319495929671680",
+		"full_text": "감자 가고 달봉이 왔네",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 590,
+			"friends_count": 1063,
+			"listed_count": 15,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "감자 가고 달봉이 왔네"
+	},
+	{
+		"created_at": "Fri Mar 13 04:06:26 +0000 2020",
+		"id": 1238042058725544000,
+		"id_str": "1238315459507671042",
+		"full_text": "카페에서 본건데ㅋㅋㅋㅋㅋ\n공감 200000% https://t.co/jB0Av6fDjA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238042051041611800,
+					"id_str": "1238042051041611776",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/ES5or51U0AASx_2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES5or51U0AASx_2.jpg",
+					"url": "https://t.co/jB0Av6fDjA",
+					"display_url": "pic.twitter.com/jB0Av6fDjA",
+					"expanded_url": "https://twitter.com/suaeng22/status/1238042058725543985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 458,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 458,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238042051041611800,
+					"id_str": "1238042051041611776",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/ES5or51U0AASx_2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES5or51U0AASx_2.jpg",
+					"url": "https://t.co/jB0Av6fDjA",
+					"display_url": "pic.twitter.com/jB0Av6fDjA",
+					"expanded_url": "https://twitter.com/suaeng22/status/1238042058725543985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 458,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 458,
+							"h": 594,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 594,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1122893537882755100,
+			"id_str": "1122893537882755073",
+			"name": "이니여니하고싶은거다해",
+			"screen_name": "suaeng22",
+			"location": "",
+			"description": "🌼조국수호 검찰개혁 ⭐️노무현대통령님 보고싶습니다 🌙문재인대통령님 끝까지 함께하겠습니다 존경합니다 👍🏻다음은 이낙연총리님입니다 (🙅‍♀️No Japan 낙지는300 털보얼굴은 과학이다 이해찬사퇴좀 제발요)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385,
+			"friends_count": 657,
+			"listed_count": 1,
+			"created_at": "Mon Apr 29 16:00:56 +0000 2019",
+			"favourites_count": 637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238545541581008897/xvYPdx-E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238545541581008897/xvYPdx-E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1122893537882755073/1583779925",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7549,
+		"favorite_count": 2493,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카페에서 본건데ㅋㅋㅋㅋㅋ\n공감 200000% https://t.co/jB0Av6fDjA"
+	},
+	{
+		"created_at": "Fri Mar 13 04:03:58 +0000 2020",
+		"id": 1238128721581596700,
+		"id_str": "1238314838339629058",
+		"full_text": "#펭수캠페인 시즌2\n[ 플라스틱 링 제거하기 ]\n\n자세한 내용은 하단에 설명을 확인해주세요 🐧 \n\n문의 = DM ✉ https://t.co/2xW9E39BqU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펭수캠페인",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238128690128728000,
+					"id_str": "1238128690128728064",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/ES63e9lXsAA1Rfz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES63e9lXsAA1Rfz.jpg",
+					"url": "https://t.co/2xW9E39BqU",
+					"display_url": "pic.twitter.com/2xW9E39BqU",
+					"expanded_url": "https://twitter.com/SDspringwater/status/1238128721581596672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238128690128728000,
+					"id_str": "1238128690128728064",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/ES63e9lXsAA1Rfz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES63e9lXsAA1Rfz.jpg",
+					"url": "https://t.co/2xW9E39BqU",
+					"display_url": "pic.twitter.com/2xW9E39BqU",
+					"expanded_url": "https://twitter.com/SDspringwater/status/1238128721581596672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1238128703512752000,
+					"id_str": "1238128703512752129",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/ES63fvcXsAEusWV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES63fvcXsAEusWV.jpg",
+					"url": "https://t.co/2xW9E39BqU",
+					"display_url": "pic.twitter.com/2xW9E39BqU",
+					"expanded_url": "https://twitter.com/SDspringwater/status/1238128721581596672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 679,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1198815013433008000,
+			"id_str": "1198815013433008128",
+			"name": "펭수캠페인🐧",
+			"screen_name": "SDspringwater",
+			"location": "",
+			"description": "#펭수캠페인 은 오픈채팅 #펭질방 에서 진행중 입니다 🐧",
+			"url": "https://t.co/Inp3M3rjzn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Inp3M3rjzn",
+							"expanded_url": "https://open.kakao.com/o/gIYVD5Eb",
+							"display_url": "open.kakao.com/o/gIYVD5Eb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Mon Nov 25 04:06:00 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198815130038915072/Gsy6p6Jk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198815130038915072/Gsy6p6Jk_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 144,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#펭수캠페인 시즌2\n[ 플라스틱 링 제거하기 ]\n\n자세한 내용은 하단에 설명을 확인해주세요 🐧 \n\n문의 = DM ✉ https://t.co/2xW9E39BqU"
+	},
+	{
 		"created_at": "Thu Mar 12 23:23:28 +0000 2020",
 		"id": 1238244245133308000,
 		"id_str": "1238244245133307909",
