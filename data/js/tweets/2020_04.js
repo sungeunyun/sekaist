@@ -1,6 +1,1469 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 23:42:42 +0000 2020",
+		"id": 1250931641926611000,
+		"id_str": "1250932664107843584",
+		"full_text": "#펭수\n\"빌보드 프로젝트\"펭수, 타이거JK 손잡고 가수 데뷔\n\nEBS의 인기 크리에이터 펭수가 21일 오후 6시 음원 사이트를 통해 첫 디지털 싱글 ‘빌보드 프로젝트 Vol. 1'을 공개한다. ‘빌보드 프로젝트 Vol.1' 앨범은 힙합 아티스트 타이거 JK, 비지, 비비가 함께 참여했다.\n\n➡️https://t.co/N2JRWMYMXV https://t.co/7d8hLfzcwH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펭수",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N2JRWMYMXV",
+					"expanded_url": "http://naver.me/FsFnBtMG",
+					"display_url": "naver.me/FsFnBtMG",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250931433813602300,
+					"id_str": "1250931433813602305",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EVwzgubUcAEzyK8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVwzgubUcAEzyK8.jpg",
+					"url": "https://t.co/7d8hLfzcwH",
+					"display_url": "pic.twitter.com/7d8hLfzcwH",
+					"expanded_url": "https://twitter.com/pengsoo0808/status/1250931641926610944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 560,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 560,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 560,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250931433813602300,
+					"id_str": "1250931433813602305",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EVwzgubUcAEzyK8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVwzgubUcAEzyK8.jpg",
+					"url": "https://t.co/7d8hLfzcwH",
+					"display_url": "pic.twitter.com/7d8hLfzcwH",
+					"expanded_url": "https://twitter.com/pengsoo0808/status/1250931641926610944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 560,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 560,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 560,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1177212340388778000,
+			"id_str": "1177212340388777985",
+			"name": "펭덕계🎗",
+			"screen_name": "pengsoo0808",
+			"location": "펭수 에피 모멘트",
+			"description": "🐧fan account🐧/EBS 연습생 스타가 될 펭수덕질계입니다/알림OFF 디엠주세요/인알로 욕하는거 작작해요🥰❤메인타래-펭수에피모멘트❤페북 안 합니다",
+			"url": "https://t.co/S5GD1fbX3W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S5GD1fbX3W",
+							"expanded_url": "https://twitter.com/pengsoo0808/status/1182167661842534400?s=19",
+							"display_url": "twitter.com/pengsoo0808/st…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11448,
+			"friends_count": 72,
+			"listed_count": 27,
+			"created_at": "Thu Sep 26 13:24:35 +0000 2019",
+			"favourites_count": 543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233386781065666561/FnMJ76w1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233386781065666561/FnMJ76w1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1177212340388777985/1582208550",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#펭수\n\"빌보드 프로젝트\"펭수, 타이거JK 손잡고 가수 데뷔\n\nEBS의 인기 크리에이터 펭수가 21일 오후 6시 음원 사이트를 통해 첫 디지털 싱글 ‘빌보드 프로젝트 Vol. 1'을 공개한다. ‘빌보드 프로젝트 Vol.1' 앨범은 힙합 아티스트 타이거 JK, 비지, 비비가 함께 참여했다.\n\n➡️https://t.co/N2JRWMYMXV https://t.co/7d8hLfzcwH"
+	},
+	{
+		"created_at": "Thu Apr 16 08:18:38 +0000 2020",
+		"id": 1250700111279042600,
+		"id_str": "1250700111279042561",
+		"full_text": "민주당 지지자들을 뭘로보고... 이해찬 존나 싫어한다 이거예요...... 민주당이면 다 오케이인줄 아나 내부 비판 존트 많고요 상상이상일 겁니다.... 가만히 안지켜봐요...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 596,
+			"friends_count": 1069,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "민주당 지지자들을 뭘로보고... 이해찬 존나 싫어한다 이거예요...... 민주당이면 다 오케이인줄 아나 내부 비판 존트 많고요 상상이상일 겁니다.... 가만히 안지켜봐요..."
+	},
+	{
+		"created_at": "Thu Apr 16 07:14:58 +0000 2020",
+		"id": 1250682565398130700,
+		"id_str": "1250684090828746752",
+		"full_text": "#REMEMBER_0416 https://t.co/MUy8sCIp1p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "REMEMBER_0416",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250682555059196000,
+					"id_str": "1250682555059195905",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/EVtRKE0U0AE8cny.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVtRKE0U0AE8cny.jpg",
+					"url": "https://t.co/MUy8sCIp1p",
+					"display_url": "pic.twitter.com/MUy8sCIp1p",
+					"expanded_url": "https://twitter.com/dog__sookie/status/1250682565398130688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250682555059196000,
+					"id_str": "1250682555059195905",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/EVtRKE0U0AE8cny.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVtRKE0U0AE8cny.jpg",
+					"url": "https://t.co/MUy8sCIp1p",
+					"display_url": "pic.twitter.com/MUy8sCIp1p",
+					"expanded_url": "https://twitter.com/dog__sookie/status/1250682565398130688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127510976,
+			"id_str": "127510976",
+			"name": "숙희🎗",
+			"screen_name": "dog__sookie",
+			"location": "부산",
+			"description": "남포동 스트릿 출신 코리안테리어 '숙희'",
+			"url": "https://t.co/9QiBn1Xshq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9QiBn1Xshq",
+							"expanded_url": "http://Instagram.com/dog_sookie",
+							"display_url": "Instagram.com/dog_sookie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6722,
+			"friends_count": 219,
+			"listed_count": 88,
+			"created_at": "Mon Mar 29 12:52:02 +0000 2010",
+			"favourites_count": 5834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238020431493226496/U6JEHUBC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238020431493226496/U6JEHUBC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127510976/1584002049",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#REMEMBER_0416 https://t.co/MUy8sCIp1p"
+	},
+	{
+		"created_at": "Thu Apr 16 07:13:52 +0000 2020",
+		"id": 1250683814797381600,
+		"id_str": "1250683814797381632",
+		"full_text": "민주당의 훌륭한 여성 정치인들 응원할겁니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 596,
+			"friends_count": 1069,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "민주당의 훌륭한 여성 정치인들 응원할겁니다"
+	},
+	{
+		"created_at": "Thu Apr 16 07:12:33 +0000 2020",
+		"id": 1250683482818228200,
+		"id_str": "1250683482818228225",
+		"full_text": "비판은 수용한다 이거예요 앞뒤 자르고 저거에 꽂혀서 매번 보조수단으로 이용하는데 환멸안나겠냐고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 596,
+			"friends_count": 1069,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "비판은 수용한다 이거예요 앞뒤 자르고 저거에 꽂혀서 매번 보조수단으로 이용하는데 환멸안나겠냐고"
+	},
+	{
+		"created_at": "Thu Apr 16 07:03:07 +0000 2020",
+		"id": 1250620507285631000,
+		"id_str": "1250681108125097986",
+		"full_text": "아 진짜 '나중에' 드립 이제 정말 그만 보고싶다. 민주당 지지자들에게 뭘 원할때 이제 '나중에'가 아닌가요 이럼ㅋㅋㅋㅋ\n\n2017년에 차례 정해져 있는 행사에서 성소수자분이 들어오셔서 갑자기 무어라 외치셔셔 발언들 끝난 후에 발언권 드리겠으니 진정하란 의미에서 나온 말인데 그걸 3년 지난",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 995649240104775700,
+			"id_str": "995649240104775681",
+			"name": "🎗문재인 정부 여성정책 소식 알리는 비공식 봇🎗",
+			"screen_name": "Moon_government",
+			"location": "",
+			"description": "❗19대 문재인 정부에서 실시한 여성정책이나 관련 좋은 소식에 관한 정보를 알리는 비공식 트위터 계정입니다. ❗ / 백업계 : @moongovern_info / ❗ 한국언론재단에 기사를 퍼와 트윗을 작성하는 것에 대해 문제가 없다고 답을 받았습니다.(2-3줄이 넘지않고 주소첨부)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6719,
+			"friends_count": 2,
+			"listed_count": 39,
+			"created_at": "Sun May 13 12:57:31 +0000 2018",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250795556177248257/hn4LL1wC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250795556177248257/hn4LL1wC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/995649240104775681/1587045242",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 826,
+		"favorite_count": 185,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아 진짜 '나중에' 드립 이제 정말 그만 보고싶다. 민주당 지지자들에게 뭘 원할때 이제 '나중에'가 아닌가요 이럼ㅋㅋㅋㅋ\n\n2017년에 차례 정해져 있는 행사에서 성소수자분이 들어오셔서 갑자기 무어라 외치셔셔 발언들 끝난 후에 발언권 드리겠으니 진정하란 의미에서 나온 말인데 그걸 3년 지난"
+	},
+	{
+		"created_at": "Thu Apr 16 04:41:20 +0000 2020",
+		"id": 1250645429705797600,
+		"id_str": "1250645429705797632",
+		"full_text": "@fallsstar 이거 쓸때만해도 출구조사 2위였는데 당선 되어벌임 ㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fallsstar",
+					"name": "ʜʀ ᴘɪᴄ.",
+					"id": 265341125,
+					"id_str": "265341125",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1250634865399095300,
+		"in_reply_to_status_id_str": "1250634865399095300",
+		"in_reply_to_user_id": 265341125,
+		"in_reply_to_user_id_str": "265341125",
+		"in_reply_to_screen_name": "fallsstar",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 596,
+			"friends_count": 1069,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@fallsstar 이거 쓸때만해도 출구조사 2위였는데 당선 되어벌임 ㅋㅋㅋ"
+	},
+	{
+		"created_at": "Thu Apr 16 03:16:14 +0000 2020",
+		"id": 1250444188002316300,
+		"id_str": "1250624009697288197",
+		"full_text": "“사람도 꽃처럼\n  다시 돌아올 수 있으면\n  얼마나 좋겠습니까...”\n\n#세월호_6주기\n#세월호_진상규명_책임자_처벌하라 https://t.co/7OCQzmjKEj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "세월호_6주기",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"text": "세월호_진상규명_책임자_처벌하라",
+					"indices": [
+						50,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250444174827999200,
+					"id_str": "1250444174827999234",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EVp4WhQUUAI7n2J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVp4WhQUUAI7n2J.jpg",
+					"url": "https://t.co/7OCQzmjKEj",
+					"display_url": "pic.twitter.com/7OCQzmjKEj",
+					"expanded_url": "https://twitter.com/bohemian_96/status/1250444188002316290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1946,
+							"h": 1946,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250444174827999200,
+					"id_str": "1250444174827999234",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EVp4WhQUUAI7n2J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVp4WhQUUAI7n2J.jpg",
+					"url": "https://t.co/7OCQzmjKEj",
+					"display_url": "pic.twitter.com/7OCQzmjKEj",
+					"expanded_url": "https://twitter.com/bohemian_96/status/1250444188002316290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1946,
+							"h": 1946,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323204915,
+			"id_str": "323204915",
+			"name": "Abend",
+			"screen_name": "bohemian_96",
+			"location": "",
+			"description": "말하기, 그리고 더 긴 침묵 / Vintage Pencil Enthusiast✏️ / 알람은 꺼놓습니다.",
+			"url": "https://t.co/sLQcGEoa5f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sLQcGEoa5f",
+							"expanded_url": "https://www.instagram.com/jiji_pencils",
+							"display_url": "instagram.com/jiji_pencils",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5069,
+			"friends_count": 83,
+			"listed_count": 96,
+			"created_at": "Fri Jun 24 12:49:43 +0000 2011",
+			"favourites_count": 4966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197441269863026689/hi0qhxGi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197441269863026689/hi0qhxGi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323204915/1570080429",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 280,
+		"favorite_count": 192,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“사람도 꽃처럼\n  다시 돌아올 수 있으면\n  얼마나 좋겠습니까...”\n\n#세월호_6주기\n#세월호_진상규명_책임자_처벌하라 https://t.co/7OCQzmjKEj"
+	},
+	{
+		"created_at": "Thu Apr 16 02:32:29 +0000 2020",
+		"id": 1250608066728321000,
+		"id_str": "1250613003575193600",
+		"full_text": "청와대 앞에 도착하자마자 문자메시지가 왔습니다. 참 미웠던 언론이지만 그럼에도 불구하고 기대와 희망을 놓아버릴 수 없는 언론, 언론인들이 계십니다. 그래서 아직은 버틸만한가 봅니다. 고맙습니다.\n\n#세월호참사 #6주기 #기억식 #MBC #문재인정부는7주기까지진상규명약속이행하라 https://t.co/Owwwj88cx7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "세월호참사",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "6주기",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "기억식",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "MBC",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "문재인정부는7주기까지진상규명약속이행하라",
+					"indices": [
+						132,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250608058159337500,
+					"id_str": "1250608058159337474",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EVsNZyPUEAImjDs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVsNZyPUEAImjDs.jpg",
+					"url": "https://t.co/Owwwj88cx7",
+					"display_url": "pic.twitter.com/Owwwj88cx7",
+					"expanded_url": "https://twitter.com/snk21c/status/1250608066728321024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1716,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 787,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250608058159337500,
+					"id_str": "1250608058159337474",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EVsNZyPUEAImjDs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVsNZyPUEAImjDs.jpg",
+					"url": "https://t.co/Owwwj88cx7",
+					"display_url": "pic.twitter.com/Owwwj88cx7",
+					"expanded_url": "https://twitter.com/snk21c/status/1250608066728321024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1716,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 787,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108496938,
+			"id_str": "108496938",
+			"name": "예은아빠 유경근",
+			"screen_name": "snk21c",
+			"location": "",
+			"description": "🎗세월호참사 진짜 원인, 이제는 밝혀야 합니다!!🎗누가? 왜? 침몰시켰나?? 안 구했나??🎗문재인정부는 김기춘과 국정원을 수사하라!!🎗",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102735,
+			"friends_count": 28856,
+			"listed_count": 305,
+			"created_at": "Tue Jan 26 03:40:40 +0000 2010",
+			"favourites_count": 832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042781659051917312/9NoRNIVN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042781659051917312/9NoRNIVN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108496938/1537453656",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3849,
+		"favorite_count": 2490,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청와대 앞에 도착하자마자 문자메시지가 왔습니다. 참 미웠던 언론이지만 그럼에도 불구하고 기대와 희망을 놓아버릴 수 없는 언론, 언론인들이 계십니다. 그래서 아직은 버틸만한가 봅니다. 고맙습니다.\n\n#세월호참사 #6주기 #기억식 #MBC #문재인정부는7주기까지진상규명약속이행하라 https://t.co/Owwwj88cx7"
+	},
+	{
+		"created_at": "Thu Apr 16 01:49:25 +0000 2020",
+		"id": 1250602164512157700,
+		"id_str": "1250602164512157696",
+		"full_text": "@haruz_on 아마도 될것 같아요 아이폰 이 쓰레기들......해상도가 떨어지나봐여...",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "haruz_on",
+					"name": "dANbO",
+					"id": 110678464,
+					"id_str": "110678464",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1250601426369167400,
+		"in_reply_to_status_id_str": "1250601426369167363",
+		"in_reply_to_user_id": 110678464,
+		"in_reply_to_user_id_str": "110678464",
+		"in_reply_to_screen_name": "haruz_on",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 596,
+			"friends_count": 1069,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@haruz_on 아마도 될것 같아요 아이폰 이 쓰레기들......해상도가 떨어지나봐여..."
+	},
+	{
+		"created_at": "Thu Apr 16 00:32:00 +0000 2020",
+		"id": 1250565963553992700,
+		"id_str": "1250582680929890304",
+		"full_text": "고맙고 죄송합니다.\n\n최선을 다 했기에 후회는 없습니다.\n\n우리지역에서 여전히\n해야 할 일이 \n너무나 많이 남아있네요...\n\n지지해주신 분들께 진 빚, \n어찌 갚아야할지 더 깊이 \n고민하겠습니다.\n\n문재인 정부의 성공을 위한 발걸음 멈추지 않겠습니다.\n\n세월호 잊지 않겠습니다!\n\n#문재인 #오중기 https://t.co/r2XIdL3zmc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문재인",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "오중기",
+					"indices": [
+						162,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250565956985712600,
+					"id_str": "1250565956985712640",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EVrnHLJUcAAMegw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVrnHLJUcAAMegw.jpg",
+					"url": "https://t.co/r2XIdL3zmc",
+					"display_url": "pic.twitter.com/r2XIdL3zmc",
+					"expanded_url": "https://twitter.com/iskr12/status/1250565963553992705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 601,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 601,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 601,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250565956985712600,
+					"id_str": "1250565956985712640",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EVrnHLJUcAAMegw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVrnHLJUcAAMegw.jpg",
+					"url": "https://t.co/r2XIdL3zmc",
+					"display_url": "pic.twitter.com/r2XIdL3zmc",
+					"expanded_url": "https://twitter.com/iskr12/status/1250565963553992705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 601,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 601,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 601,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164262110,
+			"id_str": "164262110",
+			"name": "오중기 _포항북 국회의원후보_더불어민주당",
+			"screen_name": "iskr12",
+			"location": "경상북도 포항시",
+			"description": "7회 지방선거 경북도지사 후보/문재인 청와대 선임행정관(전)/ 더민주 경북도당위원장(전)/ 제6회 지방선거 도지사 후보/ 18대 20대 포항북 국회의원 후보/문재인대통령후보 경북상임선대위원장/민주통합당 비대위원/ ●서민 삶의 진보가 이루어지는 날까지 온 힘을 다하려고 합니다.",
+			"url": "https://t.co/ic1oj2Ji20",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ic1oj2Ji20",
+							"expanded_url": "http://blog.naver.com/iskr12",
+							"display_url": "blog.naver.com/iskr12",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21988,
+			"friends_count": 14368,
+			"listed_count": 105,
+			"created_at": "Thu Jul 08 12:50:46 +0000 2010",
+			"favourites_count": 11273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/972848010882203650/A8RySFGe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/972848010882203650/A8RySFGe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164262110/1530670476",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2864,
+		"favorite_count": 4513,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고맙고 죄송합니다.\n\n최선을 다 했기에 후회는 없습니다.\n\n우리지역에서 여전히\n해야 할 일이 \n너무나 많이 남아있네요...\n\n지지해주신 분들께 진 빚, \n어찌 갚아야할지 더 깊이 \n고민하겠습니다.\n\n문재인 정부의 성공을 위한 발걸음 멈추지 않겠습니다.\n\n세월호 잊지 않겠습니다!\n\n#문재인 #오중기 https://t.co/r2XIdL3zmc"
+	},
+	{
 		"created_at": "Wed Apr 15 23:48:52 +0000 2020",
 		"id": 1250483588887220200,
 		"id_str": "1250571825886580736",
@@ -1290,7 +2753,7 @@ Grailbird.data.tweets_2020_04 =
 		"created_at": "Wed Apr 15 10:17:30 +0000 2020",
 		"id": 1250367640008188000,
 		"id_str": "1250367640008187904",
-		"full_text": "@fallsstar 경상도 핑크밭이에요 🤦🏻‍♀️",
+		"full_text": "@fallsstar 경상도 핑크밭이에요 🤦🏻♀️",
 		"truncated": false,
 		"display_text_range": [
 			11,
@@ -1377,7 +2840,7 @@ Grailbird.data.tweets_2020_04 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "ko",
-		"text": "@fallsstar 경상도 핑크밭이에요 🤦🏻‍♀️"
+		"text": "@fallsstar 경상도 핑크밭이에요 🤦🏻♀️"
 	},
 	{
 		"created_at": "Wed Apr 15 09:57:38 +0000 2020",
