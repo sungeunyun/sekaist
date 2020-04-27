@@ -1,6 +1,1306 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 26 23:40:03 +0000 2020",
+		"id": 1254555872363081700,
+		"id_str": "1254555872363081728",
+		"full_text": "이승환 - 30년 30 Years https://t.co/F4FZ8DYbXm - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube at 🏠",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						45,
+						53
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F4FZ8DYbXm",
+					"expanded_url": "https://youtu.be/heEqv_P5ksw",
+					"display_url": "youtu.be/heEqv_P5ksw",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 1068,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이승환 - 30년 30 Years https://t.co/F4FZ8DYbXm - @YouTube"
+	},
+	{
+		"created_at": "Sun Apr 26 23:35:02 +0000 2020",
+		"id": 1254554613065212000,
+		"id_str": "1254554613065211904",
+		"full_text": "개키우는게 뭔 벼슬이야 왜케 남일에 관심 많음 랜선 시어머니 오진다 진짜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 1068,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "개키우는게 뭔 벼슬이야 왜케 남일에 관심 많음 랜선 시어머니 오진다 진짜"
+	},
+	{
+		"created_at": "Sun Apr 26 11:16:15 +0000 2020",
+		"id": 1254368688850927600,
+		"id_str": "1254368688850927619",
+		"full_text": "@Festivgoer 오늘 봤더니 역시 장국영이 크더라 재혁씨가 아니라 그냥 장국영으로 보임👀",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Festivgoer",
+					"name": "ㅇㅂㅈ",
+					"id": 490025247,
+					"id_str": "490025247",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1254323652121841700,
+		"in_reply_to_status_id_str": "1254323652121841665",
+		"in_reply_to_user_id": 490025247,
+		"in_reply_to_user_id_str": "490025247",
+		"in_reply_to_screen_name": "Festivgoer",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 1068,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Festivgoer 오늘 봤더니 역시 장국영이 크더라 재혁씨가 아니라 그냥 장국영으로 보임👀"
+	},
+	{
+		"created_at": "Sun Apr 26 10:36:40 +0000 2020",
+		"id": 1254350986920878000,
+		"id_str": "1254358726896566273",
+		"full_text": "선물받은 책 정대건 장편소설 &lt;GV빌런 고태경&gt; 다 읽었다 각잡고 보면 3시간 정도 걸리는 책인데 작가가 감독이어서 영화만들기에 대한 묘사들이 디테일하여 영화 좋아하는 사람들이면 재밌게 볼 법한 소설이었다 https://t.co/v5RVBLZq69",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1254350970525413400,
+					"id_str": "1254350970525413379",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EWhZj9XVcAM7qIm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWhZj9XVcAM7qIm.jpg",
+					"url": "https://t.co/v5RVBLZq69",
+					"display_url": "pic.twitter.com/v5RVBLZq69",
+					"expanded_url": "https://twitter.com/Sophia_1979/status/1254350986920878086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1254350970525413400,
+					"id_str": "1254350970525413379",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EWhZj9XVcAM7qIm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWhZj9XVcAM7qIm.jpg",
+					"url": "https://t.co/v5RVBLZq69",
+					"display_url": "pic.twitter.com/v5RVBLZq69",
+					"expanded_url": "https://twitter.com/Sophia_1979/status/1254350986920878086/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213209467,
+			"id_str": "213209467",
+			"name": "소피아 9979🌻🐈",
+			"screen_name": "Sophia_1979",
+			"location": "With Sul.",
+			"description": "덕질DNA 있어요. \n오독의 가능성을 두려워하는 사람.\n강냥이야 기다려줘 다시 만날때까지.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4389,
+			"friends_count": 434,
+			"listed_count": 44,
+			"created_at": "Mon Nov 08 08:37:22 +0000 2010",
+			"favourites_count": 93543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235743293742305281/3pU7SOC1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235743293742305281/3pU7SOC1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213209467/1578569914",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "선물받은 책 정대건 장편소설 &lt;GV빌런 고태경&gt; 다 읽었다 각잡고 보면 3시간 정도 걸리는 책인데 작가가 감독이어서 영화만들기에 대한 묘사들이 디테일하여 영화 좋아하는 사람들이면 재밌게 볼 법한 소설이었다 https://t.co/v5RVBLZq69"
+	},
+	{
+		"created_at": "Sun Apr 26 03:39:04 +0000 2020",
+		"id": 1254253635279532000,
+		"id_str": "1254253635279532032",
+		"full_text": "@Suyeong82 나갈 준비하느라 씻고 펭수보고 트위터켰더니 이런 알림이🥰🥰 펭수 잘 보고 와뜹니다 담주 숨보명은 펭수편이래요 ㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Suyeong82",
+					"name": "솔빛시인",
+					"id": 116071583,
+					"id_str": "116071583",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1254243391245742000,
+		"in_reply_to_status_id_str": "1254243391245742081",
+		"in_reply_to_user_id": 116071583,
+		"in_reply_to_user_id_str": "116071583",
+		"in_reply_to_screen_name": "Suyeong82",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 1068,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Suyeong82 나갈 준비하느라 씻고 펭수보고 트위터켰더니 이런 알림이🥰🥰 펭수 잘 보고 와뜹니다 담주 숨보명은 펭수편이래요 ㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Sun Apr 26 01:20:58 +0000 2020",
+		"id": 1254034665217888300,
+		"id_str": "1254218882983669761",
+		"full_text": "중앙일보가 대형사고 쳤다. 김정은 사망대비해 미리 작성한 기사가 송고된 것이다. 기사는 한국경제가 김정은 사망으로 코로나에 이어 더 큰 수렁에 빠지게 됐다며 잔뜩 불안심리를 조성했다. 중앙일보는 황급히 기사를 내렸지만 일파만파 퍼진 뒤다. 경제폭망바라는 중앙일보 속셈이 들켜버린 것이다. https://t.co/qd97KQChB2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qd97KQChB2",
+					"expanded_url": "https://twitter.com/GObalnews/status/1254004216172933121",
+					"display_url": "twitter.com/GObalnews/stat…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713162700340244500,
+			"id_str": "713162700340244481",
+			"name": "빈무덤",
+			"screen_name": "binmudum",
+			"location": "United States",
+			"description": "조국의 평화통일과 민족의 화해 민주주의와 인권의 가치를 소중하게 생각합니다. 천주교 신자지만 종교와는 관계없이 모든 선의의 사람들과 열린 마음으로 소통하고 싶습니다. 신문사 은퇴 후 방랑여행과 글쓰기로 소일하고 있습니다. #미주진실화해평화#민주포럼#적폐청산#사법개혁#경제정의#평화협정",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40412,
+			"friends_count": 37232,
+			"listed_count": 116,
+			"created_at": "Fri Mar 25 00:36:52 +0000 2016",
+			"favourites_count": 1238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926419526719287296/OeIewppL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926419526719287296/OeIewppL_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1254004216172933000,
+		"quoted_status_id_str": "1254004216172933121",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qd97KQChB2",
+			"expanded": "https://twitter.com/GObalnews/status/1254004216172933121",
+			"display": "twitter.com/GObalnews/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 25 11:07:58 +0000 2020",
+			"id": 1254004216172933000,
+			"id_str": "1254004216172933121",
+			"full_text": "4.25 중앙일보가 실수로 출고한 기사에 담긴 한국경제의 파국\nhttps://t.co/Q1unTfHUJm https://t.co/KsUZd9T88V",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Q1unTfHUJm",
+						"expanded_url": "https://youtu.be/M6UFTN0OTzc",
+						"display_url": "youtu.be/M6UFTN0OTzc",
+						"indices": [
+							35,
+							58
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1254004200335306800,
+						"id_str": "1254004200335306753",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/EWceLRvVcAExkGq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWceLRvVcAExkGq.jpg",
+						"url": "https://t.co/KsUZd9T88V",
+						"display_url": "pic.twitter.com/KsUZd9T88V",
+						"expanded_url": "https://twitter.com/GObalnews/status/1254004216172933121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1254004200335306800,
+						"id_str": "1254004200335306753",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/EWceLRvVcAExkGq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWceLRvVcAExkGq.jpg",
+						"url": "https://t.co/KsUZd9T88V",
+						"display_url": "pic.twitter.com/KsUZd9T88V",
+						"expanded_url": "https://twitter.com/GObalnews/status/1254004216172933121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 617869959,
+				"id_str": "617869959",
+				"name": "고발뉴스/GO발뉴스",
+				"screen_name": "GObalnews",
+				"location": "대한민국 서울",
+				"description": "뉴스독립군, 유튜브 채널 고발뉴스TV, 더 뛰고 싶습니다 ★정기후원★ https://t.co/wXvm7UkpCD 후원 배너 클릭 ★일시후원★ KB국민 090501-04-230157 (주)발뉴스",
+				"url": "https://t.co/u3FtI8JZMa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/u3FtI8JZMa",
+								"expanded_url": "http://www.gobalnews.com",
+								"display_url": "gobalnews.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wXvm7UkpCD",
+								"expanded_url": "http://gobalnews.com",
+								"display_url": "gobalnews.com",
+								"indices": [
+									39,
+									62
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 131488,
+				"friends_count": 3813,
+				"listed_count": 1123,
+				"created_at": "Mon Jun 25 05:03:58 +0000 2012",
+				"favourites_count": 40,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42959,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF9900",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/924886200111919104/hgI_I0gR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/924886200111919104/hgI_I0gR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/617869959/1542705794",
+				"profile_link_color": "8A5700",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 187,
+			"favorite_count": 177,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3654,
+		"favorite_count": 1252,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "중앙일보가 대형사고 쳤다. 김정은 사망대비해 미리 작성한 기사가 송고된 것이다. 기사는 한국경제가 김정은 사망으로 코로나에 이어 더 큰 수렁에 빠지게 됐다며 잔뜩 불안심리를 조성했다. 중앙일보는 황급히 기사를 내렸지만 일파만파 퍼진 뒤다. 경제폭망바라는 중앙일보 속셈이 들켜버린 것이다. https://t.co/qd97KQChB2"
+	},
+	{
+		"created_at": "Sun Apr 26 01:19:51 +0000 2020",
+		"id": 1254202634900082700,
+		"id_str": "1254218602250506245",
+		"full_text": "#경북 안동시 풍천면 산불 현장 헬기 32대 투입 (4월 26일 오전 8시 30분)\n\n산불진화헬기 32대 투입으로 오전 중 주불진화 노력\n\n-산림청 중앙산불방지대책본부-\n\n https://t.co/aNPGlJGm9I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "경북",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aNPGlJGm9I",
+					"expanded_url": "https://youtu.be/xCB6w4u05s8",
+					"display_url": "youtu.be/xCB6w4u05s8",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 80766057,
+			"id_str": "80766057",
+			"name": "대한민국 산림청",
+			"screen_name": "forest_news",
+			"location": "Korea, Daejeon",
+			"description": "내 삶을 바꾸는 숲, 새산새숲 :-)\n\n- 그럴리는 없겠지만 비지니스문의 foanews@korea.kr 헛헛-",
+			"url": "http://t.co/AzSP2FSTEJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/AzSP2FSTEJ",
+							"expanded_url": "http://blog.daum.net/kfs4079",
+							"display_url": "blog.daum.net/kfs4079",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173825,
+			"friends_count": 44892,
+			"listed_count": 912,
+			"created_at": "Thu Oct 08 04:33:43 +0000 2009",
+			"favourites_count": 2944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/714598801508589568/ohqq1zCm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/714598801508589568/ohqq1zCm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/80766057/1581922397",
+			"profile_link_color": "299966",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 259,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#경북 안동시 풍천면 산불 현장 헬기 32대 투입 (4월 26일 오전 8시 30분)\n\n산불진화헬기 32대 투입으로 오전 중 주불진화 노력\n\n-산림청 중앙산불방지대책본부-\n\n https://t.co/aNPGlJGm9I"
+	},
+	{
+		"created_at": "Sun Apr 26 00:45:23 +0000 2020",
+		"id": 1254181010595393500,
+		"id_str": "1254209926345310208",
+		"full_text": "윤석열 장모-윤석열 와이프 김건희-검찰의 유착 의혹을 다룬 시사기획 창 유튜브에 풀로 올라왔습니다 고화질 시청 가능 \n\nhttps://t.co/NiexVVB1gS https://t.co/SN7QMsuUMY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NiexVVB1gS",
+					"expanded_url": "https://youtu.be/Qkoz-kp15t8",
+					"display_url": "youtu.be/Qkoz-kp15t8",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1254181001602805800,
+					"id_str": "1254181001602805760",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EWe--dyUMAAQT7g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWe--dyUMAAQT7g.jpg",
+					"url": "https://t.co/SN7QMsuUMY",
+					"display_url": "pic.twitter.com/SN7QMsuUMY",
+					"expanded_url": "https://twitter.com/drywriting/status/1254181010595393536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1254181001602805800,
+					"id_str": "1254181001602805760",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EWe--dyUMAAQT7g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWe--dyUMAAQT7g.jpg",
+					"url": "https://t.co/SN7QMsuUMY",
+					"display_url": "pic.twitter.com/SN7QMsuUMY",
+					"expanded_url": "https://twitter.com/drywriting/status/1254181010595393536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1254181001607053300,
+					"id_str": "1254181001607053314",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EWe--dzVAAI7aOo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWe--dzVAAI7aOo.jpg",
+					"url": "https://t.co/SN7QMsuUMY",
+					"display_url": "pic.twitter.com/SN7QMsuUMY",
+					"expanded_url": "https://twitter.com/drywriting/status/1254181010595393536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1254181001602797600,
+					"id_str": "1254181001602797568",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EWe--dyUEAAcfTa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWe--dyUEAAcfTa.jpg",
+					"url": "https://t.co/SN7QMsuUMY",
+					"display_url": "pic.twitter.com/SN7QMsuUMY",
+					"expanded_url": "https://twitter.com/drywriting/status/1254181010595393536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1254181001607000000,
+					"id_str": "1254181001607000065",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EWe--dzUMAEhgRz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWe--dzUMAEhgRz.jpg",
+					"url": "https://t.co/SN7QMsuUMY",
+					"display_url": "pic.twitter.com/SN7QMsuUMY",
+					"expanded_url": "https://twitter.com/drywriting/status/1254181010595393536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2563645866,
+			"id_str": "2563645866",
+			"name": "심통",
+			"screen_name": "drywriting",
+			"location": "",
+			"description": "반말하지마라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3511,
+			"friends_count": 176,
+			"listed_count": 14,
+			"created_at": "Thu Jun 12 16:07:40 +0000 2014",
+			"favourites_count": 32464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203772620065214464/1fWtGYTj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203772620065214464/1fWtGYTj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2563645866/1585680448",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 410,
+		"favorite_count": 205,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "윤석열 장모-윤석열 와이프 김건희-검찰의 유착 의혹을 다룬 시사기획 창 유튜브에 풀로 올라왔습니다 고화질 시청 가능 \n\nhttps://t.co/NiexVVB1gS https://t.co/SN7QMsuUMY"
+	},
+	{
+		"created_at": "Sun Apr 26 00:37:57 +0000 2020",
+		"id": 1254208055291441200,
+		"id_str": "1254208055291441152",
+		"full_text": "지방에서 재난 발생할 때마다 뉴스에서 소외되는거 정말 지긋지긋하다. 포항 지진때도 또 아랫지방에 태풍이 몰아칠때도 이번에 안동 산불도. 지독한 서울 중심주의",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 1068,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "지방에서 재난 발생할 때마다 뉴스에서 소외되는거 정말 지긋지긋하다. 포항 지진때도 또 아랫지방에 태풍이 몰아칠때도 이번에 안동 산불도. 지독한 서울 중심주의"
+	},
+	{
 		"created_at": "Sat Apr 25 13:49:40 +0000 2020",
 		"id": 1254044910635761700,
 		"id_str": "1254044910635761664",
