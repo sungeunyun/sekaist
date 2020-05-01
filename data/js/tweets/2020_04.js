@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 08:14:35 +0000 2020",
+		"id": 1255769510478442500,
+		"id_str": "1255772523758645249",
+		"full_text": "#STAYatHOME\n\n황금연휴! 집콕을 부르는 꿀잼 영화 모음.zip\n그 첫번째 Music &amp; Dance 플레이 리스트로 확인🎵\n\nIPTV 및 디지털케이블 TV, VOD 등 절찬 서비스 중\n\n#댄서 #레토 #닥치노피아노 #세르게이폴루닌 #빅토르최 #유태오 #칠리곤잘레스 #영화 #영화추천 #음악영화 https://t.co/GdDT6eRp2v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STAYatHOME",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "댄서",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "레토",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "닥치노피아노",
+					"indices": [
+						120,
+						127
+					]
+				},
+				{
+					"text": "세르게이폴루닌",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "빅토르최",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "유태오",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "칠리곤잘레스",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "영화추천",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "음악영화",
+					"indices": [
+						166,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255769487439097900,
+					"id_str": "1255769487439097858",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EW1jsgqU8AIFV3i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW1jsgqU8AIFV3i.jpg",
+					"url": "https://t.co/GdDT6eRp2v",
+					"display_url": "pic.twitter.com/GdDT6eRp2v",
+					"expanded_url": "https://twitter.com/at9film/status/1255769510478442496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255769487439097900,
+					"id_str": "1255769487439097858",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EW1jsgqU8AIFV3i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW1jsgqU8AIFV3i.jpg",
+					"url": "https://t.co/GdDT6eRp2v",
+					"display_url": "pic.twitter.com/GdDT6eRp2v",
+					"expanded_url": "https://twitter.com/at9film/status/1255769510478442496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1255769496452644900,
+					"id_str": "1255769496452644865",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EW1jtCPUwAEypW4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW1jtCPUwAEypW4.jpg",
+					"url": "https://t.co/GdDT6eRp2v",
+					"display_url": "pic.twitter.com/GdDT6eRp2v",
+					"expanded_url": "https://twitter.com/at9film/status/1255769510478442496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1255769506334388200,
+					"id_str": "1255769506334388224",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EW1jtnDUMAAF7ao.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW1jtnDUMAAF7ao.jpg",
+					"url": "https://t.co/GdDT6eRp2v",
+					"display_url": "pic.twitter.com/GdDT6eRp2v",
+					"expanded_url": "https://twitter.com/at9film/status/1255769510478442496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119295834,
+			"id_str": "119295834",
+			"name": "ATNINE FILM",
+			"screen_name": "at9film",
+			"location": "",
+			"description": "영화사 엣나인필름 공식 계정 ATNINE FILM CO., LTD. official twitter. https://t.co/7unczk7HpJ",
+			"url": "https://t.co/pSwybtWmaV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pSwybtWmaV",
+							"expanded_url": "http://facebook.com/at9film",
+							"display_url": "facebook.com/at9film",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7unczk7HpJ",
+							"expanded_url": "http://www.facebook.com/at9film",
+							"display_url": "facebook.com/at9film",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10920,
+			"friends_count": 4852,
+			"listed_count": 148,
+			"created_at": "Wed Mar 03 06:36:15 +0000 2010",
+			"favourites_count": 3301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241247349785034754/IzY2dzee_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241247349785034754/IzY2dzee_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119295834/1584771405",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#STAYatHOME\n\n황금연휴! 집콕을 부르는 꿀잼 영화 모음.zip\n그 첫번째 Music &amp; Dance 플레이 리스트로 확인🎵\n\nIPTV 및 디지털케이블 TV, VOD 등 절찬 서비스 중\n\n#댄서 #레토 #닥치노피아노 #세르게이폴루닌 #빅토르최 #유태오 #칠리곤잘레스 #영화 #영화추천 #음악영화 https://t.co/GdDT6eRp2v"
+	},
+	{
 		"created_at": "Wed Apr 29 23:27:55 +0000 2020",
 		"id": 1255509969199390700,
 		"id_str": "1255639983349624832",
