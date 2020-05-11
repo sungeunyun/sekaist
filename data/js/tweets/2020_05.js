@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 10 15:18:31 +0000 2020",
+		"id": 1259503090224390100,
+		"id_str": "1259503090224390144",
+		"full_text": "오늘 상암 갔어야했어.....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 1071,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오늘 상암 갔어야했어....."
+	},
+	{
+		"created_at": "Sun May 10 12:17:40 +0000 2020",
+		"id": 1259457577596813300,
+		"id_str": "1259457577596813313",
+		"full_text": "엠븅신 뉴스 첫꼭지 뭥미스럽네",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 1071,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "엠븅신 뉴스 첫꼭지 뭥미스럽네"
+	},
+	{
+		"created_at": "Sun May 10 10:16:24 +0000 2020",
+		"id": 1259410000071422000,
+		"id_str": "1259427060314849280",
+		"full_text": "우리 정부 어느 누구도 안전안내문자 보내면서 '명령'이란 단어를 쓴 적 없고, '~를 명함'이라며 국민을 내려다보지 않았음. 내가 경기도민은 아니지만, 어디 뒤늦게 나타나서 이따위. 그리고 띄어쓰기 좀 해라. https://t.co/aYVFduGGO8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259409989799567400,
+					"id_str": "1259409989799567360",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EXpStoyU4AAYg_u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXpStoyU4AAYg_u.jpg",
+					"url": "https://t.co/aYVFduGGO8",
+					"display_url": "pic.twitter.com/aYVFduGGO8",
+					"expanded_url": "https://twitter.com/happy_CSR_/status/1259410000071421953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 952,
+							"h": 846,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 846,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 604,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259409989799567400,
+					"id_str": "1259409989799567360",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EXpStoyU4AAYg_u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXpStoyU4AAYg_u.jpg",
+					"url": "https://t.co/aYVFduGGO8",
+					"display_url": "pic.twitter.com/aYVFduGGO8",
+					"expanded_url": "https://twitter.com/happy_CSR_/status/1259410000071421953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 952,
+							"h": 846,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 846,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 604,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1232556677188112400,
+			"id_str": "1232556677188112386",
+			"name": "sora",
+			"screen_name": "happy_CSR_",
+			"location": "",
+			"description": "희망의 힘. 차가운 머리와 뜨거운 가슴. 함께.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6289,
+			"friends_count": 497,
+			"listed_count": 19,
+			"created_at": "Wed Feb 26 06:44:21 +0000 2020",
+			"favourites_count": 3119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232557261593051136/MorVgthR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232557261593051136/MorVgthR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1232556677188112386/1582699580",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 608,
+		"favorite_count": 335,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리 정부 어느 누구도 안전안내문자 보내면서 '명령'이란 단어를 쓴 적 없고, '~를 명함'이라며 국민을 내려다보지 않았음. 내가 경기도민은 아니지만, 어디 뒤늦게 나타나서 이따위. 그리고 띄어쓰기 좀 해라. https://t.co/aYVFduGGO8"
+	},
+	{
 		"created_at": "Sat May 09 17:29:01 +0000 2020",
 		"id": 1259173542387757000,
 		"id_str": "1259173542387757056",
@@ -854,7 +1179,7 @@ Grailbird.data.tweets_2020_05 =
 		"created_at": "Sat May 09 06:05:20 +0000 2020",
 		"id": 1258996687579705300,
 		"id_str": "1259001485989302274",
-		"full_text": "이 영상보고 내적어깨 들썩들썩💃🏻🕺🏻거린사람 손…!🙋🏻‍♀️😂🐢🐢멋지면서 섹시한데 귀엽기까지 한… 배우 #유태오 와 #얼루어 만남! 곧 유태오 배우의 화보 및 유튜브 촬영 예정이라는 사실! 기대 많이 해주세요❤️궁금한 것들이 있으시다면 물어봐 줄지도! 24시간 한정입니다, 여러분!💁💃🏻\n-\n#유태오 #Teo https://t.co/81Q1ppomYA",
+		"full_text": "이 영상보고 내적어깨 들썩들썩💃🏻🕺🏻거린사람 손…!🙋🏻♀️😂🐢🐢멋지면서 섹시한데 귀엽기까지 한… 배우 #유태오 와 #얼루어 만남! 곧 유태오 배우의 화보 및 유튜브 촬영 예정이라는 사실! 기대 많이 해주세요❤️궁금한 것들이 있으시다면 물어봐 줄지도! 24시간 한정입니다, 여러분!💁💃🏻\n-\n#유태오 #Teo https://t.co/81Q1ppomYA",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1077,7 +1402,7 @@ Grailbird.data.tweets_2020_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "이 영상보고 내적어깨 들썩들썩💃🏻🕺🏻거린사람 손…!🙋🏻‍♀️😂🐢🐢멋지면서 섹시한데 귀엽기까지 한… 배우 #유태오 와 #얼루어 만남! 곧 유태오 배우의 화보 및 유튜브 촬영 예정이라는 사실! 기대 많이 해주세요❤️궁금한 것들이 있으시다면 물어봐 줄지도! 24시간 한정입니다, 여러분!💁💃🏻\n-\n#유태오 #Teo https://t.co/81Q1ppomYA"
+		"text": "이 영상보고 내적어깨 들썩들썩💃🏻🕺🏻거린사람 손…!🙋🏻♀️😂🐢🐢멋지면서 섹시한데 귀엽기까지 한… 배우 #유태오 와 #얼루어 만남! 곧 유태오 배우의 화보 및 유튜브 촬영 예정이라는 사실! 기대 많이 해주세요❤️궁금한 것들이 있으시다면 물어봐 줄지도! 24시간 한정입니다, 여러분!💁💃🏻\n-\n#유태오 #Teo https://t.co/81Q1ppomYA"
 	},
 	{
 		"created_at": "Sat May 09 05:10:47 +0000 2020",
