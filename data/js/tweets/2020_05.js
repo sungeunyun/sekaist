@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 06:01:10 +0000 2020",
+		"id": 1260081806121922600,
+		"id_str": "1260087604801712128",
+		"full_text": "2020 단국대학교 영화콘텐츠전문대학원 졸업영화제 포스터 공개!\n.\n.\n\n#단국대학교 #영화콘텐츠전문대학원 #DGC #졸업영화제 #filmfest #그리고영화는계속된다 #아트나인 #artnine #영화 https://t.co/Gexh9pU3Xr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "단국대학교",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "영화콘텐츠전문대학원",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"text": "DGC",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "졸업영화제",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "filmfest",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "그리고영화는계속된다",
+					"indices": [
+						82,
+						93
+					]
+				},
+				{
+					"text": "아트나인",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "artnine",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						109,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260081796818993200,
+					"id_str": "1260081796818993157",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EXy1t89VAAUR-vF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXy1t89VAAUR-vF.jpg",
+					"url": "https://t.co/Gexh9pU3Xr",
+					"display_url": "pic.twitter.com/Gexh9pU3Xr",
+					"expanded_url": "https://twitter.com/DFilmfest/status/1260081806121922562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 1014,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1014,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260081796818993200,
+					"id_str": "1260081796818993157",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EXy1t89VAAUR-vF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXy1t89VAAUR-vF.jpg",
+					"url": "https://t.co/Gexh9pU3Xr",
+					"display_url": "pic.twitter.com/Gexh9pU3Xr",
+					"expanded_url": "https://twitter.com/DFilmfest/status/1260081806121922562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 1014,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1014,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1231113089128390700,
+			"id_str": "1231113089128390658",
+			"name": "dgc_filmfest",
+			"screen_name": "DFilmfest",
+			"location": "",
+			"description": "2020 단국대학교 영화콘텐츠전문대학원 졸업영화제 / 일시 : 05.22 - 24 / 장소 : 아트나인 이수 / 문의 : DM",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Sat Feb 22 07:06:59 +0000 2020",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231113304392650753/9aFIR641_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231113304392650753/9aFIR641_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0128384e56168024",
+			"url": "https://api.twitter.com/1.1/geo/id/0128384e56168024.json",
+			"place_type": "city",
+			"name": "관악구",
+			"full_name": "대한민국 관악구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.912914087461,
+							37.4453391936246
+						],
+						[
+							126.998170782234,
+							37.4453391936246
+						],
+						[
+							126.998170782234,
+							37.4882391535802
+						],
+						[
+							126.912914087461,
+							37.4882391535802
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020 단국대학교 영화콘텐츠전문대학원 졸업영화제 포스터 공개!\n.\n.\n\n#단국대학교 #영화콘텐츠전문대학원 #DGC #졸업영화제 #filmfest #그리고영화는계속된다 #아트나인 #artnine #영화 https://t.co/Gexh9pU3Xr"
+	},
+	{
 		"created_at": "Mon May 11 23:27:40 +0000 2020",
 		"id": 1259931890598858800,
 		"id_str": "1259988573714972672",
@@ -35,7 +292,7 @@ Grailbird.data.tweets_2020_05 =
 		"user": {
 			"id": 805660444815859700,
 			"id_str": "805660444815859712",
-			"name": "Luna🧚‍♂️🌕",
+			"name": "Luna🧚♂️🌕",
 			"screen_name": "lalapesto",
 			"location": "",
 			"description": "",
@@ -117,7 +374,7 @@ Grailbird.data.tweets_2020_05 =
 			"user": {
 				"id": 805660444815859700,
 				"id_str": "805660444815859712",
-				"name": "Luna🧚‍♂️🌕",
+				"name": "Luna🧚♂️🌕",
 				"screen_name": "lalapesto",
 				"location": "",
 				"description": "",
@@ -299,7 +556,7 @@ Grailbird.data.tweets_2020_05 =
 		"user": {
 			"id": 805660444815859700,
 			"id_str": "805660444815859712",
-			"name": "Luna🧚‍♂️🌕",
+			"name": "Luna🧚♂️🌕",
 			"screen_name": "lalapesto",
 			"location": "",
 			"description": "",
