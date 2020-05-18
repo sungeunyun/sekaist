@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 15:30:22 +0000 2020",
+		"id": 1262042785298829300,
+		"id_str": "1262042785298829312",
+		"full_text": "지난주 sbs스페셜 끝에 붙은 예고 보고 오늘 꼭 봐야겠다고 생각해놓고 완전히 잊어버렸네",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 1074,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "지난주 sbs스페셜 끝에 붙은 예고 보고 오늘 꼭 봐야겠다고 생각해놓고 완전히 잊어버렸네"
+	},
+	{
+		"created_at": "Sun May 17 15:29:41 +0000 2020",
+		"id": 1262026173699068000,
+		"id_str": "1262042612619345920",
+		"full_text": "오늘 &lt;SBS스페셜&gt;은 5.18 광주 민주화항쟁 40주년 특집 '그녀의 이름은'이다. 광주 민주화항쟁에서 마지막까지 도청을 지켰던, 광주를 사수했던, 그렇지만 이름과 존재를 그 동안 인정받지 못했던 항쟁의 여성 희생자들의 이야기. 시작되자마자 자리를 뜨기 어렵다. https://t.co/ciUH3jj6B5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1262026162751996000,
+					"id_str": "1262026162751995904",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EYOeG8gVAAAGPVL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYOeG8gVAAAGPVL.jpg",
+					"url": "https://t.co/ciUH3jj6B5",
+					"display_url": "pic.twitter.com/ciUH3jj6B5",
+					"expanded_url": "https://twitter.com/berrycake94/status/1262026173699067904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262026162751996000,
+					"id_str": "1262026162751995904",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EYOeG8gVAAAGPVL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYOeG8gVAAAGPVL.jpg",
+					"url": "https://t.co/ciUH3jj6B5",
+					"display_url": "pic.twitter.com/ciUH3jj6B5",
+					"expanded_url": "https://twitter.com/berrycake94/status/1262026173699067904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1262026162697465900,
+					"id_str": "1262026162697465856",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EYOeG8TU8AAHj1k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYOeG8TU8AAHj1k.jpg",
+					"url": "https://t.co/ciUH3jj6B5",
+					"display_url": "pic.twitter.com/ciUH3jj6B5",
+					"expanded_url": "https://twitter.com/berrycake94/status/1262026173699067904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 478,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1262026162705805300,
+					"id_str": "1262026162705805313",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EYOeG8VUMAE9t9F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYOeG8VUMAE9t9F.jpg",
+					"url": "https://t.co/ciUH3jj6B5",
+					"display_url": "pic.twitter.com/ciUH3jj6B5",
+					"expanded_url": "https://twitter.com/berrycake94/status/1262026173699067904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 758,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 758,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1262026162705842200,
+					"id_str": "1262026162705842178",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EYOeG8VUwAIEYTF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYOeG8VUwAIEYTF.jpg",
+					"url": "https://t.co/ciUH3jj6B5",
+					"display_url": "pic.twitter.com/ciUH3jj6B5",
+					"expanded_url": "https://twitter.com/berrycake94/status/1262026173699067904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 762,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 762,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1106172067,
+			"id_str": "1106172067",
+			"name": "愛月.🏳️‍🌈",
+			"screen_name": "berrycake94",
+			"location": "",
+			"description": "깨어있는 시간에는 읽거나, 쓰거나, 마시거나. #nthroom_stop",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11009,
+			"friends_count": 144,
+			"listed_count": 66,
+			"created_at": "Sun Jan 20 12:45:59 +0000 2013",
+			"favourites_count": 69083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132545001668222976/uFBd6Wco_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132545001668222976/uFBd6Wco_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1106172067/1575808952",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3725,
+		"favorite_count": 1283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 &lt;SBS스페셜&gt;은 5.18 광주 민주화항쟁 40주년 특집 '그녀의 이름은'이다. 광주 민주화항쟁에서 마지막까지 도청을 지켰던, 광주를 사수했던, 그렇지만 이름과 존재를 그 동안 인정받지 못했던 항쟁의 여성 희생자들의 이야기. 시작되자마자 자리를 뜨기 어렵다. https://t.co/ciUH3jj6B5"
+	},
+	{
+		"created_at": "Sun May 17 15:12:18 +0000 2020",
+		"id": 1262015866591252500,
+		"id_str": "1262038241269542912",
+		"full_text": "내일 MBC 에서 다큐 김군 하네요. 저녁 9시요. 못 보신 분께 꼭 추천합니다. 저도 다시 보고 싶네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116071583,
+			"id_str": "116071583",
+			"name": "솔빛시인",
+			"screen_name": "Suyeong82",
+			"location": "Seoul, Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1181,
+			"friends_count": 1396,
+			"listed_count": 30,
+			"created_at": "Sun Feb 21 02:13:05 +0000 2010",
+			"favourites_count": 2758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050505",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/423785634793148416/Eb-pUGbD_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/423785634793148416/Eb-pUGbD_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116071583/1380659894",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "내일 MBC 에서 다큐 김군 하네요. 저녁 9시요. 못 보신 분께 꼭 추천합니다. 저도 다시 보고 싶네요."
+	},
+	{
 		"created_at": "Sat May 16 12:58:36 +0000 2020",
 		"id": 1261642206164562000,
 		"id_str": "1261642206164561921",
