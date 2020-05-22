@@ -1,6 +1,833 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 23:36:36 +0000 2020",
+		"id": 1263502623761592300,
+		"id_str": "1263614703827222531",
+		"full_text": "노무현 대한민국 제16대 대통령 봉하에서 https://t.co/KkjBlGxdId",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263502579121574000,
+					"id_str": "1263502579121573888",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/EYjc5sFU0AANFuT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYjc5sFU0AANFuT.jpg",
+					"url": "https://t.co/KkjBlGxdId",
+					"display_url": "pic.twitter.com/KkjBlGxdId",
+					"expanded_url": "https://twitter.com/DDOOBUNG/status/1263502623761592320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 539,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 952,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1523,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263502579121574000,
+					"id_str": "1263502579121573888",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/EYjc5sFU0AANFuT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYjc5sFU0AANFuT.jpg",
+					"url": "https://t.co/KkjBlGxdId",
+					"display_url": "pic.twitter.com/KkjBlGxdId",
+					"expanded_url": "https://twitter.com/DDOOBUNG/status/1263502623761592320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 539,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 952,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1523,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1263502590723018800,
+					"id_str": "1263502590723018754",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/EYjc6XTU0AIaIyv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYjc6XTU0AIaIyv.jpg",
+					"url": "https://t.co/KkjBlGxdId",
+					"display_url": "pic.twitter.com/KkjBlGxdId",
+					"expanded_url": "https://twitter.com/DDOOBUNG/status/1263502623761592320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1263502601250734000,
+					"id_str": "1263502601250734080",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/EYjc6-hVAAAd9Rr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYjc6-hVAAAd9Rr.jpg",
+					"url": "https://t.co/KkjBlGxdId",
+					"display_url": "pic.twitter.com/KkjBlGxdId",
+					"expanded_url": "https://twitter.com/DDOOBUNG/status/1263502623761592320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 322,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 970,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 568,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1263502614773133300,
+					"id_str": "1263502614773133312",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/EYjc7w5UcAARSTC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYjc7w5UcAARSTC.jpg",
+					"url": "https://t.co/KkjBlGxdId",
+					"display_url": "pic.twitter.com/KkjBlGxdId",
+					"expanded_url": "https://twitter.com/DDOOBUNG/status/1263502623761592320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 970,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 322,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 568,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 811614229958537200,
+			"id_str": "811614229958537220",
+			"name": "얼개",
+			"screen_name": "DDOOBUNG",
+			"location": "대한민국",
+			"description": "안녕하세요! 저는 만화같은 캐리커쳐를 연구합니다. 주로 정치와 시사, 그리고 연예를 다루고 싶습니다. 그림은 상업용도 이외 펌, 프사, 재게시, 개인굿즈 등으로 자유로이 사용하실 수 있습니다. 감수 iscreamt님과 공동 제작합니다. 감사합니다!🤗",
+			"url": "https://t.co/HqmErXudj7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HqmErXudj7",
+							"expanded_url": "https://www.instagram.com/ddoobung",
+							"display_url": "instagram.com/ddoobung",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5854,
+			"friends_count": 4542,
+			"listed_count": 22,
+			"created_at": "Wed Dec 21 16:48:06 +0000 2016",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/938796800516820993/OX9F8c4g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/938796800516820993/OX9F8c4g_normal.jpg",
+			"profile_link_color": "1245AB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 332,
+		"favorite_count": 466,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노무현 대한민국 제16대 대통령 봉하에서 https://t.co/KkjBlGxdId"
+	},
+	{
+		"created_at": "Thu May 21 09:23:47 +0000 2020",
+		"id": 1263392688256082000,
+		"id_str": "1263400083535454209",
+		"full_text": "정대협은 기림비에서 박복순 할머니 이름도 뺏다. https://t.co/hrU05kU0Dc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263391009464934400,
+					"id_str": "1263391009464934401",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EYh3beuUYAE3CcT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYh3beuUYAE3CcT.jpg",
+					"url": "https://t.co/hrU05kU0Dc",
+					"display_url": "pic.twitter.com/hrU05kU0Dc",
+					"expanded_url": "https://twitter.com/yEkax8UWM00Stp8/status/1263392688256081921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 797,
+							"h": 449,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 797,
+							"h": 449,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263391009464934400,
+					"id_str": "1263391009464934401",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EYh3beuUYAE3CcT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYh3beuUYAE3CcT.jpg",
+					"url": "https://t.co/hrU05kU0Dc",
+					"display_url": "pic.twitter.com/hrU05kU0Dc",
+					"expanded_url": "https://twitter.com/yEkax8UWM00Stp8/status/1263392688256081921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 797,
+							"h": 449,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 797,
+							"h": 449,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1263391020961554400,
+					"id_str": "1263391020961554433",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EYh3cJjU4AEy5m1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYh3cJjU4AEy5m1.jpg",
+					"url": "https://t.co/hrU05kU0Dc",
+					"display_url": "pic.twitter.com/hrU05kU0Dc",
+					"expanded_url": "https://twitter.com/yEkax8UWM00Stp8/status/1263392688256081921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 797,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 797,
+							"h": 449,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 396686913,
+			"id_str": "396686913",
+			"name": "청매",
+			"screen_name": "yEkax8UWM00Stp8",
+			"location": "",
+			"description": "...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37810,
+			"friends_count": 23576,
+			"listed_count": 103,
+			"created_at": "Sun Oct 23 16:43:24 +0000 2011",
+			"favourites_count": 1141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256444376747667457/xNyI6i1I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256444376747667457/xNyI6i1I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/396686913/1588394752",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 452,
+		"favorite_count": 182,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정대협은 기림비에서 박복순 할머니 이름도 뺏다. https://t.co/hrU05kU0Dc"
+	},
+	{
+		"created_at": "Thu May 21 08:12:09 +0000 2020",
+		"id": 1263382057985532000,
+		"id_str": "1263382057985531904",
+		"full_text": "돌란 단편 5년전에 봤다는걸 같은 장소에 있었던 텬배님이 알려줬뜸 뮤비였던 칼리지 보이만 기억나고 여름의 겨울은 내용 하나도 기억 안남 이번 돌란전에서 못본 건 이거뿐이야 https://t.co/XEZ78csXRX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263382053250187300,
+					"id_str": "1263382053250187269",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EYhvSKOUwAUruLi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYhvSKOUwAUruLi.jpg",
+					"url": "https://t.co/XEZ78csXRX",
+					"display_url": "pic.twitter.com/XEZ78csXRX",
+					"expanded_url": "https://twitter.com/sekaist/status/1263382057985531904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263382053250187300,
+					"id_str": "1263382053250187269",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EYhvSKOUwAUruLi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYhvSKOUwAUruLi.jpg",
+					"url": "https://t.co/XEZ78csXRX",
+					"display_url": "pic.twitter.com/XEZ78csXRX",
+					"expanded_url": "https://twitter.com/sekaist/status/1263382057985531904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 360,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 1075,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "돌란 단편 5년전에 봤다는걸 같은 장소에 있었던 텬배님이 알려줬뜸 뮤비였던 칼리지 보이만 기억나고 여름의 겨울은 내용 하나도 기억 안남 이번 돌란전에서 못본 건 이거뿐이야 https://t.co/XEZ78csXRX"
+	},
+	{
+		"created_at": "Thu May 21 08:01:57 +0000 2020",
+		"id": 1263379491746771000,
+		"id_str": "1263379491746770944",
+		"full_text": "아니 마티아스와 막심 정성일쌤 지비 벌써 매진이면 어캄요 이제 알고 들어갔는데",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 1075,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1920,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아니 마티아스와 막심 정성일쌤 지비 벌써 매진이면 어캄요 이제 알고 들어갔는데"
+	},
+	{
+		"created_at": "Thu May 21 05:32:56 +0000 2020",
+		"id": 1263282048837410800,
+		"id_str": "1263341989690392578",
+		"full_text": "이동은 감독의 단편 영화 &lt;포스트 잇!&gt;이 이번 전주국제영화제를 통해 온라인 상영됩니다. 저도 그래픽 작업으로 소소하게 참여했으니 많이 봐주세요. https://t.co/GsgKmaU3Wb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GsgKmaU3Wb",
+					"expanded_url": "http://jiff.or.kr/db/movieView.asp?idx=4356&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=&reUrl=%2Fdb%2FsectionList%2Easp%3FsType%3D%26sText%3D%26EP%5FNUM%3D%26sectionList%3D%2523422%2523%26FS%5FIDX%3D213%26SS%5FIDX%3D422%26Page%3D2",
+					"display_url": "jiff.or.kr/db/movieView.a…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 314367831,
+			"id_str": "314367831",
+			"name": "정이용",
+			"screen_name": "2yongcomix",
+			"location": "2yong.jeong@gmail.com",
+			"description": "『환절기(In Between Seasons』 (2013) 『당신의 부탁(My Other Mother)』 (2015) 『니나내나(You and Me Both)』 (2016) 『요요(Yoyo)』 (2019) 용건은 이메일로. 잡담 계정 ☛ @2yong_jeong",
+			"url": "https://t.co/yv0vmQjIxw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yv0vmQjIxw",
+							"expanded_url": "http://grimsosul.wordpress.com",
+							"display_url": "grimsosul.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 647,
+			"friends_count": 1,
+			"listed_count": 4,
+			"created_at": "Fri Jun 10 04:17:19 +0000 2011",
+			"favourites_count": 4792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "948ABB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/990772461519040514/CXWKtNH8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/990772461519040514/CXWKtNH8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/314367831/1551061594",
+			"profile_link_color": "595085",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이동은 감독의 단편 영화 &lt;포스트 잇!&gt;이 이번 전주국제영화제를 통해 온라인 상영됩니다. 저도 그래픽 작업으로 소소하게 참여했으니 많이 봐주세요. https://t.co/GsgKmaU3Wb"
+	},
+	{
 		"created_at": "Thu May 21 00:09:32 +0000 2020",
 		"id": 1263260600253026300,
 		"id_str": "1263260600253026304",
@@ -207,7 +1034,7 @@ Grailbird.data.tweets_2020_05 =
 		"user": {
 			"id": 805660444815859700,
 			"id_str": "805660444815859712",
-			"name": "Luna🧚‍♂️🌕",
+			"name": "Luna🧚♂️🌕",
 			"screen_name": "lalapesto",
 			"location": "",
 			"description": "",
