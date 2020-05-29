@@ -1,6 +1,604 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 28 11:08:07 +0000 2020",
+		"id": 1265963053838786600,
+		"id_str": "1265963053838786562",
+		"full_text": "펭수 마카롱 열심히 먹었는데 씰북에 띠부띠부 꽂아보니 얼마 못모았네요 https://t.co/wNVKoIf6fy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265963047597691000,
+					"id_str": "1265963047597690880",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/EZGarzbU0AAgmVy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZGarzbU0AAgmVy.jpg",
+					"url": "https://t.co/wNVKoIf6fy",
+					"display_url": "pic.twitter.com/wNVKoIf6fy",
+					"expanded_url": "https://twitter.com/sekaist/status/1265963053838786562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1927,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 701,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265963047597691000,
+					"id_str": "1265963047597690880",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/EZGarzbU0AAgmVy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZGarzbU0AAgmVy.jpg",
+					"url": "https://t.co/wNVKoIf6fy",
+					"display_url": "pic.twitter.com/wNVKoIf6fy",
+					"expanded_url": "https://twitter.com/sekaist/status/1265963053838786562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1927,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 701,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 397,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 597,
+			"friends_count": 1074,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "펭수 마카롱 열심히 먹었는데 씰북에 띠부띠부 꽂아보니 얼마 못모았네요 https://t.co/wNVKoIf6fy"
+	},
+	{
+		"created_at": "Thu May 28 03:10:35 +0000 2020",
+		"id": 1265842765591527400,
+		"id_str": "1265842881241047041",
+		"full_text": "[제14회 서울재즈페스티벌 2020 3차 공지]\n.\n기존 라인업에서 취소/변경된 아티스트와 3차 라인업을 알려드립니다. 서재페 공지는 향후 지속적으로 업데이트 됩니다.\n감사합니다.\n.\n자세한 사항은 아래의 링크에서 확인해주십시오.\nhttps://t.co/mzJDtcgvrR https://t.co/AxG1lss6pB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mzJDtcgvrR",
+					"expanded_url": "https://bit.ly/2X5ZG7A",
+					"display_url": "bit.ly/2X5ZG7A",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1265839366250741800,
+					"id_str": "1265839366250741766",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EZEqMmgUwAY62B0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZEqMmgUwAY62B0.jpg",
+					"url": "https://t.co/AxG1lss6pB",
+					"display_url": "pic.twitter.com/AxG1lss6pB",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1265842765591527424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265839366250741800,
+					"id_str": "1265839366250741766",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EZEqMmgUwAY62B0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZEqMmgUwAY62B0.jpg",
+					"url": "https://t.co/AxG1lss6pB",
+					"display_url": "pic.twitter.com/AxG1lss6pB",
+					"expanded_url": "https://twitter.com/SeoulJazzFest/status/1265842765591527424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2324658823,
+			"id_str": "2324658823",
+			"name": "Seoul Jazz Festival (서울재즈페스티벌)",
+			"screen_name": "SeoulJazzFest",
+			"location": "Seoul, Republic of Korea",
+			"description": "The Official Seoul Jazz Festival Twitter page.",
+			"url": "http://t.co/XfwfSPVFAn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XfwfSPVFAn",
+							"expanded_url": "http://seouljazz.co.kr",
+							"display_url": "seouljazz.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3835,
+			"friends_count": 40,
+			"listed_count": 31,
+			"created_at": "Mon Feb 03 02:15:13 +0000 2014",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193725364075298816/mu5oH9xi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2324658823/1590634831",
+			"profile_link_color": "4E5E99",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 962,
+		"favorite_count": 846,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[제14회 서울재즈페스티벌 2020 3차 공지]\n.\n기존 라인업에서 취소/변경된 아티스트와 3차 라인업을 알려드립니다. 서재페 공지는 향후 지속적으로 업데이트 됩니다.\n감사합니다.\n.\n자세한 사항은 아래의 링크에서 확인해주십시오.\nhttps://t.co/mzJDtcgvrR https://t.co/AxG1lss6pB"
+	},
+	{
+		"created_at": "Thu May 28 03:02:10 +0000 2020",
+		"id": 1265840761611800600,
+		"id_str": "1265840761611800577",
+		"full_text": "MGMT 서재페 취소됐네 흑..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 597,
+			"friends_count": 1074,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "MGMT 서재페 취소됐네 흑.."
+	},
+	{
+		"created_at": "Thu May 28 01:09:31 +0000 2020",
+		"id": 1265810234880057300,
+		"id_str": "1265812411870670848",
+		"full_text": "심혜정 감독의 브졸국제아시아영화제 2관왕 수상작 &lt;욕창&gt;, 2020.07 개봉 확정!\n\n김종구, 강애심, 전국향, 김도영,  김재록, 권미아, 이재인, 김주아, 유용우, 강말금 출연.\n\nhttps://t.co/g3UL124J8C https://t.co/LFKoE3NOaA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g3UL124J8C",
+					"expanded_url": "https://m.blog.naver.com/cinemaplus/221981128182",
+					"display_url": "m.blog.naver.com/cinemaplus/221…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1265810222565580800,
+					"id_str": "1265810222565580801",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EZEPsN0UYAEKRdF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZEPsN0UYAEKRdF.jpg",
+					"url": "https://t.co/LFKoE3NOaA",
+					"display_url": "pic.twitter.com/LFKoE3NOaA",
+					"expanded_url": "https://twitter.com/cinemaplus39/status/1265810234880057345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1143,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1143,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265810222565580800,
+					"id_str": "1265810222565580801",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EZEPsN0UYAEKRdF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZEPsN0UYAEKRdF.jpg",
+					"url": "https://t.co/LFKoE3NOaA",
+					"display_url": "pic.twitter.com/LFKoE3NOaA",
+					"expanded_url": "https://twitter.com/cinemaplus39/status/1265810234880057345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1143,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1143,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1526410387,
+			"id_str": "1526410387",
+			"name": "박호선 시네마플러스",
+			"screen_name": "cinemaplus39",
+			"location": "서울특별시",
+			"description": "오페라 다큐멘터리 영화 '오페라도 즐거워(The Fun of K Opera)' 촬영 중(연출), 영화평론가, 서울특별시교육청 독서토론인문소양교육 자문위원(전)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2218,
+			"friends_count": 65,
+			"listed_count": 19,
+			"created_at": "Tue Jun 18 01:31:54 +0000 2013",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061651498268938240/5gpB_Slh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061651498268938240/5gpB_Slh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1526410387/1541919630",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "심혜정 감독의 브졸국제아시아영화제 2관왕 수상작 &lt;욕창&gt;, 2020.07 개봉 확정!\n\n김종구, 강애심, 전국향, 김도영,  김재록, 권미아, 이재인, 김주아, 유용우, 강말금 출연.\n\nhttps://t.co/g3UL124J8C https://t.co/LFKoE3NOaA"
+	},
+	{
 		"created_at": "Wed May 27 15:08:49 +0000 2020",
 		"id": 1265661242514919400,
 		"id_str": "1265661242514919425",
