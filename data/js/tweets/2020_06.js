@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 02 10:17:52 +0000 2020",
+		"id": 1267742509603512300,
+		"id_str": "1267762349408043008",
+		"full_text": "#프랑스여자 #릴레이gv 6월 4일 개봉  #김희정감독 #김호정 #김지영 #김영민 #류아벨 #백수장 #박현선 #송영규 #전운종 #이선규 #김예은 \n#AlexandreGuansé https://t.co/yDTEQLAdsi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프랑스여자",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "릴레이gv",
+					"indices": [
+						7,
+						13
+					]
+				},
+				{
+					"text": "김희정감독",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "김호정",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "김지영",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "김영민",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "류아벨",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "백수장",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "박현선",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "송영규",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "전운종",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "이선규",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "김예은",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "AlexandreGuansé",
+					"indices": [
+						82,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1267742501760196600,
+					"id_str": "1267742501760196608",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EZftFqwU4AAArT7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZftFqwU4AAArT7.jpg",
+					"url": "https://t.co/yDTEQLAdsi",
+					"display_url": "pic.twitter.com/yDTEQLAdsi",
+					"expanded_url": "https://twitter.com/sendirector/status/1267742509603512321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 888,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 888,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 574,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1267742501760196600,
+					"id_str": "1267742501760196608",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EZftFqwU4AAArT7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZftFqwU4AAArT7.jpg",
+					"url": "https://t.co/yDTEQLAdsi",
+					"display_url": "pic.twitter.com/yDTEQLAdsi",
+					"expanded_url": "https://twitter.com/sendirector/status/1267742509603512321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 888,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 888,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 574,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 736773566,
+			"id_str": "736773566",
+			"name": "김희정 감독 Hee-Jung Kim",
+			"screen_name": "sendirector",
+			"location": "seoul,Korea",
+			"description": "2007 '열세살, 수아' 2012 '청포도사탕' 2016 '설행_눈길을 걷다' 2019 '프랑스여자' 1년씩 빨라지고 있다 흐흐",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1355,
+			"friends_count": 114,
+			"listed_count": 18,
+			"created_at": "Sat Aug 04 13:52:27 +0000 2012",
+			"favourites_count": 1178,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242723268345257990/lbbj23xT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242723268345257990/lbbj23xT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/736773566/1589185746",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01186d243a781710",
+			"url": "https://api.twitter.com/1.1/geo/id/01186d243a781710.json",
+			"place_type": "city",
+			"name": "광진구",
+			"full_name": "대한민국 광진구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.053354106455,
+							37.5190760300333
+						],
+						[
+							127.117756646549,
+							37.5190760300333
+						],
+						[
+							127.117756646549,
+							37.5675398905638
+						],
+						[
+							127.053354106455,
+							37.5675398905638
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "#프랑스여자 #릴레이gv 6월 4일 개봉  #김희정감독 #김호정 #김지영 #김영민 #류아벨 #백수장 #박현선 #송영규 #전운종 #이선규 #김예은 \n#AlexandreGuansé https://t.co/yDTEQLAdsi"
+	},
+	{
 		"created_at": "Mon Jun 01 14:03:41 +0000 2020",
 		"id": 1267456790490275800,
 		"id_str": "1267456790490275840",
