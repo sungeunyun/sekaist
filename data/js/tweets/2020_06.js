@@ -1,6 +1,636 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 14:37:34 +0000 2020",
+		"id": 1269639644833964000,
+		"id_str": "1269639644833964032",
+		"full_text": "집에 돌아와서 생각해보니 영화 장면보다 잊고 있던 나의 과거 속 어떤 장면들이 간간이 떠오르는데 대부분 후회인 것 같다. 간만에 여운 길고 생각할 것도 많은 영화라 완전 추천함. 한번 더 보면 또 새로운 기억들이 떠오를 것 같다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1269639610931441700,
+		"in_reply_to_status_id_str": "1269639610931441665",
+		"in_reply_to_user_id": 133336572,
+		"in_reply_to_user_id_str": "133336572",
+		"in_reply_to_screen_name": "sekaist",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 1077,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "집에 돌아와서 생각해보니 영화 장면보다 잊고 있던 나의 과거 속 어떤 장면들이 간간이 떠오르는데 대부분 후회인 것 같다. 간만에 여운 길고 생각할 것도 많은 영화라 완전 추천함. 한번 더 보면 또 새로운 기억들이 떠오를 것 같다."
+	},
+	{
+		"created_at": "Sun Jun 07 14:37:26 +0000 2020",
+		"id": 1269639610931441700,
+		"id_str": "1269639610931441665",
+		"full_text": "영화 프랑스여자 봤다. 꿈인지 현실인지 과거와 현재를 오고가는 방식이 너무 흥미로워서 처음부터 끝까지 몰입해서 봤다. 김호정 배우님 연기가 너무 좋아서 지금도 표정과 눈빛들이 떠오른다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 1077,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "영화 프랑스여자 봤다. 꿈인지 현실인지 과거와 현재를 오고가는 방식이 너무 흥미로워서 처음부터 끝까지 몰입해서 봤다. 김호정 배우님 연기가 너무 좋아서 지금도 표정과 눈빛들이 떠오른다."
+	},
+	{
+		"created_at": "Sun Jun 07 08:22:45 +0000 2020",
+		"id": 1269442278717747200,
+		"id_str": "1269545317399060480",
+		"full_text": "왜이렇게 맛있는 연어회집을 지금 가르쳐 주셨나요 😭😭종로3가 광안리 와 진짜 연어좋아하는 사람 웁니다 육사시미도 맛있어 저 멸치찌개도 그냥 남해에서 먹던 그맛입니다 하 여기 넘 좋아졌다 우리가 조아하는 효자동목고기 사장님도 회식오는집(tmi https://t.co/TuXsDrS7sN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269442059208818700,
+					"id_str": "1269442059208818688",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ3207oVAAA7Dkn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ3207oVAAA7Dkn.jpg",
+					"url": "https://t.co/TuXsDrS7sN",
+					"display_url": "pic.twitter.com/TuXsDrS7sN",
+					"expanded_url": "https://twitter.com/iamkimgosu/status/1269442278717747200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269442059208818700,
+					"id_str": "1269442059208818688",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ3207oVAAA7Dkn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ3207oVAAA7Dkn.jpg",
+					"url": "https://t.co/TuXsDrS7sN",
+					"display_url": "pic.twitter.com/TuXsDrS7sN",
+					"expanded_url": "https://twitter.com/iamkimgosu/status/1269442278717747200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269442059204653000,
+					"id_str": "1269442059204653056",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ3207nVcAAJGq_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ3207nVcAAJGq_.jpg",
+					"url": "https://t.co/TuXsDrS7sN",
+					"display_url": "pic.twitter.com/TuXsDrS7sN",
+					"expanded_url": "https://twitter.com/iamkimgosu/status/1269442278717747200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269442059212996600,
+					"id_str": "1269442059212996608",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ3207pUwAAut3v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ3207pUwAAut3v.jpg",
+					"url": "https://t.co/TuXsDrS7sN",
+					"display_url": "pic.twitter.com/TuXsDrS7sN",
+					"expanded_url": "https://twitter.com/iamkimgosu/status/1269442278717747200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269442059208818700,
+					"id_str": "1269442059208818689",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ3207oVAAEzqTW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ3207oVAAEzqTW.jpg",
+					"url": "https://t.co/TuXsDrS7sN",
+					"display_url": "pic.twitter.com/TuXsDrS7sN",
+					"expanded_url": "https://twitter.com/iamkimgosu/status/1269442278717747200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1144,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1953,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 987925438356897800,
+			"id_str": "987925438356897792",
+			"name": "김고수",
+			"screen_name": "iamkimgosu",
+			"location": "",
+			"description": "조용히 지나가세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5649,
+			"friends_count": 204,
+			"listed_count": 12,
+			"created_at": "Sun Apr 22 05:25:54 +0000 2018",
+			"favourites_count": 5523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264208953031798785/Mcm2rF55_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264208953031798785/Mcm2rF55_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/987925438356897792/1591536733",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2171,
+		"favorite_count": 1997,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "왜이렇게 맛있는 연어회집을 지금 가르쳐 주셨나요 😭😭종로3가 광안리 와 진짜 연어좋아하는 사람 웁니다 육사시미도 맛있어 저 멸치찌개도 그냥 남해에서 먹던 그맛입니다 하 여기 넘 좋아졌다 우리가 조아하는 효자동목고기 사장님도 회식오는집(tmi https://t.co/TuXsDrS7sN"
+	},
+	{
+		"created_at": "Sun Jun 07 04:16:21 +0000 2020",
+		"id": 1269483309110710300,
+		"id_str": "1269483309110710274",
+		"full_text": "펭수 폰에 달린 키링 왜케 귀엽지 https://t.co/9TeZPJGy7r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269483299077886000,
+					"id_str": "1269483299077885957",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ4cVaHUEAUEZwH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ4cVaHUEAUEZwH.jpg",
+					"url": "https://t.co/9TeZPJGy7r",
+					"display_url": "pic.twitter.com/9TeZPJGy7r",
+					"expanded_url": "https://twitter.com/sekaist/status/1269483309110710274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1987,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269483299077886000,
+					"id_str": "1269483299077885957",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ4cVaHUEAUEZwH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ4cVaHUEAUEZwH.jpg",
+					"url": "https://t.co/9TeZPJGy7r",
+					"display_url": "pic.twitter.com/9TeZPJGy7r",
+					"expanded_url": "https://twitter.com/sekaist/status/1269483309110710274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1987,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1269483299086327800,
+					"id_str": "1269483299086327808",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ4cVaJU4AA9jhS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ4cVaJU4AA9jhS.jpg",
+					"url": "https://t.co/9TeZPJGy7r",
+					"display_url": "pic.twitter.com/9TeZPJGy7r",
+					"expanded_url": "https://twitter.com/sekaist/status/1269483309110710274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 638,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 1149,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1149,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 1077,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "펭수 폰에 달린 키링 왜케 귀엽지 https://t.co/9TeZPJGy7r"
+	},
+	{
 		"created_at": "Sat Jun 06 11:21:16 +0000 2020",
 		"id": 1269226755216171000,
 		"id_str": "1269227856640409600",
