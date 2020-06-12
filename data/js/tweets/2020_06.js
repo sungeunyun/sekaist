@@ -1,6 +1,126 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 09:22:57 +0000 2020",
+		"id": 1271005280755540000,
+		"id_str": "1271010017890562048",
+		"full_text": "#헐왓챠에 관심 가져주셔서 감사해요,\n이번 주말까지 쓰레드에 #헐왓챠에 00000 남겨주시면\n제일 많이 마음 받은 사람에게 \n티팍(대표)이 직접 자필로 답변을 남겨드릴게요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헐왓챠에",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "헐왓챠에",
+					"indices": [
+						34,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 350721913,
+			"id_str": "350721913",
+			"name": "watcha_app",
+			"screen_name": "watcha_app",
+			"location": "대한민국 서울",
+			"description": "왓챠, 왓챠플레이 (https://t.co/55MkoTdRlL) 공식 트위터입니다. 영화 드라마 애니 다큐 무제한 감상! 왓챠플레이 지금 무료 감상 시작하세요! 사용자 문의▶ cs@watchaplay.net (고객센터 : 평일 10시 ~ 19시) #헐왓챠에",
+			"url": "https://t.co/ZdcjpSfVrn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdcjpSfVrn",
+							"expanded_url": "https://wcha.it/2XgJ5vO",
+							"display_url": "wcha.it/2XgJ5vO",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/55MkoTdRlL",
+							"expanded_url": "http://wcha.it/2XgJ5vO",
+							"display_url": "wcha.it/2XgJ5vO",
+							"indices": [
+								11,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27858,
+			"friends_count": 12479,
+			"listed_count": 177,
+			"created_at": "Mon Aug 08 06:29:44 +0000 2011",
+			"favourites_count": 2473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245529549019836416/tgPY0qAR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245529549019836416/tgPY0qAR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/350721913/1589954485",
+			"profile_link_color": "F792A3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 835,
+		"favorite_count": 288,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#헐왓챠에 관심 가져주셔서 감사해요,\n이번 주말까지 쓰레드에 #헐왓챠에 00000 남겨주시면\n제일 많이 마음 받은 사람에게 \n티팍(대표)이 직접 자필로 답변을 남겨드릴게요"
+	},
+	{
 		"created_at": "Wed Jun 10 13:59:13 +0000 2020",
 		"id": 1270717157081378800,
 		"id_str": "1270717157081378822",
