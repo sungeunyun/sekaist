@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 12 14:58:22 +0000 2020",
+		"id": 1271436249048309800,
+		"id_str": "1271456816229048321",
+		"full_text": "오렌지필름 6월 &lt;#입천장까지도록와그작&gt; GV 현장입니다. :)\n\n감독님, 배우님들과 함께 갓 구운 빵처럼 따뜻하고 폭신한 관객과의 대화 시간이었습니다.\n\nGV가 끝나고 나니 입천장이 까질만큼 맛있는 잠봉 뵈르가 먹어보고 싶어지네요🥪🥪\n\n#ku시네마테크 #장편영화 #독립영화\n#오렌지필름 https://t.co/ivyOSbF7lR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "입천장까지도록와그작",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"text": "ku시네마테크",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "장편영화",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "독립영화",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "오렌지필름",
+					"indices": [
+						160,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271436144635310000,
+					"id_str": "1271436144635310080",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EaUMb-uUcAABUml.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaUMb-uUcAABUml.jpg",
+					"url": "https://t.co/ivyOSbF7lR",
+					"display_url": "pic.twitter.com/ivyOSbF7lR",
+					"expanded_url": "https://twitter.com/kucinema/status/1271436249048309762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271436144635310000,
+					"id_str": "1271436144635310080",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EaUMb-uUcAABUml.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaUMb-uUcAABUml.jpg",
+					"url": "https://t.co/ivyOSbF7lR",
+					"display_url": "pic.twitter.com/ivyOSbF7lR",
+					"expanded_url": "https://twitter.com/kucinema/status/1271436249048309762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1271436191024308200,
+					"id_str": "1271436191024308224",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EaUMeriUYAAY66I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaUMeriUYAAY66I.jpg",
+					"url": "https://t.co/ivyOSbF7lR",
+					"display_url": "pic.twitter.com/ivyOSbF7lR",
+					"expanded_url": "https://twitter.com/kucinema/status/1271436249048309762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1271436236641591300,
+					"id_str": "1271436236641591296",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EaUMhVeU4AAIcAR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaUMhVeU4AAIcAR.jpg",
+					"url": "https://t.co/ivyOSbF7lR",
+					"display_url": "pic.twitter.com/ivyOSbF7lR",
+					"expanded_url": "https://twitter.com/kucinema/status/1271436249048309762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 261111873,
+			"id_str": "261111873",
+			"name": "KU시네마테크",
+			"screen_name": "kucinema",
+			"location": "광진구 화양동 건국대학교 예술문화관 B108호",
+			"description": "예술영화전용관 KU시네마테크 트위터입니다:)",
+			"url": "https://t.co/4ynrhwZalo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4ynrhwZalo",
+							"expanded_url": "http://www.kucinema.net",
+							"display_url": "kucinema.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15452,
+			"friends_count": 3141,
+			"listed_count": 183,
+			"created_at": "Sat Mar 05 07:42:40 +0000 2011",
+			"favourites_count": 370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BCEBE2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626675621758832640/Y6EElVyM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626675621758832640/Y6EElVyM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/261111873/1424085664",
+			"profile_link_color": "E84B12",
+			"profile_sidebar_border_color": "EBC1EB",
+			"profile_sidebar_fill_color": "EBF5DC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "오렌지필름 6월 &lt;#입천장까지도록와그작&gt; GV 현장입니다. :)\n\n감독님, 배우님들과 함께 갓 구운 빵처럼 따뜻하고 폭신한 관객과의 대화 시간이었습니다.\n\nGV가 끝나고 나니 입천장이 까질만큼 맛있는 잠봉 뵈르가 먹어보고 싶어지네요🥪🥪\n\n#ku시네마테크 #장편영화 #독립영화\n#오렌지필름 https://t.co/ivyOSbF7lR"
+	},
+	{
+		"created_at": "Fri Jun 12 14:11:09 +0000 2020",
+		"id": 1271444935724552200,
+		"id_str": "1271444935724552192",
+		"full_text": "오늘 오필 약간 축제분위기👀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 1077,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오늘 오필 약간 축제분위기👀"
+	},
+	{
+		"created_at": "Fri Jun 12 14:08:04 +0000 2020",
+		"id": 1271444160000606200,
+		"id_str": "1271444160000606209",
+		"full_text": "@nomad_612 아뇨 전혀 모르는 분일겁니다 ㅋㅋㅋㅋㅋ https://t.co/qmpDflJkVC",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nomad_612",
+					"name": "K",
+					"id": 992295677798465500,
+					"id_str": "992295677798465536",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271444150164938800,
+					"id_str": "1271444150164938752",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/EaUTt9pUYAAwbWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaUTt9pUYAAwbWa.jpg",
+					"url": "https://t.co/qmpDflJkVC",
+					"display_url": "pic.twitter.com/qmpDflJkVC",
+					"expanded_url": "https://twitter.com/sekaist/status/1271444160000606209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 726,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1860,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 411,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271444150164938800,
+					"id_str": "1271444150164938752",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/EaUTt9pUYAAwbWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaUTt9pUYAAwbWa.jpg",
+					"url": "https://t.co/qmpDflJkVC",
+					"display_url": "pic.twitter.com/qmpDflJkVC",
+					"expanded_url": "https://twitter.com/sekaist/status/1271444160000606209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 726,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1860,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 411,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1271444031961096200,
+		"in_reply_to_status_id_str": "1271444031961096193",
+		"in_reply_to_user_id": 992295677798465500,
+		"in_reply_to_user_id_str": "992295677798465536",
+		"in_reply_to_screen_name": "nomad_612",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 1077,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@nomad_612 아뇨 전혀 모르는 분일겁니다 ㅋㅋㅋㅋㅋ https://t.co/qmpDflJkVC"
+	},
+	{
 		"created_at": "Thu Jun 11 09:22:57 +0000 2020",
 		"id": 1271005280755540000,
 		"id_str": "1271010017890562048",
