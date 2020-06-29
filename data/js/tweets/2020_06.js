@@ -1,6 +1,789 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 28 15:54:50 +0000 2020",
+		"id": 1277269235421438000,
+		"id_str": "1277269235421437959",
+		"full_text": "바이바이배드맨(Bye Bye Badman) - Swimming Pool | TUNE UP with MNET https://t.co/oZJFRlyhUW - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oZJFRlyhUW",
+					"expanded_url": "https://youtu.be/Gw-lvTl0JLI",
+					"display_url": "youtu.be/Gw-lvTl0JLI",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 597,
+			"friends_count": 1076,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "바이바이배드맨(Bye Bye Badman) - Swimming Pool | TUNE UP with MNET https://t.co/oZJFRlyhUW - @YouTube"
+	},
+	{
+		"created_at": "Sun Jun 28 14:27:09 +0000 2020",
+		"id": 1277247166264692700,
+		"id_str": "1277247166264692736",
+		"full_text": "헐 셔틀콕의 태용이가 아이돌이🤭",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 597,
+			"friends_count": 1076,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "헐 셔틀콕의 태용이가 아이돌이🤭"
+	},
+	{
+		"created_at": "Sun Jun 28 13:46:09 +0000 2020",
+		"id": 1277153232100266000,
+		"id_str": "1277236848415461376",
+		"full_text": "“누워서..손가락은 움직일 수 있잖아요....”\n느닷없이 등장한 벌새 모먼트에 나는 울어🥺🥺 빵 터진 영지쌤!!! 이따위에..라고 하신건갘ㅋ집에서 인터넷쇼핑 많이 했다구ㅎㅎ 좋은 커다란 쓰레기통 뭔지 궁금하니까 라방으로 자랑해조... \n#김새벽 #200627 @더숲아트시네마\n📸by @sekaist https://t.co/1VX81tEv8z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김새벽",
+					"indices": [
+						132,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sekaist",
+					"name": "캥거루",
+					"id": 133336572,
+					"id_str": "133336572",
+					"indices": [
+						158,
+						166
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1277152676808020000,
+					"id_str": "1277152676808019969",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1277152676808019969/pu/img/e9O4880ET2qdVLfl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1277152676808019969/pu/img/e9O4880ET2qdVLfl.jpg",
+					"url": "https://t.co/1VX81tEv8z",
+					"display_url": "pic.twitter.com/1VX81tEv8z",
+					"expanded_url": "https://twitter.com/naon_i/status/1277153232100265985/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277152676808020000,
+					"id_str": "1277152676808019969",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1277152676808019969/pu/img/e9O4880ET2qdVLfl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1277152676808019969/pu/img/e9O4880ET2qdVLfl.jpg",
+					"url": "https://t.co/1VX81tEv8z",
+					"display_url": "pic.twitter.com/1VX81tEv8z",
+					"expanded_url": "https://twitter.com/naon_i/status/1277153232100265985/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 72171,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1277152676808019969/pu/vid/1280x720/8EtnwYeMp3j58Swx.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1277152676808019969/pu/vid/640x360/K1T6EqlDwxnA5QzG.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1277152676808019969/pu/vid/480x270/5_dAyPPYzV_W7-Sv.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1277152676808019969/pu/pl/tZYf2I4bRXX7fslL.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 230729885,
+			"id_str": "230729885",
+			"name": "aeiou",
+			"screen_name": "naon_i",
+			"location": "",
+			"description": "'세상은 비싸지만 좋아하는 것들은 모두 사라지지 않게'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120,
+			"friends_count": 265,
+			"listed_count": 2,
+			"created_at": "Sun Dec 26 14:03:37 +0000 2010",
+			"favourites_count": 6005,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2305030073/alf3jxo5cvm168mveaq0_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2305030073/alf3jxo5cvm168mveaq0_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/230729885/1586875616",
+			"profile_link_color": "2C4FCF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "“누워서..손가락은 움직일 수 있잖아요....”\n느닷없이 등장한 벌새 모먼트에 나는 울어🥺🥺 빵 터진 영지쌤!!! 이따위에..라고 하신건갘ㅋ집에서 인터넷쇼핑 많이 했다구ㅎㅎ 좋은 커다란 쓰레기통 뭔지 궁금하니까 라방으로 자랑해조... \n#김새벽 #200627 @더숲아트시네마\n📸by @sekaist https://t.co/1VX81tEv8z"
+	},
+	{
+		"created_at": "Sun Jun 28 07:14:36 +0000 2020",
+		"id": 1277138219092439000,
+		"id_str": "1277138311656534022",
+		"full_text": "gv중 난데없이 울린 알람소리, 출처는 바로 새벽 배우님! ‘설마 내 거겠어?’하며 배낭 슬쩍 보셨는데 맞았음🤣(당황하는 것도 귀여우워!!!!!) \n언니 근데 일곱시반에 뭐해요...???☺️ 그리구....그거 알아요...? 저랑 알람소리 같은 거....?☺️☺️☺️\n#김새벽 #200627 @더숲아트시네마 \n📸 by @sekaist https://t.co/pHh5JYVnSL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김새벽",
+					"indices": [
+						149,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sekaist",
+					"name": "캥거루",
+					"id": 133336572,
+					"id_str": "133336572",
+					"indices": [
+						177,
+						185
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1277137684561981400,
+					"id_str": "1277137684561981442",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1277137684561981442/pu/img/Ve6_NMSZ-6hAnAPZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1277137684561981442/pu/img/Ve6_NMSZ-6hAnAPZ.jpg",
+					"url": "https://t.co/pHh5JYVnSL",
+					"display_url": "pic.twitter.com/pHh5JYVnSL",
+					"expanded_url": "https://twitter.com/naon_i/status/1277138219092439041/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277137684561981400,
+					"id_str": "1277137684561981442",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1277137684561981442/pu/img/Ve6_NMSZ-6hAnAPZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1277137684561981442/pu/img/Ve6_NMSZ-6hAnAPZ.jpg",
+					"url": "https://t.co/pHh5JYVnSL",
+					"display_url": "pic.twitter.com/pHh5JYVnSL",
+					"expanded_url": "https://twitter.com/naon_i/status/1277138219092439041/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 49323,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1277137684561981442/pu/vid/480x270/VZ3AOAnTXP6W92xO.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1277137684561981442/pu/pl/-tgayVVr-p4ErlAf.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1277137684561981442/pu/vid/1280x720/2hKBxpq_H_Zy8x73.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1277137684561981442/pu/vid/640x360/mrsK14RB0rTvjIlQ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 230729885,
+			"id_str": "230729885",
+			"name": "aeiou",
+			"screen_name": "naon_i",
+			"location": "",
+			"description": "'세상은 비싸지만 좋아하는 것들은 모두 사라지지 않게'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120,
+			"friends_count": 265,
+			"listed_count": 2,
+			"created_at": "Sun Dec 26 14:03:37 +0000 2010",
+			"favourites_count": 6005,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2305030073/alf3jxo5cvm168mveaq0_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2305030073/alf3jxo5cvm168mveaq0_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/230729885/1586875616",
+			"profile_link_color": "2C4FCF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "gv중 난데없이 울린 알람소리, 출처는 바로 새벽 배우님! ‘설마 내 거겠어?’하며 배낭 슬쩍 보셨는데 맞았음🤣(당황하는 것도 귀여우워!!!!!) \n언니 근데 일곱시반에 뭐해요...???☺️ 그리구....그거 알아요...? 저랑 알람소리 같은 거....?☺️☺️☺️\n#김새벽 #200627 @더숲아트시네마 \n📸 by @sekaist https://t.co/pHh5JYVnSL"
+	},
+	{
+		"created_at": "Sun Jun 28 06:46:05 +0000 2020",
+		"id": 1277131136305516500,
+		"id_str": "1277131136305516544",
+		"full_text": "유튜브 구독자 3명됨 희희 근데 그중에 한명은 나임😎",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 597,
+			"friends_count": 1076,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "유튜브 구독자 3명됨 희희 근데 그중에 한명은 나임😎"
+	},
+	{
+		"created_at": "Sun Jun 28 04:35:10 +0000 2020",
+		"id": 1277098189099679700,
+		"id_str": "1277098189099679746",
+		"full_text": "비정성시3 &lt;우리의 낮과 밤&gt; 지인의 추천으로 처음으로 결제한 온라인 상영작. 내가 젤 좋아하는 (남들에게는 느린) 템포의 영화인게 가장 좋고 이런 상황의 커플들의 결말이 클리셰를 벗어나서 눈물 찔끔 맺혔다가 미소가 절로 지어지게 끝나서 너무 만족스러움. 강추강추 https://t.co/A9fYZrFQK6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A9fYZrFQK6",
+					"expanded_url": "https://m.serieson.naver.com/movie/detail.nhn?productNo=5247578",
+					"display_url": "m.serieson.naver.com/movie/detail.n…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1276890158365720600,
+		"in_reply_to_status_id_str": "1276890158365720578",
+		"in_reply_to_user_id": 133336572,
+		"in_reply_to_user_id_str": "133336572",
+		"in_reply_to_screen_name": "sekaist",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 597,
+			"friends_count": 1076,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비정성시3 &lt;우리의 낮과 밤&gt; 지인의 추천으로 처음으로 결제한 온라인 상영작. 내가 젤 좋아하는 (남들에게는 느린) 템포의 영화인게 가장 좋고 이런 상황의 커플들의 결말이 클리셰를 벗어나서 눈물 찔끔 맺혔다가 미소가 절로 지어지게 끝나서 너무 만족스러움. 강추강추 https://t.co/A9fYZrFQK6"
+	},
+	{
 		"created_at": "Sat Jun 27 15:54:19 +0000 2020",
 		"id": 1276906715494011000,
 		"id_str": "1276906715494010880",
