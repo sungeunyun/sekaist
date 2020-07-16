@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 15 03:22:08 +0000 2020",
+		"id": 1283239203120140300,
+		"id_str": "1283240403420901376",
+		"full_text": "https://t.co/mzzhjkAIVt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1283239192986673200,
+					"id_str": "1283239192986673153",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec77P0PUYAEY2xZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec77P0PUYAEY2xZ.jpg",
+					"url": "https://t.co/mzzhjkAIVt",
+					"display_url": "pic.twitter.com/mzzhjkAIVt",
+					"expanded_url": "https://twitter.com/nylee21/status/1283239203120140288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 931,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 992,
+							"h": 1278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283239192986673200,
+					"id_str": "1283239192986673153",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec77P0PUYAEY2xZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec77P0PUYAEY2xZ.jpg",
+					"url": "https://t.co/mzzhjkAIVt",
+					"display_url": "pic.twitter.com/mzzhjkAIVt",
+					"expanded_url": "https://twitter.com/nylee21/status/1283239203120140288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 931,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 992,
+							"h": 1278,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 169000068,
+			"id_str": "169000068",
+			"name": "이낙연",
+			"screen_name": "nylee21",
+			"location": "37.527235,126.917943",
+			"description": "국회의원 이낙연입니다.",
+			"url": "https://t.co/ss9erOMdAe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ss9erOMdAe",
+							"expanded_url": "http://bitly.kr/ssuSSMjt",
+							"display_url": "bitly.kr/ssuSSMjt",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185455,
+			"friends_count": 39890,
+			"listed_count": 826,
+			"created_at": "Wed Jul 21 08:36:08 +0000 2010",
+			"favourites_count": 1002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1236888798006407168/RcyK4513_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1236888798006407168/RcyK4513_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/169000068/1563842401",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2445,
+		"favorite_count": 3217,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/mzzhjkAIVt"
+	},
+	{
 		"created_at": "Tue Jul 14 13:30:42 +0000 2020",
 		"id": 1283031165365096400,
 		"id_str": "1283031165365096449",
