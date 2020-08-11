@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 10 13:11:10 +0000 2020",
+		"id": 1292810724150894600,
+		"id_str": "1292810724150894593",
+		"full_text": "20일 여름날 언제 열려요 예매할겁니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 614,
+			"friends_count": 1091,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "20일 여름날 언제 열려요 예매할겁니다"
+	},
+	{
+		"created_at": "Mon Aug 10 13:02:36 +0000 2020",
+		"id": 1292795092378349600,
+		"id_str": "1292808567708254209",
+		"full_text": "구교환은 2018 백상예술대상에서 영화부문 남자 신인 연기상을 수상하고 “앞으로도 계속 연기할 수 있다고 혼자 오해하고 열심히 하겠다”고 말했다. https://t.co/1sC6brZg4p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292795001638801400,
+					"id_str": "1292795001638801408",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1292795001638801408/pu/img/sBvGTrIgfzdKilYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1292795001638801408/pu/img/sBvGTrIgfzdKilYx.jpg",
+					"url": "https://t.co/1sC6brZg4p",
+					"display_url": "pic.twitter.com/1sC6brZg4p",
+					"expanded_url": "https://twitter.com/9kyo_tmi/status/1292795092378349568/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292795001638801400,
+					"id_str": "1292795001638801408",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1292795001638801408/pu/img/sBvGTrIgfzdKilYx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1292795001638801408/pu/img/sBvGTrIgfzdKilYx.jpg",
+					"url": "https://t.co/1sC6brZg4p",
+					"display_url": "pic.twitter.com/1sC6brZg4p",
+					"expanded_url": "https://twitter.com/9kyo_tmi/status/1292795092378349568/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							80,
+							37
+						],
+						"duration_millis": 73472,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1292795001638801408/pu/pl/ddFNGLFdn1zYt4qU.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1292795001638801408/pu/vid/778x360/mzp-7lapIFCWKEQC.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1292795001638801408/pu/vid/1280x592/G-I5ixBaxXgfBi_8.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1292795001638801408/pu/vid/582x270/Medx5WlAFgv98E39.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288818973815914500,
+			"id_str": "1288818973815914498",
+			"name": "구교환 쓸데없는 정보봇",
+			"screen_name": "9kyo_tmi",
+			"location": "",
+			"description": "감독 겸 배우 구교환님의 쓸데없고 소소한 정보를 올립니다. 100% 수동으로 운영됩니다. 잘못된 정보나 제보 등 문의사항이 있을 경우 DM으로 연락주세요!",
+			"url": "https://t.co/S9ut6GdC6X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S9ut6GdC6X",
+							"expanded_url": "http://youtube.com/2x9hd",
+							"display_url": "youtube.com/2x9hd",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 878,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Thu Jul 30 12:49:31 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288819594455478278/8ZnCjw3s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288819594455478278/8ZnCjw3s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288818973815914498/1596120660",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구교환은 2018 백상예술대상에서 영화부문 남자 신인 연기상을 수상하고 “앞으로도 계속 연기할 수 있다고 혼자 오해하고 열심히 하겠다”고 말했다. https://t.co/1sC6brZg4p"
+	},
+	{
+		"created_at": "Mon Aug 10 12:48:18 +0000 2020",
+		"id": 1292804970421485600,
+		"id_str": "1292804970421485575",
+		"full_text": "@caritas87 신이주신 나의최애🐧💙",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "caritas87",
+					"name": "배부르주아🎗",
+					"id": 142993164,
+					"id_str": "142993164",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1292804853685604400,
+		"in_reply_to_status_id_str": "1292804853685604352",
+		"in_reply_to_user_id": 142993164,
+		"in_reply_to_user_id_str": "142993164",
+		"in_reply_to_screen_name": "caritas87",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 614,
+			"friends_count": 1091,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@caritas87 신이주신 나의최애🐧💙"
+	},
+	{
 		"created_at": "Sat Aug 08 14:46:04 +0000 2020",
 		"id": 1292109832124735500,
 		"id_str": "1292109832124735488",
