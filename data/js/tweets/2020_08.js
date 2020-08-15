@@ -1,6 +1,520 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 23:43:19 +0000 2020",
+		"id": 1294380236595855400,
+		"id_str": "1294419360686067712",
+		"full_text": "아래의 글과 타래 전체에 공감을 표합니다. 개인적으로 저장하는거야 그럴수도 있지만 자기 인기를 위해 불펌해서 올리고 이런거 좋아하는 작가는 아무도 없으니 물어보실 필요도 없습니다. 뭘 올리고 싶다? 그러면 돈주고 작품, 굿즈등을 사셔서 그걸 올리시면 됩니다. 수익은 작가에게 가야합니다. https://t.co/9KGr3KtlTR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9KGr3KtlTR",
+					"expanded_url": "https://twitter.com/bini665/status/1293251078666895360",
+					"display_url": "twitter.com/bini665/status…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 166094321,
+			"id_str": "166094321",
+			"name": "케이채 (K. Chae)",
+			"screen_name": "kchae",
+			"location": "사진공간 빛타래",
+			"description": "오직 사진가. 85개국을 사진으로 담았고 100개국이 목표입니다. 여러권의 사진집을 냈고 신문과 잡지에 글도 씁니다. 강연도 하고 상업사진도 찍습니다. 산문집 #케이채의모험 출간! 온오프 서점 어디서든 만나주세요.",
+			"url": "https://t.co/iswoM6BZAx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iswoM6BZAx",
+							"expanded_url": "http://instagram.com/kchae",
+							"display_url": "instagram.com/kchae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22918,
+			"friends_count": 3120,
+			"listed_count": 180,
+			"created_at": "Tue Jul 13 09:11:09 +0000 2010",
+			"favourites_count": 4319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1258279321069735937/w1e4-3xc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258279321069735937/w1e4-3xc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/166094321/1588859194",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1293251078666895400,
+		"quoted_status_id_str": "1293251078666895360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9KGr3KtlTR",
+			"expanded": "https://twitter.com/bini665/status/1293251078666895360",
+			"display": "twitter.com/bini665/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 11 18:20:59 +0000 2020",
+			"id": 1293251078666895400,
+			"id_str": "1293251078666895360",
+			"full_text": "다른 sns 에 내 그림 올려도 되냐고 물어보지 마세요. 인스타그램이든 뭐든 필요하면 내가 하지 남이 왜 내그림을 남 계정에 올립니까. 거기에 아이디 걸면 사람들이 저한테 올것같나요. 그냥 그 인스타그램 구독하고 그 계정한테 내 그림 퍼와달라고 합니다. 저한테 이득 하나도 안옴.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1890074317,
+				"id_str": "1890074317",
+				"name": "볼보루 / Bini",
+				"screen_name": "bini665",
+				"location": "",
+				"description": "PLZ ENJOY THEM ONLY IN MY TWITTER.\nNSFW🔞\n외주 : seroox@naver.com\n페트리온 : https://t.co/J7DBafW1Jo\n포스타입: https://t.co/Gut6NifcUC\n에스크: https://t.co/sWKabf0Srq",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/J7DBafW1Jo",
+								"expanded_url": "http://patreon.com/binibol",
+								"display_url": "patreon.com/binibol",
+								"indices": [
+									70,
+									93
+								]
+							},
+							{
+								"url": "https://t.co/Gut6NifcUC",
+								"expanded_url": "http://seroox.postype.com",
+								"display_url": "seroox.postype.com",
+								"indices": [
+									100,
+									123
+								]
+							},
+							{
+								"url": "https://t.co/sWKabf0Srq",
+								"expanded_url": "https://ask.fm/bini665",
+								"display_url": "ask.fm/bini665",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 35823,
+				"friends_count": 722,
+				"listed_count": 201,
+				"created_at": "Sat Sep 21 12:32:43 +0000 2013",
+				"favourites_count": 24230,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 67146,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF5C9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1196820301096448000/ZBgkfquC_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196820301096448000/ZBgkfquC_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1890074317/1550606270",
+				"profile_link_color": "DEA67D",
+				"profile_sidebar_border_color": "1CCAFF",
+				"profile_sidebar_fill_color": "87BCCC",
+				"profile_text_color": "B5C8C9",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3085,
+			"favorite_count": 1122,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 34,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아래의 글과 타래 전체에 공감을 표합니다. 개인적으로 저장하는거야 그럴수도 있지만 자기 인기를 위해 불펌해서 올리고 이런거 좋아하는 작가는 아무도 없으니 물어보실 필요도 없습니다. 뭘 올리고 싶다? 그러면 돈주고 작품, 굿즈등을 사셔서 그걸 올리시면 됩니다. 수익은 작가에게 가야합니다. https://t.co/9KGr3KtlTR"
+	},
+	{
+		"created_at": "Fri Aug 14 11:25:15 +0000 2020",
+		"id": 1294230259030786000,
+		"id_str": "1294233622518497281",
+		"full_text": "🌠 “관계와 감정의 사려 깊은 초상화”\n- 로테르담국제영화제\n\n8월 20일 개봉하는 &lt;남매의 여름밤 Moving On&gt;(감독 윤단비)를 위한 CGV 아트하우스 Club 아티스트 뱃지를 작업했습니다. https://t.co/LRYOz5cLMy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294230250402902000,
+					"id_str": "1294230250402902019",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EfYHjjzUcAMeW2-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfYHjjzUcAMeW2-.jpg",
+					"url": "https://t.co/LRYOz5cLMy",
+					"display_url": "pic.twitter.com/LRYOz5cLMy",
+					"expanded_url": "https://twitter.com/WorldofDDanjit/status/1294230259030786049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294230250402902000,
+					"id_str": "1294230250402902019",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EfYHjjzUcAMeW2-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfYHjjzUcAMeW2-.jpg",
+					"url": "https://t.co/LRYOz5cLMy",
+					"display_url": "pic.twitter.com/LRYOz5cLMy",
+					"expanded_url": "https://twitter.com/WorldofDDanjit/status/1294230259030786049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1294230250398728200,
+					"id_str": "1294230250398728192",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EfYHjjyUwAAYS2I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfYHjjyUwAAYS2I.jpg",
+					"url": "https://t.co/LRYOz5cLMy",
+					"display_url": "pic.twitter.com/LRYOz5cLMy",
+					"expanded_url": "https://twitter.com/WorldofDDanjit/status/1294230259030786049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 310470843,
+			"id_str": "310470843",
+			"name": "딴짓의 세상",
+			"screen_name": "WorldofDDanjit",
+			"location": "Seoul, Republic of Korea",
+			"description": "1-person design studio usually works on film-related projects. also runs @frameperpage for publishing books about film 📧 worldofddanjit@gmail.com",
+			"url": "https://t.co/NRraXH6PT6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NRraXH6PT6",
+							"expanded_url": "https://instagram.com/worldofddanjit",
+							"display_url": "instagram.com/worldofddanjit",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6881,
+			"friends_count": 610,
+			"listed_count": 32,
+			"created_at": "Fri Jun 03 20:15:31 +0000 2011",
+			"favourites_count": 3990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261679215390322689/R09yFGj8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261679215390322689/R09yFGj8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/310470843/1578597781",
+			"profile_link_color": "999999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌠 “관계와 감정의 사려 깊은 초상화”\n- 로테르담국제영화제\n\n8월 20일 개봉하는 &lt;남매의 여름밤 Moving On&gt;(감독 윤단비)를 위한 CGV 아트하우스 Club 아티스트 뱃지를 작업했습니다. https://t.co/LRYOz5cLMy"
+	},
+	{
+		"created_at": "Fri Aug 14 10:09:12 +0000 2020",
+		"id": 1294214480096723000,
+		"id_str": "1294214480096722944",
+		"full_text": "전주영화제 오픈챗방 들어갔더니 일정 시간되면 질문이 올라와서 재밌네 어제 보드랍게 gv 질문을 보고는 이 영화 꼭 봐야겠다고 생각했음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 614,
+			"friends_count": 1091,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "전주영화제 오픈챗방 들어갔더니 일정 시간되면 질문이 올라와서 재밌네 어제 보드랍게 gv 질문을 보고는 이 영화 꼭 봐야겠다고 생각했음"
+	},
+	{
 		"created_at": "Thu Aug 13 23:54:38 +0000 2020",
 		"id": 1294035133654155300,
 		"id_str": "1294059821671448577",
