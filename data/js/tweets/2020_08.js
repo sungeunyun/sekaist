@@ -1,6 +1,765 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 28 03:21:19 +0000 2020",
+		"id": 1299181164364619800,
+		"id_str": "1299185263952896000",
+		"full_text": "\"승희는 울거나 소리 지르지 않는다. 아무리 힘든 일이 있더라도 매순간 슬퍼하고 괴로워하지는 않지 않나. 일상에 가장 가까운 방식으로 감정을 담아내기를 원했고, 멀리 떨어져서 볼 때 오히려 그가 지닌 감정에 더 공감할 수 있으리라 생각했다.\" &lt;여름날&gt; 오정석 감독 https://t.co/S5IPSm7xIH https://t.co/QAWqSHBjYk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S5IPSm7xIH",
+					"expanded_url": "http://reversemedia.co.kr/article/286",
+					"display_url": "reversemedia.co.kr/article/286",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1299181161038504000,
+					"id_str": "1299181161038503936",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EgeeYfKUYAAM43a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgeeYfKUYAAM43a.jpg",
+					"url": "https://t.co/QAWqSHBjYk",
+					"display_url": "pic.twitter.com/QAWqSHBjYk",
+					"expanded_url": "https://twitter.com/seoulartcinema/status/1299181164364619781/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 648,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 367,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1299181161038504000,
+					"id_str": "1299181161038503936",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EgeeYfKUYAAM43a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgeeYfKUYAAM43a.jpg",
+					"url": "https://t.co/QAWqSHBjYk",
+					"display_url": "pic.twitter.com/QAWqSHBjYk",
+					"expanded_url": "https://twitter.com/seoulartcinema/status/1299181164364619781/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 648,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 367,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108939086,
+			"id_str": "108939086",
+			"name": "시네마테크 서울아트시네마",
+			"screen_name": "seoulartcinema",
+			"location": "종로3가 서울극장 1층(매표소, 관객라운지)3층 상영관",
+			"description": "➤\"오바야시 노부히코 회고전\" 2020.9.2-13\n➤굿애프터눈, 시네마테크 2020.9.2-11 맥추, 차이니즈 부키의 죽음\n➤\"여름의 감각\" 여름날, 남매의 여름밤 그리고 도망친 여자 9월 매주(화) 특별 상영",
+			"url": "https://t.co/dqIXFMUW0X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqIXFMUW0X",
+							"expanded_url": "http://www.cinematheque.seoul.kr/",
+							"display_url": "cinematheque.seoul.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127078,
+			"friends_count": 8249,
+			"listed_count": 797,
+			"created_at": "Wed Jan 27 13:37:36 +0000 2010",
+			"favourites_count": 180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149929429788790786/P8ftBaZt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149929429788790786/P8ftBaZt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108939086/1598422475",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"승희는 울거나 소리 지르지 않는다. 아무리 힘든 일이 있더라도 매순간 슬퍼하고 괴로워하지는 않지 않나. 일상에 가장 가까운 방식으로 감정을 담아내기를 원했고, 멀리 떨어져서 볼 때 오히려 그가 지닌 감정에 더 공감할 수 있으리라 생각했다.\" &lt;여름날&gt; 오정석 감독 https://t.co/S5IPSm7xIH https://t.co/QAWqSHBjYk"
+	},
+	{
+		"created_at": "Fri Aug 28 02:40:22 +0000 2020",
+		"id": 1299174854717968400,
+		"id_str": "1299174959936278528",
+		"full_text": "주말에 종료되는 수도권의\n사회적 거리 두기 2단계 한주 더 연장합니다.\n\n이와 함께 음식점·카페 등\n일상에서 자주 이용하는 업소의\n영업방식과 운영시간 제한하는\n강력한 방역조치 추가합니다.\n\n불편하시겠지만\n적극 협조해 주실 것을 간곡히 부탁드립니다.\n\n자세히 보기 ▶ https://t.co/PmqK4UT67K https://t.co/Ck0NNLsSra",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PmqK4UT67K",
+					"expanded_url": "https://bit.ly/3hC8H0a",
+					"display_url": "bit.ly/3hC8H0a",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1299174641223610400,
+					"id_str": "1299174641223610369",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EgeYc-9UMAEBNSb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgeYc-9UMAEBNSb.jpg",
+					"url": "https://t.co/Ck0NNLsSra",
+					"display_url": "pic.twitter.com/Ck0NNLsSra",
+					"expanded_url": "https://twitter.com/hellopolicy/status/1299174854717968384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1299174641223610400,
+					"id_str": "1299174641223610369",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EgeYc-9UMAEBNSb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgeYc-9UMAEBNSb.jpg",
+					"url": "https://t.co/Ck0NNLsSra",
+					"display_url": "pic.twitter.com/Ck0NNLsSra",
+					"expanded_url": "https://twitter.com/hellopolicy/status/1299174854717968384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134679265,
+			"id_str": "134679265",
+			"name": "대한민국 정부",
+			"screen_name": "hellopolicy",
+			"location": "대한민국",
+			"description": "유용한 정책을 알려드리는 대한민국 정부 대표 트위터입니다.  \n▶대한민국 정부 페이스북 https://t.co/JqTQiNMO6Q \n▶정책브리핑\nhttps://t.co/z0IbNhDE0L",
+			"url": "http://t.co/LZA3QF0ZP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/LZA3QF0ZP5",
+							"expanded_url": "http://blog.naver.com/hellopolicy",
+							"display_url": "blog.naver.com/hellopolicy",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JqTQiNMO6Q",
+							"expanded_url": "https://www.facebook.com/hipolicy/",
+							"display_url": "facebook.com/hipolicy/",
+							"indices": [
+								49,
+								72
+							]
+						},
+						{
+							"url": "https://t.co/z0IbNhDE0L",
+							"expanded_url": "http://www.korea.kr/main.do",
+							"display_url": "korea.kr/main.do",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 190333,
+			"friends_count": 34997,
+			"listed_count": 768,
+			"created_at": "Mon Apr 19 04:15:26 +0000 2010",
+			"favourites_count": 361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128851054542516225/XOwVgGYF_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128851054542516225/XOwVgGYF_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134679265/1598329576",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 631,
+		"favorite_count": 372,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "주말에 종료되는 수도권의\n사회적 거리 두기 2단계 한주 더 연장합니다.\n\n이와 함께 음식점·카페 등\n일상에서 자주 이용하는 업소의\n영업방식과 운영시간 제한하는\n강력한 방역조치 추가합니다.\n\n불편하시겠지만\n적극 협조해 주실 것을 간곡히 부탁드립니다.\n\n자세히 보기 ▶ https://t.co/PmqK4UT67K https://t.co/Ck0NNLsSra"
+	},
+	{
+		"created_at": "Fri Aug 28 02:37:49 +0000 2020",
+		"id": 1299174319310815200,
+		"id_str": "1299174319310815234",
+		"full_text": "펭수와 1분동안 멍때리기 하고 스트레스 뿌셔! https://t.co/Ie982OuNIR 출처 @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						53,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ie982OuNIR",
+					"expanded_url": "https://youtu.be/dgjU7X5gYxk",
+					"display_url": "youtu.be/dgjU7X5gYxk",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 614,
+			"friends_count": 1090,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "펭수와 1분동안 멍때리기 하고 스트레스 뿌셔! https://t.co/Ie982OuNIR 출처 @YouTube"
+	},
+	{
+		"created_at": "Fri Aug 28 02:09:36 +0000 2020",
+		"id": 1299167215866974200,
+		"id_str": "1299167215866974208",
+		"full_text": "@Sophia_1979 앗 제가 착각했나봐요... 단편 영화로 이해함 머쓱,,,,,",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sophia_1979",
+					"name": "소피아 9979🌻💜",
+					"id": 213209467,
+					"id_str": "213209467",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1299163814223515600,
+		"in_reply_to_status_id_str": "1299163814223515648",
+		"in_reply_to_user_id": 213209467,
+		"in_reply_to_user_id_str": "213209467",
+		"in_reply_to_screen_name": "Sophia_1979",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 614,
+			"friends_count": 1090,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Sophia_1979 앗 제가 착각했나봐요... 단편 영화로 이해함 머쓱,,,,,"
+	},
+	{
+		"created_at": "Fri Aug 28 01:55:41 +0000 2020",
+		"id": 1299163713732141000,
+		"id_str": "1299163713732141057",
+		"full_text": "집에 공중그늘 앨범 와있어 꺄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 614,
+			"friends_count": 1090,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "집에 공중그늘 앨범 와있어 꺄"
+	},
+	{
+		"created_at": "Fri Aug 28 01:46:33 +0000 2020",
+		"id": 1299161414112702500,
+		"id_str": "1299161414112702464",
+		"full_text": "@Sophia_1979 앗 이분꺼 어제 왓챠에서 단편 클릭할 때 자주보이던데 봐봐야 겠군여",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sophia_1979",
+					"name": "소피아 9979🌻💜",
+					"id": 213209467,
+					"id_str": "213209467",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1299160173005566000,
+		"in_reply_to_status_id_str": "1299160173005565952",
+		"in_reply_to_user_id": 213209467,
+		"in_reply_to_user_id_str": "213209467",
+		"in_reply_to_screen_name": "Sophia_1979",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 614,
+			"friends_count": 1090,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Sophia_1979 앗 이분꺼 어제 왓챠에서 단편 클릭할 때 자주보이던데 봐봐야 겠군여"
+	},
+	{
 		"created_at": "Fri Aug 28 00:09:23 +0000 2020",
 		"id": 1299136962863837200,
 		"id_str": "1299136962863837184",
