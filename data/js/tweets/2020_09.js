@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 16 23:38:59 +0000 2020",
+		"id": 1306377071174717400,
+		"id_str": "1306377071174717442",
+		"full_text": "요즘에도 지하철에서 에어드랍으로 사진 보내는 인간들이 있구나 두번 거절하고 짱나서 에어드랍끔 https://t.co/3r2gxwvv76",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306377063050309600,
+					"id_str": "1306377063050309633",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EiEvBHHU8AEsoon.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiEvBHHU8AEsoon.jpg",
+					"url": "https://t.co/3r2gxwvv76",
+					"display_url": "pic.twitter.com/3r2gxwvv76",
+					"expanded_url": "https://twitter.com/sekaist/status/1306377071174717442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 649,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 649,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306377063050309600,
+					"id_str": "1306377063050309633",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EiEvBHHU8AEsoon.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiEvBHHU8AEsoon.jpg",
+					"url": "https://t.co/3r2gxwvv76",
+					"display_url": "pic.twitter.com/3r2gxwvv76",
+					"expanded_url": "https://twitter.com/sekaist/status/1306377071174717442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 649,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 649,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 619,
+			"friends_count": 1090,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요즘에도 지하철에서 에어드랍으로 사진 보내는 인간들이 있구나 두번 거절하고 짱나서 에어드랍끔 https://t.co/3r2gxwvv76"
+	},
+	{
+		"created_at": "Wed Sep 16 05:59:59 +0000 2020",
+		"id": 1306109169699709000,
+		"id_str": "1306110563945082880",
+		"full_text": "hi twitter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3065927091,
+			"id_str": "3065927091",
+			"name": "lauv",
+			"screen_name": "lauvsongs",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/0mJd6itqEp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mJd6itqEp",
+							"expanded_url": "https://lauv.lnk.to/withoutyou",
+							"display_url": "lauv.lnk.to/withoutyou",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1092924,
+			"friends_count": 802,
+			"listed_count": 814,
+			"created_at": "Mon Mar 02 11:59:43 +0000 2015",
+			"favourites_count": 32595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275776374381383686/vnjTna-o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275776374381383686/vnjTna-o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3065927091/1593003766",
+			"profile_link_color": "DAB472",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5795,
+		"favorite_count": 70248,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "hi twitter"
+	},
+	{
 		"created_at": "Wed Sep 16 00:10:50 +0000 2020",
 		"id": 1305801471930187800,
 		"id_str": "1306022698787561472",
