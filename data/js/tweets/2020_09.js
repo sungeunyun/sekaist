@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 20 10:08:58 +0000 2020",
+		"id": 1307622776077918200,
+		"id_str": "1307622776077918208",
+		"full_text": "@fallsstar 인기가요 카캄은 다른가싶어서 봤떠요,,, 목줄은 역시 뮤뱅카감이 최고였내,,,",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fallsstar",
+					"name": "ʜʀ ᴘɪᴄ.",
+					"id": 265341125,
+					"id_str": "265341125",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1307621721663447000,
+		"in_reply_to_status_id_str": "1307621721663447041",
+		"in_reply_to_user_id": 265341125,
+		"in_reply_to_user_id_str": "265341125",
+		"in_reply_to_screen_name": "fallsstar",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 616,
+			"friends_count": 1090,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@fallsstar 인기가요 카캄은 다른가싶어서 봤떠요,,, 목줄은 역시 뮤뱅카감이 최고였내,,,"
+	},
+	{
+		"created_at": "Sun Sep 20 10:03:09 +0000 2020",
+		"id": 1307621311007527000,
+		"id_str": "1307621311007526913",
+		"full_text": "벗어날 수 없는 ‘태민’의 치명적인 매력♨ ‘Criminal’ (출처 : SBS 인기가요 | 네이버TV) https://t.co/yjmjySyc2D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yjmjySyc2D",
+					"expanded_url": "http://naver.me/GaLJriD8",
+					"display_url": "naver.me/GaLJriD8",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 616,
+			"friends_count": 1090,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "벗어날 수 없는 ‘태민’의 치명적인 매력♨ ‘Criminal’ (출처 : SBS 인기가요 | 네이버TV) https://t.co/yjmjySyc2D"
+	},
+	{
+		"created_at": "Sun Sep 20 01:00:49 +0000 2020",
+		"id": 1307483115959382000,
+		"id_str": "1307484825767481345",
+		"full_text": "🔊#코로나19 국내 발생현황(9.20. 0시 기준)\n\n일 격리해제 188명\n일 확진환자 82명\n(국내발생 72명, 해외유입 10명)\n\n총 격리해제 20,158명, 치료 중 2,434명,\n위중·중증환자 146명, 사망 383명\n\n검사현황 2,226,701명(누적) 중\n음성 2,179,452명, 검사 중 24,274명, 양성 22,975명 https://t.co/td2S3G5FRQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "코로나19",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1307483076008620000,
+					"id_str": "1307483076008620032",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EiUc7idUMAAJVrf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EiUc7idUMAAJVrf.png",
+					"url": "https://t.co/td2S3G5FRQ",
+					"display_url": "pic.twitter.com/td2S3G5FRQ",
+					"expanded_url": "https://twitter.com/KoreaDCA/status/1307483115959382016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1026,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1026,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307483076008620000,
+					"id_str": "1307483076008620032",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EiUc7idUMAAJVrf.png",
+					"media_url_https": "https://pbs.twimg.com/media/EiUc7idUMAAJVrf.png",
+					"url": "https://t.co/td2S3G5FRQ",
+					"display_url": "pic.twitter.com/td2S3G5FRQ",
+					"expanded_url": "https://twitter.com/KoreaDCA/status/1307483115959382016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1026,
+							"h": 510,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1026,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 198759184,
+			"id_str": "198759184",
+			"name": "대한민국 질병관리청",
+			"screen_name": "KoreaDCA",
+			"location": "Korea",
+			"description": "건강한 국민, 안전한 사회를 위해 귀 기울이는 대한민국 질병관리청 코로나19 대응에 최선을 다하겠습니다.",
+			"url": "https://t.co/Y8301QtnMo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y8301QtnMo",
+							"expanded_url": "http://www.kdca.go.kr",
+							"display_url": "kdca.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34786,
+			"friends_count": 1336,
+			"listed_count": 263,
+			"created_at": "Tue Oct 05 04:45:30 +0000 2010",
+			"favourites_count": 396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1304969950310756353/fYgEUpcy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1304969950310756353/fYgEUpcy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/198759184/1599836518",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 333,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔊#코로나19 국내 발생현황(9.20. 0시 기준)\n\n일 격리해제 188명\n일 확진환자 82명\n(국내발생 72명, 해외유입 10명)\n\n총 격리해제 20,158명, 치료 중 2,434명,\n위중·중증환자 146명, 사망 383명\n\n검사현황 2,226,701명(누적) 중\n음성 2,179,452명, 검사 중 24,274명, 양성 22,975명 https://t.co/td2S3G5FRQ"
+	},
+	{
 		"created_at": "Sat Sep 19 14:25:49 +0000 2020",
 		"id": 1307325024152424400,
 		"id_str": "1307325024152424448",
