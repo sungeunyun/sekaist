@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 23 02:53:29 +0000 2020",
+		"id": 1308542310129361000,
+		"id_str": "1308600343983304704",
+		"full_text": "‘종전선언’을 통해 \n화해와 번영의 시대로 \n전진할 수 있도록\n유엔과 국제사회도 \n힘을 모아주길 바랍니다.\n\n- 2020.9.22 \n  제75차 유엔 총회 기조연설\n\nhttps://t.co/F2UmPV5mTM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F2UmPV5mTM",
+					"expanded_url": "https://www1.president.go.kr/articles/9213",
+					"display_url": "www1.president.go.kr/articles/9213",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308542308573278200,
+		"in_reply_to_status_id_str": "1308542308573278208",
+		"in_reply_to_user_id": 444465942,
+		"in_reply_to_user_id_str": "444465942",
+		"in_reply_to_screen_name": "moonriver365",
+		"user": {
+			"id": 444465942,
+			"id_str": "444465942",
+			"name": "문재인",
+			"screen_name": "moonriver365",
+			"location": "대한민국",
+			"description": "대한민국 대통령 문재인입니다. President of the Republic of Korea. 나라다운 나라를 만들기 위해 국민여러분과 함께 하겠습니다. @thebluehousekr @TheBlueHouseENG",
+			"url": "https://t.co/FAKWOwyhHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FAKWOwyhHd",
+							"expanded_url": "http://www.president.go.kr",
+							"display_url": "president.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1813137,
+			"friends_count": 143464,
+			"listed_count": 7570,
+			"created_at": "Fri Dec 23 08:46:08 +0000 2011",
+			"favourites_count": 718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/444465942/1583716608",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2064,
+		"favorite_count": 3486,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘종전선언’을 통해 \n화해와 번영의 시대로 \n전진할 수 있도록\n유엔과 국제사회도 \n힘을 모아주길 바랍니다.\n\n- 2020.9.22 \n  제75차 유엔 총회 기조연설\n\nhttps://t.co/F2UmPV5mTM"
+	},
+	{
 		"created_at": "Tue Sep 22 23:58:29 +0000 2020",
 		"id": 1308556305729114000,
 		"id_str": "1308556305729114112",
