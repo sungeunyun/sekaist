@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 23:27:17 +0000 2020",
+		"id": 1314494539567108000,
+		"id_str": "1314709045689737217",
+		"full_text": "I love this picture, it reminds me of the bond between us. Happy 80th John. Love Paul\n\n#JohnLennon #LENNON80 https://t.co/ePrHqvZxVB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JohnLennon",
+					"indices": [
+						87,
+						98
+					]
+				},
+				{
+					"text": "LENNON80",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314494453244141600,
+					"id_str": "1314494453244141568",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej4FvaDWoAACuDK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej4FvaDWoAACuDK.jpg",
+					"url": "https://t.co/ePrHqvZxVB",
+					"display_url": "pic.twitter.com/ePrHqvZxVB",
+					"expanded_url": "https://twitter.com/PaulMcCartney/status/1314494539567108096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1199,
+							"h": 1812,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 794,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314494453244141600,
+					"id_str": "1314494453244141568",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej4FvaDWoAACuDK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej4FvaDWoAACuDK.jpg",
+					"url": "https://t.co/ePrHqvZxVB",
+					"display_url": "pic.twitter.com/ePrHqvZxVB",
+					"expanded_url": "https://twitter.com/PaulMcCartney/status/1314494539567108096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1199,
+							"h": 1812,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 794,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74712538,
+			"id_str": "74712538",
+			"name": "Paul McCartney",
+			"screen_name": "PaulMcCartney",
+			"location": "England",
+			"description": "Text me: +1 (212) 313-9547 | Official #PaulMcCartney administered by MPL | #FlamingPie Fresh out the oven: https://t.co/nahxXCZq8q",
+			"url": "https://t.co/mvAXN9I6P6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mvAXN9I6P6",
+							"expanded_url": "https://www.paulmccartney.com",
+							"display_url": "paulmccartney.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nahxXCZq8q",
+							"expanded_url": "http://pmc.lnk.to/FlamingPie",
+							"display_url": "pmc.lnk.to/FlamingPie",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4087476,
+			"friends_count": 15,
+			"listed_count": 16978,
+			"created_at": "Wed Sep 16 11:55:21 +0000 2009",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271428823180095488/ZuRhvQai_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271428823180095488/ZuRhvQai_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74712538/1596184508",
+			"profile_link_color": "A12824",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29655,
+		"favorite_count": 176144,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I love this picture, it reminds me of the bond between us. Happy 80th John. Love Paul\n\n#JohnLennon #LENNON80 https://t.co/ePrHqvZxVB"
+	},
+	{
 		"created_at": "Thu Oct 08 16:18:32 +0000 2020",
 		"id": 1314238758884008000,
 		"id_str": "1314238758884007942",
