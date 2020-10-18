@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 17 12:01:48 +0000 2020",
+		"id": 1317435643836838000,
+		"id_str": "1317435643836837893",
+		"full_text": "오랜만에 국텐보긔🤗 인천 펜타포트 락 페스티벌 DAY 2 [LIVE] | INCHEON PENTAPORT ROCK FESTIVAL 2020 https://t.co/VPJFXvpcv0 - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						104,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VPJFXvpcv0",
+					"expanded_url": "https://youtu.be/SqHxIlTqArQ",
+					"display_url": "youtu.be/SqHxIlTqArQ",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 1094,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오랜만에 국텐보긔🤗 인천 펜타포트 락 페스티벌 DAY 2 [LIVE] | INCHEON PENTAPORT ROCK FESTIVAL 2020 https://t.co/VPJFXvpcv0 - @YouTube"
+	},
+	{
+		"created_at": "Sat Oct 17 11:55:12 +0000 2020",
+		"id": 1317433982548549600,
+		"id_str": "1317433982548549632",
+		"full_text": "유스케 보고 광대가 막 올라갔네 영화제 기간중에 삼토반 무인 예매해놓길 잘했다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 1094,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "유스케 보고 광대가 막 올라갔네 영화제 기간중에 삼토반 무인 예매해놓길 잘했다"
+	},
+	{
+		"created_at": "Sat Oct 17 11:52:32 +0000 2020",
+		"id": 1317433311707287600,
+		"id_str": "1317433311707287552",
+		"full_text": "도대체 왜 아무런 말도 없는거야",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 1094,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "도대체 왜 아무런 말도 없는거야"
+	},
+	{
 		"created_at": "Fri Oct 16 15:10:39 +0000 2020",
 		"id": 1317120779394326500,
 		"id_str": "1317120779394326528",
@@ -1829,7 +2097,7 @@ Grailbird.data.tweets_2020_10 =
 		"created_at": "Fri Oct 16 11:32:37 +0000 2020",
 		"id": 1317062922653216800,
 		"id_str": "1317065909056368640",
-		"full_text": "안녕하세욤 라쿠나입니다🙇‍♂️ 다음주 월요일에 라쿠나와 멘션 파티 ! ! ! 실시간으로 소통해요 🌏💙😊💙🌏\n\n#Lacuna #라쿠나 https://t.co/qAn6rv6MTw",
+		"full_text": "안녕하세욤 라쿠나입니다🙇♂️ 다음주 월요일에 라쿠나와 멘션 파티 ! ! ! 실시간으로 소통해요 🌏💙😊💙🌏\n\n#Lacuna #라쿠나 https://t.co/qAn6rv6MTw",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1998,7 +2266,7 @@ Grailbird.data.tweets_2020_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "안녕하세욤 라쿠나입니다🙇‍♂️ 다음주 월요일에 라쿠나와 멘션 파티 ! ! ! 실시간으로 소통해요 🌏💙😊💙🌏\n\n#Lacuna #라쿠나 https://t.co/qAn6rv6MTw"
+		"text": "안녕하세욤 라쿠나입니다🙇♂️ 다음주 월요일에 라쿠나와 멘션 파티 ! ! ! 실시간으로 소통해요 🌏💙😊💙🌏\n\n#Lacuna #라쿠나 https://t.co/qAn6rv6MTw"
 	},
 	{
 		"created_at": "Fri Oct 16 11:04:47 +0000 2020",
@@ -4116,7 +4384,7 @@ Grailbird.data.tweets_2020_10 =
 		"created_at": "Thu Oct 15 03:26:01 +0000 2020",
 		"id": 1316569215214645200,
 		"id_str": "1316581064949723136",
-		"full_text": "1985년, 뜨거운 첫사랑이 시작된다!\n프랑수아 오종 신작 &lt;썸머 85&gt;가 올해 부산국제영화제에 찾아옵니다💫\n\n오늘 오후 2시 티켓 예매 오픈🏃🏻‍♀️🏃🏻\n\n#썸머85 #부산국제영화제 https://t.co/6pBwXVOgiQ",
+		"full_text": "1985년, 뜨거운 첫사랑이 시작된다!\n프랑수아 오종 신작 &lt;썸머 85&gt;가 올해 부산국제영화제에 찾아옵니다💫\n\n오늘 오후 2시 티켓 예매 오픈🏃🏻♀️🏃🏻\n\n#썸머85 #부산국제영화제 https://t.co/6pBwXVOgiQ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -4309,7 +4577,7 @@ Grailbird.data.tweets_2020_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "1985년, 뜨거운 첫사랑이 시작된다!\n프랑수아 오종 신작 &lt;썸머 85&gt;가 올해 부산국제영화제에 찾아옵니다💫\n\n오늘 오후 2시 티켓 예매 오픈🏃🏻‍♀️🏃🏻\n\n#썸머85 #부산국제영화제 https://t.co/6pBwXVOgiQ"
+		"text": "1985년, 뜨거운 첫사랑이 시작된다!\n프랑수아 오종 신작 &lt;썸머 85&gt;가 올해 부산국제영화제에 찾아옵니다💫\n\n오늘 오후 2시 티켓 예매 오픈🏃🏻♀️🏃🏻\n\n#썸머85 #부산국제영화제 https://t.co/6pBwXVOgiQ"
 	},
 	{
 		"created_at": "Wed Oct 14 12:38:37 +0000 2020",
