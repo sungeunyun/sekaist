@@ -1,6 +1,950 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 26 14:00:34 +0000 2020",
+		"id": 1320727021886918700,
+		"id_str": "1320727021886918657",
+		"full_text": "@veryveryjin 커튼콜 들으면서 최애 얼굴 떠올리기 https://t.co/LABhrpzCfF",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "veryveryjin",
+					"name": "탄롱",
+					"id": 151817168,
+					"id_str": "151817168",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1320727014181990400,
+					"id_str": "1320727014181990402",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/ElQqOM2UcAIilxS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElQqOM2UcAIilxS.jpg",
+					"url": "https://t.co/LABhrpzCfF",
+					"display_url": "pic.twitter.com/LABhrpzCfF",
+					"expanded_url": "https://twitter.com/sekaist/status/1320727021886918657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1438,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320727014181990400,
+					"id_str": "1320727014181990402",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/ElQqOM2UcAIilxS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElQqOM2UcAIilxS.jpg",
+					"url": "https://t.co/LABhrpzCfF",
+					"display_url": "pic.twitter.com/LABhrpzCfF",
+					"expanded_url": "https://twitter.com/sekaist/status/1320727021886918657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1438,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1320726809340571600,
+		"in_reply_to_status_id_str": "1320726809340571649",
+		"in_reply_to_user_id": 151817168,
+		"in_reply_to_user_id_str": "151817168",
+		"in_reply_to_screen_name": "veryveryjin",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 1095,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@veryveryjin 커튼콜 들으면서 최애 얼굴 떠올리기 https://t.co/LABhrpzCfF"
+	},
+	{
+		"created_at": "Mon Oct 26 13:53:17 +0000 2020",
+		"id": 1320725188015603700,
+		"id_str": "1320725188015603712",
+		"full_text": "이번주에 구숫 공연갑니다 후훗",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 1095,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이번주에 구숫 공연갑니다 후훗"
+	},
+	{
+		"created_at": "Mon Oct 26 13:53:08 +0000 2020",
+		"id": 1319650870372388900,
+		"id_str": "1320725149914591232",
+		"full_text": "131. 독일어로 여주 계란 볶음밥 레시피를 소개하는 유태오 https://t.co/SQL1ASlQZk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1319650778831749000,
+					"id_str": "1319650778831749121",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1319650778831749121/pu/img/5dqStqIjjEhJVHEm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1319650778831749121/pu/img/5dqStqIjjEhJVHEm.jpg",
+					"url": "https://t.co/SQL1ASlQZk",
+					"display_url": "pic.twitter.com/SQL1ASlQZk",
+					"expanded_url": "https://twitter.com/tmiofteo/status/1319650870372388865/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319650778831749000,
+					"id_str": "1319650778831749121",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1319650778831749121/pu/img/5dqStqIjjEhJVHEm.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1319650778831749121/pu/img/5dqStqIjjEhJVHEm.jpg",
+					"url": "https://t.co/SQL1ASlQZk",
+					"display_url": "pic.twitter.com/SQL1ASlQZk",
+					"expanded_url": "https://twitter.com/tmiofteo/status/1319650870372388865/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 56400,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1319650778831749121/pu/vid/1280x720/UwoLKAyrnLzAbBeD.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1319650778831749121/pu/vid/640x360/VQrj169LcsQwja4v.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1319650778831749121/pu/vid/480x270/MWMesSmdYTNYehCm.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1319650778831749121/pu/pl/L9FWLbF1_CpkSPDY.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1293160470006780000,
+			"id_str": "1293160470006779905",
+			"name": "tmi of 유태오",
+			"screen_name": "tmiofteoyoo",
+			"location": "중복있을 수 있음 흐린눈 부탁😀",
+			"description": "TEO YOO/배우 유태오의 tmi 모음계/ 팬분들 보다는 간잽 하시는 분들의 입덕부정기를 깨드리기 위한 영업용 계정입니다🐢 구독 환영🙇‍♀️ (머니게임 유진한/ 보건교사안은영 매켄지/ 배가본드 제롬/ 아스달연대기 라가즈/초콜릿 만두전골 민성이 그 사람 맞음) ❤알람OFF❤",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 954,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Tue Aug 11 12:21:09 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1293248996643807232/1DqUXJSd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293248996643807232/1DqUXJSd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1293160470006779905/1602138881",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "131. 독일어로 여주 계란 볶음밥 레시피를 소개하는 유태오 https://t.co/SQL1ASlQZk"
+	},
+	{
+		"created_at": "Mon Oct 26 13:29:01 +0000 2020",
+		"id": 1320717972982251500,
+		"id_str": "1320719083013206016",
+		"full_text": "11월 2일 월요일 19:50 부산 영화의 전당에서 모처럼 &lt;투 올드 힙합 키드&gt; 상영합니다. 상영 후 GV 있어요. 관람료 천 원! https://t.co/eZlhC9T7zI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1320717967655514000,
+					"id_str": "1320717967655514112",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/ElQh_n6VMAASysh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElQh_n6VMAASysh.jpg",
+					"url": "https://t.co/eZlhC9T7zI",
+					"display_url": "pic.twitter.com/eZlhC9T7zI",
+					"expanded_url": "https://twitter.com/bke9400a/status/1320717972982251521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 821,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1402,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320717967655514000,
+					"id_str": "1320717967655514112",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/ElQh_n6VMAASysh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElQh_n6VMAASysh.jpg",
+					"url": "https://t.co/eZlhC9T7zI",
+					"display_url": "pic.twitter.com/eZlhC9T7zI",
+					"expanded_url": "https://twitter.com/bke9400a/status/1320717972982251521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 821,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1402,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 216698664,
+			"id_str": "216698664",
+			"name": "대건",
+			"screen_name": "bke9400a",
+			"location": "대한민국 고양시",
+			"description": "『GV 빌런 고태경』 키보드 젤리 팥 버블티 떡볶이",
+			"url": "https://t.co/xrtKouFECP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xrtKouFECP",
+							"expanded_url": "http://naver.me/5B54shfV",
+							"display_url": "naver.me/5B54shfV",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 775,
+			"friends_count": 261,
+			"listed_count": 22,
+			"created_at": "Wed Nov 17 13:35:54 +0000 2010",
+			"favourites_count": 2041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170686527644389376/O1aT8jer_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170686527644389376/O1aT8jer_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/216698664/1554386765",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11월 2일 월요일 19:50 부산 영화의 전당에서 모처럼 &lt;투 올드 힙합 키드&gt; 상영합니다. 상영 후 GV 있어요. 관람료 천 원! https://t.co/eZlhC9T7zI"
+	},
+	{
+		"created_at": "Mon Oct 26 12:49:42 +0000 2020",
+		"id": 1320591882376757200,
+		"id_str": "1320709187899322373",
+		"full_text": "&lt;내언니전지현과 나&gt;가 개봉합니다. 영화감독을 꿈꾼지 10년, 일랜시아를 한지 16년이 지났습니다. 일랜시아를 하면서 영화감독을 꿈꾸게 됐는데, 일랜시아로 개봉을 하게 됐습니다. 무언가를 욕망하는게 쉽지 않은 현생이기에 저는 평생 덕후로 살고싶습니다 입소문내주신 트위터리안분들 고마워요💓 https://t.co/pKhjDcmtU4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1320591880443162600,
+					"id_str": "1320591880443162624",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ElOvUYcUcAAIQDD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElOvUYcUcAAIQDD.jpg",
+					"url": "https://t.co/pKhjDcmtU4",
+					"display_url": "pic.twitter.com/pKhjDcmtU4",
+					"expanded_url": "https://twitter.com/FRDvHGnRt9shP2b/status/1320591882376757248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320591880443162600,
+					"id_str": "1320591880443162624",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ElOvUYcUcAAIQDD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElOvUYcUcAAIQDD.jpg",
+					"url": "https://t.co/pKhjDcmtU4",
+					"display_url": "pic.twitter.com/pKhjDcmtU4",
+					"expanded_url": "https://twitter.com/FRDvHGnRt9shP2b/status/1320591882376757248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247157606285602800,
+			"id_str": "1247157606285602819",
+			"name": "일랜시아 내언니전지현",
+			"screen_name": "FRDvHGnRt9shP2b",
+			"location": "",
+			"description": "⭐내언니전지현과 나⭐라는 게임 다큐멘터리를 찍었습니다. 개봉 준비중입니다🕹🎮📽🎬",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 27,
+			"listed_count": 1,
+			"created_at": "Mon Apr 06 13:42:06 +0000 2020",
+			"favourites_count": 496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247179719126089729/qT-soJWB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247179719126089729/qT-soJWB_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 293,
+		"favorite_count": 220,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;내언니전지현과 나&gt;가 개봉합니다. 영화감독을 꿈꾼지 10년, 일랜시아를 한지 16년이 지났습니다. 일랜시아를 하면서 영화감독을 꿈꾸게 됐는데, 일랜시아로 개봉을 하게 됐습니다. 무언가를 욕망하는게 쉽지 않은 현생이기에 저는 평생 덕후로 살고싶습니다 입소문내주신 트위터리안분들 고마워요💓 https://t.co/pKhjDcmtU4"
+	},
+	{
+		"created_at": "Mon Oct 26 10:10:15 +0000 2020",
+		"id": 1320669061529792500,
+		"id_str": "1320669061529792512",
+		"full_text": "부국제에서 찍은 영상들 업로드 하려면 8월 모 영화부터 업뎃해야한다는 엄청난 사건....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 1095,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "부국제에서 찍은 영상들 업로드 하려면 8월 모 영화부터 업뎃해야한다는 엄청난 사건...."
+	},
+	{
+		"created_at": "Mon Oct 26 10:04:23 +0000 2020",
+		"id": 1320667584836956200,
+		"id_str": "1320667584836956160",
+		"full_text": "기쁜 우리 여름날 엔딩크레딧에 4월쓰 노래나와서 음감님이 이번에도 김해원님인줄 알았는데 아니더라고 특출로 나온 예지배우 반가웠더",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 1095,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "기쁜 우리 여름날 엔딩크레딧에 4월쓰 노래나와서 음감님이 이번에도 김해원님인줄 알았는데 아니더라고 특출로 나온 예지배우 반가웠더"
+	},
+	{
 		"created_at": "Sun Oct 25 16:13:03 +0000 2020",
 		"id": 1320397972987756500,
 		"id_str": "1320397972987756544",
