@@ -1,6 +1,989 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 27 14:11:08 +0000 2020",
+		"id": 1321092066798116900,
+		"id_str": "1321092066798116865",
+		"full_text": "부국제에서 찍은 사진 하나씩 보는데 너무 어두워서 그냥 사진 몇장찍고 영상으로 돌림 201026 기쁜 우리 여름날 배우 지수. 감독님 보러 갔는데 감독님 사진 2장 찍었는데 망함 죄송,,,,, https://t.co/rgYKts3JZU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321092042995470300,
+					"id_str": "1321092042995470337",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/ElV2NrJXEAEN3in.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElV2NrJXEAEN3in.jpg",
+					"url": "https://t.co/rgYKts3JZU",
+					"display_url": "pic.twitter.com/rgYKts3JZU",
+					"expanded_url": "https://twitter.com/sekaist/status/1321092066798116865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321092042995470300,
+					"id_str": "1321092042995470337",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/ElV2NrJXEAEN3in.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElV2NrJXEAEN3in.jpg",
+					"url": "https://t.co/rgYKts3JZU",
+					"display_url": "pic.twitter.com/rgYKts3JZU",
+					"expanded_url": "https://twitter.com/sekaist/status/1321092066798116865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1321092042999632000,
+					"id_str": "1321092042999631872",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/ElV2NrKWkAA9Ib3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElV2NrKWkAA9Ib3.jpg",
+					"url": "https://t.co/rgYKts3JZU",
+					"display_url": "pic.twitter.com/rgYKts3JZU",
+					"expanded_url": "https://twitter.com/sekaist/status/1321092066798116865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 619,
+			"friends_count": 1097,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "부국제에서 찍은 사진 하나씩 보는데 너무 어두워서 그냥 사진 몇장찍고 영상으로 돌림 201026 기쁜 우리 여름날 배우 지수. 감독님 보러 갔는데 감독님 사진 2장 찍었는데 망함 죄송,,,,, https://t.co/rgYKts3JZU"
+	},
+	{
+		"created_at": "Tue Oct 27 12:43:04 +0000 2020",
+		"id": 1321069906171838500,
+		"id_str": "1321069906171838466",
+		"full_text": "“고귀함을 뜻하는 이탈리아어에서 유래된 마세라티 노빌레 에디션도 전 세계 40대 한정의 특별함을 지녔다.” 와우내",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 619,
+			"friends_count": 1097,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "“고귀함을 뜻하는 이탈리아어에서 유래된 마세라티 노빌레 에디션도 전 세계 40대 한정의 특별함을 지녔다.” 와우내"
+	},
+	{
+		"created_at": "Tue Oct 27 12:42:41 +0000 2020",
+		"id": 1321069575455211500,
+		"id_str": "1321069807458873346",
+		"full_text": "이것이 머선일이야ㅠㅠ\nhttps://t.co/JllVId9mi9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JllVId9mi9",
+					"expanded_url": "http://www.noblesse.com/home/news/magazine/detail.php?no=10384",
+					"display_url": "noblesse.com/home/news/maga…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1237317262987542500,
+			"id_str": "1237317262987542528",
+			"name": "Tschi_Teo",
+			"screen_name": "tschi_teo",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 619,
+			"friends_count": 22,
+			"listed_count": 3,
+			"created_at": "Tue Mar 10 10:00:10 +0000 2020",
+			"favourites_count": 1239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4661,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277968186348982272/LX8P9Mdc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277968186348982272/LX8P9Mdc_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이것이 머선일이야ㅠㅠ\nhttps://t.co/JllVId9mi9"
+	},
+	{
+		"created_at": "Tue Oct 27 12:41:16 +0000 2020",
+		"id": 1321069453321195500,
+		"id_str": "1321069453321195520",
+		"full_text": "@laran0507 @YouTube 요즘에 엔딩크레딧에 좋은 노래 나오면 괜시리 좋더라고 나중에 영화랑 같이 연결되거 떠올라 예)혜화,동",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laran0507",
+					"name": "Ran💙",
+					"id": 1250795549680267300,
+					"id_str": "1250795549680267265",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1321069150706397200,
+		"in_reply_to_status_id_str": "1321069150706397186",
+		"in_reply_to_user_id": 1250795549680267300,
+		"in_reply_to_user_id_str": "1250795549680267265",
+		"in_reply_to_screen_name": "laran0507",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 619,
+			"friends_count": 1097,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@laran0507 @YouTube 요즘에 엔딩크레딧에 좋은 노래 나오면 괜시리 좋더라고 나중에 영화랑 같이 연결되거 떠올라 예)혜화,동"
+	},
+	{
+		"created_at": "Tue Oct 27 12:32:53 +0000 2020",
+		"id": 1321067341371723800,
+		"id_str": "1321067341371723776",
+		"full_text": "영화 여름날 엔딩크레딧엔 이랑의 평범한 사람이 흘러나온다. 여름날의 인물들과너무나도 잘 어울리는 평범한 사람들의 노래 https://t.co/YQKtWwoT3v - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YQKtWwoT3v",
+					"expanded_url": "https://youtu.be/dFpp_PC1wgs",
+					"display_url": "youtu.be/dFpp_PC1wgs",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 619,
+			"friends_count": 1097,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영화 여름날 엔딩크레딧엔 이랑의 평범한 사람이 흘러나온다. 여름날의 인물들과너무나도 잘 어울리는 평범한 사람들의 노래 https://t.co/YQKtWwoT3v - @YouTube"
+	},
+	{
+		"created_at": "Tue Oct 27 12:30:18 +0000 2020",
+		"id": 1321019054295904300,
+		"id_str": "1321066692580044801",
+		"full_text": "오늘도 함박웃음 https://t.co/rUVgkd5ff7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321019045735321600,
+					"id_str": "1321019045735321600",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/ElUz0rKUUAA18xT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElUz0rKUUAA18xT.jpg",
+					"url": "https://t.co/rUVgkd5ff7",
+					"display_url": "pic.twitter.com/rUVgkd5ff7",
+					"expanded_url": "https://twitter.com/2sunkyu/status/1321019054295904256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1241,
+							"h": 698,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321019045735321600,
+					"id_str": "1321019045735321600",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/ElUz0rKUUAA18xT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElUz0rKUUAA18xT.jpg",
+					"url": "https://t.co/rUVgkd5ff7",
+					"display_url": "pic.twitter.com/rUVgkd5ff7",
+					"expanded_url": "https://twitter.com/2sunkyu/status/1321019054295904256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1241,
+							"h": 698,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126699468,
+			"id_str": "126699468",
+			"name": "이선규",
+			"screen_name": "2sunkyu",
+			"location": "",
+			"description": "man",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2691,
+			"friends_count": 106,
+			"listed_count": 69,
+			"created_at": "Fri Mar 26 18:20:30 +0000 2010",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077886139338448896/ONGm7dac_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077886139338448896/ONGm7dac_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126699468/1545823059",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 458,
+		"favorite_count": 193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘도 함박웃음 https://t.co/rUVgkd5ff7"
+	},
+	{
+		"created_at": "Tue Oct 27 10:29:57 +0000 2020",
+		"id": 1321030126490980400,
+		"id_str": "1321036406756552704",
+		"full_text": "Don't Start Now Bass Cover | Dua Lipa 두아 리파 | 베이스 호주머니 (Bass Ho)\n\n▶ https://t.co/VMEt9vqwu5\n\n#Lacuna #라쿠나 #김호 #KIMHO #DontStartNow #DuaLipa https://t.co/TC4RrTx2H2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lacuna",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "라쿠나",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "김호",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "KIMHO",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "DontStartNow",
+					"indices": [
+						117,
+						130
+					]
+				},
+				{
+					"text": "DuaLipa",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VMEt9vqwu5",
+					"expanded_url": "http://youtu.be/A5KRwVlSxzg",
+					"display_url": "youtu.be/A5KRwVlSxzg",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1320713084252504000,
+					"id_str": "1320713084252504066",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1320713084252504066/pu/img/0lVC_5UTGbeSDiIy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1320713084252504066/pu/img/0lVC_5UTGbeSDiIy.jpg",
+					"url": "https://t.co/TC4RrTx2H2",
+					"display_url": "pic.twitter.com/TC4RrTx2H2",
+					"expanded_url": "https://twitter.com/Lacuna_Official/status/1321030126490980352/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320713084252504000,
+					"id_str": "1320713084252504066",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1320713084252504066/pu/img/0lVC_5UTGbeSDiIy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1320713084252504066/pu/img/0lVC_5UTGbeSDiIy.jpg",
+					"url": "https://t.co/TC4RrTx2H2",
+					"display_url": "pic.twitter.com/TC4RrTx2H2",
+					"expanded_url": "https://twitter.com/Lacuna_Official/status/1321030126490980352/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 56067,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1320713084252504066/pu/pl/aQ6v0aTgxagZXu8y.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1320713084252504066/pu/vid/480x270/QSb-W8AK1ojFcweW.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1320713084252504066/pu/vid/640x360/rhkRDnr6oHlGBnGF.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1320713084252504066/pu/vid/1280x720/Hu8Y6RvK2XY6AcGM.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1315546063781027800,
+			"id_str": "1315546063781027840",
+			"name": "Lacuna (라쿠나)",
+			"screen_name": "Lacuna_Official",
+			"location": "",
+			"description": "Lacuna(라쿠나) Official\nHappily Ever After 💙",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Mon Oct 12 06:53:40 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315546243217539072/Oj2sU0oN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315546243217539072/Oj2sU0oN_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Don't Start Now Bass Cover | Dua Lipa 두아 리파 | 베이스 호주머니 (Bass Ho)\n\n▶ https://t.co/VMEt9vqwu5\n\n#Lacuna #라쿠나 #김호 #KIMHO #DontStartNow #DuaLipa https://t.co/TC4RrTx2H2"
+	},
+	{
 		"created_at": "Mon Oct 26 14:00:34 +0000 2020",
 		"id": 1320727021886918700,
 		"id_str": "1320727021886918657",
@@ -391,7 +1374,7 @@ Grailbird.data.tweets_2020_10 =
 			"name": "tmi of 유태오",
 			"screen_name": "tmiofteoyoo",
 			"location": "중복있을 수 있음 흐린눈 부탁😀",
-			"description": "TEO YOO/배우 유태오의 tmi 모음계/ 팬분들 보다는 간잽 하시는 분들의 입덕부정기를 깨드리기 위한 영업용 계정입니다🐢 구독 환영🙇‍♀️ (머니게임 유진한/ 보건교사안은영 매켄지/ 배가본드 제롬/ 아스달연대기 라가즈/초콜릿 만두전골 민성이 그 사람 맞음) ❤알람OFF❤",
+			"description": "TEO YOO/배우 유태오의 tmi 모음계/ 팬분들 보다는 간잽 하시는 분들의 입덕부정기를 깨드리기 위한 영업용 계정입니다🐢 구독 환영🙇♀️ (머니게임 유진한/ 보건교사안은영 매켄지/ 배가본드 제롬/ 아스달연대기 라가즈/초콜릿 만두전골 민성이 그 사람 맞음) ❤알람OFF❤",
 			"url": null,
 			"entities": {
 				"description": {
