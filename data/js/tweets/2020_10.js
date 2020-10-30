@@ -1,6 +1,899 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 29 16:11:10 +0000 2020",
+		"id": 1321847052259659800,
+		"id_str": "1321847052259659776",
+		"full_text": "와 나 카메라 재설정하고 30p로 찍은지도 모르고 프리미어에 미리 만들어놓은 60p 시퀀스 사용해서 인코딩한거 오늘 알았네",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 620,
+			"friends_count": 1098,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "와 나 카메라 재설정하고 30p로 찍은지도 모르고 프리미어에 미리 만들어놓은 60p 시퀀스 사용해서 인코딩한거 오늘 알았네"
+	},
+	{
+		"created_at": "Thu Oct 29 13:38:23 +0000 2020",
+		"id": 1321803918062440400,
+		"id_str": "1321808601539768326",
+		"full_text": "유태오가 바라본 이강생, 마티아스 쇼에나이츠, 톰 하디에 관한 코멘트는 간명하고 매력적이다. 자신과 닮은 혹은 정반대의 페르소나를 정확히 알고 그걸 쿨하게 읊기란 쉽지 않은 일이다. 특히 배우에게. https://t.co/ixCj1QWhZU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ixCj1QWhZU",
+					"expanded_url": "https://twitter.com/cine21_editor/status/1321632137938825216",
+					"display_url": "twitter.com/cine21_editor/…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 728656616728330200,
+			"id_str": "728656616728330245",
+			"name": "김소미 Somi Kim",
+			"screen_name": "see_imos",
+			"location": "",
+			"description": "CINE21 기자 l film journalist 📧yiyi@cine21.com",
+			"url": "https://t.co/pky30PXXLH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pky30PXXLH",
+							"expanded_url": "https://youtu.be/hKTEMlULYpg",
+							"display_url": "youtu.be/hKTEMlULYpg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 358,
+			"listed_count": 1,
+			"created_at": "Fri May 06 18:44:10 +0000 2016",
+			"favourites_count": 5198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1279468820713754626/YHOJaWs2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279468820713754626/YHOJaWs2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/728656616728330245/1593884211",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321632137938825200,
+		"quoted_status_id_str": "1321632137938825216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ixCj1QWhZU",
+			"expanded": "https://twitter.com/cine21_editor/status/1321632137938825216",
+			"display": "twitter.com/cine21_editor/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 29 01:57:11 +0000 2020",
+			"id": 1321632137938825200,
+			"id_str": "1321632137938825216",
+			"full_text": "[액터] \n&lt;보건교사 안은영&gt; 유태오 \n- 솔직한 과정주의자 -\n\n\"나는 나를 연구하고 발견하는 형의 배우가 아니다. 모든 게 이미 내 속에 존재한다고 믿는 쪽이고, 그중 어느 한쪽을 보여주는 것뿐이다. \"\n\nhttps://t.co/7wIVncgOXy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7wIVncgOXy",
+						"expanded_url": "http://www.cine21.com/news/view/?mag_id=96389",
+						"display_url": "cine21.com/news/view/?mag…",
+						"indices": [
+							123,
+							146
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 130821868,
+				"id_str": "130821868",
+				"name": "cine21_editor",
+				"screen_name": "cine21_editor",
+				"location": "서울, 영등포구, 당산",
+				"description": "창간 25주년을 맞은 씨네21입니다. 📙최신호, 과월호 구입 👉 https://t.co/xd30HUeMc5  📕e북, 리디북스, 교보문고, 모아진, 중앙 조인스, 밀리의 서재  https://t.co/d9WYdzC4Xe",
+				"url": "https://t.co/2oKMERpkOg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2oKMERpkOg",
+								"expanded_url": "http://www.cine21.com",
+								"display_url": "cine21.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xd30HUeMc5",
+								"expanded_url": "https://smartstore.naver.com/cine21",
+								"display_url": "smartstore.naver.com/cine21",
+								"indices": [
+									36,
+									59
+								]
+							},
+							{
+								"url": "https://t.co/d9WYdzC4Xe",
+								"expanded_url": "https://www.youtube.com/c/cine21tv/featured",
+								"display_url": "youtube.com/c/cine21tv/fea…",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 446673,
+				"friends_count": 542,
+				"listed_count": 1686,
+				"created_at": "Thu Apr 08 12:28:06 +0000 2010",
+				"favourites_count": 65,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7215,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1245611566659035136/pjOBmXRZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245611566659035136/pjOBmXRZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/130821868/1603418716",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 124,
+			"favorite_count": 171,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유태오가 바라본 이강생, 마티아스 쇼에나이츠, 톰 하디에 관한 코멘트는 간명하고 매력적이다. 자신과 닮은 혹은 정반대의 페르소나를 정확히 알고 그걸 쿨하게 읊기란 쉽지 않은 일이다. 특히 배우에게. https://t.co/ixCj1QWhZU"
+	},
+	{
+		"created_at": "Thu Oct 29 09:52:46 +0000 2020",
+		"id": 1321749140309643300,
+		"id_str": "1321751825322663936",
+		"full_text": "새 앨범. 11월 11일입니다! https://t.co/5hPahI3Bw6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5hPahI3Bw6",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1321738622404497413",
+					"display_url": "twitter.com/musicfarmkorea…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 51315123,
+			"id_str": "51315123",
+			"name": "이적 Juck Lee",
+			"screen_name": "jucklee",
+			"location": "Seoul, Korea",
+			"description": "singer-songwriter",
+			"url": "https://t.co/naCUORYKCz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/naCUORYKCz",
+							"expanded_url": "http://leejuck.com",
+							"display_url": "leejuck.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1360177,
+			"friends_count": 248,
+			"listed_count": 6653,
+			"created_at": "Sat Jun 27 02:18:28 +0000 2009",
+			"favourites_count": 2575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320900176207171585/IyNHFtD2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320900176207171585/IyNHFtD2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/51315123/1474466813",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321738622404497400,
+		"quoted_status_id_str": "1321738622404497413",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5hPahI3Bw6",
+			"expanded": "https://twitter.com/musicfarmkorea/status/1321738622404497413",
+			"display": "twitter.com/musicfarmkorea…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 29 09:00:18 +0000 2020",
+			"id": 1321738622404497400,
+			"id_str": "1321738622404497413",
+			"full_text": "[New Album D-13]\n\n이적, 정규 6집 《Trace》\n𝟮𝟬𝟮𝟬. 𝟭𝟭. 𝟭𝟭. 𝗪𝗘𝗗. 𝟲𝗣𝗠 (𝗞𝗦𝗧)\n\n@jucklee #이적 #LEEJUCK\n#이적6집 #TRACE #20201111_6PM https://t.co/3Wb35qdXwu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "이적",
+						"indices": [
+							75,
+							78
+						]
+					},
+					{
+						"text": "LEEJUCK",
+						"indices": [
+							79,
+							87
+						]
+					},
+					{
+						"text": "이적6집",
+						"indices": [
+							88,
+							93
+						]
+					},
+					{
+						"text": "TRACE",
+						"indices": [
+							94,
+							100
+						]
+					},
+					{
+						"text": "20201111_6PM",
+						"indices": [
+							101,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jucklee",
+						"name": "이적 Juck Lee",
+						"id": 51315123,
+						"id_str": "51315123",
+						"indices": [
+							66,
+							74
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1321738596198436900,
+						"id_str": "1321738596198436864",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/ElfCQBhU0AA-di6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElfCQBhU0AA-di6.jpg",
+						"url": "https://t.co/3Wb35qdXwu",
+						"display_url": "pic.twitter.com/3Wb35qdXwu",
+						"expanded_url": "https://twitter.com/musicfarmkorea/status/1321738622404497413/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1321738596198436900,
+						"id_str": "1321738596198436864",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/ElfCQBhU0AA-di6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElfCQBhU0AA-di6.jpg",
+						"url": "https://t.co/3Wb35qdXwu",
+						"display_url": "pic.twitter.com/3Wb35qdXwu",
+						"expanded_url": "https://twitter.com/musicfarmkorea/status/1321738622404497413/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 387577661,
+				"id_str": "387577661",
+				"name": "뮤직팜 Music Farm",
+				"screen_name": "musicfarmkorea",
+				"location": "",
+				"description": "이적, 김동률, 존박, 곽진언 https://t.co/SM5R7KFVIr",
+				"url": "https://t.co/eSVSBHrncV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eSVSBHrncV",
+								"expanded_url": "http://www.instagram.com/musicfarmkorea",
+								"display_url": "instagram.com/musicfarmkorea",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SM5R7KFVIr",
+								"expanded_url": "http://www.musicfarm.co.kr",
+								"display_url": "musicfarm.co.kr",
+								"indices": [
+									17,
+									40
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9156,
+				"friends_count": 5,
+				"listed_count": 111,
+				"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+				"favourites_count": 18,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 732,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "86B577",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+				"profile_link_color": "136785",
+				"profile_sidebar_border_color": "46555C",
+				"profile_sidebar_fill_color": "B9BDBF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 74,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 163,
+		"favorite_count": 345,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새 앨범. 11월 11일입니다! https://t.co/5hPahI3Bw6"
+	},
+	{
+		"created_at": "Thu Oct 29 09:21:40 +0000 2020",
+		"id": 1321738622404497400,
+		"id_str": "1321743997790900227",
+		"full_text": "[New Album D-13]\n\n이적, 정규 6집 《Trace》\n𝟮𝟬𝟮𝟬. 𝟭𝟭. 𝟭𝟭. 𝗪𝗘𝗗. 𝟲𝗣𝗠 (𝗞𝗦𝗧)\n\n@jucklee #이적 #LEEJUCK\n#이적6집 #TRACE #20201111_6PM https://t.co/3Wb35qdXwu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "LEEJUCK",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "이적6집",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "TRACE",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "20201111_6PM",
+					"indices": [
+						101,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적 Juck Lee",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321738596198436900,
+					"id_str": "1321738596198436864",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/ElfCQBhU0AA-di6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElfCQBhU0AA-di6.jpg",
+					"url": "https://t.co/3Wb35qdXwu",
+					"display_url": "pic.twitter.com/3Wb35qdXwu",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1321738622404497413/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321738596198436900,
+					"id_str": "1321738596198436864",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/ElfCQBhU0AA-di6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElfCQBhU0AA-di6.jpg",
+					"url": "https://t.co/3Wb35qdXwu",
+					"display_url": "pic.twitter.com/3Wb35qdXwu",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1321738622404497413/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언 https://t.co/SM5R7KFVIr",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/SM5R7KFVIr",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								17,
+								40
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9156,
+			"friends_count": 5,
+			"listed_count": 111,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[New Album D-13]\n\n이적, 정규 6집 《Trace》\n𝟮𝟬𝟮𝟬. 𝟭𝟭. 𝟭𝟭. 𝗪𝗘𝗗. 𝟲𝗣𝗠 (𝗞𝗦𝗧)\n\n@jucklee #이적 #LEEJUCK\n#이적6집 #TRACE #20201111_6PM https://t.co/3Wb35qdXwu"
+	},
+	{
 		"created_at": "Wed Oct 28 15:27:35 +0000 2020",
 		"id": 1321473693671854000,
 		"id_str": "1321473693671854081",
