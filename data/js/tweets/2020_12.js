@@ -1,6 +1,548 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 11:24:13 +0000 2020",
+		"id": 1337357346066972700,
+		"id_str": "1337357517798576128",
+		"full_text": "#레토\n오랜만의 &lt;레토&gt; 소식💚💜\n#유태오 배우님이 #홍지영 감독님과 함께 이번주 일요일! #방구석1열 에 출연합니다🎉 https://t.co/1cs8lbL0TU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레토",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "유태오",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "홍지영",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "방구석1열",
+					"indices": [
+						57,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337357265469247500,
+					"id_str": "1337357265469247490",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1337357265469247490/pu/img/xpmrVUIq03B71nwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1337357265469247490/pu/img/xpmrVUIq03B71nwn.jpg",
+					"url": "https://t.co/1cs8lbL0TU",
+					"display_url": "pic.twitter.com/1cs8lbL0TU",
+					"expanded_url": "https://twitter.com/at9film/status/1337357346066972679/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337357265469247500,
+					"id_str": "1337357265469247490",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1337357265469247490/pu/img/xpmrVUIq03B71nwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1337357265469247490/pu/img/xpmrVUIq03B71nwn.jpg",
+					"url": "https://t.co/1cs8lbL0TU",
+					"display_url": "pic.twitter.com/1cs8lbL0TU",
+					"expanded_url": "https://twitter.com/at9film/status/1337357346066972679/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 64064,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1337357265469247490/pu/pl/EHvs59eC__ghkRZB.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1337357265469247490/pu/vid/1280x720/WG0HFk7BE3eOxk7V.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1337357265469247490/pu/vid/480x270/QV0REUEULBuDrk_G.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1337357265469247490/pu/vid/640x360/i8Chv1KrtWjI4Nc3.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119295834,
+			"id_str": "119295834",
+			"name": "ATNINE FILM",
+			"screen_name": "at9film",
+			"location": "",
+			"description": "영화사 엣나인필름 공식 계정 ATNINE FILM CO., LTD. official twitter. https://t.co/7unczk7HpJ",
+			"url": "https://t.co/pSwybtWmaV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pSwybtWmaV",
+							"expanded_url": "http://facebook.com/at9film",
+							"display_url": "facebook.com/at9film",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7unczk7HpJ",
+							"expanded_url": "http://www.facebook.com/at9film",
+							"display_url": "facebook.com/at9film",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10998,
+			"friends_count": 4503,
+			"listed_count": 134,
+			"created_at": "Wed Mar 03 06:36:15 +0000 2010",
+			"favourites_count": 3533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331406462375981056/6_EzEkKI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331406462375981056/6_EzEkKI_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119295834/1606267013",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#레토\n오랜만의 &lt;레토&gt; 소식💚💜\n#유태오 배우님이 #홍지영 감독님과 함께 이번주 일요일! #방구석1열 에 출연합니다🎉 https://t.co/1cs8lbL0TU"
+	},
+	{
+		"created_at": "Fri Dec 11 07:48:07 +0000 2020",
+		"id": 1337298599734997000,
+		"id_str": "1337303135165956097",
+		"full_text": "검은잎들 선공개 싱글 [꽃을 주세요]가\n2020.12.15. 12pm(정오)에 발매됩니다. 내년에 나올 정규 1집을 기다리는 분들께 작은 선물이 되었으면 합니다. 기대해주세요! 🌼🌼 https://t.co/KeRWF6Ysqx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337298539190186000,
+					"id_str": "1337298539190185984",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1337298539190185984/pu/img/tORbNpnDHULFlTxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1337298539190185984/pu/img/tORbNpnDHULFlTxv.jpg",
+					"url": "https://t.co/KeRWF6Ysqx",
+					"display_url": "pic.twitter.com/KeRWF6Ysqx",
+					"expanded_url": "https://twitter.com/Leavesblack/status/1337298599734996993/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337298539190186000,
+					"id_str": "1337298539190185984",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1337298539190185984/pu/img/tORbNpnDHULFlTxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1337298539190185984/pu/img/tORbNpnDHULFlTxv.jpg",
+					"url": "https://t.co/KeRWF6Ysqx",
+					"display_url": "pic.twitter.com/KeRWF6Ysqx",
+					"expanded_url": "https://twitter.com/Leavesblack/status/1337298599734996993/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 27594,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1337298539190185984/pu/vid/320x320/8A6izh5HO9otoNek.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1337298539190185984/pu/vid/720x720/npAEXqsOovtypjRO.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1337298539190185984/pu/vid/480x480/xQ5l1n4-ldb8irrg.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1337298539190185984/pu/pl/n-WS0U0q7s07T7oh.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3432037692,
+			"id_str": "3432037692",
+			"name": "검은잎들",
+			"screen_name": "Leavesblack",
+			"location": "대한민국 부산",
+			"description": "동욱, 성민, 은하, 영웅",
+			"url": "https://t.co/5S32lPYbDw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5S32lPYbDw",
+							"expanded_url": "https://instagram.com/leavesblack_official",
+							"display_url": "instagram.com/leavesblack_of…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 103,
+			"listed_count": 4,
+			"created_at": "Thu Sep 03 02:14:53 +0000 2015",
+			"favourites_count": 139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1335809901814116354/B0pSIwZl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335809901814116354/B0pSIwZl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3432037692/1607673453",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "검은잎들 선공개 싱글 [꽃을 주세요]가\n2020.12.15. 12pm(정오)에 발매됩니다. 내년에 나올 정규 1집을 기다리는 분들께 작은 선물이 되었으면 합니다. 기대해주세요! 🌼🌼 https://t.co/KeRWF6Ysqx"
+	},
+	{
+		"created_at": "Fri Dec 11 07:06:47 +0000 2020",
+		"id": 1337292730918006800,
+		"id_str": "1337292730918006784",
+		"full_text": "@laran0507 오잉 참사랑입니다 이거👀",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laran0507",
+					"name": "Ran💙",
+					"id": 1250795549680267300,
+					"id_str": "1250795549680267265",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1337269611125862400,
+		"in_reply_to_status_id_str": "1337269611125862400",
+		"in_reply_to_user_id": 1250795549680267300,
+		"in_reply_to_user_id_str": "1250795549680267265",
+		"in_reply_to_screen_name": "laran0507",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 616,
+			"friends_count": 1101,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@laran0507 오잉 참사랑입니다 이거👀"
+	},
+	{
 		"created_at": "Thu Dec 10 12:45:54 +0000 2020",
 		"id": 1337015684371366000,
 		"id_str": "1337015684371365890",
