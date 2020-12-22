@@ -1,6 +1,938 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 21 23:21:05 +0000 2020",
+		"id": 1341158386943946800,
+		"id_str": "1341161802621587458",
+		"full_text": "예술지원금을 받는 아티스트가 문준용씨 기사를 보고 황당해서 쓴 글 https://t.co/tcbm4CCfkz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341158372708470800,
+					"id_str": "1341158372708470785",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EpzAbyjUUAEjgjQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpzAbyjUUAEjgjQ.png",
+					"url": "https://t.co/tcbm4CCfkz",
+					"display_url": "pic.twitter.com/tcbm4CCfkz",
+					"expanded_url": "https://twitter.com/aacacc666/status/1341158386943946753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 814,
+							"h": 689,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 814,
+							"h": 689,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341158372708470800,
+					"id_str": "1341158372708470785",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EpzAbyjUUAEjgjQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpzAbyjUUAEjgjQ.png",
+					"url": "https://t.co/tcbm4CCfkz",
+					"display_url": "pic.twitter.com/tcbm4CCfkz",
+					"expanded_url": "https://twitter.com/aacacc666/status/1341158386943946753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 814,
+							"h": 689,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 814,
+							"h": 689,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 196217220,
+			"id_str": "196217220",
+			"name": "🌒다크SIDE옵theMOON",
+			"screen_name": "aacacc666",
+			"location": "",
+			"description": "\"민주주의 최후의 보루는 깨어있는 시민의 조직된 힘입니다\" /김대중대통령님 / 노무현대통령님 / 지키겠습니다 문재인대통령님 / 조국장관님 서초촛불🎗/이낙연총리님/세월호 노회찬님.🤘신해철님,문파/브루탈데스메탈호남향우회\n//혐이제명",
+			"url": "https://t.co/HnEs0nXBES",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HnEs0nXBES",
+							"expanded_url": "https://www.youtube.com/watch?v=-gHVDm_1WrU&ab_channel=ahehheh23",
+							"display_url": "youtube.com/watch?v=-gHVDm…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13585,
+			"friends_count": 8827,
+			"listed_count": 22,
+			"created_at": "Tue Sep 28 16:14:32 +0000 2010",
+			"favourites_count": 35923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1339646766153494528/_WIMhnJI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339646766153494528/_WIMhnJI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/196217220/1607443811",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 145,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예술지원금을 받는 아티스트가 문준용씨 기사를 보고 황당해서 쓴 글 https://t.co/tcbm4CCfkz"
+	},
+	{
+		"created_at": "Mon Dec 21 12:20:32 +0000 2020",
+		"id": 1340995567938273300,
+		"id_str": "1340995567938273281",
+		"full_text": "[MV] YOON GUN(윤건) _ 12 times a day(하루에도 열두 번) https://t.co/AXzTlp4AYT - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						72,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AXzTlp4AYT",
+					"expanded_url": "https://youtu.be/N64BYzUcqmM",
+					"display_url": "youtu.be/N64BYzUcqmM",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 620,
+			"friends_count": 1106,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 1999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV] YOON GUN(윤건) _ 12 times a day(하루에도 열두 번) https://t.co/AXzTlp4AYT - @YouTube"
+	},
+	{
+		"created_at": "Mon Dec 21 08:17:14 +0000 2020",
+		"id": 1340930008521400300,
+		"id_str": "1340934340650274817",
+		"full_text": "펭-하!🐧 왕커서 왕귀여운 자이언트 펭귄💜 #펭수 가 원더케이에 찾아왔어요! 펭수가 직접 검색하는 펭수가 궁금하다면?! 내일 원더케이 본인등판에서 확인하세요😉\n#PENGSOO's &lt;Look Me Up&gt; Coming Soon! https://t.co/dgqFYynFZw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펭수",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "PENGSOO",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1340863560360943600,
+					"id_str": "1340863560360943617",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1340863560360943617/img/KIxGoIWuHH1FLzoJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1340863560360943617/img/KIxGoIWuHH1FLzoJ.jpg",
+					"url": "https://t.co/dgqFYynFZw",
+					"display_url": "pic.twitter.com/dgqFYynFZw",
+					"expanded_url": "https://twitter.com/1theK/status/1340930008521400320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340863560360943600,
+					"id_str": "1340863560360943617",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1340863560360943617/img/KIxGoIWuHH1FLzoJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1340863560360943617/img/KIxGoIWuHH1FLzoJ.jpg",
+					"url": "https://t.co/dgqFYynFZw",
+					"display_url": "pic.twitter.com/dgqFYynFZw",
+					"expanded_url": "https://twitter.com/1theK/status/1340930008521400320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 19753,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1340863560360943617/vid/1280x720/CJ-L0KoLIkKM5pBb.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1340863560360943617/vid/480x270/YcVlUMZfLS2SYAFK.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1340863560360943617/pl/SqR61j7JRFA-O_7o.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1340863560360943617/vid/640x360/2IsF8cjWMpSM1xc8.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2150581,
+			"friends_count": 814,
+			"listed_count": 1848,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1608289160",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 686,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "펭-하!🐧 왕커서 왕귀여운 자이언트 펭귄💜 #펭수 가 원더케이에 찾아왔어요! 펭수가 직접 검색하는 펭수가 궁금하다면?! 내일 원더케이 본인등판에서 확인하세요😉\n#PENGSOO's &lt;Look Me Up&gt; Coming Soon! https://t.co/dgqFYynFZw"
+	},
+	{
+		"created_at": "Mon Dec 21 06:04:51 +0000 2020",
+		"id": 1340898605083676700,
+		"id_str": "1340901025910145024",
+		"full_text": "세 #청춘 이 만나 꿈을 좇는 성장 드라마 영화 &lt;관계의가나다에 있는 우리는&gt;이 #2021년 #1월개봉 을 앞두고 통통 튀는 매력을 담은 티저 포스터를 공개했다.\n전문&gt; https://t.co/uCJEpUXW6n\n#싱글리스트 #관계의가나다에있는우리는 https://t.co/vTSUzmrFSO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청춘",
+					"indices": [
+						2,
+						5
+					]
+				},
+				{
+					"text": "2021년",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "1월개봉",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "싱글리스트",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "관계의가나다에있는우리는",
+					"indices": [
+						135,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uCJEpUXW6n",
+					"expanded_url": "https://bit.ly/37zsw5G",
+					"display_url": "bit.ly/37zsw5G",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1340897573066817500,
+					"id_str": "1340897573066817536",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EpvTPQLUwAAlK7k.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpvTPQLUwAAlK7k.png",
+					"url": "https://t.co/vTSUzmrFSO",
+					"display_url": "pic.twitter.com/vTSUzmrFSO",
+					"expanded_url": "https://twitter.com/cinemadal/status/1340898605083676672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 660,
+							"h": 472,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 660,
+							"h": 472,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 472,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340897573066817500,
+					"id_str": "1340897573066817536",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EpvTPQLUwAAlK7k.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpvTPQLUwAAlK7k.png",
+					"url": "https://t.co/vTSUzmrFSO",
+					"display_url": "pic.twitter.com/vTSUzmrFSO",
+					"expanded_url": "https://twitter.com/cinemadal/status/1340898605083676672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 660,
+							"h": 472,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 660,
+							"h": 472,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 472,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97352483,
+			"id_str": "97352483",
+			"name": "Cinema Dal",
+			"screen_name": "cinemadal",
+			"location": "Seoul",
+			"description": "독립영화 제작 & 배급사 시네마달 | 시네마달의 모든 작품은 찾아가는 극장 '공동체상영'으로 관람 가능합니다. 문의 : 02-337-2135",
+			"url": "https://t.co/KMBZ9ecYRV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KMBZ9ecYRV",
+							"expanded_url": "https://goo.gl/9asisw",
+							"display_url": "goo.gl/9asisw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15869,
+			"friends_count": 13503,
+			"listed_count": 348,
+			"created_at": "Thu Dec 17 03:28:09 +0000 2009",
+			"favourites_count": 353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273127981851070464/aX6FLGZd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273127981851070464/aX6FLGZd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/97352483/1592372341",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세 #청춘 이 만나 꿈을 좇는 성장 드라마 영화 &lt;관계의가나다에 있는 우리는&gt;이 #2021년 #1월개봉 을 앞두고 통통 튀는 매력을 담은 티저 포스터를 공개했다.\n전문&gt; https://t.co/uCJEpUXW6n\n#싱글리스트 #관계의가나다에있는우리는 https://t.co/vTSUzmrFSO"
+	},
+	{
+		"created_at": "Mon Dec 21 02:34:50 +0000 2020",
+		"id": 1340847757393711000,
+		"id_str": "1340848170377474048",
+		"full_text": "한동안 품절이었던 유태오 배우의 그림책 \n&lt;양말 괴물 테오&gt;가 재입고 되었습니다. \n\nhttps://t.co/1355LWHacB https://t.co/IN4rh54OuF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1355LWHacB",
+					"expanded_url": "https://bit.ly/2Knb6Aq",
+					"display_url": "bit.ly/2Knb6Aq",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1340847302110400500,
+					"id_str": "1340847302110400513",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EpulhGRU0AEZGY6.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpulhGRU0AEZGY6.png",
+					"url": "https://t.co/IN4rh54OuF",
+					"display_url": "pic.twitter.com/IN4rh54OuF",
+					"expanded_url": "https://twitter.com/aladinbook/status/1340847757393711106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 721,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 721,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340847302110400500,
+					"id_str": "1340847302110400513",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EpulhGRU0AEZGY6.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpulhGRU0AEZGY6.png",
+					"url": "https://t.co/IN4rh54OuF",
+					"display_url": "pic.twitter.com/IN4rh54OuF",
+					"expanded_url": "https://twitter.com/aladinbook/status/1340847757393711106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 721,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 721,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144770990,
+			"id_str": "144770990",
+			"name": "알라딘 인터넷서점",
+			"screen_name": "aladinbook",
+			"location": "37.633297,126.831383",
+			"description": "책 소식/책 정보/알라딘 주요 이벤트, 놓치지 않고 싶다면 팔로우해주세요! \n\n고객문의 https://t.co/aVaafafUXE \n인스타그램 https://t.co/UYuAHJtdGn\n알라디너TV https://t.co/8m8VRZecEo",
+			"url": "http://t.co/Vk5u1Zn01J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Vk5u1Zn01J",
+							"expanded_url": "http://m.aladin.co.kr",
+							"display_url": "m.aladin.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aVaafafUXE",
+							"expanded_url": "http://bit.ly/2MAHfSD",
+							"display_url": "bit.ly/2MAHfSD",
+							"indices": [
+								49,
+								72
+							]
+						},
+						{
+							"url": "https://t.co/UYuAHJtdGn",
+							"expanded_url": "https://bit.ly/2Um4Qup",
+							"display_url": "bit.ly/2Um4Qup",
+							"indices": [
+								80,
+								103
+							]
+						},
+						{
+							"url": "https://t.co/8m8VRZecEo",
+							"expanded_url": "http://bit.ly/2QUkUly",
+							"display_url": "bit.ly/2QUkUly",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 208776,
+			"friends_count": 21021,
+			"listed_count": 1054,
+			"created_at": "Mon May 17 07:35:05 +0000 2010",
+			"favourites_count": 1522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149497581258432514/gfaQmu-J_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149497581258432514/gfaQmu-J_normal.png",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한동안 품절이었던 유태오 배우의 그림책 \n&lt;양말 괴물 테오&gt;가 재입고 되었습니다. \n\nhttps://t.co/1355LWHacB https://t.co/IN4rh54OuF"
+	},
+	{
 		"created_at": "Sun Dec 20 11:56:12 +0000 2020",
 		"id": 1340627056854364200,
 		"id_str": "1340627056854364161",
