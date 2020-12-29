@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 28 10:10:02 +0000 2020",
+		"id": 1343491355855761400,
+		"id_str": "1343499440020049923",
+		"full_text": "[커피 따라 세계일주] LA 벌브 커피 로스터스, ‘질소 커피’의 원조를 만나다\nhttps://t.co/g6uahGWbvx\n\nLA의 벌브 로스터스는 '질소 커피'의 원조인 신생 프랜차이즈다. 이 신선한 발명의 뒤편에는, 말 그대로 '커피에 미쳐 사는' 두 남자의 열정이 있었다. https://t.co/hWA46TujRG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g6uahGWbvx",
+					"expanded_url": "https://ppss.kr/archives/228948",
+					"display_url": "ppss.kr/archives/228948",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1343491348159066000,
+					"id_str": "1343491348159066113",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EqUKQ1XU8AE9Soq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqUKQ1XU8AE9Soq.jpg",
+					"url": "https://t.co/hWA46TujRG",
+					"display_url": "pic.twitter.com/hWA46TujRG",
+					"expanded_url": "https://twitter.com/ppsskr/status/1343491355855761408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343491348159066000,
+					"id_str": "1343491348159066113",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EqUKQ1XU8AE9Soq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqUKQ1XU8AE9Soq.jpg",
+					"url": "https://t.co/hWA46TujRG",
+					"display_url": "pic.twitter.com/hWA46TujRG",
+					"expanded_url": "https://twitter.com/ppsskr/status/1343491355855761408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 354,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 992831082,
+			"id_str": "992831082",
+			"name": "ㅍㅍㅅㅅ",
+			"screen_name": "ppsskr",
+			"location": "",
+			"description": "필자와 독자의 경계가 없는 이슈 큐레이팅 매거진",
+			"url": "http://t.co/22eKl3pLgd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/22eKl3pLgd",
+							"expanded_url": "http://ppss.kr",
+							"display_url": "ppss.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231495,
+			"friends_count": 109,
+			"listed_count": 392,
+			"created_at": "Thu Dec 06 10:57:58 +0000 2012",
+			"favourites_count": 1768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 20382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091260273514565634/i4sWHJTG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091260273514565634/i4sWHJTG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/992831082/1531144326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[커피 따라 세계일주] LA 벌브 커피 로스터스, ‘질소 커피’의 원조를 만나다\nhttps://t.co/g6uahGWbvx\n\nLA의 벌브 로스터스는 '질소 커피'의 원조인 신생 프랜차이즈다. 이 신선한 발명의 뒤편에는, 말 그대로 '커피에 미쳐 사는' 두 남자의 열정이 있었다. https://t.co/hWA46TujRG"
+	},
+	{
 		"created_at": "Sat Dec 26 16:45:33 +0000 2020",
 		"id": 1342874200646721500,
 		"id_str": "1342874200646721537",
