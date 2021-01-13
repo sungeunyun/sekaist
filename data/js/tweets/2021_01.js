@@ -1,6 +1,785 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 12 09:50:25 +0000 2021",
+		"id": 1348917634713096200,
+		"id_str": "1348930321010446339",
+		"full_text": "#ELLE화보 #유태오 #섹시빌런 #새해전야 \n\n\"재즈에서 중요한 건 즉흥 연주잖아요. 삶도 예측되지 않아서 더 큰 감정으로 다가오는 지점이 있어요. \"\n\n인터뷰읽기📲https://t.co/pkw8fOgwzz https://t.co/vdNq83D8xF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLE화보",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "유태오",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "섹시빌런",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "새해전야",
+					"indices": [
+						19,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pkw8fOgwzz",
+					"expanded_url": "https://bit.ly/35z0ENH",
+					"display_url": "bit.ly/35z0ENH",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1348814845454401500,
+					"id_str": "1348814845454401539",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Erfz9KMVQAMDiQB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erfz9KMVQAMDiQB.jpg",
+					"url": "https://t.co/vdNq83D8xF",
+					"display_url": "pic.twitter.com/vdNq83D8xF",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1348917634713096193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348814845454401500,
+					"id_str": "1348814845454401539",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Erfz9KMVQAMDiQB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erfz9KMVQAMDiQB.jpg",
+					"url": "https://t.co/vdNq83D8xF",
+					"display_url": "pic.twitter.com/vdNq83D8xF",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1348917634713096193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348812466109599700,
+					"id_str": "1348812466109599744",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ErfxyqcU0AAN3gW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErfxyqcU0AAN3gW.jpg",
+					"url": "https://t.co/vdNq83D8xF",
+					"display_url": "pic.twitter.com/vdNq83D8xF",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1348917634713096193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348812510737039400,
+					"id_str": "1348812510737039360",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Erfx1QsVgAAwLjY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erfx1QsVgAAwLjY.jpg",
+					"url": "https://t.co/vdNq83D8xF",
+					"display_url": "pic.twitter.com/vdNq83D8xF",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1348917634713096193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348812510745428000,
+					"id_str": "1348812510745427971",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Erfx1QuVgAMPI5s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erfx1QuVgAMPI5s.jpg",
+					"url": "https://t.co/vdNq83D8xF",
+					"display_url": "pic.twitter.com/vdNq83D8xF",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1348917634713096193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 ELLE KOREA 공식 트위터 official twitter 입니다.",
+			"url": "https://t.co/wrg4l4aKRf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wrg4l4aKRf",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132478,
+			"friends_count": 3486,
+			"listed_count": 405,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1608018371",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 108,
+		"favorite_count": 244,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLE화보 #유태오 #섹시빌런 #새해전야 \n\n\"재즈에서 중요한 건 즉흥 연주잖아요. 삶도 예측되지 않아서 더 큰 감정으로 다가오는 지점이 있어요. \"\n\n인터뷰읽기📲https://t.co/pkw8fOgwzz https://t.co/vdNq83D8xF"
+	},
+	{
+		"created_at": "Tue Jan 12 07:38:33 +0000 2021",
+		"id": 1348892501122244600,
+		"id_str": "1348897139095597059",
+		"full_text": "공군 '치킨 갑질' 반박 글에 본사 관계자 \"사실과 달라\"https://t.co/CI5hYEy5p3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CI5hYEy5p3",
+					"expanded_url": "https://m.ytn.co.kr/news/202101121605017465_0103_018.html",
+					"display_url": "m.ytn.co.kr/news/202101121…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.ytn.co.kr\" rel=\"nofollow\">YTN</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108872550,
+			"id_str": "108872550",
+			"name": "YTN NEWS",
+			"screen_name": "YTN24",
+			"location": "Seoul, Korea",
+			"description": "뉴스 덕후 YTN의 공식 트위터 계정",
+			"url": "https://t.co/nmpmv3VegU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nmpmv3VegU",
+							"expanded_url": "http://www.ytn.co.kr",
+							"display_url": "ytn.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 328599,
+			"friends_count": 112173,
+			"listed_count": 3383,
+			"created_at": "Wed Jan 27 07:58:07 +0000 2010",
+			"favourites_count": 6567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291265911114960897/GzlpDNVV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291265911114960897/GzlpDNVV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108872550/1596696760",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공군 '치킨 갑질' 반박 글에 본사 관계자 \"사실과 달라\"https://t.co/CI5hYEy5p3"
+	},
+	{
+		"created_at": "Tue Jan 12 04:27:48 +0000 2021",
+		"id": 1348842150784471000,
+		"id_str": "1348849133482700801",
+		"full_text": "오늘 저녁 6시 이 음원이 발표된답니다!\n#이적 #윤석철 #쉼표 #소울 #엔드크레딧송 #disney #pixar #soul #rest #tonight #6pm #개봉은0120 https://t.co/iCMHzt0n6s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "쉼표",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "소울",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "엔드크레딧송",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "disney",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "pixar",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "soul",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "rest",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "tonight",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "6pm",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "개봉은0120",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348842141829656600,
+					"id_str": "1348842141829656578",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/ErgMyBHVcAIsljx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErgMyBHVcAIsljx.jpg",
+					"url": "https://t.co/iCMHzt0n6s",
+					"display_url": "pic.twitter.com/iCMHzt0n6s",
+					"expanded_url": "https://twitter.com/jucklee/status/1348842150784471042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348842141829656600,
+					"id_str": "1348842141829656578",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/ErgMyBHVcAIsljx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErgMyBHVcAIsljx.jpg",
+					"url": "https://t.co/iCMHzt0n6s",
+					"display_url": "pic.twitter.com/iCMHzt0n6s",
+					"expanded_url": "https://twitter.com/jucklee/status/1348842150784471042/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 51315123,
+			"id_str": "51315123",
+			"name": "이적",
+			"screen_name": "jucklee",
+			"location": "Seoul, Korea",
+			"description": "singer-songwriter.  정규 6집 《Trace》",
+			"url": "https://t.co/naCUORYKCz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/naCUORYKCz",
+							"expanded_url": "http://leejuck.com",
+							"display_url": "leejuck.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1354725,
+			"friends_count": 251,
+			"listed_count": 6618,
+			"created_at": "Sat Jun 27 02:18:28 +0000 2009",
+			"favourites_count": 2592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320900176207171585/IyNHFtD2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320900176207171585/IyNHFtD2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/51315123/1474466813",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 저녁 6시 이 음원이 발표된답니다!\n#이적 #윤석철 #쉼표 #소울 #엔드크레딧송 #disney #pixar #soul #rest #tonight #6pm #개봉은0120 https://t.co/iCMHzt0n6s"
+	},
+	{
+		"created_at": "Tue Jan 12 03:08:37 +0000 2021",
+		"id": 1348829204482199600,
+		"id_str": "1348829204482199555",
+		"full_text": "@fallsstar 저도 먹고싶었어요 몇번을 봤는지...",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fallsstar",
+					"name": "ʜʀ ᴘɪᴄ.",
+					"id": 265341125,
+					"id_str": "265341125",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1348822079454339000,
+		"in_reply_to_status_id_str": "1348822079454339073",
+		"in_reply_to_user_id": 265341125,
+		"in_reply_to_user_id_str": "265341125",
+		"in_reply_to_screen_name": "fallsstar",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 624,
+			"friends_count": 1107,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@fallsstar 저도 먹고싶었어요 몇번을 봤는지..."
+	},
+	{
 		"created_at": "Mon Jan 11 17:49:23 +0000 2021",
 		"id": 1348688470215049200,
 		"id_str": "1348688470215049216",
