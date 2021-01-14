@@ -1,6 +1,1189 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 14 00:08:51 +0000 2021",
+		"id": 1349503371640639500,
+		"id_str": "1349508743529021441",
+		"full_text": "이장원 보고 있니 내가 산소미포함을 시작했어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116168125,
+			"id_str": "116168125",
+			"name": "이이언",
+			"screen_name": "eaeon",
+			"location": "Seoul",
+			"description": "못Mot, 나이트오프 Night Off",
+			"url": "https://t.co/MxIzdbK4UT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MxIzdbK4UT",
+							"expanded_url": "https://www.instagram.com/eaeon/",
+							"display_url": "instagram.com/eaeon/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126895,
+			"friends_count": 578,
+			"listed_count": 593,
+			"created_at": "Sun Feb 21 12:16:58 +0000 2010",
+			"favourites_count": 2313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BAD4DE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2725238239/dbc4b660aaa6ad2e3cfd6dd5e0061aac_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2725238239/dbc4b660aaa6ad2e3cfd6dd5e0061aac_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116168125/1401466661",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이장원 보고 있니 내가 산소미포함을 시작했어"
+	},
+	{
+		"created_at": "Wed Jan 13 23:30:05 +0000 2021",
+		"id": 1349498986336407600,
+		"id_str": "1349498986336407556",
+		"full_text": "오랜만에 코트 입으니까 기분이 좋소",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1108,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오랜만에 코트 입으니까 기분이 좋소"
+	},
+	{
+		"created_at": "Wed Jan 13 14:06:32 +0000 2021",
+		"id": 1349355523448062000,
+		"id_str": "1349357166411407361",
+		"full_text": "You can watch Huey, Fran’s British Blue’s, debut performance in the video for Nina’s song now live on our @YouTube channel. Enjoy and share! Fran, Dougie, Andy &amp; Neil x\nhttps://t.co/aN1AfsECYr\n#cats #catmeme #britishblue #britishbluecat #deepfake https://t.co/Lou5YvgPYe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cats",
+					"indices": [
+						197,
+						202
+					]
+				},
+				{
+					"text": "catmeme",
+					"indices": [
+						203,
+						211
+					]
+				},
+				{
+					"text": "britishblue",
+					"indices": [
+						212,
+						224
+					]
+				},
+				{
+					"text": "britishbluecat",
+					"indices": [
+						225,
+						240
+					]
+				},
+				{
+					"text": "deepfake",
+					"indices": [
+						241,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						106,
+						114
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aN1AfsECYr",
+					"expanded_url": "https://travis.lnk.to/ninassongvideo",
+					"display_url": "travis.lnk.to/ninassongvideo",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1349344432806654000,
+					"id_str": "1349344432806653953",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1349344432806653953/pu/img/dsVRCO70dT0dNsRR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1349344432806653953/pu/img/dsVRCO70dT0dNsRR.jpg",
+					"url": "https://t.co/Lou5YvgPYe",
+					"display_url": "pic.twitter.com/Lou5YvgPYe",
+					"expanded_url": "https://twitter.com/TravisBand/status/1349355523448061953/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349344432806654000,
+					"id_str": "1349344432806653953",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1349344432806653953/pu/img/dsVRCO70dT0dNsRR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1349344432806653953/pu/img/dsVRCO70dT0dNsRR.jpg",
+					"url": "https://t.co/Lou5YvgPYe",
+					"display_url": "pic.twitter.com/Lou5YvgPYe",
+					"expanded_url": "https://twitter.com/TravisBand/status/1349355523448061953/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28560,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1349344432806653953/pu/vid/1280x720/RRNSIHsM1wxYWFOS.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1349344432806653953/pu/vid/480x270/hb3MV57-zepMKr_b.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1349344432806653953/pu/pl/qkxTbqECcPCABdJC.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1349344432806653953/pu/vid/640x360/S3qArAqpd4seWqXr.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 549808548,
+			"id_str": "549808548",
+			"name": "Travis",
+			"screen_name": "TravisBand",
+			"location": "UK, EU, USA",
+			"description": "Crafting Songs From Wicker Since 1997. The new album '10 Songs' is out now! https://t.co/1BaMdyKAbr",
+			"url": "https://t.co/KbQSWnNZgA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KbQSWnNZgA",
+							"expanded_url": "https://www.travisonline.com/",
+							"display_url": "travisonline.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1BaMdyKAbr",
+							"expanded_url": "https://travis.lnk.to/10songsTW",
+							"display_url": "travis.lnk.to/10songsTW",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44905,
+			"friends_count": 90,
+			"listed_count": 442,
+			"created_at": "Tue Apr 10 02:03:50 +0000 2012",
+			"favourites_count": 602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268127756556079111/CAxz-9Nf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268127756556079111/CAxz-9Nf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/549808548/1602230243",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 234,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can watch Huey, Fran’s British Blue’s, debut performance in the video for Nina’s song now live on our @YouTube channel. Enjoy and share! Fran, Dougie, Andy &amp; Neil x\nhttps://t.co/aN1AfsECYr\n#cats #catmeme #britishblue #britishbluecat #deepfake https://t.co/Lou5YvgPYe"
+	},
+	{
+		"created_at": "Wed Jan 13 14:06:21 +0000 2021",
+		"id": 1349357116528607200,
+		"id_str": "1349357116528607239",
+		"full_text": "Travis - Nina's Song (Official Video) https://t.co/aIwNaMLBk9 - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						64,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aIwNaMLBk9",
+					"expanded_url": "https://youtu.be/Wbum2xr3K40",
+					"display_url": "youtu.be/Wbum2xr3K40",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1108,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Travis - Nina's Song (Official Video) https://t.co/aIwNaMLBk9 - @YouTube"
+	},
+	{
+		"created_at": "Wed Jan 13 12:14:26 +0000 2021",
+		"id": 1349328954281259000,
+		"id_str": "1349328954281259009",
+		"full_text": "그러고보면 상상마당 없어지면서 대단한 단편영화제도 덩달아 사라졌어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1349328084856553500,
+		"in_reply_to_status_id_str": "1349328084856553473",
+		"in_reply_to_user_id": 133336572,
+		"in_reply_to_user_id_str": "133336572",
+		"in_reply_to_screen_name": "sekaist",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1108,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그러고보면 상상마당 없어지면서 대단한 단편영화제도 덩달아 사라졌어"
+	},
+	{
+		"created_at": "Wed Jan 13 12:10:59 +0000 2021",
+		"id": 1349328084856553500,
+		"id_str": "1349328084856553473",
+		"full_text": "오늘의 젤 슬픈 소식 : 미쟝센 영화제",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1108,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오늘의 젤 슬픈 소식 : 미쟝센 영화제"
+	},
+	{
+		"created_at": "Wed Jan 13 05:06:48 +0000 2021",
+		"id": 1349204458694013000,
+		"id_str": "1349221334471962628",
+		"full_text": "알페스를 딱히 옹호할 생각은 없었는데도 남성이 실제로 여성의 삶을 해친 온갖 성범죄들을 팬픽 하나로 퉁치려는게 너무 역겹고 가당찮아서 전단이라도 뽑아 돌리고 싶은데?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 989173663206273000,
+			"id_str": "989173663206273026",
+			"name": "meaningless",
+			"screen_name": "ash_realize",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16198,
+			"friends_count": 146,
+			"listed_count": 45,
+			"created_at": "Wed Apr 25 16:05:54 +0000 2018",
+			"favourites_count": 22473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127698966735310848/Q49uqGWD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127698966735310848/Q49uqGWD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/989173663206273026/1555053252",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "알페스를 딱히 옹호할 생각은 없었는데도 남성이 실제로 여성의 삶을 해친 온갖 성범죄들을 팬픽 하나로 퉁치려는게 너무 역겹고 가당찮아서 전단이라도 뽑아 돌리고 싶은데?"
+	},
+	{
+		"created_at": "Wed Jan 13 05:03:29 +0000 2021",
+		"id": 1349220499545444400,
+		"id_str": "1349220499545444354",
+		"full_text": "@k_jwnee ㅋㅋㅋㅋㅋㅋㅋㅋ 진짜 나같으면 쥐구멍에 숨었음",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "k_jwnee",
+					"name": "잰♡⁼³₌₃",
+					"id": 3030264154,
+					"id_str": "3030264154",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1349217780092993500,
+		"in_reply_to_status_id_str": "1349217780092993540",
+		"in_reply_to_user_id": 3030264154,
+		"in_reply_to_user_id_str": "3030264154",
+		"in_reply_to_screen_name": "k_jwnee",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1108,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@k_jwnee ㅋㅋㅋㅋㅋㅋㅋㅋ 진짜 나같으면 쥐구멍에 숨었음"
+	},
+	{
+		"created_at": "Wed Jan 13 01:33:48 +0000 2021",
+		"id": 1349167731438878700,
+		"id_str": "1349167731438878720",
+		"full_text": "아침 뉴스에서 대전 엘사 눈사람 만든 카페 사장님 인터뷰 봤는데 직원이랑 5시간동안 만든건데 망가져서 속상하시다고.. 카페 홍보 등의 목적으로 판단하게되면 손괴죄 적용도 가능할 수도 있다는데 남의 것 소중하게 여기지 못하는 그사람은 처벌 받았으면 좋겠다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1108,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아침 뉴스에서 대전 엘사 눈사람 만든 카페 사장님 인터뷰 봤는데 직원이랑 5시간동안 만든건데 망가져서 속상하시다고.. 카페 홍보 등의 목적으로 판단하게되면 손괴죄 적용도 가능할 수도 있다는데 남의 것 소중하게 여기지 못하는 그사람은 처벌 받았으면 좋겠다."
+	},
+	{
+		"created_at": "Wed Jan 13 00:39:58 +0000 2021",
+		"id": 1348962933691338800,
+		"id_str": "1349154187188211712",
+		"full_text": "Nina’s Song video is a lockdown special!  Fran's cat Huey learnt to sing! The video will premiere on our YouTube channel tomorrow at 2PM GMT. You can also head to our brand new TikTok channel to see a sneak preview now! https://t.co/aN1AfsWen1\nF, D, A &amp; N x\n#cat #catvideos https://t.co/Hy3AW6gVKJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cat",
+					"indices": [
+						262,
+						266
+					]
+				},
+				{
+					"text": "catvideos",
+					"indices": [
+						267,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aN1AfsWen1",
+					"expanded_url": "https://travis.lnk.to/ninassongvideo",
+					"display_url": "travis.lnk.to/ninassongvideo",
+					"indices": [
+						220,
+						243
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1348945057999675400,
+					"id_str": "1348945057999675393",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/ErhqYhuW4AECCKe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErhqYhuW4AECCKe.jpg",
+					"url": "https://t.co/Hy3AW6gVKJ",
+					"display_url": "pic.twitter.com/Hy3AW6gVKJ",
+					"expanded_url": "https://twitter.com/TravisBand/status/1348962933691338752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1148,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348945057999675400,
+					"id_str": "1348945057999675393",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/ErhqYhuW4AECCKe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErhqYhuW4AECCKe.jpg",
+					"url": "https://t.co/Hy3AW6gVKJ",
+					"display_url": "pic.twitter.com/Hy3AW6gVKJ",
+					"expanded_url": "https://twitter.com/TravisBand/status/1348962933691338752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1148,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 549808548,
+			"id_str": "549808548",
+			"name": "Travis",
+			"screen_name": "TravisBand",
+			"location": "UK, EU, USA",
+			"description": "Crafting Songs From Wicker Since 1997. The new album '10 Songs' is out now! https://t.co/1BaMdyKAbr",
+			"url": "https://t.co/KbQSWnNZgA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KbQSWnNZgA",
+							"expanded_url": "https://www.travisonline.com/",
+							"display_url": "travisonline.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1BaMdyKAbr",
+							"expanded_url": "https://travis.lnk.to/10songsTW",
+							"display_url": "travis.lnk.to/10songsTW",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44905,
+			"friends_count": 90,
+			"listed_count": 442,
+			"created_at": "Tue Apr 10 02:03:50 +0000 2012",
+			"favourites_count": 602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268127756556079111/CAxz-9Nf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268127756556079111/CAxz-9Nf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/549808548/1602230243",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 315,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nina’s Song video is a lockdown special!  Fran's cat Huey learnt to sing! The video will premiere on our YouTube channel tomorrow at 2PM GMT. You can also head to our brand new TikTok channel to see a sneak preview now! https://t.co/aN1AfsWen1\nF, D, A &amp; N x\n#cat #catvideos https://t.co/Hy3AW6gVKJ"
+	},
+	{
 		"created_at": "Tue Jan 12 09:50:25 +0000 2021",
 		"id": 1348917634713096200,
 		"id_str": "1348930321010446339",
