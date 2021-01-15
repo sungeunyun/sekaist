@@ -1,6 +1,527 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 14 23:45:16 +0000 2021",
+		"id": 1349865196764885000,
+		"id_str": "1349865196764884998",
+		"full_text": "유펭두잇!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1108,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "유펭두잇!"
+	},
+	{
+		"created_at": "Thu Jan 14 23:44:18 +0000 2021",
+		"id": 1349748109950107600,
+		"id_str": "1349864950970216449",
+		"full_text": "#갤럭시S21 과 함께하는\nEntertainment Stage #RT_EVENT 에 참여해주세요 \n#유재석 #펭수 영상 보고! #박명수 #서울리안 과 퀴즈 풀고! \n\n🙌 필수 해시태그 \n#갤럭시S21 #GalaxyStage  #갤럭시스테이지 \n#갤럭시엔터테인먼트스테이지 #삼성전자이벤트\n함께 리트윗 하고 답글로 트윗!(해시태그 총5개)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "갤럭시S21",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "RT_EVENT",
+					"indices": [
+						35,
+						44
+					]
+				},
+				{
+					"text": "유재석",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "펭수",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "박명수",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "서울리안",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "갤럭시S21",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "GalaxyStage",
+					"indices": [
+						112,
+						124
+					]
+				},
+				{
+					"text": "갤럭시스테이지",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "갤럭시엔터테인먼트스테이지",
+					"indices": [
+						136,
+						150
+					]
+				},
+				{
+					"text": "삼성전자이벤트",
+					"indices": [
+						151,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1040425929225338900,
+			"id_str": "1040425929225338883",
+			"name": "Galaxy S21",
+			"screen_name": "galaxy__event",
+			"location": "",
+			"description": "갤럭시 S21 이벤트를 공유합니다.",
+			"url": "https://t.co/QzHVRUqzEc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QzHVRUqzEc",
+							"expanded_url": "https://www.youtube.com/samsungkorea",
+							"display_url": "youtube.com/samsungkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4214,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Fri Sep 14 02:24:06 +0000 2018",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349734874056278017/PFzZD6ru_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349734874056278017/PFzZD6ru_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1040425929225338883/1610636848",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 880,
+		"favorite_count": 518,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#갤럭시S21 과 함께하는\nEntertainment Stage #RT_EVENT 에 참여해주세요 \n#유재석 #펭수 영상 보고! #박명수 #서울리안 과 퀴즈 풀고! \n\n🙌 필수 해시태그 \n#갤럭시S21 #GalaxyStage  #갤럭시스테이지 \n#갤럭시엔터테인먼트스테이지 #삼성전자이벤트\n함께 리트윗 하고 답글로 트윗!(해시태그 총5개)"
+	},
+	{
+		"created_at": "Thu Jan 14 11:44:32 +0000 2021",
+		"id": 1349683818379182000,
+		"id_str": "1349683818379182080",
+		"full_text": "찰리채플린 키드는 5년전 무주에서 선우정아 연주상영으로 봤었는데 코로나 아니었으면 연주상영 했으려나 모던 타임즈로 처음 경험했던 연주상영을 잊지못함",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1108,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "찰리채플린 키드는 5년전 무주에서 선우정아 연주상영으로 봤었는데 코로나 아니었으면 연주상영 했으려나 모던 타임즈로 처음 경험했던 연주상영을 잊지못함"
+	},
+	{
+		"created_at": "Thu Jan 14 08:52:40 +0000 2021",
+		"id": 1349635249660018700,
+		"id_str": "1349640563822264323",
+		"full_text": "@eaeon 아하하 https://t.co/Oot0NhWNKN",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eaeon",
+					"name": "이이언",
+					"id": 116168125,
+					"id_str": "116168125",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1349635245683851300,
+					"id_str": "1349635245683851264",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/ErreGvNVQAAlpZH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErreGvNVQAAlpZH.jpg",
+					"url": "https://t.co/Oot0NhWNKN",
+					"display_url": "pic.twitter.com/Oot0NhWNKN",
+					"expanded_url": "https://twitter.com/pptnznoshel/status/1349635249660018688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 254,
+							"h": 254,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 254,
+							"h": 254,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 254,
+							"h": 254,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349635245683851300,
+					"id_str": "1349635245683851264",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/ErreGvNVQAAlpZH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErreGvNVQAAlpZH.jpg",
+					"url": "https://t.co/Oot0NhWNKN",
+					"display_url": "pic.twitter.com/Oot0NhWNKN",
+					"expanded_url": "https://twitter.com/pptnznoshel/status/1349635249660018688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 254,
+							"h": 254,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 254,
+							"h": 254,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 254,
+							"h": 254,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1349503371640639500,
+		"in_reply_to_status_id_str": "1349503371640639490",
+		"in_reply_to_user_id": 116168125,
+		"in_reply_to_user_id_str": "116168125",
+		"in_reply_to_screen_name": "eaeon",
+		"user": {
+			"id": 192668164,
+			"id_str": "192668164",
+			"name": "이장원 (Edward J Lee)",
+			"screen_name": "pptnznoshel",
+			"location": "South Korea",
+			"description": "peppertones noshel jangwonee likes to play the bass",
+			"url": "http://t.co/z6LcOsJh0b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/z6LcOsJh0b",
+							"expanded_url": "http://peppertones.net",
+							"display_url": "peppertones.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13678,
+			"friends_count": 96,
+			"listed_count": 214,
+			"created_at": "Sun Sep 19 20:31:54 +0000 2010",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/531261348840083456/X52uedOe_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/531261348840083456/X52uedOe_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 132,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@eaeon 아하하 https://t.co/Oot0NhWNKN"
+	},
+	{
 		"created_at": "Thu Jan 14 00:08:51 +0000 2021",
 		"id": 1349503371640639500,
 		"id_str": "1349508743529021441",
