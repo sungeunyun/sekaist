@@ -1,6 +1,898 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 10:30:19 +0000 2021",
+		"id": 1351836252488700000,
+		"id_str": "1351839465073897472",
+		"full_text": "이 대표는 강 장관에 대해 “문재인 정부 최장수 각료, 외교부 첫 여성 장관(이었다)”면서 “그런 기록보다 더 중요한 것은 장관의 존재 자체” “강 장관은 조용했지만 언제 어디서나 두드러졌다”며 “대한민국 외교의 존재감”이라고 평했다\n\n품위있는 찬사 역시 격이 있으심\nhttps://t.co/HWb1pz4hgz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HWb1pz4hgz",
+					"expanded_url": "https://news.v.daum.net/v/20210120162848211",
+					"display_url": "news.v.daum.net/v/202101201628…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 805660444815859700,
+			"id_str": "805660444815859712",
+			"name": "Luna🧚‍♂️🌕",
+			"screen_name": "lalapesto",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18218,
+			"friends_count": 979,
+			"listed_count": 75,
+			"created_at": "Mon Dec 05 06:29:53 +0000 2016",
+			"favourites_count": 49638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 147668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077507454554927104/_cRJEZvN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077507454554927104/_cRJEZvN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/805660444815859712/1610032876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 219,
+		"favorite_count": 259,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 대표는 강 장관에 대해 “문재인 정부 최장수 각료, 외교부 첫 여성 장관(이었다)”면서 “그런 기록보다 더 중요한 것은 장관의 존재 자체” “강 장관은 조용했지만 언제 어디서나 두드러졌다”며 “대한민국 외교의 존재감”이라고 평했다\n\n품위있는 찬사 역시 격이 있으심\nhttps://t.co/HWb1pz4hgz"
+	},
+	{
+		"created_at": "Wed Jan 20 10:28:33 +0000 2021",
+		"id": 1351839023254233000,
+		"id_str": "1351839023254233088",
+		"full_text": "그냥 싫으면 싫다고 하지 논리적인척 이유가 타당한척 글싸지르면 싫은게 납득이 됩니까 더 없어보임",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1107,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그냥 싫으면 싫다고 하지 논리적인척 이유가 타당한척 글싸지르면 싫은게 납득이 됩니까 더 없어보임"
+	},
+	{
+		"created_at": "Wed Jan 20 10:27:39 +0000 2021",
+		"id": 1351838796585656300,
+		"id_str": "1351838796585656326",
+		"full_text": "공부 좀 하세요 제발 자기 지식에 갇혀있어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1107,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "공부 좀 하세요 제발 자기 지식에 갇혀있어"
+	},
+	{
+		"created_at": "Wed Jan 20 10:27:25 +0000 2021",
+		"id": 1351817915620683800,
+		"id_str": "1351838736254857219",
+		"full_text": "강경화 : 외교부 최초 여성 장관\n유은혜 : 교육부 3번째 여성 장관 (부총리로는 최초)\n박영선(전) : 중기부 최초 여성 장관\n김현미(전) : 국토부 최초 여성 장관\n조성욱 : 공정위 최초 여성 공정위원장\n이외에도 피우진(전) 최초 여성 보훈처장, 조현옥(전) 최초 여성 인사수석 등\n이분들이 클리셰? https://t.co/sPHQCdXKeE https://t.co/SLrM7igPTq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sPHQCdXKeE",
+					"expanded_url": "https://twitter.com/bookeditor_/status/1351712327654023168",
+					"display_url": "twitter.com/bookeditor_/st…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351817909991948300,
+					"id_str": "1351817909991948291",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EsKfOhYUwAME01D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsKfOhYUwAME01D.jpg",
+					"url": "https://t.co/SLrM7igPTq",
+					"display_url": "pic.twitter.com/SLrM7igPTq",
+					"expanded_url": "https://twitter.com/nar_shaka/status/1351817915620683776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 510,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 510,
+							"h": 476,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351817909991948300,
+					"id_str": "1351817909991948291",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EsKfOhYUwAME01D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsKfOhYUwAME01D.jpg",
+					"url": "https://t.co/SLrM7igPTq",
+					"display_url": "pic.twitter.com/SLrM7igPTq",
+					"expanded_url": "https://twitter.com/nar_shaka/status/1351817915620683776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 510,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 510,
+							"h": 476,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1241347934773362700,
+			"id_str": "1241347934773362688",
+			"name": "찐찐",
+			"screen_name": "nar_shaka",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149,
+			"friends_count": 339,
+			"listed_count": 0,
+			"created_at": "Sat Mar 21 12:56:35 +0000 2020",
+			"favourites_count": 9456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1328020297446957056/z0aqqhY-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1328020297446957056/z0aqqhY-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1241347934773362688/1604773483",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351712327654023200,
+		"quoted_status_id_str": "1351712327654023168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sPHQCdXKeE",
+			"expanded": "https://twitter.com/bookeditor_/status/1351712327654023168",
+			"display": "twitter.com/bookeditor_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 20 02:05:07 +0000 2021",
+			"id": 1351712327654023200,
+			"id_str": "1351712327654023168",
+			"full_text": "유이한 여성 장관이 있는 곳이 '교육'부와 '여성가족'부라는 것도 너무 클리셰하다. 의도했는지 안 했는지 모르겠지만 결과적으로 그렇다. '교육' 과 '가족'의 문제만 여성에게 \"겨우\" 할당하는 모양새가 아닌지?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1351711697602400300,
+			"in_reply_to_status_id_str": "1351711697602400258",
+			"in_reply_to_user_id": 2223408019,
+			"in_reply_to_user_id_str": "2223408019",
+			"in_reply_to_screen_name": "bookeditor_",
+			"user": {
+				"id": 2223408019,
+				"id_str": "2223408019",
+				"name": "무무",
+				"screen_name": "bookeditor_",
+				"location": "",
+				"description": "길도 잃고 계정도 잃은 N년차 편집자",
+				"url": "https://t.co/pKGwBjBl9d",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pKGwBjBl9d",
+								"expanded_url": "https://www.notion.so/a46a4a1e040f441b916b75daeba60f17",
+								"display_url": "notion.so/a46a4a1e040f44…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 583,
+				"friends_count": 182,
+				"listed_count": 7,
+				"created_at": "Sat Nov 30 16:46:45 +0000 2013",
+				"favourites_count": 407,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1857,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1275747242507264003/qOKs84cp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275747242507264003/qOKs84cp_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 271,
+			"favorite_count": 93,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 138,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "강경화 : 외교부 최초 여성 장관\n유은혜 : 교육부 3번째 여성 장관 (부총리로는 최초)\n박영선(전) : 중기부 최초 여성 장관\n김현미(전) : 국토부 최초 여성 장관\n조성욱 : 공정위 최초 여성 공정위원장\n이외에도 피우진(전) 최초 여성 보훈처장, 조현옥(전) 최초 여성 인사수석 등\n이분들이 클리셰? https://t.co/sPHQCdXKeE https://t.co/SLrM7igPTq"
+	},
+	{
+		"created_at": "Wed Jan 20 10:26:52 +0000 2021",
+		"id": 1351838598622965800,
+		"id_str": "1351838598622965762",
+		"full_text": "미나리에서 연상엽씨 한국말 잘해서 놀랐었지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1107,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "미나리에서 연상엽씨 한국말 잘해서 놀랐었지"
+	},
+	{
+		"created_at": "Wed Jan 20 08:56:18 +0000 2021",
+		"id": 1351797631731654700,
+		"id_str": "1351815806108090369",
+		"full_text": "오늘부로 지난 3년 반 동안의 공직생활을 마무리했습니다. 노무현대통령과 문재인대통령을 모시며 국가를 위해 헌신할 수 있어서 감사한 마음입니다. 어려운 시기를 이겨내고 대한민국이 다시 도약할 것을 확신하며 응원하겠습니다. https://t.co/YWWquROtvC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351797613335441400,
+					"id_str": "1351797613335441408",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EsKMxGcUcAA7bzH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsKMxGcUcAA7bzH.jpg",
+					"url": "https://t.co/YWWquROtvC",
+					"display_url": "pic.twitter.com/YWWquROtvC",
+					"expanded_url": "https://twitter.com/withhck03/status/1351797631731654656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 306,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 922,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351797613335441400,
+					"id_str": "1351797613335441408",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EsKMxGcUcAA7bzH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsKMxGcUcAA7bzH.jpg",
+					"url": "https://t.co/YWWquROtvC",
+					"display_url": "pic.twitter.com/YWWquROtvC",
+					"expanded_url": "https://twitter.com/withhck03/status/1351797631731654656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 306,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 922,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1351797620633571300,
+					"id_str": "1351797620633571330",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EsKMxhoVEAIDArF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsKMxhoVEAIDArF.jpg",
+					"url": "https://t.co/YWWquROtvC",
+					"display_url": "pic.twitter.com/YWWquROtvC",
+					"expanded_url": "https://twitter.com/withhck03/status/1351797631731654656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1351797625876410400,
+					"id_str": "1351797625876410369",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EsKMx1KUcAEdNww.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsKMx1KUcAEdNww.jpg",
+					"url": "https://t.co/YWWquROtvC",
+					"display_url": "pic.twitter.com/YWWquROtvC",
+					"expanded_url": "https://twitter.com/withhck03/status/1351797631731654656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 922,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 306,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1351797629374529500,
+					"id_str": "1351797629374529542",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EsKMyCMVgAYowez.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsKMyCMVgAYowez.jpg",
+					"url": "https://t.co/YWWquROtvC",
+					"display_url": "pic.twitter.com/YWWquROtvC",
+					"expanded_url": "https://twitter.com/withhck03/status/1351797631731654656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 996,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 331,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703812660471554000,
+			"id_str": "703812660471554048",
+			"name": "김현종",
+			"screen_name": "withhck03",
+			"location": "",
+			"description": "청와대 국가안보실 2차장\n\n산업통상자원부 통상교섭본부장 Trade Minister (2017~2019)",
+			"url": "https://t.co/Mm3XAuEkYm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Mm3XAuEkYm",
+							"expanded_url": "https://www.facebook.com/withhck",
+							"display_url": "facebook.com/withhck",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23852,
+			"friends_count": 2420,
+			"listed_count": 134,
+			"created_at": "Sun Feb 28 05:23:09 +0000 2016",
+			"favourites_count": 55,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078812939224641537/DWypi_sy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078812939224641537/DWypi_sy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703812660471554048/1546044021",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2704,
+		"favorite_count": 5095,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘부로 지난 3년 반 동안의 공직생활을 마무리했습니다. 노무현대통령과 문재인대통령을 모시며 국가를 위해 헌신할 수 있어서 감사한 마음입니다. 어려운 시기를 이겨내고 대한민국이 다시 도약할 것을 확신하며 응원하겠습니다. https://t.co/YWWquROtvC"
+	},
+	{
 		"created_at": "Tue Jan 19 15:36:13 +0000 2021",
 		"id": 1351554060948705300,
 		"id_str": "1351554060948705282",
