@@ -1,6 +1,1271 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 14:05:16 +0000 2021",
+		"id": 1352255947381461000,
+		"id_str": "1352255947381460993",
+		"full_text": "FOG - Nocturne https://t.co/v1s6HcZO2M - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						41,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v1s6HcZO2M",
+					"expanded_url": "https://youtu.be/053E1TseLms",
+					"display_url": "youtu.be/053E1TseLms",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1106,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "FOG - Nocturne https://t.co/v1s6HcZO2M - @YouTube"
+	},
+	{
+		"created_at": "Thu Jan 21 13:53:35 +0000 2021",
+		"id": 1352253006394192000,
+		"id_str": "1352253006394191875",
+		"full_text": "마깔루조 다섯 자매 2월에 서아시에서 상영한대요 2차 찍으러 갑니다 https://t.co/uc6LIUIjkh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uc6LIUIjkh",
+					"expanded_url": "https://twitter.com/sekaist/status/1319500436278185985",
+					"display_url": "twitter.com/sekaist/status…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1106,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319500436278186000,
+		"quoted_status_id_str": "1319500436278185985",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uc6LIUIjkh",
+			"expanded": "https://twitter.com/sekaist/status/1319500436278185985",
+			"display": "twitter.com/sekaist/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 23 04:46:33 +0000 2020",
+			"id": 1319500436278186000,
+			"id_str": "1319500436278185985",
+			"full_text": "마깔루조 다섯 자매 완전 몰입해서 보고 나옴. 다섯 자매의 유년부터 노년까지 세 시절을 거쳐 전개되는데 엔딩크레딧에 배역마다 각 시절 역을 맡은 배우의 이름을 보는데 가슴이 터지는줄... 누군가는 한명 누군가는 두명 누군가는 세명 https://t.co/vI6SgioiUe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1319500425876271000,
+						"id_str": "1319500425876271105",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek_OpXVU8AEt8Ul.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ek_OpXVU8AEt8Ul.jpg",
+						"url": "https://t.co/vI6SgioiUe",
+						"display_url": "pic.twitter.com/vI6SgioiUe",
+						"expanded_url": "https://twitter.com/sekaist/status/1319500436278185985/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 716,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 716,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 475,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1319500425876271000,
+						"id_str": "1319500425876271105",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek_OpXVU8AEt8Ul.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ek_OpXVU8AEt8Ul.jpg",
+						"url": "https://t.co/vI6SgioiUe",
+						"display_url": "pic.twitter.com/vI6SgioiUe",
+						"expanded_url": "https://twitter.com/sekaist/status/1319500436278185985/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 716,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 716,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 475,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 133336572,
+				"id_str": "133336572",
+				"name": "캥거루",
+				"screen_name": "sekaist",
+				"location": "South Korea",
+				"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 626,
+				"friends_count": 1106,
+				"listed_count": 14,
+				"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+				"favourites_count": 2012,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17238,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마깔루조 다섯 자매 2월에 서아시에서 상영한대요 2차 찍으러 갑니다 https://t.co/uc6LIUIjkh"
+	},
+	{
+		"created_at": "Thu Jan 21 13:51:35 +0000 2021",
+		"id": 1352252504243798000,
+		"id_str": "1352252504243798018",
+		"full_text": "저도 찍었었는데 https://t.co/ut4WmKyEVT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352252444009402400,
+					"id_str": "1352252444009402368",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1352252444009402368/pu/img/9q4hnb5Iit5QlK66.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1352252444009402368/pu/img/9q4hnb5Iit5QlK66.jpg",
+					"url": "https://t.co/ut4WmKyEVT",
+					"display_url": "pic.twitter.com/ut4WmKyEVT",
+					"expanded_url": "https://twitter.com/sekaist/status/1352252504243798018/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352252444009402400,
+					"id_str": "1352252444009402368",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1352252444009402368/pu/img/9q4hnb5Iit5QlK66.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1352252444009402368/pu/img/9q4hnb5Iit5QlK66.jpg",
+					"url": "https://t.co/ut4WmKyEVT",
+					"display_url": "pic.twitter.com/ut4WmKyEVT",
+					"expanded_url": "https://twitter.com/sekaist/status/1352252504243798018/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 18067,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1352252444009402368/pu/pl/dJTOaKNORLm8VP9q.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1352252444009402368/pu/vid/320x568/cjEl8nGjNwYxtdjG.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1352252444009402368/pu/vid/360x640/x26gZAMUTufmSX2H.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1352252444009402368/pu/vid/720x1280/j0AJwkm6cwO3bOy7.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1352251904198250500,
+		"in_reply_to_status_id_str": "1352251904198250496",
+		"in_reply_to_user_id": 133336572,
+		"in_reply_to_user_id_str": "133336572",
+		"in_reply_to_screen_name": "sekaist",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1106,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저도 찍었었는데 https://t.co/ut4WmKyEVT"
+	},
+	{
+		"created_at": "Thu Jan 21 13:49:12 +0000 2021",
+		"id": 1352251904198250500,
+		"id_str": "1352251904198250496",
+		"full_text": "덕계못이쟈나 용산 갔다 왔는데요? https://t.co/LYvRE7nfhK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352251899198640000,
+					"id_str": "1352251899198640137",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EsQp8BKVEAkNO8f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsQp8BKVEAkNO8f.jpg",
+					"url": "https://t.co/LYvRE7nfhK",
+					"display_url": "pic.twitter.com/LYvRE7nfhK",
+					"expanded_url": "https://twitter.com/sekaist/status/1352251904198250496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 844,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352251899198640000,
+					"id_str": "1352251899198640137",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EsQp8BKVEAkNO8f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsQp8BKVEAkNO8f.jpg",
+					"url": "https://t.co/LYvRE7nfhK",
+					"display_url": "pic.twitter.com/LYvRE7nfhK",
+					"expanded_url": "https://twitter.com/sekaist/status/1352251904198250496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 844,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1106,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "덕계못이쟈나 용산 갔다 왔는데요? https://t.co/LYvRE7nfhK"
+	},
+	{
+		"created_at": "Thu Jan 21 05:07:41 +0000 2021",
+		"id": 1352120662970691600,
+		"id_str": "1352120662970691584",
+		"full_text": "GQ 화보가 최고네 영상 인터뷰는 좀 식상한 면이 있었는데 지면 인터뷰가 좋긴 하구나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1106,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "GQ 화보가 최고네 영상 인터뷰는 좀 식상한 면이 있었는데 지면 인터뷰가 좋긴 하구나"
+	},
+	{
+		"created_at": "Thu Jan 21 04:32:40 +0000 2021",
+		"id": 1352107339705319400,
+		"id_str": "1352111847344754688",
+		"full_text": "393. 유태오 GQ 2021년 2월호 \"저는 게으름과 매일 싸워요\"\n인터뷰👉🏻 https://t.co/Jf1Nn2v2sv https://t.co/wuASfexcZF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jf1Nn2v2sv",
+					"expanded_url": "http://www.gqkorea.co.kr/2021/01/21/%ec%9c%a0%ed%83%9c%ec%98%a4-%ec%a0%80%eb%8a%94-%ea%b2%8c%ec%9c%bc%eb%a6%84%ea%b3%bc-%eb%a7%a4%ec%9d%bc-%ec%8b%b8%ec%9b%8c%ec%9a%94/",
+					"display_url": "gqkorea.co.kr/2021/01/21/%ec…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1352107328141574100,
+					"id_str": "1352107328141574146",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EsOmc4AUwAIXYP8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsOmc4AUwAIXYP8.jpg",
+					"url": "https://t.co/wuASfexcZF",
+					"display_url": "pic.twitter.com/wuASfexcZF",
+					"expanded_url": "https://twitter.com/tmiofteoyoo/status/1352107339705319425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1120,
+							"h": 1400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352107328141574100,
+					"id_str": "1352107328141574146",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EsOmc4AUwAIXYP8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsOmc4AUwAIXYP8.jpg",
+					"url": "https://t.co/wuASfexcZF",
+					"display_url": "pic.twitter.com/wuASfexcZF",
+					"expanded_url": "https://twitter.com/tmiofteoyoo/status/1352107339705319425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1120,
+							"h": 1400,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1352107331593531400,
+					"id_str": "1352107331593531394",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EsOmdE3VcAIwDqr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsOmdE3VcAIwDqr.jpg",
+					"url": "https://t.co/wuASfexcZF",
+					"display_url": "pic.twitter.com/wuASfexcZF",
+					"expanded_url": "https://twitter.com/tmiofteoyoo/status/1352107339705319425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1352107334936404000,
+					"id_str": "1352107334936403969",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EsOmdRUVoAEMlJi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsOmdRUVoAEMlJi.jpg",
+					"url": "https://t.co/wuASfexcZF",
+					"display_url": "pic.twitter.com/wuASfexcZF",
+					"expanded_url": "https://twitter.com/tmiofteoyoo/status/1352107339705319425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1352107337889181700,
+					"id_str": "1352107337889181699",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EsOmdcUVcAM4PFs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsOmdcUVcAM4PFs.jpg",
+					"url": "https://t.co/wuASfexcZF",
+					"display_url": "pic.twitter.com/wuASfexcZF",
+					"expanded_url": "https://twitter.com/tmiofteoyoo/status/1352107339705319425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1293160470006780000,
+			"id_str": "1293160470006779905",
+			"name": "𝐭𝐦𝐢 𝐨𝐟 유태오",
+			"screen_name": "tmiofteoyoo",
+			"location": "중복 흐린눈 plz ",
+			"description": "아~하세요 유태오 덕질 떠먹여드립니다🐢\n머니게임 유진한/ 레토 빅토르최/ 보건교사안은영 매켄지\n#teoyoo #yooteo #ユテオ #刘台午",
+			"url": "https://t.co/fgzqcfj74e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fgzqcfj74e",
+							"expanded_url": "https://www.instagram.com/tmiofteoyoo/",
+							"display_url": "instagram.com/tmiofteoyoo/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5048,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Aug 11 12:21:09 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350050027184373764/Zd8pzc7p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350050027184373764/Zd8pzc7p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1293160470006779905/1607013999",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 279,
+		"favorite_count": 427,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "393. 유태오 GQ 2021년 2월호 \"저는 게으름과 매일 싸워요\"\n인터뷰👉🏻 https://t.co/Jf1Nn2v2sv https://t.co/wuASfexcZF"
+	},
+	{
+		"created_at": "Thu Jan 21 04:31:44 +0000 2021",
+		"id": 1352100753628827600,
+		"id_str": "1352111613042515973",
+		"full_text": "안녕하세요. 드디어 저희가 오랫동안 준비하고, 엎고(?), 다시 만들고, 다시 엎고, 다시 만든 정규 1집 “책이여, 안녕!”이 발매되었습니다! 오랜시간 정성들여 만든 앨범이니 꼭 들어주세요.😘😚💕 https://t.co/C8dO0uqdoQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352100720078536700,
+					"id_str": "1352100720078536708",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EsOgcPDUwAQSzwo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsOgcPDUwAQSzwo.jpg",
+					"url": "https://t.co/C8dO0uqdoQ",
+					"display_url": "pic.twitter.com/C8dO0uqdoQ",
+					"expanded_url": "https://twitter.com/Leavesblack/status/1352100753628827650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352100720078536700,
+					"id_str": "1352100720078536708",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EsOgcPDUwAQSzwo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsOgcPDUwAQSzwo.jpg",
+					"url": "https://t.co/C8dO0uqdoQ",
+					"display_url": "pic.twitter.com/C8dO0uqdoQ",
+					"expanded_url": "https://twitter.com/Leavesblack/status/1352100753628827650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3432037692,
+			"id_str": "3432037692",
+			"name": "검은잎들",
+			"screen_name": "Leavesblack",
+			"location": "대한민국 부산",
+			"description": "동욱, 성민, 은하, 영웅",
+			"url": "https://t.co/5S32lPYbDw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5S32lPYbDw",
+							"expanded_url": "https://instagram.com/leavesblack_official",
+							"display_url": "instagram.com/leavesblack_of…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137,
+			"friends_count": 102,
+			"listed_count": 4,
+			"created_at": "Thu Sep 03 02:14:53 +0000 2015",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1335809901814116354/B0pSIwZl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335809901814116354/B0pSIwZl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3432037692/1610766391",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요. 드디어 저희가 오랫동안 준비하고, 엎고(?), 다시 만들고, 다시 엎고, 다시 만든 정규 1집 “책이여, 안녕!”이 발매되었습니다! 오랜시간 정성들여 만든 앨범이니 꼭 들어주세요.😘😚💕 https://t.co/C8dO0uqdoQ"
+	},
+	{
 		"created_at": "Wed Jan 20 10:30:19 +0000 2021",
 		"id": 1351836252488700000,
 		"id_str": "1351839465073897472",
@@ -35,7 +1300,7 @@ Grailbird.data.tweets_2021_01 =
 		"user": {
 			"id": 805660444815859700,
 			"id_str": "805660444815859712",
-			"name": "Luna🧚‍♂️🌕",
+			"name": "Luna🧚♂️🌕",
 			"screen_name": "lalapesto",
 			"location": "",
 			"description": "",
