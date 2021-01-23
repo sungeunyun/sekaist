@@ -1,6 +1,861 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 22 11:29:00 +0000 2021",
+		"id": 1352531932324581400,
+		"id_str": "1352579008563564545",
+		"full_text": "오늘 서울역에서 있었던 시위는 2001년에 있었던 오이도역 휠체어리프트 추락사고 20주기를 맞아 장애인이동권 보장을 위한 시위였습니다. 하지만 20년이 지난 지금까지도 휠체어 리프트는 사라지지 않고 그 사이 장애인 9명이 죽고 수없이 많은 이가 다쳤습니다. https://t.co/dXPungwP8W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dXPungwP8W",
+					"expanded_url": "https://twitter.com/namyeji/status/1352494396717973504",
+					"display_url": "twitter.com/namyeji/status…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2573222966,
+			"id_str": "2573222966",
+			"name": "물도",
+			"screen_name": "mul_doe",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2447,
+			"friends_count": 169,
+			"listed_count": 18,
+			"created_at": "Tue Jun 17 16:49:07 +0000 2014",
+			"favourites_count": 4544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305679844882001920/gePd_9Ir_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305679844882001920/gePd_9Ir_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2573222966/1600133154",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1352494396717973500,
+		"quoted_status_id_str": "1352494396717973504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dXPungwP8W",
+			"expanded": "https://twitter.com/namyeji/status/1352494396717973504",
+			"display": "twitter.com/namyeji/status…"
+		},
+		"retweet_count": 2593,
+		"favorite_count": 396,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 서울역에서 있었던 시위는 2001년에 있었던 오이도역 휠체어리프트 추락사고 20주기를 맞아 장애인이동권 보장을 위한 시위였습니다. 하지만 20년이 지난 지금까지도 휠체어 리프트는 사라지지 않고 그 사이 장애인 9명이 죽고 수없이 많은 이가 다쳤습니다. https://t.co/dXPungwP8W"
+	},
+	{
+		"created_at": "Fri Jan 22 11:27:42 +0000 2021",
+		"id": 1352574451276103700,
+		"id_str": "1352578684545208322",
+		"full_text": "제작진 누구시죠? 누가 흑집사 폰트를 가져다 쓴거죠ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 알아본 나도 너무 싫다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ \n\n아무튼 다음주!! 자이언트 펭tv 본방 사수♥️ https://t.co/3oB8lqmGRd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352574444296839200,
+					"id_str": "1352574444296839168",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EsVPSnSVoAAtO0D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsVPSnSVoAAtO0D.jpg",
+					"url": "https://t.co/3oB8lqmGRd",
+					"display_url": "pic.twitter.com/3oB8lqmGRd",
+					"expanded_url": "https://twitter.com/corcorgiBH/status/1352574451276103680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 559,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 848,
+							"h": 559,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352574444296839200,
+					"id_str": "1352574444296839168",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EsVPSnSVoAAtO0D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsVPSnSVoAAtO0D.jpg",
+					"url": "https://t.co/3oB8lqmGRd",
+					"display_url": "pic.twitter.com/3oB8lqmGRd",
+					"expanded_url": "https://twitter.com/corcorgiBH/status/1352574451276103680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 559,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 848,
+							"h": 559,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2343588684,
+			"id_str": "2343588684",
+			"name": "이웃집의 백호",
+			"screen_name": "corcorgiBH",
+			"location": "매일 누워있는 애",
+			"description": "2014.06.11 웰시코기 백호, 2019.04.04 고양이 호랑 ⓒ2019@corcorgiBH All Rights Reserved. 언제나 애정어린 시선으로 바라봐 주셔서 감사합니다!📧:corcorgibh@gmail.com",
+			"url": "https://t.co/fo3An0MfrF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fo3An0MfrF",
+							"expanded_url": "http://bitly.kr/dblCXJ",
+							"display_url": "bitly.kr/dblCXJ",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 443664,
+			"friends_count": 48,
+			"listed_count": 527,
+			"created_at": "Fri Feb 14 13:38:54 +0000 2014",
+			"favourites_count": 6036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199059447894573056/V0HJ-u_U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199059447894573056/V0HJ-u_U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343588684/1574713576",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 676,
+		"favorite_count": 686,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제작진 누구시죠? 누가 흑집사 폰트를 가져다 쓴거죠ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 알아본 나도 너무 싫다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ \n\n아무튼 다음주!! 자이언트 펭tv 본방 사수♥️ https://t.co/3oB8lqmGRd"
+	},
+	{
+		"created_at": "Fri Jan 22 10:42:16 +0000 2021",
+		"id": 1352567249123434500,
+		"id_str": "1352567249123434496",
+		"full_text": "헐 펭수 다음주 백호집 간 에피네 미쳤 백호 부럽다 펭수 두번이나 만나고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1107,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "헐 펭수 다음주 백호집 간 에피네 미쳤 백호 부럽다 펭수 두번이나 만나고"
+	},
+	{
+		"created_at": "Fri Jan 22 07:10:27 +0000 2021",
+		"id": 1352512698001420300,
+		"id_str": "1352513942753472512",
+		"full_text": "210122 청와대앞 세월호 유가족 삭발식 https://t.co/etZzOddDHy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352512688107053000,
+					"id_str": "1352512688107053057",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EsUXH7jUYAEAYWI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsUXH7jUYAEAYWI.jpg",
+					"url": "https://t.co/etZzOddDHy",
+					"display_url": "pic.twitter.com/etZzOddDHy",
+					"expanded_url": "https://twitter.com/BaekJaeho/status/1352512698001420288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352512688107053000,
+					"id_str": "1352512688107053057",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EsUXH7jUYAEAYWI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsUXH7jUYAEAYWI.jpg",
+					"url": "https://t.co/etZzOddDHy",
+					"display_url": "pic.twitter.com/etZzOddDHy",
+					"expanded_url": "https://twitter.com/BaekJaeho/status/1352512698001420288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1352512687935111200,
+					"id_str": "1352512687935111168",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EsUXH66UwAAG8Kc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsUXH66UwAAG8Kc.jpg",
+					"url": "https://t.co/etZzOddDHy",
+					"display_url": "pic.twitter.com/etZzOddDHy",
+					"expanded_url": "https://twitter.com/BaekJaeho/status/1352512698001420288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1961,
+							"h": 1471,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1352512687935164400,
+					"id_str": "1352512687935164418",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EsUXH66VkAIOijA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsUXH66VkAIOijA.jpg",
+					"url": "https://t.co/etZzOddDHy",
+					"display_url": "pic.twitter.com/etZzOddDHy",
+					"expanded_url": "https://twitter.com/BaekJaeho/status/1352512698001420288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1352512687926702000,
+					"id_str": "1352512687926702081",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EsUXH64UcAEXmly.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsUXH64UcAEXmly.jpg",
+					"url": "https://t.co/etZzOddDHy",
+					"display_url": "pic.twitter.com/etZzOddDHy",
+					"expanded_url": "https://twitter.com/BaekJaeho/status/1352512698001420288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1860,
+							"h": 1395,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125013263,
+			"id_str": "125013263",
+			"name": "백재호",
+			"screen_name": "BaekJaeho",
+			"location": "서울 Seoul, Korea",
+			"description": "#알지못하는아이의죽음 #시민노무현 #대관람차 #大観覧車 #그들이죽었다 연출 / #최선의삶 #나의순간들 #꿈의제인 #산타바바라 프로듀서 / 오늘은 영화를 만들고 있습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2955,
+			"friends_count": 40,
+			"listed_count": 101,
+			"created_at": "Sun Mar 21 11:12:06 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086295261511442432/EZbAJpx3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086295261511442432/EZbAJpx3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125013263/1531792618",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "210122 청와대앞 세월호 유가족 삭발식 https://t.co/etZzOddDHy"
+	},
+	{
+		"created_at": "Fri Jan 22 06:58:32 +0000 2021",
+		"id": 1352502485336776700,
+		"id_str": "1352510947164790784",
+		"full_text": "&lt;빛과 철&gt; 서포터즈 ‘라이터’가 되어 함께해주세요🖤\n\n‘라이터’ 신청 후 미션에 참여해주시면 추첨을 통해 시사회 초대, 예매권 및 스페셜 굿즈 등 선물을 드립니다.🤗\n\n▶ 신청하기 : https://t.co/Eqb6khLQTs\n▶ 1차 미션 : 1/25(월) 개별 안내 예정\n\n#Writer #Lighter #Righter #라이터\n#빛과철 https://t.co/ZSKBmVGfLb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Writer",
+					"indices": [
+						162,
+						169
+					]
+				},
+				{
+					"text": "Lighter",
+					"indices": [
+						170,
+						178
+					]
+				},
+				{
+					"text": "Righter",
+					"indices": [
+						179,
+						187
+					]
+				},
+				{
+					"text": "라이터",
+					"indices": [
+						188,
+						192
+					]
+				},
+				{
+					"text": "빛과철",
+					"indices": [
+						193,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Eqb6khLQTs",
+					"expanded_url": "http://naver.me/5nciNMAU",
+					"display_url": "naver.me/5nciNMAU",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1352502480391655400,
+					"id_str": "1352502480391655424",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EsUN1w2UUAAAVGr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsUN1w2UUAAAVGr.jpg",
+					"url": "https://t.co/ZSKBmVGfLb",
+					"display_url": "pic.twitter.com/ZSKBmVGfLb",
+					"expanded_url": "https://twitter.com/challanfilm/status/1352502485336776704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352502480391655400,
+					"id_str": "1352502480391655424",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EsUN1w2UUAAAVGr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsUN1w2UUAAAVGr.jpg",
+					"url": "https://t.co/ZSKBmVGfLb",
+					"display_url": "pic.twitter.com/ZSKBmVGfLb",
+					"expanded_url": "https://twitter.com/challanfilm/status/1352502485336776704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 277891188,
+			"id_str": "277891188",
+			"name": "찬란",
+			"screen_name": "challanfilm",
+			"location": "강남,신사,가로수길",
+			"description": "https://t.co/4tILlDe0H0",
+			"url": "https://t.co/RsFd05j5p9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RsFd05j5p9",
+							"expanded_url": "http://www.challan.co.kr/",
+							"display_url": "challan.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4tILlDe0H0",
+							"expanded_url": "http://Instagram.com/challanfilm",
+							"display_url": "Instagram.com/challanfilm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4213,
+			"friends_count": 2325,
+			"listed_count": 54,
+			"created_at": "Wed Apr 06 06:32:47 +0000 2011",
+			"favourites_count": 5955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1346001252530835456/akOg387R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346001252530835456/akOg387R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/277891188/1608777847",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;빛과 철&gt; 서포터즈 ‘라이터’가 되어 함께해주세요🖤\n\n‘라이터’ 신청 후 미션에 참여해주시면 추첨을 통해 시사회 초대, 예매권 및 스페셜 굿즈 등 선물을 드립니다.🤗\n\n▶ 신청하기 : https://t.co/Eqb6khLQTs\n▶ 1차 미션 : 1/25(월) 개별 안내 예정\n\n#Writer #Lighter #Righter #라이터\n#빛과철 https://t.co/ZSKBmVGfLb"
+	},
+	{
 		"created_at": "Thu Jan 21 14:05:16 +0000 2021",
 		"id": 1352255947381461000,
 		"id_str": "1352255947381460993",
