@@ -1,6 +1,1065 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 27 23:53:54 +0000 2021",
+		"id": 1354577427591266300,
+		"id_str": "1354578409108586496",
+		"full_text": "독립영화관 KBS1TV 1/29 금요일에서 토요일로 넘어가는 밤 12시 10분! 바람처럼 흩어져 살아온 모녀의 해후. 박석영 감독, 정은경, 장선 주연의 &lt;바람의 언덕&gt;이 방영됩니다. 🌨️본방사수🌨️ https://t.co/ZpiBlGJFPM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354491666124574700,
+					"id_str": "1354491666124574720",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Eswe_nKVEAA2RbQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eswe_nKVEAA2RbQ.jpg",
+					"url": "https://t.co/ZpiBlGJFPM",
+					"display_url": "pic.twitter.com/ZpiBlGJFPM",
+					"expanded_url": "https://twitter.com/indiefilm__/status/1354577427591266308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1575,
+							"h": 787,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354491666124574700,
+					"id_str": "1354491666124574720",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Eswe_nKVEAA2RbQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eswe_nKVEAA2RbQ.jpg",
+					"url": "https://t.co/ZpiBlGJFPM",
+					"display_url": "pic.twitter.com/ZpiBlGJFPM",
+					"expanded_url": "https://twitter.com/indiefilm__/status/1354577427591266308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1575,
+							"h": 787,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277878802278838300,
+			"id_str": "1277878802278838273",
+			"name": "독립영화관",
+			"screen_name": "indiefilm__",
+			"location": "",
+			"description": "독립영화관 KBS1TV 매주 금요일 밤 12시 10분에 방영됩니다.",
+			"url": "https://t.co/bXtk4eQo9x",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bXtk4eQo9x",
+							"expanded_url": "http://program.kbs.co.kr/1tv/enter/indiefilm",
+							"display_url": "program.kbs.co.kr/1tv/enter/indi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 481,
+			"friends_count": 2,
+			"listed_count": 3,
+			"created_at": "Tue Jun 30 08:17:14 +0000 2020",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277881536415559680/RoU_KBH4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277881536415559680/RoU_KBH4_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "독립영화관 KBS1TV 1/29 금요일에서 토요일로 넘어가는 밤 12시 10분! 바람처럼 흩어져 살아온 모녀의 해후. 박석영 감독, 정은경, 장선 주연의 &lt;바람의 언덕&gt;이 방영됩니다. 🌨️본방사수🌨️ https://t.co/ZpiBlGJFPM"
+	},
+	{
+		"created_at": "Wed Jan 27 07:34:17 +0000 2021",
+		"id": 1354331167432925200,
+		"id_str": "1354331880011649025",
+		"full_text": "“Life is not just about what you do, \nit’s more how you do it.”\n\n2월 4일 개봉하는 &lt;페어웰 The Farewell&gt;(감독 룰루 왕 @thumbelulu) 뱃지를 작업했습니다. @thefarewell @awkwafina @audcine https://t.co/18HsnHetbK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thumbelulu",
+					"name": "Lulu Wang",
+					"id": 14912485,
+					"id_str": "14912485",
+					"indices": [
+						109,
+						120
+					]
+				},
+				{
+					"screen_name": "thefarewell",
+					"name": "The Farewell",
+					"id": 1114240774265241600,
+					"id_str": "1114240774265241600",
+					"indices": [
+						134,
+						146
+					]
+				},
+				{
+					"screen_name": "awkwafina",
+					"name": "AWKWAFINA",
+					"id": 605106202,
+					"id_str": "605106202",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"screen_name": "audcine",
+					"name": "오드(AUD)",
+					"id": 393219864,
+					"id_str": "393219864",
+					"indices": [
+						158,
+						166
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354331161711890400,
+					"id_str": "1354331161711890434",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EsuNBBoUUAI0bkP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsuNBBoUUAI0bkP.jpg",
+					"url": "https://t.co/18HsnHetbK",
+					"display_url": "pic.twitter.com/18HsnHetbK",
+					"expanded_url": "https://twitter.com/WorldofDDanjit/status/1354331167432925185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354331161711890400,
+					"id_str": "1354331161711890434",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EsuNBBoUUAI0bkP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsuNBBoUUAI0bkP.jpg",
+					"url": "https://t.co/18HsnHetbK",
+					"display_url": "pic.twitter.com/18HsnHetbK",
+					"expanded_url": "https://twitter.com/WorldofDDanjit/status/1354331167432925185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1354331161711894500,
+					"id_str": "1354331161711894530",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EsuNBBoUYAI51yl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsuNBBoUYAI51yl.jpg",
+					"url": "https://t.co/18HsnHetbK",
+					"display_url": "pic.twitter.com/18HsnHetbK",
+					"expanded_url": "https://twitter.com/WorldofDDanjit/status/1354331167432925185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1354331161720311800,
+					"id_str": "1354331161720311808",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EsuNBBqU0AAr1_Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsuNBBqU0AAr1_Q.jpg",
+					"url": "https://t.co/18HsnHetbK",
+					"display_url": "pic.twitter.com/18HsnHetbK",
+					"expanded_url": "https://twitter.com/WorldofDDanjit/status/1354331167432925185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 310470843,
+			"id_str": "310470843",
+			"name": "딴짓의 세상",
+			"screen_name": "WorldofDDanjit",
+			"location": "Seoul, Republic of Korea",
+			"description": "1-person design studio usually works on film-related projects. also runs @frameperpage for publishing books about film 📧 worldofddanjit@gmail.com",
+			"url": "https://t.co/NRraXH6PT6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NRraXH6PT6",
+							"expanded_url": "https://instagram.com/worldofddanjit",
+							"display_url": "instagram.com/worldofddanjit",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7609,
+			"friends_count": 628,
+			"listed_count": 32,
+			"created_at": "Fri Jun 03 20:15:31 +0000 2011",
+			"favourites_count": 4277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261679215390322689/R09yFGj8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261679215390322689/R09yFGj8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/310470843/1578597781",
+			"profile_link_color": "999999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“Life is not just about what you do, \nit’s more how you do it.”\n\n2월 4일 개봉하는 &lt;페어웰 The Farewell&gt;(감독 룰루 왕 @thumbelulu) 뱃지를 작업했습니다. @thefarewell @awkwafina @audcine https://t.co/18HsnHetbK"
+	},
+	{
+		"created_at": "Wed Jan 27 06:53:18 +0000 2021",
+		"id": 1354321567442817000,
+		"id_str": "1354321567442817028",
+		"full_text": "키에슬로프스키전은 매년 어디선가 빠지지 않고 꼭 하기 때문에 욕심을 내지 않아도 된다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1110,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "키에슬로프스키전은 매년 어디선가 빠지지 않고 꼭 하기 때문에 욕심을 내지 않아도 된다..."
+	},
+	{
+		"created_at": "Wed Jan 27 06:52:18 +0000 2021",
+		"id": 1354319945333526500,
+		"id_str": "1354321316027850753",
+		"full_text": ".\n서울극장 X 키에슬로프키 AtoZ 기획전 개최!👑\n\n2/6(토)-2/23(토)\n폴란드 거장 #크쥐시토프키에슬로프스키 의 대표작들을 만나다!\n\n1차 상영시간표 공개!\n얼른 시간 맞춰 예매하세요!!👀\n\n👉🏻1차 예매 오픈!\nhttps://t.co/8y14SugHqd\n\n#서울극장 #키에슬로프스키 #영화기획전 \n#기획전 #특별전 https://t.co/nWmjNOxXHS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크쥐시토프키에슬로프스키",
+					"indices": [
+						53,
+						66
+					]
+				},
+				{
+					"text": "서울극장",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "키에슬로프스키",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "영화기획전",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "기획전",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "특별전",
+					"indices": [
+						178,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8y14SugHqd",
+					"expanded_url": "https://bit.ly/3sZMH5r",
+					"display_url": "bit.ly/3sZMH5r",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1354319938706567200,
+					"id_str": "1354319938706567169",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EsuCzwrVcAEv0Rw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsuCzwrVcAEv0Rw.jpg",
+					"url": "https://t.co/nWmjNOxXHS",
+					"display_url": "pic.twitter.com/nWmjNOxXHS",
+					"expanded_url": "https://twitter.com/seoulcinema_/status/1354319945333526532/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354319938706567200,
+					"id_str": "1354319938706567169",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EsuCzwrVcAEv0Rw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsuCzwrVcAEv0Rw.jpg",
+					"url": "https://t.co/nWmjNOxXHS",
+					"display_url": "pic.twitter.com/nWmjNOxXHS",
+					"expanded_url": "https://twitter.com/seoulcinema_/status/1354319945333526532/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1354319938710696000,
+					"id_str": "1354319938710695936",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EsuCzwsUcAAR7pM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsuCzwsUcAAR7pM.jpg",
+					"url": "https://t.co/nWmjNOxXHS",
+					"display_url": "pic.twitter.com/nWmjNOxXHS",
+					"expanded_url": "https://twitter.com/seoulcinema_/status/1354319945333526532/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 329497057,
+			"id_str": "329497057",
+			"name": "서울극장",
+			"screen_name": "seoulcinema_",
+			"location": "서울시 종로구 돈화문로13",
+			"description": "",
+			"url": "https://t.co/EzQcFpMVnJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EzQcFpMVnJ",
+							"expanded_url": "http://m.seoulcinema.com",
+							"display_url": "m.seoulcinema.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3200,
+			"friends_count": 1611,
+			"listed_count": 40,
+			"created_at": "Tue Jul 05 05:20:22 +0000 2011",
+			"favourites_count": 98,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863931555294478336/M3qR1i4N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863931555294478336/M3qR1i4N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/329497057/1504140182",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "360336",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": ".\n서울극장 X 키에슬로프키 AtoZ 기획전 개최!👑\n\n2/6(토)-2/23(토)\n폴란드 거장 #크쥐시토프키에슬로프스키 의 대표작들을 만나다!\n\n1차 상영시간표 공개!\n얼른 시간 맞춰 예매하세요!!👀\n\n👉🏻1차 예매 오픈!\nhttps://t.co/8y14SugHqd\n\n#서울극장 #키에슬로프스키 #영화기획전 \n#기획전 #특별전 https://t.co/nWmjNOxXHS"
+	},
+	{
+		"created_at": "Wed Jan 27 06:51:37 +0000 2021",
+		"id": 1354321143658803200,
+		"id_str": "1354321143658803206",
+		"full_text": "오늘 여러가지 일을 했더니 시간 너무 잘가고 좋네. 옆자리 대리가 나에대해 분석하기를 일없을 때는 회사 재미없다고 하고 열심히 한 날은 퇴근할 때 기분이 좋아보인다고 하던데. 루팡을 지향하지만 사실은 일을 좋아하는 사람일지도...따흑..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1110,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오늘 여러가지 일을 했더니 시간 너무 잘가고 좋네. 옆자리 대리가 나에대해 분석하기를 일없을 때는 회사 재미없다고 하고 열심히 한 날은 퇴근할 때 기분이 좋아보인다고 하던데. 루팡을 지향하지만 사실은 일을 좋아하는 사람일지도...따흑.."
+	},
+	{
+		"created_at": "Wed Jan 27 01:51:06 +0000 2021",
+		"id": 1354245517983719400,
+		"id_str": "1354245517983719425",
+		"full_text": "@fallsstar 고객인줄 알고 쫄았거든요 샹 단호하게 대처했습니다 https://t.co/YMOeyuei3w",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fallsstar",
+					"name": "ʜʀ ᴘɪᴄ.",
+					"id": 265341125,
+					"id_str": "265341125",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354245510144516000,
+					"id_str": "1354245510144516097",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Ess_HcrU4AEn7a0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ess_HcrU4AEn7a0.jpg",
+					"url": "https://t.co/YMOeyuei3w",
+					"display_url": "pic.twitter.com/YMOeyuei3w",
+					"expanded_url": "https://twitter.com/sekaist/status/1354245517983719425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 921,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 921,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 557,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354245510144516000,
+					"id_str": "1354245510144516097",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/Ess_HcrU4AEn7a0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ess_HcrU4AEn7a0.jpg",
+					"url": "https://t.co/YMOeyuei3w",
+					"display_url": "pic.twitter.com/YMOeyuei3w",
+					"expanded_url": "https://twitter.com/sekaist/status/1354245517983719425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 921,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 921,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 557,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1354243943907516400,
+		"in_reply_to_status_id_str": "1354243943907516417",
+		"in_reply_to_user_id": 265341125,
+		"in_reply_to_user_id_str": "265341125",
+		"in_reply_to_screen_name": "fallsstar",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1110,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@fallsstar 고객인줄 알고 쫄았거든요 샹 단호하게 대처했습니다 https://t.co/YMOeyuei3w"
+	},
+	{
 		"created_at": "Tue Jan 26 14:46:19 +0000 2021",
 		"id": 1354078218748362800,
 		"id_str": "1354078218748362753",
