@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 16 09:26:20 +0000 2021",
+		"id": 1361607837860827100,
+		"id_str": "1361607837860827137",
+		"full_text": "@November1004 제가 알티한거 보시면 계정 아이디가 적혀있어요 ㅎㅎ 빛과철 GV",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "November1004",
+					"name": "푸 른 밤",
+					"id": 209986826,
+					"id_str": "209986826",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1361607716347646000,
+		"in_reply_to_status_id_str": "1361607716347645952",
+		"in_reply_to_user_id": 209986826,
+		"in_reply_to_user_id_str": "209986826",
+		"in_reply_to_screen_name": "November1004",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 1118,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@November1004 제가 알티한거 보시면 계정 아이디가 적혀있어요 ㅎㅎ 빛과철 GV"
+	},
+	{
+		"created_at": "Tue Feb 16 09:22:55 +0000 2021",
+		"id": 1361606975646093300,
+		"id_str": "1361606975646093322",
+		"full_text": "클럽하우스 GV의 첫걸음인가 ㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 1118,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "클럽하우스 GV의 첫걸음인가 ㅋㅋㅋㅋ"
+	},
+	{
 		"created_at": "Mon Feb 15 23:57:51 +0000 2021",
 		"id": 1361464772378599400,
 		"id_str": "1361464772378599425",
@@ -505,7 +680,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Mon Feb 15 12:11:10 +0000 2021",
 		"id": 1361254244641243100,
 		"id_str": "1361286932043497473",
-		"full_text": "엣나인필름 라인업 2탄 - 한국영화\n\n2021년 엣나인필름 배급으로 선보일\n한국영화 라인업을 소개합니다!\n\n올해도 관객분들이 한국독립영화와 함께\n극장에서 소중한 추억을 만들 수 있도록,\n열심히 뛰겠습니닷!\n\n🏃‍♀️🏃‍♀️🏃‍♀️\n\n#AT9_2021 #엣나인필름2021 https://t.co/hEN4JTft0P",
+		"full_text": "엣나인필름 라인업 2탄 - 한국영화\n\n2021년 엣나인필름 배급으로 선보일\n한국영화 라인업을 소개합니다!\n\n올해도 관객분들이 한국독립영화와 함께\n극장에서 소중한 추억을 만들 수 있도록,\n열심히 뛰겠습니닷!\n\n🏃♀️🏃♀️🏃♀️\n\n#AT9_2021 #엣나인필름2021 https://t.co/hEN4JTft0P",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -729,7 +904,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "엣나인필름 라인업 2탄 - 한국영화\n\n2021년 엣나인필름 배급으로 선보일\n한국영화 라인업을 소개합니다!\n\n올해도 관객분들이 한국독립영화와 함께\n극장에서 소중한 추억을 만들 수 있도록,\n열심히 뛰겠습니닷!\n\n🏃‍♀️🏃‍♀️🏃‍♀️\n\n#AT9_2021 #엣나인필름2021 https://t.co/hEN4JTft0P"
+		"text": "엣나인필름 라인업 2탄 - 한국영화\n\n2021년 엣나인필름 배급으로 선보일\n한국영화 라인업을 소개합니다!\n\n올해도 관객분들이 한국독립영화와 함께\n극장에서 소중한 추억을 만들 수 있도록,\n열심히 뛰겠습니닷!\n\n🏃♀️🏃♀️🏃♀️\n\n#AT9_2021 #엣나인필름2021 https://t.co/hEN4JTft0P"
 	},
 	{
 		"created_at": "Mon Feb 15 07:00:14 +0000 2021",
