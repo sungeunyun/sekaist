@@ -1,6 +1,618 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 26 16:50:39 +0000 2021",
+		"id": 1365300127779405800,
+		"id_str": "1365343533398298624",
+		"full_text": "do you see light at the end of the tunnel?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110509537,
+			"id_str": "110509537",
+			"name": "Thom Yorke",
+			"screen_name": "thomyorke",
+			"location": "europe",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1099463,
+			"friends_count": 300,
+			"listed_count": 8470,
+			"created_at": "Mon Feb 01 20:14:00 +0000 2010",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268072868014850048/9Lj4NCw4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268072868014850048/9Lj4NCw4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110509537/1591167107",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2092,
+		"favorite_count": 14962,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "do you see light at the end of the tunnel?"
+	},
+	{
+		"created_at": "Fri Feb 26 14:15:33 +0000 2021",
+		"id": 1365261157074825200,
+		"id_str": "1365304499577884672",
+		"full_text": "친구들아 내가 찍은 트위터스타 하헌진 대표님의 기타 연주 봐봐 \n https://t.co/tzP1EDjrwI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121429783856894000,
+					"id_str": "1121429783856893952",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121429783856893952/pu/img/gMYaN0l-yUG6koY4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121429783856893952/pu/img/gMYaN0l-yUG6koY4.jpg",
+					"url": "https://t.co/tzP1EDjrwI",
+					"display_url": "pic.twitter.com/tzP1EDjrwI",
+					"expanded_url": "https://twitter.com/myunlover/status/1121429890786480128/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1121429890786480100,
+					"source_status_id_str": "1121429890786480128",
+					"source_user_id": 1085318436186542100,
+					"source_user_id_str": "1085318436186542080"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121429783856894000,
+					"id_str": "1121429783856893952",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1121429783856893952/pu/img/gMYaN0l-yUG6koY4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1121429783856893952/pu/img/gMYaN0l-yUG6koY4.jpg",
+					"url": "https://t.co/tzP1EDjrwI",
+					"display_url": "pic.twitter.com/tzP1EDjrwI",
+					"expanded_url": "https://twitter.com/myunlover/status/1121429890786480128/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1121429890786480100,
+					"source_status_id_str": "1121429890786480128",
+					"source_user_id": 1085318436186542100,
+					"source_user_id_str": "1085318436186542080",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60163,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121429783856893952/pu/vid/320x320/nmwKjqDvTEcYrlhX.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1121429783856893952/pu/vid/480x480/5ZzGWE04jlBF0k-4.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1121429783856893952/pu/pl/OiVx9Dakx1sP6JC1.m3u8?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1085318436186542100,
+							"id_str": "1085318436186542080",
+							"name": "ZZIN",
+							"screen_name": "zzinpro",
+							"location": "문화예술오타쿠",
+							"description": "기뮨석과 2x9와 아무튼 누군가의 열혈 오타쿠",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 733,
+							"friends_count": 215,
+							"listed_count": 1,
+							"created_at": "Tue Jan 15 23:30:54 +0000 2019",
+							"favourites_count": 3798,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 15880,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1355389003223101448/5ZtNoxRm_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1355389003223101448/5ZtNoxRm_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1085318436186542080/1611388792",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1085318436186542100,
+			"id_str": "1085318436186542080",
+			"name": "ZZIN",
+			"screen_name": "zzinpro",
+			"location": "문화예술오타쿠",
+			"description": "기뮨석과 2x9와 아무튼 누군가의 열혈 오타쿠",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 733,
+			"friends_count": 215,
+			"listed_count": 1,
+			"created_at": "Tue Jan 15 23:30:54 +0000 2019",
+			"favourites_count": 3798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15880,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1355389003223101448/5ZtNoxRm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1355389003223101448/5ZtNoxRm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1085318436186542080/1611388792",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 183,
+		"favorite_count": 171,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "친구들아 내가 찍은 트위터스타 하헌진 대표님의 기타 연주 봐봐 \n https://t.co/tzP1EDjrwI"
+	},
+	{
+		"created_at": "Fri Feb 26 07:41:07 +0000 2021",
+		"id": 1365205236604829700,
+		"id_str": "1365205236604829700",
+		"full_text": "일베가 말이 많네 자랑이다 https://t.co/k7mXstnPwV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k7mXstnPwV",
+					"expanded_url": "https://twitter.com/chosun/status/1365179790735462400",
+					"display_url": "twitter.com/chosun/status/…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 636,
+			"friends_count": 1120,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1365179790735462400,
+		"quoted_status_id_str": "1365179790735462400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k7mXstnPwV",
+			"expanded": "https://twitter.com/chosun/status/1365179790735462400",
+			"display": "twitter.com/chosun/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 26 06:00:00 +0000 2021",
+			"id": 1365179790735462400,
+			"id_str": "1365179790735462400",
+			"full_text": "39%이신 분?\nhttps://t.co/kxsi9HikLM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				32
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kxsi9HikLM",
+						"expanded_url": "https://www.chosun.com/politics/politics_general/2021/02/26/Z7OATOHAFRELBFGBPEJQOK457Y/?utm_source=twitter&utm_medium=social&utm_campaign=twitter-post",
+						"display_url": "chosun.com/politics/polit…",
+						"indices": [
+							9,
+							32
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 61115620,
+				"id_str": "61115620",
+				"name": "조선일보",
+				"screen_name": "Chosun",
+				"location": "Korea",
+				"description": "대한민국 1등 인터넷 뉴스",
+				"url": "http://t.co/RrRKpQbQxD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RrRKpQbQxD",
+								"expanded_url": "http://chosun.com",
+								"display_url": "chosun.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 155641,
+				"friends_count": 5866,
+				"listed_count": 1969,
+				"created_at": "Wed Jul 29 04:47:18 +0000 2009",
+				"favourites_count": 94,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 96438,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1F1A1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877385991639638021/XAKwgaer_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877385991639638021/XAKwgaer_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/61115620/1553223436",
+				"profile_link_color": "9E1414",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D90723",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일베가 말이 많네 자랑이다 https://t.co/k7mXstnPwV"
+	},
+	{
+		"created_at": "Fri Feb 26 00:56:50 +0000 2021",
+		"id": 1365103494290493400,
+		"id_str": "1365103494290493442",
+		"full_text": "권당투표 휴대폰 인증 문자 왜케 안와 5번 시도했더니 20분 뒤에 하나씩 도착해서 오는 번호 족족 안맞음..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 636,
+			"friends_count": 1120,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "권당투표 휴대폰 인증 문자 왜케 안와 5번 시도했더니 20분 뒤에 하나씩 도착해서 오는 번호 족족 안맞음.."
+	},
+	{
 		"created_at": "Thu Feb 25 16:34:30 +0000 2021",
 		"id": 1364977078827843600,
 		"id_str": "1364977078827843584",
