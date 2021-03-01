@@ -1,6 +1,964 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 28 11:40:25 +0000 2021",
+		"id": 1365989605024043000,
+		"id_str": "1365990233431412739",
+		"full_text": "이용녀 선생님의 보호소에 불이 나서 전소되었다고 하네요 긴급 필요물품을 보내실 수 있는 분들은 해당 링크에 있는 이용녀님 연락처로 미리 연락후 보내시면 된다고 합니다\n\n https://t.co/ZU8Qp87R0j https://t.co/Xz5JMl4VnP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZU8Qp87R0j",
+					"expanded_url": "https://www.instagram.com/p/CL1WBFsHPZ9/?igshid=1jlq7x22smpix",
+					"display_url": "instagram.com/p/CL1WBFsHPZ9/…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1365989602348081200,
+					"id_str": "1365989602348081153",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EvT4TlbVoAEbidN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvT4TlbVoAEbidN.jpg",
+					"url": "https://t.co/Xz5JMl4VnP",
+					"display_url": "pic.twitter.com/Xz5JMl4VnP",
+					"expanded_url": "https://twitter.com/Sophia_1979/status/1365989605024043011/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 369,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 651,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1990,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1365989602348081200,
+					"id_str": "1365989602348081153",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EvT4TlbVoAEbidN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvT4TlbVoAEbidN.jpg",
+					"url": "https://t.co/Xz5JMl4VnP",
+					"display_url": "pic.twitter.com/Xz5JMl4VnP",
+					"expanded_url": "https://twitter.com/Sophia_1979/status/1365989605024043011/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 369,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 651,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1990,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213209467,
+			"id_str": "213209467",
+			"name": "소피아 Sophia 9979 🌻💜",
+			"screen_name": "Sophia_1979",
+			"location": "With Sul. With TY. ",
+			"description": "이유도 없는 외로움, 살아있다는 괴로움으로\n덕질하는 인간. 동물과 최애를 사랑해서 고통받는 인간\n\n🐈고양이들 셋 모두 입양한 애들입니다🐈 \n🙅사지 말고 버리지 마요🙏",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4236,
+			"friends_count": 438,
+			"listed_count": 23,
+			"created_at": "Mon Nov 08 08:37:22 +0000 2010",
+			"favourites_count": 103728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 106500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290084212322656256/pjgmuGzs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290084212322656256/pjgmuGzs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213209467/1606743014",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5589,
+		"favorite_count": 845,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이용녀 선생님의 보호소에 불이 나서 전소되었다고 하네요 긴급 필요물품을 보내실 수 있는 분들은 해당 링크에 있는 이용녀님 연락처로 미리 연락후 보내시면 된다고 합니다\n\n https://t.co/ZU8Qp87R0j https://t.co/Xz5JMl4VnP"
+	},
+	{
+		"created_at": "Sun Feb 28 10:28:17 +0000 2021",
+		"id": 1365972082383671300,
+		"id_str": "1365972082383671297",
+		"full_text": "@cymovie 네네 극장에서 저렇게 크게 틀어줄지 몰랐어요 약간 감동... 약속의 클하👏🏻👏🏻👏🏻",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cymovie",
+					"name": "cymovie",
+					"id": 422373638,
+					"id_str": "422373638",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1365971895858782200,
+		"in_reply_to_status_id_str": "1365971895858782208",
+		"in_reply_to_user_id": 422373638,
+		"in_reply_to_user_id_str": "422373638",
+		"in_reply_to_screen_name": "cymovie",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 638,
+			"friends_count": 1119,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@cymovie 네네 극장에서 저렇게 크게 틀어줄지 몰랐어요 약간 감동... 약속의 클하👏🏻👏🏻👏🏻"
+	},
+	{
+		"created_at": "Sun Feb 28 10:23:10 +0000 2021",
+		"id": 1365970792811356200,
+		"id_str": "1365970792811356162",
+		"full_text": "영화 빛과철 조금만 더 힘받으면 1만 돌파 가능할 것 같은데 세 배우들이 너무나도 귀여운 영상을 미리 준비하고 공개되기만을 기다리고 있다고 해요. 곧 개봉 3주차로 접어들어서 상영관이 더 줄어들 것 같은데 저를 믿고 한번씩 봐주시면 너무 감사할 것 같습니다....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 638,
+			"friends_count": 1119,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "영화 빛과철 조금만 더 힘받으면 1만 돌파 가능할 것 같은데 세 배우들이 너무나도 귀여운 영상을 미리 준비하고 공개되기만을 기다리고 있다고 해요. 곧 개봉 3주차로 접어들어서 상영관이 더 줄어들 것 같은데 저를 믿고 한번씩 봐주시면 너무 감사할 것 같습니다...."
+	},
+	{
+		"created_at": "Sun Feb 28 10:20:43 +0000 2021",
+		"id": 1365970179268649000,
+		"id_str": "1365970179268648961",
+		"full_text": "어제 빛과철 클하 GV에서 오늘 영화의전당 GV 진행자 옥미나 평론가님이 불참하시는 염혜란 배우님께 관객들에게 한마디 해주시면 녹음해서 들려주겠다고 하셨는데 음성보다는 직접 촬영해서 영상을 보내주신다고 하셨고 감독님께 전달해주신 영상을 극장에서 틀어주었다. https://t.co/2Gij2ajDQE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1365970093910356000,
+					"id_str": "1365970093910355971",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1365970093910355971/pu/img/YHsRyO1AMOMmqv1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1365970093910355971/pu/img/YHsRyO1AMOMmqv1Z.jpg",
+					"url": "https://t.co/2Gij2ajDQE",
+					"display_url": "pic.twitter.com/2Gij2ajDQE",
+					"expanded_url": "https://twitter.com/sekaist/status/1365970179268648961/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1365970093910356000,
+					"id_str": "1365970093910355971",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1365970093910355971/pu/img/YHsRyO1AMOMmqv1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1365970093910355971/pu/img/YHsRyO1AMOMmqv1Z.jpg",
+					"url": "https://t.co/2Gij2ajDQE",
+					"display_url": "pic.twitter.com/2Gij2ajDQE",
+					"expanded_url": "https://twitter.com/sekaist/status/1365970179268648961/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 39403,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1365970093910355971/pu/pl/51uI-WB01sHv0IBR.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1365970093910355971/pu/vid/640x360/4syqXNL9zJUinm01.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1365970093910355971/pu/vid/1280x720/a0iZn8R-VF-E22Z-.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1365970093910355971/pu/vid/480x270/M7MS3gXZOiyOVf_l.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 638,
+			"friends_count": 1119,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어제 빛과철 클하 GV에서 오늘 영화의전당 GV 진행자 옥미나 평론가님이 불참하시는 염혜란 배우님께 관객들에게 한마디 해주시면 녹음해서 들려주겠다고 하셨는데 음성보다는 직접 촬영해서 영상을 보내주신다고 하셨고 감독님께 전달해주신 영상을 극장에서 틀어주었다. https://t.co/2Gij2ajDQE"
+	},
+	{
+		"created_at": "Sun Feb 28 04:20:50 +0000 2021",
+		"id": 1365608998100111400,
+		"id_str": "1365879611758813186",
+		"full_text": "강제셧다운 풀린 2단계현재 공연수익만으로 운영되는 공연장은 적자로 기획자체가 어렵고, 술파는 공연장은 일반음식점 등록되어 공연을 못합니다. 방역, 입장체크, 마스크착용, 거리두기 철저히 하고, 장내 전염사례 없었어도 공연은 안된답니다. 언제까지 공연문화만 이런 취급을 받아야합니까? https://t.co/dI8yQPCNp5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1365608993901539300,
+					"id_str": "1365608993901539330",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EvOeJQeUcAIFgZ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvOeJQeUcAIFgZ8.jpg",
+					"url": "https://t.co/dI8yQPCNp5",
+					"display_url": "pic.twitter.com/dI8yQPCNp5",
+					"expanded_url": "https://twitter.com/deadbuttons/status/1365608998100111362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 670,
+							"h": 808,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 808,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 564,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1365608993901539300,
+					"id_str": "1365608993901539330",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EvOeJQeUcAIFgZ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvOeJQeUcAIFgZ8.jpg",
+					"url": "https://t.co/dI8yQPCNp5",
+					"display_url": "pic.twitter.com/dI8yQPCNp5",
+					"expanded_url": "https://twitter.com/deadbuttons/status/1365608998100111362/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 670,
+							"h": 808,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 808,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 564,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1294915308386361300,
+			"id_str": "1294915308386361345",
+			"name": "Deadbuttons",
+			"screen_name": "deadbuttons",
+			"location": "Seoul, Republic of Korea",
+			"description": "데드버튼즈 Psych-punk band from South Korea New album ‘1’ (2020) available on music streaming services",
+			"url": "https://t.co/zz5E83CgWS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zz5E83CgWS",
+							"expanded_url": "https://linktr.ee/deadbuttons",
+							"display_url": "linktr.ee/deadbuttons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137,
+			"friends_count": 111,
+			"listed_count": 1,
+			"created_at": "Sun Aug 16 08:34:40 +0000 2020",
+			"favourites_count": 680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1294915738784813058/P7cODi1__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1294915738784813058/P7cODi1__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1294915308386361345/1597590677",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 501,
+		"favorite_count": 193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "강제셧다운 풀린 2단계현재 공연수익만으로 운영되는 공연장은 적자로 기획자체가 어렵고, 술파는 공연장은 일반음식점 등록되어 공연을 못합니다. 방역, 입장체크, 마스크착용, 거리두기 철저히 하고, 장내 전염사례 없었어도 공연은 안된답니다. 언제까지 공연문화만 이런 취급을 받아야합니까? https://t.co/dI8yQPCNp5"
+	},
+	{
+		"created_at": "Sun Feb 28 01:45:12 +0000 2021",
+		"id": 1365659625178112000,
+		"id_str": "1365840441569021957",
+		"full_text": "코세글자로 두차례나 미뤄진 광선님 솔로공연. 관객 입장을 3분정도 앞두고 네스트나다 실장님이 님덜 전신과 신발 바닥과 핸드폰까지 싹 소독당하고 입장하실거임 한창 설명하는 도중 갑자기 구청에서 왔다는 사람들이 들이닥쳤다. 주최측에서 5분정도만 지연입장하겠다 양해를 구하고 들어가더니",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 171590681,
+			"id_str": "171590681",
+			"name": "뽀식이네 감자탕",
+			"screen_name": "TilBooth",
+			"location": "South Korea",
+			"description": "Staying here",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 172,
+			"friends_count": 264,
+			"listed_count": 0,
+			"created_at": "Tue Jul 27 18:15:56 +0000 2010",
+			"favourites_count": 16545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1010780574078758912/74Ce6qMi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010780574078758912/74Ce6qMi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/171590681/1459670497",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "코세글자로 두차례나 미뤄진 광선님 솔로공연. 관객 입장을 3분정도 앞두고 네스트나다 실장님이 님덜 전신과 신발 바닥과 핸드폰까지 싹 소독당하고 입장하실거임 한창 설명하는 도중 갑자기 구청에서 왔다는 사람들이 들이닥쳤다. 주최측에서 5분정도만 지연입장하겠다 양해를 구하고 들어가더니"
+	},
+	{
+		"created_at": "Sun Feb 28 01:38:04 +0000 2021",
+		"id": 1365838649338728400,
+		"id_str": "1365838649338728448",
+		"full_text": "방역수칙에 근거하여 공연을 하는데 문제가 있다면 당연히 따랐을 것이다 명백한 규정에 의해서 집행을 하려면 사전에 고지하고 공문을 보내던가 해야지 공연 중간에 강제 취소를 당했다는 얘기는 어디서도 듣도 보지 못했는데 무시도 정도껏이지 너무 기분이 나빠서 문체부든 마포구청이든 항의하려고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1365838647719649300,
+		"in_reply_to_status_id_str": "1365838647719649284",
+		"in_reply_to_user_id": 133336572,
+		"in_reply_to_user_id_str": "133336572",
+		"in_reply_to_screen_name": "sekaist",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 638,
+			"friends_count": 1119,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 174,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "방역수칙에 근거하여 공연을 하는데 문제가 있다면 당연히 따랐을 것이다 명백한 규정에 의해서 집행을 하려면 사전에 고지하고 공문을 보내던가 해야지 공연 중간에 강제 취소를 당했다는 얘기는 어디서도 듣도 보지 못했는데 무시도 정도껏이지 너무 기분이 나빠서 문체부든 마포구청이든 항의하려고"
+	},
+	{
+		"created_at": "Sun Feb 28 01:38:04 +0000 2021",
+		"id": 1365838647719649300,
+		"id_str": "1365838647719649284",
+		"full_text": "어제 홍대 공연장들 몇곳이 공연을 바로 앞두고 혹은 공연 진행중에 강제취소 집행이 됐다고 한다. 코로나 이후 인디밴드들이 설 여럿 공연장이 문을 닫았고 그나마 남은 공연장은 힘을 짜내서 운영중이고 자발적으로 방역하고 심각한 상황에서는 문을 닫고 영업을 하지 못한 시기도 수개월이었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 638,
+			"friends_count": 1119,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 443,
+		"favorite_count": 206,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어제 홍대 공연장들 몇곳이 공연을 바로 앞두고 혹은 공연 진행중에 강제취소 집행이 됐다고 한다. 코로나 이후 인디밴드들이 설 여럿 공연장이 문을 닫았고 그나마 남은 공연장은 힘을 짜내서 운영중이고 자발적으로 방역하고 심각한 상황에서는 문을 닫고 영업을 하지 못한 시기도 수개월이었다."
+	},
+	{
 		"created_at": "Sat Feb 27 12:13:30 +0000 2021",
 		"id": 1365636171498328000,
 		"id_str": "1365636171498328072",
