@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 17 15:41:27 +0000 2021",
+		"id": 1372211487280795600,
+		"id_str": "1372211487280795649",
+		"full_text": "헐 저도 이비인후과 다녔음 두군데나 갔는데 두번째에서 처방받은 약 잘 맞아서 회복",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 633,
+			"friends_count": 1121,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "헐 저도 이비인후과 다녔음 두군데나 갔는데 두번째에서 처방받은 약 잘 맞아서 회복"
+	},
+	{
+		"created_at": "Wed Mar 17 15:40:48 +0000 2021",
+		"id": 1371797307524456400,
+		"id_str": "1372211322671132685",
+		"full_text": "에어팟 프로 쓰고부터 자꾸 귀에 염증이 생겼는데, 찾아보니 생각보다 많은 사람이 앓고 있는 문제였음••• 이번엔 염증이 유독 심해서 병원에 가니까, 염증과 세균 감염이 더 심해져서 뼈까지 퍼졌을 땐 수술을 해야 한다고 🤯 이제부터 프로 바이바이 ... https://t.co/7wMrPnS52y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1371797300717088800,
+					"id_str": "1371797300717088773",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EwmaYH0U8AUVRsM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwmaYH0U8AUVRsM.jpg",
+					"url": "https://t.co/7wMrPnS52y",
+					"display_url": "pic.twitter.com/7wMrPnS52y",
+					"expanded_url": "https://twitter.com/pearl__dan/status/1371797307524456451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 798,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1245,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1371797300717088800,
+					"id_str": "1371797300717088773",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EwmaYH0U8AUVRsM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwmaYH0U8AUVRsM.jpg",
+					"url": "https://t.co/7wMrPnS52y",
+					"display_url": "pic.twitter.com/7wMrPnS52y",
+					"expanded_url": "https://twitter.com/pearl__dan/status/1371797307524456451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 798,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1245,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1162341972838772700,
+			"id_str": "1162341972838772736",
+			"name": "단",
+			"screen_name": "pearl__dan",
+			"location": "사진저장및비계인용금지",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1725,
+			"friends_count": 210,
+			"listed_count": 2,
+			"created_at": "Fri Aug 16 12:35:02 +0000 2019",
+			"favourites_count": 3008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263163436113883136/HiTtiNto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263163436113883136/HiTtiNto_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1162341972838772736/1606200184",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8997,
+		"favorite_count": 2293,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "에어팟 프로 쓰고부터 자꾸 귀에 염증이 생겼는데, 찾아보니 생각보다 많은 사람이 앓고 있는 문제였음••• 이번엔 염증이 유독 심해서 병원에 가니까, 염증과 세균 감염이 더 심해져서 뼈까지 퍼졌을 땐 수술을 해야 한다고 🤯 이제부터 프로 바이바이 ... https://t.co/7wMrPnS52y"
+	},
+	{
 		"created_at": "Tue Mar 16 23:37:13 +0000 2021",
 		"id": 1371968828356268000,
 		"id_str": "1371968828356268032",
