@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 07 22:43:01 +0000 2021",
+		"id": 1379841400666132500,
+		"id_str": "1379927723141853184",
+		"full_text": "대리인간 고보결, 의뢰인 공승연의 이별까지 책임지다?!\n\n#tvN #드라마스테이지2021 #대리인간\n4/14 [수] 밤 12시 10분 방송\n#공승연 #고보결 #유태오 https://t.co/KWP9d7p1TN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tvN",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "드라마스테이지2021",
+					"indices": [
+						37,
+						49
+					]
+				},
+				{
+					"text": "대리인간",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "공승연",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "고보결",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "유태오",
+					"indices": [
+						88,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1379772123867058200,
+					"id_str": "1379772123867058181",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EyXvyWtVcAETIWn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyXvyWtVcAETIWn.jpg",
+					"url": "https://t.co/KWP9d7p1TN",
+					"display_url": "pic.twitter.com/KWP9d7p1TN",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1379841400666132490/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1379772123867058200,
+					"id_str": "1379772123867058181",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EyXvyWtVcAETIWn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyXvyWtVcAETIWn.jpg",
+					"url": "https://t.co/KWP9d7p1TN",
+					"display_url": "pic.twitter.com/KWP9d7p1TN",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1379841400666132490/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1379772123867058181/vid/1280x720/r64wbJVK9BDqB-OX.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1379772123867058181/vid/480x270/PvGoLDfOZ_G2vOSD.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1379772123867058181/vid/640x360/kC8f1YR48qr1xNFI.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1379772123867058181/pl/nAIEaEittjIwZRjD.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335749973,
+			"id_str": "335749973",
+			"name": "tvN 드라마",
+			"screen_name": "CJnDrama",
+			"location": "",
+			"description": "tvN 드라마 공식 계정 #tvN #티비엔 #루카더비기닝 #마우스 #빈센조",
+			"url": "https://t.co/Em6okU1Ysx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Em6okU1Ysx",
+							"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+							"display_url": "youtube.com/user/CJENMDRAMA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 489628,
+			"friends_count": 41,
+			"listed_count": 763,
+			"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1617240922",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 298,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대리인간 고보결, 의뢰인 공승연의 이별까지 책임지다?!\n\n#tvN #드라마스테이지2021 #대리인간\n4/14 [수] 밤 12시 10분 방송\n#공승연 #고보결 #유태오 https://t.co/KWP9d7p1TN"
+	},
+	{
+		"created_at": "Wed Apr 07 15:08:39 +0000 2021",
+		"id": 1379813377770365000,
+		"id_str": "1379813377770364929",
+		"full_text": "투표결과 개박치네 진짜 샹",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 1120,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "투표결과 개박치네 진짜 샹"
+	},
+	{
 		"created_at": "Tue Apr 06 16:11:39 +0000 2021",
 		"id": 1379466845359513600,
 		"id_str": "1379466845359513602",
