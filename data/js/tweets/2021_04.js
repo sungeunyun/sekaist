@@ -1,6 +1,849 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 11 00:02:47 +0000 2021",
+		"id": 1380926709566906400,
+		"id_str": "1381034959247314944",
+		"full_text": "초선 5인 중 누가 소집했고, 누가 작성했고 그런 것은 본질이 아닙니다. 결국 서로 뜻이 맞았기 때문에 같이 발표한 겁니다. 뜻이 달랐다면 빠져야 했습니다. 문파들은 이번 사태를 총선까지 확실히 기억할 것입니다. 처음 단 뱃지가 문재인 대통령 덕분에 얼마나 쉽게 달았었는지 그때 느낄 겁니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930262,
+			"id_str": "110930262",
+			"name": "다시,봄 🌱",
+			"screen_name": "silence97",
+			"location": "파도에 흔들릴지라도 가라앉지 않습니다.",
+			"description": "노 대통령과 나는 아주 작은 지천에서 만나, 험하고 먼 물길을 흘러왔다. 바다로 갈수록 물과 물은 만나는 법이다. 혹은 물과 물이 만나 바다를 이루는 법이다. 이 땅의 사람들도 그랬으면 좋겠다. 역사의 큰 물줄기를 이뤄 함께 흘렀으면 좋겠다. - 제19대 대통령 문재인의 '운명' 중 -",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24410,
+			"friends_count": 2873,
+			"listed_count": 45,
+			"created_at": "Wed Feb 03 07:11:22 +0000 2010",
+			"favourites_count": 1055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078615852352647169/PfBJTg-2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078615852352647169/PfBJTg-2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930262/1502621339",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 389,
+		"favorite_count": 377,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "초선 5인 중 누가 소집했고, 누가 작성했고 그런 것은 본질이 아닙니다. 결국 서로 뜻이 맞았기 때문에 같이 발표한 겁니다. 뜻이 달랐다면 빠져야 했습니다. 문파들은 이번 사태를 총선까지 확실히 기억할 것입니다. 처음 단 뱃지가 문재인 대통령 덕분에 얼마나 쉽게 달았었는지 그때 느낄 겁니다."
+	},
+	{
+		"created_at": "Sat Apr 10 23:48:30 +0000 2021",
+		"id": 1380869129830158300,
+		"id_str": "1381031364103839747",
+		"full_text": "초선들이 이 이슈 저 이슈 다 끌고 와서 그걸 탓하며 칼 꽂고 당을 흔들고 있는데, 이번 선거에서 니들 말대로 '더 이상 눈감거나 침묵하지 않고 국민의 목소리를 대변하는 주체 세력'이 돼 오세훈과 박형준의 민낯을 까발렸어야지! 정작 해야 되고 나서야 할 때는 가만있다가 감히 이것들이 그냥.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1232556677188112400,
+			"id_str": "1232556677188112386",
+			"name": "sora",
+			"screen_name": "happy_CSR_",
+			"location": "",
+			"description": "많고 많은 사람 중에 그대 한 사람.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9763,
+			"friends_count": 673,
+			"listed_count": 25,
+			"created_at": "Wed Feb 26 06:44:21 +0000 2020",
+			"favourites_count": 13686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1359899080181252098/wKy_qf4l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359899080181252098/wKy_qf4l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1232556677188112386/1582699580",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 144,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "초선들이 이 이슈 저 이슈 다 끌고 와서 그걸 탓하며 칼 꽂고 당을 흔들고 있는데, 이번 선거에서 니들 말대로 '더 이상 눈감거나 침묵하지 않고 국민의 목소리를 대변하는 주체 세력'이 돼 오세훈과 박형준의 민낯을 까발렸어야지! 정작 해야 되고 나서야 할 때는 가만있다가 감히 이것들이 그냥."
+	},
+	{
+		"created_at": "Sat Apr 10 23:43:34 +0000 2021",
+		"id": 1380744944885715000,
+		"id_str": "1381030123831394309",
+		"full_text": "타임라인 정리 제대로 되어 있네요\n\n실트 올려요🔥🔥🔥\n\n#LH배후를밝혀라\n#민주당초선족정신차려\n#민주당재선족정신차려\n#민주당은각성하라\n#당원무시하는민주당은각성하라https://t.co/folP5qUJrM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LH배후를밝혀라",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"text": "민주당초선족정신차려",
+					"indices": [
+						41,
+						52
+					]
+				},
+				{
+					"text": "민주당재선족정신차려",
+					"indices": [
+						53,
+						64
+					]
+				},
+				{
+					"text": "민주당은각성하라",
+					"indices": [
+						65,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/folP5qUJrM",
+					"expanded_url": "https://twitter.com/alilacdress/status/1380694910362288131?s=19",
+					"display_url": "twitter.com/alilacdress/st…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1080195626078335000,
+			"id_str": "1080195626078334976",
+			"name": "paleblu♡",
+			"screen_name": "blueblu79363717",
+			"location": "",
+			"description": "허접한 짤쟁이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1100,
+			"friends_count": 317,
+			"listed_count": 5,
+			"created_at": "Tue Jan 01 20:14:41 +0000 2019",
+			"favourites_count": 124233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1370409880872316938/sKTIwlsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1370409880872316938/sKTIwlsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1080195626078334976/1547285318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1380694910362288000,
+		"quoted_status_id_str": "1380694910362288131",
+		"quoted_status_permalink": {
+			"url": "https://t.co/folP5qUJrM",
+			"expanded": "https://twitter.com/alilacdress/status/1380694910362288131?s=19",
+			"display": "twitter.com/alilacdress/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 10 01:31:33 +0000 2021",
+			"id": 1380694910362288000,
+			"id_str": "1380694910362288131",
+			"full_text": "2021 민주당 보궐선거 해시태그\n#박영선 #오세훈 #우상호 #김태년 #이해찬 #임종석 #유은혜 #진성준 #윤건영 #신동근 #김종민 #김해영 #오영환 #이소영 #장경태 #장철민 #전용기 #김남국 #이재명 https://t.co/JD936oSBii",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "박영선",
+						"indices": [
+							19,
+							23
+						]
+					},
+					{
+						"text": "오세훈",
+						"indices": [
+							24,
+							28
+						]
+					},
+					{
+						"text": "우상호",
+						"indices": [
+							29,
+							33
+						]
+					},
+					{
+						"text": "김태년",
+						"indices": [
+							34,
+							38
+						]
+					},
+					{
+						"text": "이해찬",
+						"indices": [
+							39,
+							43
+						]
+					},
+					{
+						"text": "임종석",
+						"indices": [
+							44,
+							48
+						]
+					},
+					{
+						"text": "유은혜",
+						"indices": [
+							49,
+							53
+						]
+					},
+					{
+						"text": "진성준",
+						"indices": [
+							54,
+							58
+						]
+					},
+					{
+						"text": "윤건영",
+						"indices": [
+							59,
+							63
+						]
+					},
+					{
+						"text": "신동근",
+						"indices": [
+							64,
+							68
+						]
+					},
+					{
+						"text": "김종민",
+						"indices": [
+							69,
+							73
+						]
+					},
+					{
+						"text": "김해영",
+						"indices": [
+							74,
+							78
+						]
+					},
+					{
+						"text": "오영환",
+						"indices": [
+							79,
+							83
+						]
+					},
+					{
+						"text": "이소영",
+						"indices": [
+							84,
+							88
+						]
+					},
+					{
+						"text": "장경태",
+						"indices": [
+							89,
+							93
+						]
+					},
+					{
+						"text": "장철민",
+						"indices": [
+							94,
+							98
+						]
+					},
+					{
+						"text": "전용기",
+						"indices": [
+							99,
+							103
+						]
+					},
+					{
+						"text": "김남국",
+						"indices": [
+							104,
+							108
+						]
+					},
+					{
+						"text": "이재명",
+						"indices": [
+							109,
+							113
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1380694839927263200,
+						"id_str": "1380694839927263234",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/Eyk2pEUUUAIBpJX.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eyk2pEUUUAIBpJX.png",
+						"url": "https://t.co/JD936oSBii",
+						"display_url": "pic.twitter.com/JD936oSBii",
+						"expanded_url": "https://twitter.com/alilacdress/status/1380694910362288131/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 388,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 685,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 836,
+								"h": 1465,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1380694839927263200,
+						"id_str": "1380694839927263234",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/Eyk2pEUUUAIBpJX.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eyk2pEUUUAIBpJX.png",
+						"url": "https://t.co/JD936oSBii",
+						"display_url": "pic.twitter.com/JD936oSBii",
+						"expanded_url": "https://twitter.com/alilacdress/status/1380694910362288131/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 388,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 685,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 836,
+								"h": 1465,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1354463993608327200,
+				"id_str": "1354463993608327170",
+				"name": "내서랍",
+				"screen_name": "alilacdress",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1,
+				"friends_count": 0,
+				"listed_count": 0,
+				"created_at": "Wed Jan 27 16:19:21 +0000 2021",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 185,
+			"favorite_count": 101,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 90,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "타임라인 정리 제대로 되어 있네요\n\n실트 올려요🔥🔥🔥\n\n#LH배후를밝혀라\n#민주당초선족정신차려\n#민주당재선족정신차려\n#민주당은각성하라\n#당원무시하는민주당은각성하라https://t.co/folP5qUJrM"
+	},
+	{
+		"created_at": "Sat Apr 10 04:55:57 +0000 2021",
+		"id": 1380746348610261000,
+		"id_str": "1380746348610260995",
+		"full_text": "@fallsstar 네 열었네요 밖이라 피시방 올 수 밖에 없어서",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fallsstar",
+					"name": "ʜʀ ᴘɪᴄ.",
+					"id": 265341125,
+					"id_str": "265341125",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1380746093693005800,
+		"in_reply_to_status_id_str": "1380746093693005828",
+		"in_reply_to_user_id": 265341125,
+		"in_reply_to_user_id_str": "265341125",
+		"in_reply_to_screen_name": "fallsstar",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 1120,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@fallsstar 네 열었네요 밖이라 피시방 올 수 밖에 없어서"
+	},
+	{
+		"created_at": "Sat Apr 10 04:54:18 +0000 2021",
+		"id": 1380745934246580200,
+		"id_str": "1380745934246580224",
+		"full_text": "간만에 티켓팅 하러 피시방 와봤네 개이득",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 1120,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "간만에 티켓팅 하러 피시방 와봤네 개이득"
+	},
+	{
+		"created_at": "Sat Apr 10 01:27:57 +0000 2021",
+		"id": 1380694004287692800,
+		"id_str": "1380694004287692810",
+		"full_text": "모범택시는 방영 전부터 걱정했지만 그럴줄 알았음 볼생각도 없었지만 지나치면서도 안봐야겠음 불매...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 1120,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "모범택시는 방영 전부터 걱정했지만 그럴줄 알았음 볼생각도 없었지만 지나치면서도 안봐야겠음 불매..."
+	},
+	{
 		"created_at": "Fri Apr 09 14:53:13 +0000 2021",
 		"id": 1380534269332779000,
 		"id_str": "1380534269332779013",
