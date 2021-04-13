@@ -1,6 +1,525 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 12 18:31:38 +0000 2021",
+		"id": 1381601324022689800,
+		"id_str": "1381676397299597313",
+		"full_text": "[더불어민주당 권리당원 성명서]\n\n더불어민주당 의원에 고함 https://t.co/3eWxIV0xve",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1381601312731590700,
+					"id_str": "1381601312731590657",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/EyxvEuqUcAE1HXq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyxvEuqUcAE1HXq.jpg",
+					"url": "https://t.co/3eWxIV0xve",
+					"display_url": "pic.twitter.com/3eWxIV0xve",
+					"expanded_url": "https://twitter.com/MLvdVXprg5m6Yk1/status/1381601324022689795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1084,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 635,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1381601312731590700,
+					"id_str": "1381601312731590657",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/EyxvEuqUcAE1HXq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyxvEuqUcAE1HXq.jpg",
+					"url": "https://t.co/3eWxIV0xve",
+					"display_url": "pic.twitter.com/3eWxIV0xve",
+					"expanded_url": "https://twitter.com/MLvdVXprg5m6Yk1/status/1381601324022689795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 360,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1084,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 635,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1381601312731631600,
+					"id_str": "1381601312731631618",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/EyxvEuqVEAI1eoJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyxvEuqVEAI1eoJ.jpg",
+					"url": "https://t.co/3eWxIV0xve",
+					"display_url": "pic.twitter.com/3eWxIV0xve",
+					"expanded_url": "https://twitter.com/MLvdVXprg5m6Yk1/status/1381601324022689795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 437,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1148,
+							"h": 1788,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 770,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1381600649519886300,
+			"id_str": "1381600649519886336",
+			"name": "더불어민주당 권리당원",
+			"screen_name": "MLvdVXprg5m6Yk1",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 365,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Mon Apr 12 13:30:49 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1381607454237073413/qnzl9C93_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1381607454237073413/qnzl9C93_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1381600649519886336/1618235876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1425,
+		"favorite_count": 1376,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[더불어민주당 권리당원 성명서]\n\n더불어민주당 의원에 고함 https://t.co/3eWxIV0xve"
+	},
+	{
+		"created_at": "Mon Apr 12 11:32:01 +0000 2021",
+		"id": 1381570797404217300,
+		"id_str": "1381570797404217345",
+		"full_text": "귀여워 펭주먹밥 https://t.co/bIHMHEdity",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1381570793285378000,
+					"id_str": "1381570793285378049",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/EyxTUQ3UYAE31lG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyxTUQ3UYAE31lG.jpg",
+					"url": "https://t.co/bIHMHEdity",
+					"display_url": "pic.twitter.com/bIHMHEdity",
+					"expanded_url": "https://twitter.com/sekaist/status/1381570797404217345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1766,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 433,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 764,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1381570793285378000,
+					"id_str": "1381570793285378049",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/EyxTUQ3UYAE31lG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyxTUQ3UYAE31lG.jpg",
+					"url": "https://t.co/bIHMHEdity",
+					"display_url": "pic.twitter.com/bIHMHEdity",
+					"expanded_url": "https://twitter.com/sekaist/status/1381570797404217345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1766,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 433,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 764,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 1120,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "귀여워 펭주먹밥 https://t.co/bIHMHEdity"
+	},
+	{
+		"created_at": "Mon Apr 12 09:08:01 +0000 2021",
+		"id": 1381529243083890700,
+		"id_str": "1381534558554714113",
+		"full_text": "강선우 씨부리는거 보니까 들 아프던데? https://t.co/otW0OnKSLq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1381529235534213000,
+					"id_str": "1381529235534213127",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EywthSLVcAcve2B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EywthSLVcAcve2B.jpg",
+					"url": "https://t.co/otW0OnKSLq",
+					"display_url": "pic.twitter.com/otW0OnKSLq",
+					"expanded_url": "https://twitter.com/lalapesto/status/1381529243083890688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 688,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 688,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1381529235534213000,
+					"id_str": "1381529235534213127",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/media/EywthSLVcAcve2B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EywthSLVcAcve2B.jpg",
+					"url": "https://t.co/otW0OnKSLq",
+					"display_url": "pic.twitter.com/otW0OnKSLq",
+					"expanded_url": "https://twitter.com/lalapesto/status/1381529243083890688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 688,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 688,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 805660444815859700,
+			"id_str": "805660444815859712",
+			"name": "Luna🧚‍♂️🌕",
+			"screen_name": "lalapesto",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18629,
+			"friends_count": 987,
+			"listed_count": 83,
+			"created_at": "Mon Dec 05 06:29:53 +0000 2016",
+			"favourites_count": 56978,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 152787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077507454554927104/_cRJEZvN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077507454554927104/_cRJEZvN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/805660444815859712/1610032876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "강선우 씨부리는거 보니까 들 아프던데? https://t.co/otW0OnKSLq"
+	},
+	{
 		"created_at": "Sun Apr 11 23:25:14 +0000 2021",
 		"id": 1381044039147876400,
 		"id_str": "1381387898444861443",
