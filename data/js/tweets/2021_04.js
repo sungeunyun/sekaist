@@ -1,6 +1,417 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 20 12:19:21 +0000 2021",
+		"id": 1384398765100912600,
+		"id_str": "1384481814958415875",
+		"full_text": "홍익대학교 앞 망함 다망함 스타벅스도 망함 https://t.co/ILw1JpfynY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1384398755961532400,
+					"id_str": "1384398755961532416",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EzZfVWyUcAArqpW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzZfVWyUcAArqpW.jpg",
+					"url": "https://t.co/ILw1JpfynY",
+					"display_url": "pic.twitter.com/ILw1JpfynY",
+					"expanded_url": "https://twitter.com/JSerin_M/status/1384398765100912641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384398755961532400,
+					"id_str": "1384398755961532416",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EzZfVWyUcAArqpW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzZfVWyUcAArqpW.jpg",
+					"url": "https://t.co/ILw1JpfynY",
+					"display_url": "pic.twitter.com/ILw1JpfynY",
+					"expanded_url": "https://twitter.com/JSerin_M/status/1384398765100912641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1384398755961528300,
+					"id_str": "1384398755961528322",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EzZfVWyUYAIDxzU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzZfVWyUYAIDxzU.jpg",
+					"url": "https://t.co/ILw1JpfynY",
+					"display_url": "pic.twitter.com/ILw1JpfynY",
+					"expanded_url": "https://twitter.com/JSerin_M/status/1384398765100912641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1384398756154515500,
+					"id_str": "1384398756154515459",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EzZfVXgVIAMav0Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzZfVXgVIAMav0Y.jpg",
+					"url": "https://t.co/ILw1JpfynY",
+					"display_url": "pic.twitter.com/ILw1JpfynY",
+					"expanded_url": "https://twitter.com/JSerin_M/status/1384398765100912641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 445362086,
+			"id_str": "445362086",
+			"name": "쥰세린이@me2",
+			"screen_name": "JSerin_M",
+			"location": "피로",
+			"description": "학생이자 스타트업 직장인이고 활동가인 사람, 그리고 오타쿠/ 귀여운 것들을 좋아해요./ 일상, Queer🏳️‍🌈,덕질,시사,수위,정치,젠더이슈가 자주 올라옵니다./ RT多, RT=동의가 아니며 제 글이 제가 속한 단체나 정체성을 대변하지 않습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1262,
+			"friends_count": 4260,
+			"listed_count": 9,
+			"created_at": "Sat Dec 24 09:31:16 +0000 2011",
+			"favourites_count": 36733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 249987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170891390818996224/UjOIsHRw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170891390818996224/UjOIsHRw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/445362086/1610677485",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5671,
+		"favorite_count": 1623,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "홍익대학교 앞 망함 다망함 스타벅스도 망함 https://t.co/ILw1JpfynY"
+	},
+	{
+		"created_at": "Tue Apr 20 04:39:37 +0000 2021",
+		"id": 1384354679107190800,
+		"id_str": "1384366117087371267",
+		"full_text": "성적표의 김민영 5/1 5/2 GV 회차 구합니다 엉엉 #전주국제영화제 #성적표의김민영 https://t.co/5VmnpYr9jG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전주국제영화제",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"text": "성적표의김민영",
+					"indices": [
+						40,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1384354666129989600,
+					"id_str": "1384354666129989646",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/EzY3O_XVIA4d64O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzY3O_XVIA4d64O.jpg",
+					"url": "https://t.co/5VmnpYr9jG",
+					"display_url": "pic.twitter.com/5VmnpYr9jG",
+					"expanded_url": "https://twitter.com/_dongle_berry/status/1384354679107190785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1384354666129989600,
+					"id_str": "1384354666129989646",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/EzY3O_XVIA4d64O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzY3O_XVIA4d64O.jpg",
+					"url": "https://t.co/5VmnpYr9jG",
+					"display_url": "pic.twitter.com/5VmnpYr9jG",
+					"expanded_url": "https://twitter.com/_dongle_berry/status/1384354679107190785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 787971364313378800,
+			"id_str": "787971364313378817",
+			"name": "동글베리",
+			"screen_name": "_dongle_berry",
+			"location": "",
+			"description": "단단한 사람이 되자. 영화 좋아합니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26,
+			"friends_count": 182,
+			"listed_count": 0,
+			"created_at": "Mon Oct 17 10:59:47 +0000 2016",
+			"favourites_count": 790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340695984095993856/S5xZ2sfo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340695984095993856/S5xZ2sfo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/787971364313378817/1571070719",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "성적표의 김민영 5/1 5/2 GV 회차 구합니다 엉엉 #전주국제영화제 #성적표의김민영 https://t.co/5VmnpYr9jG"
+	},
+	{
 		"created_at": "Mon Apr 19 17:02:55 +0000 2021",
 		"id": 1384190786045026300,
 		"id_str": "1384190786045026308",
