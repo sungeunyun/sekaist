@@ -1,6 +1,416 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 18 04:54:47 +0000 2021",
+		"id": 1394516794233090000,
+		"id_str": "1394516794233090048",
+		"full_text": "Sunny Day Real Estate - Seven [OFFICIAL VIDEO] https://t.co/e3CtA1eIRf 출처 @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						74,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e3CtA1eIRf",
+					"expanded_url": "https://youtu.be/gAotWVmVRS4",
+					"display_url": "youtu.be/gAotWVmVRS4",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 1127,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2084,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sunny Day Real Estate - Seven [OFFICIAL VIDEO] https://t.co/e3CtA1eIRf 출처 @YouTube"
+	},
+	{
+		"created_at": "Tue May 18 02:16:17 +0000 2021",
+		"id": 1394470262297432000,
+		"id_str": "1394476908608331776",
+		"full_text": "역사가 된 5월의 기록. 그것은 가장 뜨거웠던  #5·18민주화운동 에 관한 것입니다. 특별한 누군가가 아닌, 평범한 시민이 남긴 그날의 기록은 인류를 위한 유산이 되었습니다. 우리는 기억하고, 기억할 것입니다.\n\n#518민주화운동41주년 \n#유네스코세계기록유산_등재10주년\n\n사진 ⓒ광주광역시 https://t.co/MpTSZ4WWYP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "5·18민주화운동",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "518민주화운동41주년",
+					"indices": [
+						120,
+						133
+					]
+				},
+				{
+					"text": "유네스코세계기록유산_등재10주년",
+					"indices": [
+						135,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1394458889207173000,
+					"id_str": "1394458889207173121",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E1oc-LkUUAEILrw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1oc-LkUUAEILrw.jpg",
+					"url": "https://t.co/MpTSZ4WWYP",
+					"display_url": "pic.twitter.com/MpTSZ4WWYP",
+					"expanded_url": "https://twitter.com/chlove_u/status/1394470262297432064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 597,
+							"h": 599,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 597,
+							"h": 599,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 597,
+							"h": 599,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1394458889207173000,
+					"id_str": "1394458889207173121",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E1oc-LkUUAEILrw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1oc-LkUUAEILrw.jpg",
+					"url": "https://t.co/MpTSZ4WWYP",
+					"display_url": "pic.twitter.com/MpTSZ4WWYP",
+					"expanded_url": "https://twitter.com/chlove_u/status/1394470262297432064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 597,
+							"h": 599,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 597,
+							"h": 599,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 597,
+							"h": 599,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1394458942210642000,
+					"id_str": "1394458942210641920",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E1odBRBVEAAhKd0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1odBRBVEAAhKd0.jpg",
+					"url": "https://t.co/MpTSZ4WWYP",
+					"display_url": "pic.twitter.com/MpTSZ4WWYP",
+					"expanded_url": "https://twitter.com/chlove_u/status/1394470262297432064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1394459287028519000,
+					"id_str": "1394459287028518912",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E1odVVkUUAAHumz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1odVVkUUAAHumz.jpg",
+					"url": "https://t.co/MpTSZ4WWYP",
+					"display_url": "pic.twitter.com/MpTSZ4WWYP",
+					"expanded_url": "https://twitter.com/chlove_u/status/1394470262297432064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1394459369350209500,
+					"id_str": "1394459369350209537",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E1odaIPVoAEn0Hs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1odaIPVoAEn0Hs.jpg",
+					"url": "https://t.co/MpTSZ4WWYP",
+					"display_url": "pic.twitter.com/MpTSZ4WWYP",
+					"expanded_url": "https://twitter.com/chlove_u/status/1394470262297432064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270143270,
+			"id_str": "270143270",
+			"name": "문화재청",
+			"screen_name": "chlove_u",
+			"location": "대한민국",
+			"description": "경산에서 발견한 신라토기를 쓴 문화재청 공식 트위터 입니다. Cultural Heritage Administration of Korea #오늘의고움 #문화유산ASMR #K무형유산",
+			"url": "https://t.co/K4AKKH5n7O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K4AKKH5n7O",
+							"expanded_url": "http://cha.go.kr",
+							"display_url": "cha.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46519,
+			"friends_count": 6310,
+			"listed_count": 440,
+			"created_at": "Tue Mar 22 02:21:31 +0000 2011",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214403896434540544/63jEKpyI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214403896434540544/63jEKpyI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270143270/1619598130",
+			"profile_link_color": "828282",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3455,
+		"favorite_count": 2419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "역사가 된 5월의 기록. 그것은 가장 뜨거웠던  #5·18민주화운동 에 관한 것입니다. 특별한 누군가가 아닌, 평범한 시민이 남긴 그날의 기록은 인류를 위한 유산이 되었습니다. 우리는 기억하고, 기억할 것입니다.\n\n#518민주화운동41주년 \n#유네스코세계기록유산_등재10주년\n\n사진 ⓒ광주광역시 https://t.co/MpTSZ4WWYP"
+	},
+	{
 		"created_at": "Mon May 17 12:42:50 +0000 2021",
 		"id": 1394272195942092800,
 		"id_str": "1394272195942092801",
