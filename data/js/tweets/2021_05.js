@@ -1,6 +1,711 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 24 23:49:03 +0000 2021",
+		"id": 1396976571521454000,
+		"id_str": "1396976571521454080",
+		"full_text": "오늘 유명가수전 봐야겠네 서영주씨 그대랑 부르네 ㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 1129,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오늘 유명가수전 봐야겠네 서영주씨 그대랑 부르네 ㅋㅋㅋㅋ"
+	},
+	{
+		"created_at": "Mon May 24 23:45:56 +0000 2021",
+		"id": 1396974774719443000,
+		"id_str": "1396975785534054401",
+		"full_text": "오늘밤 9시 jtbc '유명가수전'에 나와요.\n음악하는 동료들과 모여앉아서 두런두런 얘기하다 노래하다 한잔하다 하는 시간을 참 좋아하는데 딱 그 분위기여서 편하고 즐거웠어요. 승윤이와 부르는 &lt;물&gt; 무대도 있습니다. 오늘밤을 기대해주세요!\nhttps://t.co/d6f70cQFwS 유명가수전 8회 예고편",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d6f70cQFwS",
+					"expanded_url": "http://naver.me/5fnY7vmL",
+					"display_url": "naver.me/5fnY7vmL",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 51315123,
+			"id_str": "51315123",
+			"name": "이적",
+			"screen_name": "jucklee",
+			"location": "Seoul, Korea",
+			"description": "singer-songwriter.  정규 6집 《Trace》",
+			"url": "https://t.co/naCUORYKCz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/naCUORYKCz",
+							"expanded_url": "http://leejuck.com",
+							"display_url": "leejuck.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1345439,
+			"friends_count": 235,
+			"listed_count": 6577,
+			"created_at": "Sat Jun 27 02:18:28 +0000 2009",
+			"favourites_count": 2586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320900176207171585/IyNHFtD2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320900176207171585/IyNHFtD2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/51315123/1474466813",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘밤 9시 jtbc '유명가수전'에 나와요.\n음악하는 동료들과 모여앉아서 두런두런 얘기하다 노래하다 한잔하다 하는 시간을 참 좋아하는데 딱 그 분위기여서 편하고 즐거웠어요. 승윤이와 부르는 &lt;물&gt; 무대도 있습니다. 오늘밤을 기대해주세요!\nhttps://t.co/d6f70cQFwS 유명가수전 8회 예고편"
+	},
+	{
+		"created_at": "Mon May 24 09:26:08 +0000 2021",
+		"id": 1396754579287548000,
+		"id_str": "1396759410517581824",
+		"full_text": "물💧 첫 라이브를 이렇게 듣는..😭\n그래도 예상대로 라이브가 더 좋다 전설의 레전드각 https://t.co/ZpM1xRacWM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1396754506973520000,
+					"id_str": "1396754506973519880",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1396754506973519880/pu/img/So9g1dEMVFhbVVbR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1396754506973519880/pu/img/So9g1dEMVFhbVVbR.jpg",
+					"url": "https://t.co/ZpM1xRacWM",
+					"display_url": "pic.twitter.com/ZpM1xRacWM",
+					"expanded_url": "https://twitter.com/juck_jjal/status/1396754579287547904/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1396754506973520000,
+					"id_str": "1396754506973519880",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1396754506973519880/pu/img/So9g1dEMVFhbVVbR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1396754506973519880/pu/img/So9g1dEMVFhbVVbR.jpg",
+					"url": "https://t.co/ZpM1xRacWM",
+					"display_url": "pic.twitter.com/ZpM1xRacWM",
+					"expanded_url": "https://twitter.com/juck_jjal/status/1396754579287547904/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 10533,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1396754506973519880/pu/vid/640x360/6DDtEEO_dG5u784I.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1396754506973519880/pu/vid/1280x720/uudBUH0B5A8VFjHY.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1396754506973519880/pu/vid/480x270/EEVrOcy2RP8cZ3NU.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1396754506973519880/pu/pl/4dEXBprHX2y8brHw.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1396753190230450200,
+		"in_reply_to_status_id_str": "1396753190230450179",
+		"in_reply_to_user_id": 749241755732586500,
+		"in_reply_to_user_id_str": "749241755732586497",
+		"in_reply_to_screen_name": "juck_jjal",
+		"user": {
+			"id": 749241755732586500,
+			"id_str": "749241755732586497",
+			"name": "적짤봇",
+			"screen_name": "juck_jjal",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 40,
+			"listed_count": 1,
+			"created_at": "Sat Jul 02 14:02:09 +0000 2016",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089202057901355008/cnVG0f4E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089202057901355008/cnVG0f4E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749241755732586497/1483542755",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "물💧 첫 라이브를 이렇게 듣는..😭\n그래도 예상대로 라이브가 더 좋다 전설의 레전드각 https://t.co/ZpM1xRacWM"
+	},
+	{
+		"created_at": "Mon May 24 08:45:44 +0000 2021",
+		"id": 1396745622124855300,
+		"id_str": "1396749244464197638",
+		"full_text": "[펭수🐧 X외교부 Again★] \n세기의 대결! 이 구역의 퀴즈왕은 누구?(feat. 2021 P4G 서울정상회의)\n지금 보러가기👉 https://t.co/8Cg6MmqxOO\n\n#펭수 #외교부 #광희 #퀴즈왕 #환경 #P4G서울정상회의 https://t.co/ckXVRU5pru",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펭수",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "외교부",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "광희",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "퀴즈왕",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "환경",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "P4G서울정상회의",
+					"indices": [
+						121,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8Cg6MmqxOO",
+					"expanded_url": "https://youtu.be/L496vndeDOo",
+					"display_url": "youtu.be/L496vndeDOo",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1396745536993038300,
+					"id_str": "1396745536993038338",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/E2I8qmYVEAI4kin.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2I8qmYVEAI4kin.jpg",
+					"url": "https://t.co/ckXVRU5pru",
+					"display_url": "pic.twitter.com/ckXVRU5pru",
+					"expanded_url": "https://twitter.com/mofa_kr/status/1396745622124855298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1396745536993038300,
+					"id_str": "1396745536993038338",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/E2I8qmYVEAI4kin.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2I8qmYVEAI4kin.jpg",
+					"url": "https://t.co/ckXVRU5pru",
+					"display_url": "pic.twitter.com/ckXVRU5pru",
+					"expanded_url": "https://twitter.com/mofa_kr/status/1396745622124855298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157128221,
+			"id_str": "157128221",
+			"name": "대한민국 외교부 MOFA_KR",
+			"screen_name": "mofa_kr",
+			"location": "",
+			"description": "대한민국 외교부 \nMinistry of Foreign Affairs, Republic of Korea",
+			"url": "https://t.co/f7K7QhDW9G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7K7QhDW9G",
+							"expanded_url": "http://www.mofa.go.kr",
+							"display_url": "mofa.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 201981,
+			"friends_count": 129,
+			"listed_count": 1052,
+			"created_at": "Fri Jun 18 23:15:15 +0000 2010",
+			"favourites_count": 271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E0E0E0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956042861837012993/uMbjkpcr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956042861837012993/uMbjkpcr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157128221/1577409831",
+			"profile_link_color": "B06203",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCEBD3",
+			"profile_text_color": "757575",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[펭수🐧 X외교부 Again★] \n세기의 대결! 이 구역의 퀴즈왕은 누구?(feat. 2021 P4G 서울정상회의)\n지금 보러가기👉 https://t.co/8Cg6MmqxOO\n\n#펭수 #외교부 #광희 #퀴즈왕 #환경 #P4G서울정상회의 https://t.co/ckXVRU5pru"
+	},
+	{
+		"created_at": "Mon May 24 06:21:29 +0000 2021",
+		"id": 1396712942825992200,
+		"id_str": "1396712942825992195",
+		"full_text": "@hoffen_mine 개금밀면 가고싶다....",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hoffen_mine",
+					"name": "Alice",
+					"id": 191501633,
+					"id_str": "191501633",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1396702153905873000,
+		"in_reply_to_status_id_str": "1396702153905872902",
+		"in_reply_to_user_id": 191501633,
+		"in_reply_to_user_id_str": "191501633",
+		"in_reply_to_screen_name": "hoffen_mine",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 1129,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@hoffen_mine 개금밀면 가고싶다...."
+	},
+	{
 		"created_at": "Sun May 23 15:02:36 +0000 2021",
 		"id": 1396481696640340000,
 		"id_str": "1396481696640339969",
