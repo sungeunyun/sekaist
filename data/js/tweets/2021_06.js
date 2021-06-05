@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 04 14:15:41 +0000 2021",
+		"id": 1400818542912577500,
+		"id_str": "1400818542912577542",
+		"full_text": "펭티비 보고 오랜만에 울었네 따흑",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 634,
+			"friends_count": 1129,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "펭티비 보고 오랜만에 울었네 따흑"
+	},
+	{
+		"created_at": "Fri Jun 04 10:04:40 +0000 2021",
+		"id": 1400754407998771200,
+		"id_str": "1400755372856463361",
+		"full_text": "#유태오 의 만년필부터 #이재욱 의 가방까지! 10명이 배우들이 지구를 위해 직접 사용하는 물건들을 지금 바로 만나보세요!🌏\n-\nhttps://t.co/TswgYwmB6t https://t.co/Obq86QcSRH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유태오",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "이재욱",
+					"indices": [
+						13,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TswgYwmB6t",
+					"expanded_url": "https://youtu.be/icH8akL6QMo",
+					"display_url": "youtu.be/icH8akL6QMo",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1400754390525304800,
+					"id_str": "1400754390525304836",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E3B6sljUYAQJU0A.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E3B6sljUYAQJU0A.jpg",
+					"url": "https://t.co/Obq86QcSRH",
+					"display_url": "pic.twitter.com/Obq86QcSRH",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1400754407998771203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400754390525304800,
+					"id_str": "1400754390525304836",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E3B6sljUYAQJU0A.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E3B6sljUYAQJU0A.jpg",
+					"url": "https://t.co/Obq86QcSRH",
+					"display_url": "pic.twitter.com/Obq86QcSRH",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1400754407998771203/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							169
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E3B6sljUYAQJU0A.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/A65jIiHpAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A65jIiHpAu",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95668,
+			"friends_count": 1,
+			"listed_count": 295,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1622107745",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유태오 의 만년필부터 #이재욱 의 가방까지! 10명이 배우들이 지구를 위해 직접 사용하는 물건들을 지금 바로 만나보세요!🌏\n-\nhttps://t.co/TswgYwmB6t https://t.co/Obq86QcSRH"
+	},
+	{
+		"created_at": "Fri Jun 04 08:52:47 +0000 2021",
+		"id": 1400681996787982300,
+		"id_str": "1400737282877919233",
+		"full_text": "[📌원픽뉴스]\n백신접종을 하고 돌아온 펭수 조형물이 광안리 해수욕장에 설치되었습니다! 거리두기와 공공예절 준수를 독려하는 펭수 목소리 안내 방송이 송출될 예정입니다.\n\nhttps://t.co/jX27KkeDr1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jX27KkeDr1",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20210603118000051?section=search",
+					"display_url": "yna.co.kr/view/AKR202106…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128160213,
+			"id_str": "128160213",
+			"name": "행정안전부",
+			"screen_name": "withyou3542",
+			"location": "KOREA",
+			"description": "행정안전부 공식 트위터입니다. 국민의 생명과 안전을 지키는 행정안전부의 뜨거운 열정, 따뜻한 마음, 알찬 소식을 타임라인에서 만나보세요!",
+			"url": "https://t.co/GEMaGNwSPB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GEMaGNwSPB",
+							"expanded_url": "http://www.mois.go.kr",
+							"display_url": "mois.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 69440,
+			"friends_count": 47857,
+			"listed_count": 1196,
+			"created_at": "Wed Mar 31 08:15:41 +0000 2010",
+			"favourites_count": 5310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366579994147708929/WHU_n6_o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366579994147708929/WHU_n6_o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128160213/1614653902",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📌원픽뉴스]\n백신접종을 하고 돌아온 펭수 조형물이 광안리 해수욕장에 설치되었습니다! 거리두기와 공공예절 준수를 독려하는 펭수 목소리 안내 방송이 송출될 예정입니다.\n\nhttps://t.co/jX27KkeDr1"
+	},
+	{
 		"created_at": "Thu Jun 03 13:22:28 +0000 2021",
 		"id": 1400397439035592700,
 		"id_str": "1400442765117329416",
@@ -334,7 +737,7 @@ Grailbird.data.tweets_2021_06 =
 		"created_at": "Thu Jun 03 12:44:23 +0000 2021",
 		"id": 1400430171023306800,
 		"id_str": "1400433180537065477",
-		"full_text": "스크린에서 보여드릴 그날을 기다리며, &lt;로그 인 벨지움&gt; 개봉은 조금만 더 기다려주세요🙋🏻‍♀️ #유태오 https://t.co/H2P578sbIZ",
+		"full_text": "스크린에서 보여드릴 그날을 기다리며, &lt;로그 인 벨지움&gt; 개봉은 조금만 더 기다려주세요🙋🏻♀️ #유태오 https://t.co/H2P578sbIZ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -590,7 +993,7 @@ Grailbird.data.tweets_2021_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "스크린에서 보여드릴 그날을 기다리며, &lt;로그 인 벨지움&gt; 개봉은 조금만 더 기다려주세요🙋🏻‍♀️ #유태오 https://t.co/H2P578sbIZ"
+		"text": "스크린에서 보여드릴 그날을 기다리며, &lt;로그 인 벨지움&gt; 개봉은 조금만 더 기다려주세요🙋🏻♀️ #유태오 https://t.co/H2P578sbIZ"
 	},
 	{
 		"created_at": "Thu Jun 03 12:44:21 +0000 2021",
