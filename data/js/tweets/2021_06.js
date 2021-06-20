@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 19 09:59:18 +0000 2021",
+		"id": 1406176151937052700,
+		"id_str": "1406189841188933635",
+		"full_text": "#Docs9 #닥스나인 #아트나인\n\n아트나인의 새로운 기획상영 레이블, Docs9!\n🎞 #5. &lt;a.k.a. Nikki S. Lee&gt; directed by Nikki S. Lee\n\n“사람들은 저마다 각자의 상상에 걸맞은 ‘니키 리’를 만들어 냈죠\"\n\n&lt;니키리라고도 알려진&gt; 1차 포스터 공개 📸\n6월 30일 아트나인 coming soon https://t.co/TPuixtrCaY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Docs9",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "닥스나인",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "아트나인",
+					"indices": [
+						13,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1406176146874540000,
+					"id_str": "1406176146874540037",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/E4O9wV4VoAU9dlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4O9wV4VoAU9dlB.jpg",
+					"url": "https://t.co/TPuixtrCaY",
+					"display_url": "pic.twitter.com/TPuixtrCaY",
+					"expanded_url": "https://twitter.com/art_nine9/status/1406176151937052674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 716,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 716,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1406176146874540000,
+					"id_str": "1406176146874540037",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/E4O9wV4VoAU9dlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4O9wV4VoAU9dlB.jpg",
+					"url": "https://t.co/TPuixtrCaY",
+					"display_url": "pic.twitter.com/TPuixtrCaY",
+					"expanded_url": "https://twitter.com/art_nine9/status/1406176151937052674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 716,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 716,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 990100040,
+			"id_str": "990100040",
+			"name": "예술영화관 아트나인",
+			"screen_name": "art_nine9",
+			"location": "4,7호선 이수역 7번 출구 골든시네마 12F",
+			"description": "",
+			"url": "https://t.co/BUwB4AWTk3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BUwB4AWTk3",
+							"expanded_url": "http://www.artnine.co.kr",
+							"display_url": "artnine.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35006,
+			"friends_count": 9908,
+			"listed_count": 225,
+			"created_at": "Wed Dec 05 03:28:36 +0000 2012",
+			"favourites_count": 271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1346274641556373504/_CPjIAgC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346274641556373504/_CPjIAgC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/990100040/1404356227",
+			"profile_link_color": "6200B3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Docs9 #닥스나인 #아트나인\n\n아트나인의 새로운 기획상영 레이블, Docs9!\n🎞 #5. &lt;a.k.a. Nikki S. Lee&gt; directed by Nikki S. Lee\n\n“사람들은 저마다 각자의 상상에 걸맞은 ‘니키 리’를 만들어 냈죠\"\n\n&lt;니키리라고도 알려진&gt; 1차 포스터 공개 📸\n6월 30일 아트나인 coming soon https://t.co/TPuixtrCaY"
+	},
+	{
 		"created_at": "Sat Jun 19 00:10:44 +0000 2021",
 		"id": 1406041723206176800,
 		"id_str": "1406041723206176769",
