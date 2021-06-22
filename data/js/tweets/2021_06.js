@@ -1,6 +1,559 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 21 11:40:38 +0000 2021",
+		"id": 1406631004991758300,
+		"id_str": "1406940117487390723",
+		"full_text": "내가 지금 어디에 서있냐에 따라 보이는 풍경이 완전 달라지는 현대사회의 요약본 같아서 마음이 복잡해진다. 게다가 이 트윗이 선의로 작성되었다는 점이 가장 속상해. https://t.co/oilDMULShy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1406630997802700800,
+					"id_str": "1406630997802700802",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E4VbcJoVUAIHBBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4VbcJoVUAIHBBb.jpg",
+					"url": "https://t.co/oilDMULShy",
+					"display_url": "pic.twitter.com/oilDMULShy",
+					"expanded_url": "https://twitter.com/_scrapheaven/status/1406631004991758338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1011,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1011,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1406630997802700800,
+					"id_str": "1406630997802700802",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E4VbcJoVUAIHBBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4VbcJoVUAIHBBb.jpg",
+					"url": "https://t.co/oilDMULShy",
+					"display_url": "pic.twitter.com/oilDMULShy",
+					"expanded_url": "https://twitter.com/_scrapheaven/status/1406631004991758338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1011,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1011,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107967467,
+			"id_str": "107967467",
+			"name": "도군😷",
+			"screen_name": "_scrapheaven",
+			"location": "",
+			"description": "팟캐스트 #월간자영업자 매거진 #CAST 에서 좋아하는 영화에 대해 떠들고 쓰고 있습니다. 보고 듣고 읽으며 느끼는 것들에 대해 말하고 알티합니다. (알티=무조건 동의X) 체인블락 돌립니다. 비계 종종 블언블 합니다.",
+			"url": "https://t.co/2LVVbvU1Me",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2LVVbvU1Me",
+							"expanded_url": "http://podbbang.com/ch/12145",
+							"display_url": "podbbang.com/ch/12145",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1200,
+			"friends_count": 415,
+			"listed_count": 8,
+			"created_at": "Sun Jan 24 10:26:57 +0000 2010",
+			"favourites_count": 8237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252602128025088001/QDe9ZXM1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252602128025088001/QDe9ZXM1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107967467/1614442095",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 777,
+		"favorite_count": 318,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내가 지금 어디에 서있냐에 따라 보이는 풍경이 완전 달라지는 현대사회의 요약본 같아서 마음이 복잡해진다. 게다가 이 트윗이 선의로 작성되었다는 점이 가장 속상해. https://t.co/oilDMULShy"
+	},
+	{
+		"created_at": "Mon Jun 21 11:24:12 +0000 2021",
+		"id": 1406935981400346600,
+		"id_str": "1406935981400346624",
+		"full_text": "끊어내고 싶은게 왜케 많냐 날씨탓인지 귀찮고 힘듭니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 1130,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "끊어내고 싶은게 왜케 많냐 날씨탓인지 귀찮고 힘듭니다"
+	},
+	{
+		"created_at": "Mon Jun 21 10:14:11 +0000 2021",
+		"id": 1406918361712263200,
+		"id_str": "1406918361712263172",
+		"full_text": "Caetano Veloso - Cucurrucucu Paloma (Ao Vivo) https://t.co/bJPPG98l78 - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						72,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bJPPG98l78",
+					"expanded_url": "https://youtu.be/xVggBkYKGsQ",
+					"display_url": "youtu.be/xVggBkYKGsQ",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 1130,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "Caetano Veloso - Cucurrucucu Paloma (Ao Vivo) https://t.co/bJPPG98l78 - @YouTube"
+	},
+	{
+		"created_at": "Mon Jun 21 01:51:37 +0000 2021",
+		"id": 1406780454347239400,
+		"id_str": "1406791887252459520",
+		"full_text": "故김동식 소방령의 명복을 기원합니다\n\n생과 사를 넘나드는 사선의 문턱에서\n오로지 국민의 안전을 지켜내겠다는 \n단 하나의 신념과 사명감으로 소방관으로서의 \n귀감과 깊은 울림을 준 당신의 숭고한 희생을 잊지 않겠습니다.\n▶◀\n\n#소방청 #故김동식소방령 https://t.co/dg80TfT2wr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소방청",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "故김동식소방령",
+					"indices": [
+						130,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1406780381060235300,
+					"id_str": "1406780381060235271",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/E4XjTZoVgAcxdiI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4XjTZoVgAcxdiI.jpg",
+					"url": "https://t.co/dg80TfT2wr",
+					"display_url": "pic.twitter.com/dg80TfT2wr",
+					"expanded_url": "https://twitter.com/safeppy/status/1406780454347239426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1406780381060235300,
+					"id_str": "1406780381060235271",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/E4XjTZoVgAcxdiI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4XjTZoVgAcxdiI.jpg",
+					"url": "https://t.co/dg80TfT2wr",
+					"display_url": "pic.twitter.com/dg80TfT2wr",
+					"expanded_url": "https://twitter.com/safeppy/status/1406780454347239426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 70888181,
+			"id_str": "70888181",
+			"name": "소방청",
+			"screen_name": "safeppy",
+			"location": "안전한 대한민국",
+			"description": "안전하고 행복한 대한민국을 위해 24시간 깨어 있겠습니다.",
+			"url": "https://t.co/2cAAyf4qZ9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2cAAyf4qZ9",
+							"expanded_url": "http://www.nfa.go.kr/nfa/",
+							"display_url": "nfa.go.kr/nfa/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52979,
+			"friends_count": 26593,
+			"listed_count": 664,
+			"created_at": "Wed Sep 02 05:07:08 +0000 2009",
+			"favourites_count": 819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ECD7AA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032886077848088576/n49kh3_5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032886077848088576/n49kh3_5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/70888181/1622524217",
+			"profile_link_color": "81601A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F4F7",
+			"profile_text_color": "634047",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 622,
+		"favorite_count": 684,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "故김동식 소방령의 명복을 기원합니다\n\n생과 사를 넘나드는 사선의 문턱에서\n오로지 국민의 안전을 지켜내겠다는 \n단 하나의 신념과 사명감으로 소방관으로서의 \n귀감과 깊은 울림을 준 당신의 숭고한 희생을 잊지 않겠습니다.\n▶◀\n\n#소방청 #故김동식소방령 https://t.co/dg80TfT2wr"
+	},
+	{
 		"created_at": "Sun Jun 20 04:20:33 +0000 2021",
 		"id": 1406466980391972900,
 		"id_str": "1406466980391972865",
