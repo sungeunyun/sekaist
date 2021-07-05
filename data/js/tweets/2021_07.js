@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 04 23:54:04 +0000 2021",
+		"id": 1411657171134140400,
+		"id_str": "1411835734500143106",
+		"full_text": "말도 안되는 볼판정 받고 애써 웃은 후에\n추신수 최정 중심타선을 스윙삼진으로 잡아내는 투수\n\n롯데 1년차 얼라투수임\n\n“스타플레이어의 서사는 이렇게 시작됩니다” https://t.co/p9XE6ALLE7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1411657048039714800,
+					"id_str": "1411657048039714817",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1411657048039714817/pu/img/9fTWWgKpWHHNyeb1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1411657048039714817/pu/img/9fTWWgKpWHHNyeb1.jpg",
+					"url": "https://t.co/p9XE6ALLE7",
+					"display_url": "pic.twitter.com/p9XE6ALLE7",
+					"expanded_url": "https://twitter.com/vthreee_lotte/status/1411657171134140419/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 656,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411657048039714800,
+					"id_str": "1411657048039714817",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1411657048039714817/pu/img/9fTWWgKpWHHNyeb1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1411657048039714817/pu/img/9fTWWgKpWHHNyeb1.jpg",
+					"url": "https://t.co/p9XE6ALLE7",
+					"display_url": "pic.twitter.com/p9XE6ALLE7",
+					"expanded_url": "https://twitter.com/vthreee_lotte/status/1411657171134140419/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 656,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 700,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							64,
+							35
+						],
+						"duration_millis": 91508,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1411657048039714817/pu/vid/658x360/ErFL4d2-8z3oDcF4.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1411657048039714817/pu/pl/pKB3-rpIYWaePFTv.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1411657048039714817/pu/vid/492x270/dvB0IdEPcC4ppte2.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1411657048039714817/pu/vid/1280x700/eBPASiAB-TQ3PYHl.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1388882813244432400,
+			"id_str": "1388882813244432385",
+			"name": "감자전",
+			"screen_name": "vthreee_lotte",
+			"location": "롯데가 세상에서 제일 밉지만 롯데를 제일 응원하는 사람",
+			"description": "한동희손성빈정보근추재현장두성은\n무조건성공한다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 163,
+			"listed_count": 0,
+			"created_at": "Sun May 02 15:47:28 +0000 2021",
+			"favourites_count": 197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1406292219166740486/eCqfIvZu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1406292219166740486/eCqfIvZu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1388882813244432385/1621815945",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 300,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "말도 안되는 볼판정 받고 애써 웃은 후에\n추신수 최정 중심타선을 스윙삼진으로 잡아내는 투수\n\n롯데 1년차 얼라투수임\n\n“스타플레이어의 서사는 이렇게 시작됩니다” https://t.co/p9XE6ALLE7"
+	},
+	{
 		"created_at": "Sat Jul 03 03:36:39 +0000 2021",
 		"id": 1411117478407676000,
 		"id_str": "1411166972264411142",
