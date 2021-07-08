@@ -1,6 +1,1106 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 00:09:18 +0000 2021",
+		"id": 1412926731955019800,
+		"id_str": "1412926731955019777",
+		"full_text": "와 마지막 노래 목소리 왜케 익숙하냐했더니 ㅋㅋㅋㅋㅋ 유정목씨 ㅋㅋㅋㅋㅋ '우도주막'으로 놀러오세요♥스페셜 게스트 이석훈X류덕환X정용화까지! (출처 : 우도주막 | 네이버TV) https://t.co/g8azKV93uH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g8azKV93uH",
+					"expanded_url": "http://naver.me/GuljkakV",
+					"display_url": "naver.me/GuljkakV",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 1131,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와 마지막 노래 목소리 왜케 익숙하냐했더니 ㅋㅋㅋㅋㅋ 유정목씨 ㅋㅋㅋㅋㅋ '우도주막'으로 놀러오세요♥스페셜 게스트 이석훈X류덕환X정용화까지! (출처 : 우도주막 | 네이버TV) https://t.co/g8azKV93uH"
+	},
+	{
+		"created_at": "Thu Jul 08 00:03:20 +0000 2021",
+		"id": 1412925229823709200,
+		"id_str": "1412925229823709187",
+		"full_text": "와 프리미어 프로 광고 홀린듯이 봤네 삐지엠도 돈 스탑 미 나우야",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 1131,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "와 프리미어 프로 광고 홀린듯이 봤네 삐지엠도 돈 스탑 미 나우야"
+	},
+	{
+		"created_at": "Wed Jul 07 23:52:47 +0000 2021",
+		"id": 1412909293087584300,
+		"id_str": "1412922575399702535",
+		"full_text": "tvN 새 드라마 &lt;멜랑꼴리아&gt; 캐스팅 확정!\n\n설렘지수 폭발하는\n독보적 분위기의 #임수정 배우와\n대세로 자리잡은 #이도현 배우의 만남\n\n'수학덕후' 낭만 교사 #지윤수\n사라진 '수학천재' #백승유\n\n특혜 비리의 온상인 한 사립고에서 \n그려질 특별한 이야기 #멜랑꼴리아\n\n2021 하반기 #tvN COMING SOON https://t.co/GLaZfbdWJx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임수정",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "이도현",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "지윤수",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "백승유",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "멜랑꼴리아",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "tvN",
+					"indices": [
+						167,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412704207358992400,
+					"id_str": "1412704207358992385",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ru_eRVIAEMYPt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ru_eRVIAEMYPt.jpg",
+					"url": "https://t.co/GLaZfbdWJx",
+					"display_url": "pic.twitter.com/GLaZfbdWJx",
+					"expanded_url": "https://twitter.com/chtvn/status/1412909293087584257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412704207358992400,
+					"id_str": "1412704207358992385",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ru_eRVIAEMYPt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ru_eRVIAEMYPt.jpg",
+					"url": "https://t.co/GLaZfbdWJx",
+					"display_url": "pic.twitter.com/GLaZfbdWJx",
+					"expanded_url": "https://twitter.com/chtvn/status/1412909293087584257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125209408,
+			"id_str": "125209408",
+			"name": "tvN(티비엔)",
+			"screen_name": "chtvn",
+			"location": "Seoul, Korea",
+			"description": "즐거움엔 끝이 없다, tvN!",
+			"url": "https://t.co/uzeyWG0GYd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uzeyWG0GYd",
+							"expanded_url": "http://www.chtvn.com",
+							"display_url": "chtvn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 201576,
+			"friends_count": 18343,
+			"listed_count": 1015,
+			"created_at": "Mon Mar 22 02:30:13 +0000 2010",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/814723407333855232/qsHyUG_p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/814723407333855232/qsHyUG_p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125209408/1610103149",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 188,
+		"favorite_count": 180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "tvN 새 드라마 &lt;멜랑꼴리아&gt; 캐스팅 확정!\n\n설렘지수 폭발하는\n독보적 분위기의 #임수정 배우와\n대세로 자리잡은 #이도현 배우의 만남\n\n'수학덕후' 낭만 교사 #지윤수\n사라진 '수학천재' #백승유\n\n특혜 비리의 온상인 한 사립고에서 \n그려질 특별한 이야기 #멜랑꼴리아\n\n2021 하반기 #tvN COMING SOON https://t.co/GLaZfbdWJx"
+	},
+	{
+		"created_at": "Wed Jul 07 16:41:32 +0000 2021",
+		"id": 1412649240489128000,
+		"id_str": "1412814046596718593",
+		"full_text": "독립영화관 KBS1TV\n7/9 금요일 밤 12시 10분!\n\n\"우리가 느끼는 불안은 마음이지, 눈에 보이거나 들리지는 않는다. 출구 없는 불안에 대한 이야기를 만들고 싶었다.\" - 김중회 감독\n\n[공포단편열전]\n&lt;다가오는 것들&gt; 출연: 강길우, 김민주\n\n작품정보/감독과의 인터뷰▶️https://t.co/keY0Yly520 https://t.co/85QblywT0R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/keY0Yly520",
+					"expanded_url": "https://program.kbs.co.kr/1tv/enter/indiefilm/pc/board.html?smenu=108745&&bbs_loc=T2010-1661-04-718727,read,none,1,1054934",
+					"display_url": "program.kbs.co.kr/1tv/enter/indi…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412649003058012200,
+					"id_str": "1412649003058012160",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E5q8yKOVIAAwmsk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5q8yKOVIAAwmsk.jpg",
+					"url": "https://t.co/85QblywT0R",
+					"display_url": "pic.twitter.com/85QblywT0R",
+					"expanded_url": "https://twitter.com/indiefilm__/status/1412649240489127936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 945,
+							"h": 945,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 945,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412649003058012200,
+					"id_str": "1412649003058012160",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E5q8yKOVIAAwmsk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5q8yKOVIAAwmsk.jpg",
+					"url": "https://t.co/85QblywT0R",
+					"display_url": "pic.twitter.com/85QblywT0R",
+					"expanded_url": "https://twitter.com/indiefilm__/status/1412649240489127936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 945,
+							"h": 945,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 945,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412649164249337900,
+					"id_str": "1412649164249337856",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E5q87itVkAAnRhq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5q87itVkAAnRhq.jpg",
+					"url": "https://t.co/85QblywT0R",
+					"display_url": "pic.twitter.com/85QblywT0R",
+					"expanded_url": "https://twitter.com/indiefilm__/status/1412649240489127936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1530,
+							"h": 1530,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412649201293348900,
+					"id_str": "1412649201293348866",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E5q89stUUAIvCLc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5q89stUUAIvCLc.jpg",
+					"url": "https://t.co/85QblywT0R",
+					"display_url": "pic.twitter.com/85QblywT0R",
+					"expanded_url": "https://twitter.com/indiefilm__/status/1412649240489127936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1530,
+							"h": 1530,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1412649232020820000,
+		"in_reply_to_status_id_str": "1412649232020819973",
+		"in_reply_to_user_id": 1277878802278838300,
+		"in_reply_to_user_id_str": "1277878802278838273",
+		"in_reply_to_screen_name": "indiefilm__",
+		"user": {
+			"id": 1277878802278838300,
+			"id_str": "1277878802278838273",
+			"name": "독립영화관",
+			"screen_name": "indiefilm__",
+			"location": "",
+			"description": "독립영화관 KBS1TV 매주 금요일 밤 12시 10분에 방영됩니다.",
+			"url": "https://t.co/bXtk4eQo9x",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bXtk4eQo9x",
+							"expanded_url": "http://program.kbs.co.kr/1tv/enter/indiefilm",
+							"display_url": "program.kbs.co.kr/1tv/enter/indi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 616,
+			"friends_count": 4,
+			"listed_count": 4,
+			"created_at": "Tue Jun 30 08:17:14 +0000 2020",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277881536415559680/RoU_KBH4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277881536415559680/RoU_KBH4_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "독립영화관 KBS1TV\n7/9 금요일 밤 12시 10분!\n\n\"우리가 느끼는 불안은 마음이지, 눈에 보이거나 들리지는 않는다. 출구 없는 불안에 대한 이야기를 만들고 싶었다.\" - 김중회 감독\n\n[공포단편열전]\n&lt;다가오는 것들&gt; 출연: 강길우, 김민주\n\n작품정보/감독과의 인터뷰▶️https://t.co/keY0Yly520 https://t.co/85QblywT0R"
+	},
+	{
+		"created_at": "Wed Jul 07 15:02:35 +0000 2021",
+		"id": 1412789148230975500,
+		"id_str": "1412789148230975488",
+		"full_text": "진짜 그냥 평범한 얘기도 재밌게 하는건 타고 난듯 누구는 10분도 듣기 힘들다는 생각이 들고 누구는 또 24시간을 들어도 얘기가 재밌고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 1131,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "진짜 그냥 평범한 얘기도 재밌게 하는건 타고 난듯 누구는 10분도 듣기 힘들다는 생각이 들고 누구는 또 24시간을 들어도 얘기가 재밌고"
+	},
+	{
+		"created_at": "Wed Jul 07 14:17:21 +0000 2021",
+		"id": 1412776145414606800,
+		"id_str": "1412777763291889668",
+		"full_text": "#니키리라고도알려진 #아트나인\n\n“영화 예쁘게 개봉해주셔서 정말 고맙습니다 ❤️”\n💡 오직 아트나인에서만 만날 수 있었던 &lt;니키리라고도 알려진&gt;\n#니키리감독님 &amp; #박경근감독님 그리고 깜짝 등장! 촬영감독님까지 함께한 유쾌했던 시네마구구 🎤\n\nWith Love〰️\n아트나인 쭈욱- 절찬상영중 🎥 https://t.co/OvHAE9hYsQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "니키리라고도알려진",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "아트나인",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "니키리감독님",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "박경근감독님",
+					"indices": [
+						101,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412776139236384800,
+					"id_str": "1412776139236384771",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E5swadZVIAMbLJr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5swadZVIAMbLJr.jpg",
+					"url": "https://t.co/OvHAE9hYsQ",
+					"display_url": "pic.twitter.com/OvHAE9hYsQ",
+					"expanded_url": "https://twitter.com/art_nine9/status/1412776145414606849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412776139236384800,
+					"id_str": "1412776139236384771",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E5swadZVIAMbLJr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5swadZVIAMbLJr.jpg",
+					"url": "https://t.co/OvHAE9hYsQ",
+					"display_url": "pic.twitter.com/OvHAE9hYsQ",
+					"expanded_url": "https://twitter.com/art_nine9/status/1412776145414606849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 990100040,
+			"id_str": "990100040",
+			"name": "예술영화관 아트나인",
+			"screen_name": "art_nine9",
+			"location": "4,7호선 이수역 7번 출구 골든시네마 12F",
+			"description": "",
+			"url": "https://t.co/BUwB4AWTk3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BUwB4AWTk3",
+							"expanded_url": "http://www.artnine.co.kr",
+							"display_url": "artnine.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35001,
+			"friends_count": 9899,
+			"listed_count": 225,
+			"created_at": "Wed Dec 05 03:28:36 +0000 2012",
+			"favourites_count": 271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1346274641556373504/_CPjIAgC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346274641556373504/_CPjIAgC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/990100040/1404356227",
+			"profile_link_color": "6200B3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#니키리라고도알려진 #아트나인\n\n“영화 예쁘게 개봉해주셔서 정말 고맙습니다 ❤️”\n💡 오직 아트나인에서만 만날 수 있었던 &lt;니키리라고도 알려진&gt;\n#니키리감독님 &amp; #박경근감독님 그리고 깜짝 등장! 촬영감독님까지 함께한 유쾌했던 시네마구구 🎤\n\nWith Love〰️\n아트나인 쭈욱- 절찬상영중 🎥 https://t.co/OvHAE9hYsQ"
+	},
+	{
+		"created_at": "Wed Jul 07 06:48:50 +0000 2021",
+		"id": 1412664890540523500,
+		"id_str": "1412664890540523529",
+		"full_text": "오 이거 넘 좋다 https://t.co/GQNQZhQIDm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412664885914132500,
+					"id_str": "1412664885914132480",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/E5rLOqeUYAAUiVl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5rLOqeUYAAUiVl.jpg",
+					"url": "https://t.co/GQNQZhQIDm",
+					"display_url": "pic.twitter.com/GQNQZhQIDm",
+					"expanded_url": "https://twitter.com/sekaist/status/1412664890540523529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412664885914132500,
+					"id_str": "1412664885914132480",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/E5rLOqeUYAAUiVl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5rLOqeUYAAUiVl.jpg",
+					"url": "https://t.co/GQNQZhQIDm",
+					"display_url": "pic.twitter.com/GQNQZhQIDm",
+					"expanded_url": "https://twitter.com/sekaist/status/1412664890540523529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 1131,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오 이거 넘 좋다 https://t.co/GQNQZhQIDm"
+	},
+	{
 		"created_at": "Mon Jul 05 23:54:53 +0000 2021",
 		"id": 1412198327190311000,
 		"id_str": "1412198327190310914",
