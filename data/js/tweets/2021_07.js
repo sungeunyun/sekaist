@@ -1,6 +1,187 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 15 14:13:11 +0000 2021",
+		"id": 1415646279804223500,
+		"id_str": "1415675817607057413",
+		"full_text": "https://t.co/eKs7tZtQoy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415646277602140200,
+					"id_str": "1415646277602140161",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E6ViygAUYAEuZQT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6ViygAUYAEuZQT.jpg",
+					"url": "https://t.co/eKs7tZtQoy",
+					"display_url": "pic.twitter.com/eKs7tZtQoy",
+					"expanded_url": "https://twitter.com/yoongaphee/status/1415646279804223493/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415646277602140200,
+					"id_str": "1415646277602140161",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E6ViygAUYAEuZQT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6ViygAUYAEuZQT.jpg",
+					"url": "https://t.co/eKs7tZtQoy",
+					"display_url": "pic.twitter.com/eKs7tZtQoy",
+					"expanded_url": "https://twitter.com/yoongaphee/status/1415646279804223493/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52586704,
+			"id_str": "52586704",
+			"name": "4피우스",
+			"screen_name": "yoongaphee",
+			"location": "대한민국 서울",
+			"description": "제 기사공유나 알티가 동의를 의미하는 것은 아니며 원고 작성을 위한 참고용 스크랩입니다\n\n정신 유튜브 : https://t.co/cljP8KNKK0\n정신숍 : https://t.co/UaLQG42AQp",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cljP8KNKK0",
+							"expanded_url": "http://url.kr/ckm2De",
+							"display_url": "url.kr/ckm2De",
+							"indices": [
+								59,
+								82
+							]
+						},
+						{
+							"url": "https://t.co/UaLQG42AQp",
+							"expanded_url": "http://poliworld.shop",
+							"display_url": "poliworld.shop",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 29576,
+			"friends_count": 7239,
+			"listed_count": 143,
+			"created_at": "Wed Jul 01 01:16:18 +0000 2009",
+			"favourites_count": 14603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410165875987021825/n5KGdCFK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410165875987021825/n5KGdCFK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52586704/1613470221",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 448,
+		"favorite_count": 487,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/eKs7tZtQoy"
+	},
+	{
 		"created_at": "Wed Jul 14 12:04:30 +0000 2021",
 		"id": 1415281046266908700,
 		"id_str": "1415281046266908672",
