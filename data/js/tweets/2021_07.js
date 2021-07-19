@@ -1,6 +1,577 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 18 10:31:19 +0000 2021",
+		"id": 1416707148361334800,
+		"id_str": "1416707148361334784",
+		"full_text": "Passion Pit - Take a Walk (Official Video) https://t.co/TWzFvKA04s - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						69,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TWzFvKA04s",
+					"expanded_url": "https://youtu.be/dZX6Q-Bj_xg",
+					"display_url": "youtu.be/dZX6Q-Bj_xg",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1133,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Passion Pit - Take a Walk (Official Video) https://t.co/TWzFvKA04s - @YouTube"
+	},
+	{
+		"created_at": "Sun Jul 18 10:23:23 +0000 2021",
+		"id": 1416705148533969000,
+		"id_str": "1416705148533968899",
+		"full_text": "유태양 이친구 뭐죠 https://t.co/vdfaaFx8mO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1416705137905574000,
+					"id_str": "1416705137905573892",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E6kl0SBVIAQonZ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6kl0SBVIAQonZ3.jpg",
+					"url": "https://t.co/vdfaaFx8mO",
+					"display_url": "pic.twitter.com/vdfaaFx8mO",
+					"expanded_url": "https://twitter.com/sekaist/status/1416705148533968899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 654,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 654,
+							"h": 368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 654,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416705137905574000,
+					"id_str": "1416705137905573892",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E6kl0SBVIAQonZ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6kl0SBVIAQonZ3.jpg",
+					"url": "https://t.co/vdfaaFx8mO",
+					"display_url": "pic.twitter.com/vdfaaFx8mO",
+					"expanded_url": "https://twitter.com/sekaist/status/1416705148533968899/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 654,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 654,
+							"h": 368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 654,
+							"h": 368,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							327,
+							184
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E6kl0SBVIAQonZ3.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1133,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유태양 이친구 뭐죠 https://t.co/vdfaaFx8mO"
+	},
+	{
+		"created_at": "Sun Jul 18 04:33:58 +0000 2021",
+		"id": 1416617215575543800,
+		"id_str": "1416617215575543812",
+		"full_text": "@soarDam 너무 웃겨요 진짜 https://t.co/8K9at3gz83",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soarDam",
+					"name": "KONG",
+					"id": 819459718154362900,
+					"id_str": "819459718154362880",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1416617182293684200,
+					"id_str": "1416617182293684227",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E6jV0l1UcAM366N.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6jV0l1UcAM366N.jpg",
+					"url": "https://t.co/8K9at3gz83",
+					"display_url": "pic.twitter.com/8K9at3gz83",
+					"expanded_url": "https://twitter.com/sekaist/status/1416617215575543812/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 546,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416617182293684200,
+					"id_str": "1416617182293684227",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E6jV0l1UcAM366N.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6jV0l1UcAM366N.jpg",
+					"url": "https://t.co/8K9at3gz83",
+					"display_url": "pic.twitter.com/8K9at3gz83",
+					"expanded_url": "https://twitter.com/sekaist/status/1416617215575543812/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 546,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							160,
+							91
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E6jV0l1UcAM366N.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1416597386957267000,
+		"in_reply_to_status_id_str": "1416597386957266948",
+		"in_reply_to_user_id": 819459718154362900,
+		"in_reply_to_user_id_str": "819459718154362880",
+		"in_reply_to_screen_name": "soarDam",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1133,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@soarDam 너무 웃겨요 진짜 https://t.co/8K9at3gz83"
+	},
+	{
+		"created_at": "Sun Jul 18 04:13:09 +0000 2021",
+		"id": 1416611979003785200,
+		"id_str": "1416611979003785220",
+		"full_text": "베복 3집 명곡 파티였는데 사실 미싱유 젤 많이 들었음 Baby V.O.X - Missing You, 베이비복스 - 미싱 유, Music Camp 19991106 https://t.co/TgvMi7F08Y - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						117,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TgvMi7F08Y",
+					"expanded_url": "https://youtu.be/Wrj5bDqaehA",
+					"display_url": "youtu.be/Wrj5bDqaehA",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1133,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "베복 3집 명곡 파티였는데 사실 미싱유 젤 많이 들었음 Baby V.O.X - Missing You, 베이비복스 - 미싱 유, Music Camp 19991106 https://t.co/TgvMi7F08Y - @YouTube"
+	},
+	{
 		"created_at": "Sat Jul 17 15:56:00 +0000 2021",
 		"id": 1416426466326179800,
 		"id_str": "1416426466326179845",
