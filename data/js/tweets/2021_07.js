@@ -1,6 +1,483 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 20 09:29:14 +0000 2021",
+		"id": 1417411704594391000,
+		"id_str": "1417416296845647875",
+		"full_text": "캠핑뮤직어게인 영월 캠핑장에서 들려드리는 페퍼톤스 ‘new hippie generation’ 영상이 공개 되었습니다.\n\nhttps://t.co/aZkqlG8wD4\n\n#햇살누진세냅시다 https://t.co/OL9rz2lyYX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "햇살누진세냅시다",
+					"indices": [
+						92,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aZkqlG8wD4",
+					"expanded_url": "https://youtu.be/lBjqYh-wIB8",
+					"display_url": "youtu.be/lBjqYh-wIB8",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417411575602843600,
+					"id_str": "1417411575602843648",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1417411575602843648/pu/img/BF602H6bpcdd_OQb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1417411575602843648/pu/img/BF602H6bpcdd_OQb.jpg",
+					"url": "https://t.co/OL9rz2lyYX",
+					"display_url": "pic.twitter.com/OL9rz2lyYX",
+					"expanded_url": "https://twitter.com/pptnzexpress/status/1417411704594391040/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417411575602843600,
+					"id_str": "1417411575602843648",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1417411575602843648/pu/img/BF602H6bpcdd_OQb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1417411575602843648/pu/img/BF602H6bpcdd_OQb.jpg",
+					"url": "https://t.co/OL9rz2lyYX",
+					"display_url": "pic.twitter.com/OL9rz2lyYX",
+					"expanded_url": "https://twitter.com/pptnzexpress/status/1417411704594391040/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 45003,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1417411575602843648/pu/vid/720x406/Lr1QO8YMqqymUm3E.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1417411575602843648/pu/pl/Iml9h5BcUWgxRvhL.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1417411575602843648/pu/vid/478x270/7zecqih6mT4OISlY.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 191952879,
+			"id_str": "191952879",
+			"name": "페퍼톤스 peppertones",
+			"screen_name": "pptnzexpress",
+			"location": "Seoul, Korea",
+			"description": "peppertones (sayo x noshel) official twitter - news / announcements",
+			"url": "https://t.co/OHY4xPeK29",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OHY4xPeK29",
+							"expanded_url": "http://peppertones.net",
+							"display_url": "peppertones.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6236,
+			"friends_count": 2,
+			"listed_count": 84,
+			"created_at": "Fri Sep 17 19:59:41 +0000 2010",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991566312190062593/_x0_iAah_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991566312190062593/_x0_iAah_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/191952879/1525242790",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 249,
+		"favorite_count": 281,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "캠핑뮤직어게인 영월 캠핑장에서 들려드리는 페퍼톤스 ‘new hippie generation’ 영상이 공개 되었습니다.\n\nhttps://t.co/aZkqlG8wD4\n\n#햇살누진세냅시다 https://t.co/OL9rz2lyYX"
+	},
+	{
+		"created_at": "Tue Jul 20 05:52:04 +0000 2021",
+		"id": 1417361648004657200,
+		"id_str": "1417361648004657163",
+		"full_text": "심장이 벌렁벌렁 https://t.co/oUBCZOKofe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417361643378405400,
+					"id_str": "1417361643378405378",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/E6t657fVcAI8yDk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6t657fVcAI8yDk.jpg",
+					"url": "https://t.co/oUBCZOKofe",
+					"display_url": "pic.twitter.com/oUBCZOKofe",
+					"expanded_url": "https://twitter.com/sekaist/status/1417361648004657163/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 915,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 915,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417361643378405400,
+					"id_str": "1417361643378405378",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/E6t657fVcAI8yDk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6t657fVcAI8yDk.jpg",
+					"url": "https://t.co/oUBCZOKofe",
+					"display_url": "pic.twitter.com/oUBCZOKofe",
+					"expanded_url": "https://twitter.com/sekaist/status/1417361648004657163/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 915,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 915,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 628,
+			"friends_count": 1134,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "심장이 벌렁벌렁 https://t.co/oUBCZOKofe"
+	},
+	{
+		"created_at": "Tue Jul 20 05:12:47 +0000 2021",
+		"id": 1417313547227254800,
+		"id_str": "1417351761963089921",
+		"full_text": "참으로 황망합니다.\n \n어제 저녁,  \n김홍빈 대장의 히말라야 14봉우리 완등 \n축하 메시지를 올렸었는데, 하산길에 \n실종되어 현재 김 대장의 위치가 \n파악되지 않고 있다고 합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444465942,
+			"id_str": "444465942",
+			"name": "문재인",
+			"screen_name": "moonriver365",
+			"location": "대한민국",
+			"description": "대한민국 대통령 문재인입니다. President of the Republic of Korea. 나라다운 나라를 만들기 위해 국민여러분과 함께 하겠습니다. @thebluehousekr @TheBlueHouseENG",
+			"url": "https://t.co/FAKWOwyhHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FAKWOwyhHd",
+							"expanded_url": "http://www.president.go.kr",
+							"display_url": "president.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1864830,
+			"friends_count": 141158,
+			"listed_count": 7609,
+			"created_at": "Fri Dec 23 08:46:08 +0000 2011",
+			"favourites_count": 718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/444465942/1583716608",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3491,
+		"favorite_count": 6461,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "참으로 황망합니다.\n \n어제 저녁,  \n김홍빈 대장의 히말라야 14봉우리 완등 \n축하 메시지를 올렸었는데, 하산길에 \n실종되어 현재 김 대장의 위치가 \n파악되지 않고 있다고 합니다."
+	},
+	{
 		"created_at": "Mon Jul 19 15:01:04 +0000 2021",
 		"id": 1417137417719480300,
 		"id_str": "1417137417719480322",
