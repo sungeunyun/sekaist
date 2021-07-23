@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 07:19:54 +0000 2021",
+		"id": 1418108526958841900,
+		"id_str": "1418108526958841859",
+		"full_text": "트위터 알림 나만 안오는줄 알았는데 아니었군...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 628,
+			"friends_count": 1133,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터 알림 나만 안오는줄 알았는데 아니었군..."
+	},
+	{
+		"created_at": "Thu Jul 22 07:17:34 +0000 2021",
+		"id": 1418107938476986400,
+		"id_str": "1418107938476986374",
+		"full_text": "집에 가고 싶다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 628,
+			"friends_count": 1133,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "집에 가고 싶다"
+	},
+	{
+		"created_at": "Thu Jul 22 04:43:02 +0000 2021",
+		"id": 1418068571159076900,
+		"id_str": "1418069051000049664",
+		"full_text": "#독립영화쇼케이스 상영\n\n🎬177회 독립영화 쇼케이스 &lt;아워 미드나잇&gt;를 상영합니다. \n\n&lt;아워 미드나잇&gt; Our Midnight\n임정은｜2020｜Fiction｜77min｜혼합\n\n일시 : 8월 17일 저녁7시\n장소 : 독립영화전용관 인디스페이스\n\n✅관람 신청하기  ☞ 08.02(월) 12:00 신청 오픈! https://t.co/EmRgUKHLfh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "독립영화쇼케이스",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418068542453215200,
+					"id_str": "1418068542453215233",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E63903wUcAEIUvG.png",
+					"media_url_https": "https://pbs.twimg.com/media/E63903wUcAEIUvG.png",
+					"url": "https://t.co/EmRgUKHLfh",
+					"display_url": "pic.twitter.com/EmRgUKHLfh",
+					"expanded_url": "https://twitter.com/KIFV/status/1418068571159076869/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418068542453215200,
+					"id_str": "1418068542453215233",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E63903wUcAEIUvG.png",
+					"media_url_https": "https://pbs.twimg.com/media/E63903wUcAEIUvG.png",
+					"url": "https://t.co/EmRgUKHLfh",
+					"display_url": "pic.twitter.com/EmRgUKHLfh",
+					"expanded_url": "https://twitter.com/KIFV/status/1418068571159076869/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418068542621028400,
+					"id_str": "1418068542621028357",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E63904YVEAUsSQ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E63904YVEAUsSQ_.jpg",
+					"url": "https://t.co/EmRgUKHLfh",
+					"display_url": "pic.twitter.com/EmRgUKHLfh",
+					"expanded_url": "https://twitter.com/KIFV/status/1418068571159076869/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 106652280,
+			"id_str": "106652280",
+			"name": "한국독립영화협회",
+			"screen_name": "KIFV",
+			"location": "Seoul, Korea",
+			"description": "독립영화 제작,연구,교육,배급에 지향을 가지고 연대하는 독립영화인들로 구성된 단체\n▷페이스북 https://t.co/4qVDWAoIaO\n▷후원 https://t.co/l5h0kt1pSg \n▷네이버 인디극장 https://t.co/7ELYxaP2eq\n▷네이버 인디극장 인스타그램\nhttps://t.co/UcEJJez32K",
+			"url": "http://kifv.org",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://kifv.org",
+							"expanded_url": null,
+							"indices": [
+								0,
+								15
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4qVDWAoIaO",
+							"expanded_url": "http://j.mp/u93UJD",
+							"display_url": "j.mp/u93UJD",
+							"indices": [
+								52,
+								75
+							]
+						},
+						{
+							"url": "https://t.co/l5h0kt1pSg",
+							"expanded_url": "http://bit.ly/hnaseG",
+							"display_url": "bit.ly/hnaseG",
+							"indices": [
+								80,
+								103
+							]
+						},
+						{
+							"url": "https://t.co/7ELYxaP2eq",
+							"expanded_url": "http://tv.naver.com",
+							"display_url": "tv.naver.com",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/UcEJJez32K",
+							"expanded_url": "http://instagram.com/indie_cinema_kifv",
+							"display_url": "instagram.com/indie_cinema_k…",
+							"indices": [
+								155,
+								178
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13312,
+			"friends_count": 9388,
+			"listed_count": 203,
+			"created_at": "Wed Jan 20 06:43:30 +0000 2010",
+			"favourites_count": 406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1299334172/phpcCyKSa_normal",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1299334172/phpcCyKSa_normal",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/106652280/1575950042",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#독립영화쇼케이스 상영\n\n🎬177회 독립영화 쇼케이스 &lt;아워 미드나잇&gt;를 상영합니다. \n\n&lt;아워 미드나잇&gt; Our Midnight\n임정은｜2020｜Fiction｜77min｜혼합\n\n일시 : 8월 17일 저녁7시\n장소 : 독립영화전용관 인디스페이스\n\n✅관람 신청하기  ☞ 08.02(월) 12:00 신청 오픈! https://t.co/EmRgUKHLfh"
+	},
+	{
+		"created_at": "Thu Jul 22 04:36:44 +0000 2021",
+		"id": 1418067463850188800,
+		"id_str": "1418067463850188803",
+		"full_text": "유퀴즈 뭐야 어제 안봤는데 펭수로 낚시한거임?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 628,
+			"friends_count": 1133,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "유퀴즈 뭐야 어제 안봤는데 펭수로 낚시한거임?"
+	},
+	{
 		"created_at": "Wed Jul 21 23:12:41 +0000 2021",
 		"id": 1417854109093269500,
 		"id_str": "1417985912269508611",
