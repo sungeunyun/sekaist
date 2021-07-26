@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 25 07:32:42 +0000 2021",
+		"id": 1419171873355559000,
+		"id_str": "1419198910808027142",
+		"full_text": "2020 도쿄올림픽 첫날 대한민국에 소중한 메달을 안겨준 안산, 김제덕, 김정환, 장준 선수에게 축전을 보냈습니다. 국민들과 함께 축하합니다. https://t.co/ASxlKDWb8N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1419171540797558800,
+					"id_str": "1419171540797558789",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E7Ho_0yVEAU47v0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7Ho_0yVEAU47v0.jpg",
+					"url": "https://t.co/ASxlKDWb8N",
+					"display_url": "pic.twitter.com/ASxlKDWb8N",
+					"expanded_url": "https://twitter.com/moonriver365/status/1419171873355558916/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419171540797558800,
+					"id_str": "1419171540797558789",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E7Ho_0yVEAU47v0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7Ho_0yVEAU47v0.jpg",
+					"url": "https://t.co/ASxlKDWb8N",
+					"display_url": "pic.twitter.com/ASxlKDWb8N",
+					"expanded_url": "https://twitter.com/moonriver365/status/1419171873355558916/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1419171540797587500,
+					"id_str": "1419171540797587459",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E7Ho_0yVgAMaTdi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7Ho_0yVgAMaTdi.jpg",
+					"url": "https://t.co/ASxlKDWb8N",
+					"display_url": "pic.twitter.com/ASxlKDWb8N",
+					"expanded_url": "https://twitter.com/moonriver365/status/1419171873355558916/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1419171540797563000,
+					"id_str": "1419171540797562887",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E7Ho_0yVIAc5bmm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7Ho_0yVIAc5bmm.jpg",
+					"url": "https://t.co/ASxlKDWb8N",
+					"display_url": "pic.twitter.com/ASxlKDWb8N",
+					"expanded_url": "https://twitter.com/moonriver365/status/1419171873355558916/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1419171540814336000,
+					"id_str": "1419171540814336002",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E7Ho_02VEAI-G5e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7Ho_02VEAI-G5e.jpg",
+					"url": "https://t.co/ASxlKDWb8N",
+					"display_url": "pic.twitter.com/ASxlKDWb8N",
+					"expanded_url": "https://twitter.com/moonriver365/status/1419171873355558916/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444465942,
+			"id_str": "444465942",
+			"name": "문재인",
+			"screen_name": "moonriver365",
+			"location": "대한민국",
+			"description": "대한민국 대통령 문재인입니다. President of the Republic of Korea. 나라다운 나라를 만들기 위해 국민여러분과 함께 하겠습니다. @thebluehousekr @TheBlueHouseENG",
+			"url": "https://t.co/FAKWOwyhHd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FAKWOwyhHd",
+							"expanded_url": "http://www.president.go.kr",
+							"display_url": "president.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1866771,
+			"friends_count": 141135,
+			"listed_count": 7607,
+			"created_at": "Fri Dec 23 08:46:08 +0000 2011",
+			"favourites_count": 718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/444465942/1583716608",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3182,
+		"favorite_count": 5886,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020 도쿄올림픽 첫날 대한민국에 소중한 메달을 안겨준 안산, 김제덕, 김정환, 장준 선수에게 축전을 보냈습니다. 국민들과 함께 축하합니다. https://t.co/ASxlKDWb8N"
+	},
+	{
 		"created_at": "Sat Jul 24 08:00:56 +0000 2021",
 		"id": 1418843627028111400,
 		"id_str": "1418843627028111360",
