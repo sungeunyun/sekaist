@@ -1,6 +1,725 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 30 08:44:10 +0000 2021",
+		"id": 1421020280835780600,
+		"id_str": "1421028835106058247",
+		"full_text": "It’s a third #gold for An San of #KOR!\n\nShe adds the gold medal in the women’s individual #archery competition to her women’s and mixed team golds.\n\n#StrongerTogether | #Tokyo2020 | @worldarchery https://t.co/JKkiJ1TAbe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gold",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "KOR",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "archery",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "StrongerTogether",
+					"indices": [
+						149,
+						166
+					]
+				},
+				{
+					"text": "Tokyo2020",
+					"indices": [
+						169,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "worldarchery",
+					"name": "World Archery",
+					"id": 91588813,
+					"id_str": "91588813",
+					"indices": [
+						182,
+						195
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1421020113923420200,
+					"id_str": "1421020113923420161",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1421020113923420161/img/T1qbBUJH3FAxDfkF.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1421020113923420161/img/T1qbBUJH3FAxDfkF.jpg",
+					"url": "https://t.co/JKkiJ1TAbe",
+					"display_url": "pic.twitter.com/JKkiJ1TAbe",
+					"expanded_url": "https://twitter.com/Olympics/status/1421020280835780610/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1421020113923420200,
+					"id_str": "1421020113923420161",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1421020113923420161/img/T1qbBUJH3FAxDfkF.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1421020113923420161/img/T1qbBUJH3FAxDfkF.jpg",
+					"url": "https://t.co/JKkiJ1TAbe",
+					"display_url": "pic.twitter.com/JKkiJ1TAbe",
+					"expanded_url": "https://twitter.com/Olympics/status/1421020280835780610/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://olympics.com/tokyo-2020/en/liveblog?utm_source=twitter&utm_medium=social-organic&utm_campaign=twitter_na_na_tokyo-2020_na_na_na&utm_content=twitter_na_na_tokyo-2020_na_na_na_na_occontent-news_na_na"
+							}
+						},
+						"embeddable": false,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52422878,
+			"id_str": "52422878",
+			"name": "Olympics",
+			"screen_name": "Olympics",
+			"location": "",
+			"description": "#Olympics - Inspiring people through the Olympic values of friendship, respect, and excellence.",
+			"url": "https://t.co/7hhN0XssM5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7hhN0XssM5",
+							"expanded_url": "http://www.olympics.com",
+							"display_url": "olympics.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6337531,
+			"friends_count": 5000,
+			"listed_count": 12853,
+			"created_at": "Tue Jun 30 15:23:29 +0000 2009",
+			"favourites_count": 7033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "637586",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975372356960096256/mHGbWlPT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975372356960096256/mHGbWlPT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52422878/1614865002",
+			"profile_link_color": "0069AF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5E7E9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7237,
+		"favorite_count": 10260,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s a third #gold for An San of #KOR!\n\nShe adds the gold medal in the women’s individual #archery competition to her women’s and mixed team golds.\n\n#StrongerTogether | #Tokyo2020 | @worldarchery https://t.co/JKkiJ1TAbe"
+	},
+	{
+		"created_at": "Fri Jul 30 07:59:37 +0000 2021",
+		"id": 1421017593314377700,
+		"id_str": "1421017622632550412",
+		"full_text": "올림픽 양궁 역사상 첫 동일 대회 3관왕 탄생!🥇\n#안산 선수가 2020 도쿄 올림픽 양궁 여자 개인 결승에서 금메달을 차지하며 양궁 3관왕에 올랐습니다. 축하합니다!🏹👏\n#도쿄 #올림픽 #대한민국 #양궁 #Tokyo2020 #Olympics @Tokyo2020ko https://t.co/cMqMAcbBNn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안산",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "도쿄",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "올림픽",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "대한민국",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "양궁",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "Tokyo2020",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "Olympics",
+					"indices": [
+						126,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tokyo2020ko",
+					"name": "도쿄2020 올림픽 및 패럴림픽 대회",
+					"id": 1219333307302924300,
+					"id_str": "1219333307302924291",
+					"indices": [
+						136,
+						148
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1421010871812124700,
+					"id_str": "1421010871812124675",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/E7hx_qqVoAA7-yL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7hx_qqVoAA7-yL.jpg",
+					"url": "https://t.co/cMqMAcbBNn",
+					"display_url": "pic.twitter.com/cMqMAcbBNn",
+					"expanded_url": "https://twitter.com/olympiko/status/1421017593314377728/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1421010871812124700,
+					"id_str": "1421010871812124675",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/E7hx_qqVoAA7-yL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7hx_qqVoAA7-yL.jpg",
+					"url": "https://t.co/cMqMAcbBNn",
+					"display_url": "pic.twitter.com/cMqMAcbBNn",
+					"expanded_url": "https://twitter.com/olympiko/status/1421017593314377728/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 9000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1421010871812124675/pl/9kjYuX3IpEjEdLlc.m3u8?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1421010871812124675/vid/720x720/Z4pS405Zq6YoulXD.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1421010871812124675/vid/540x540/Gp7dkvUR083iLD7R.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1421010871812124675/vid/320x320/W_X-6wq6XWdXWIBg.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://oly.ch/3x6drSo"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2220078308,
+			"id_str": "2220078308",
+			"name": "올림픽",
+			"screen_name": "olympiko",
+			"location": "로잔, 스위스",
+			"description": "국제올림픽위원회(IOC) 공식 한국어 계정입니다.",
+			"url": "https://t.co/TU4bfDDPDQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TU4bfDDPDQ",
+							"expanded_url": "http://olympics.com",
+							"display_url": "olympics.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68853,
+			"friends_count": 162,
+			"listed_count": 145,
+			"created_at": "Thu Nov 28 17:15:05 +0000 2013",
+			"favourites_count": 70,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/788645801354522624/yZpCtElO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/788645801354522624/yZpCtElO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2220078308/1593521560",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103731,
+		"favorite_count": 58915,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올림픽 양궁 역사상 첫 동일 대회 3관왕 탄생!🥇\n#안산 선수가 2020 도쿄 올림픽 양궁 여자 개인 결승에서 금메달을 차지하며 양궁 3관왕에 올랐습니다. 축하합니다!🏹👏\n#도쿄 #올림픽 #대한민국 #양궁 #Tokyo2020 #Olympics @Tokyo2020ko https://t.co/cMqMAcbBNn"
+	},
+	{
+		"created_at": "Fri Jul 30 07:59:30 +0000 2021",
+		"id": 1421017363466489900,
+		"id_str": "1421017593402388484",
+		"full_text": "안산 선수가 2020도쿄올림픽 양궁 여자 개인 금메달🥇을 획득합니다. 최고의 경기를 보여준 안산 선수, 국민과 함께 축하합니다 🇰🇷\n\n#안산 #양궁 #국가대표\n#대한민국 #문화체육관광부 https://t.co/f5GPan98qD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안산",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "양궁",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "국가대표",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "대한민국",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "문화체육관광부",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1421013770931867600,
+					"id_str": "1421013770931867651",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E7h0fu1VEAMoQX4.png",
+					"media_url_https": "https://pbs.twimg.com/media/E7h0fu1VEAMoQX4.png",
+					"url": "https://t.co/f5GPan98qD",
+					"display_url": "pic.twitter.com/f5GPan98qD",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1421017363466489861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1421013770931867600,
+					"id_str": "1421013770931867651",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E7h0fu1VEAMoQX4.png",
+					"media_url_https": "https://pbs.twimg.com/media/E7h0fu1VEAMoQX4.png",
+					"url": "https://t.co/f5GPan98qD",
+					"display_url": "pic.twitter.com/f5GPan98qD",
+					"expanded_url": "https://twitter.com/mcstkorea/status/1421017363466489861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141083064,
+			"id_str": "141083064",
+			"name": "문화체육관광부",
+			"screen_name": "mcstkorea",
+			"location": "Republic of Korea",
+			"description": "문화·체육·관광으로 행복한 대한민국",
+			"url": "http://t.co/mVy4NdMos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/mVy4NdMos2",
+							"expanded_url": "http://www.mcst.go.kr",
+							"display_url": "mcst.go.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 138102,
+			"friends_count": 22171,
+			"listed_count": 998,
+			"created_at": "Fri May 07 04:19:09 +0000 2010",
+			"favourites_count": 2764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884265284655226882/w8LPTguu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884265284655226882/w8LPTguu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141083064/1626237636",
+			"profile_link_color": "4C4C4C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32010,
+		"favorite_count": 21275,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안산 선수가 2020도쿄올림픽 양궁 여자 개인 금메달🥇을 획득합니다. 최고의 경기를 보여준 안산 선수, 국민과 함께 축하합니다 🇰🇷\n\n#안산 #양궁 #국가대표\n#대한민국 #문화체육관광부 https://t.co/f5GPan98qD"
+	},
+	{
 		"created_at": "Thu Jul 29 11:23:59 +0000 2021",
 		"id": 1420706665830125600,
 		"id_str": "1420706665830125576",
