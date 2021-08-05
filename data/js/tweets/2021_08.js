@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 04 23:32:23 +0000 2021",
+		"id": 1421046141282517000,
+		"id_str": "1423064301208686600",
+		"full_text": "#트리플시리즈 #아이틴더유 #신간소개\n\n❝내가 너의 세컨드라고 생각하면 별론데 서로의 스페어라고 생각하니까 오히려 든든해.❞\n\n우리의 일상과 연애 사이로 부는\n자연스럽고 사뿐한 바람\n\n📝 트리플 시리즈 일곱 번째 이야기\n📕 정대건, 『아이 틴더 유』\n\n▶https://t.co/nhjgPyEtfQ https://t.co/Wd52bCphRh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트리플시리즈",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "아이틴더유",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "신간소개",
+					"indices": [
+						15,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nhjgPyEtfQ",
+					"expanded_url": "http://aladin.kr/p/zProw",
+					"display_url": "aladin.kr/p/zProw",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1421046120252207000,
+					"id_str": "1421046120252207107",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E7iR6tcUcAMJhQf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7iR6tcUcAMJhQf.jpg",
+					"url": "https://t.co/Wd52bCphRh",
+					"display_url": "pic.twitter.com/Wd52bCphRh",
+					"expanded_url": "https://twitter.com/jamobook/status/1421046141282516994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1421046120252207000,
+					"id_str": "1421046120252207107",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E7iR6tcUcAMJhQf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7iR6tcUcAMJhQf.jpg",
+					"url": "https://t.co/Wd52bCphRh",
+					"display_url": "pic.twitter.com/Wd52bCphRh",
+					"expanded_url": "https://twitter.com/jamobook/status/1421046141282516994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 152963234,
+			"id_str": "152963234",
+			"name": "자음과모음",
+			"screen_name": "jamobook",
+			"location": "",
+			"description": "출판사 자음과모음의 공식 트위터입니다. \n \nhttps://t.co/kiqgXRfTH5\nhttps://t.co/kfx84CwQKI",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kiqgXRfTH5",
+							"expanded_url": "http://instagram.com/jamobook",
+							"display_url": "instagram.com/jamobook",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/kfx84CwQKI",
+							"expanded_url": "http://facebook.com/jamobook",
+							"display_url": "facebook.com/jamobook",
+							"indices": [
+								49,
+								72
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9590,
+			"friends_count": 9865,
+			"listed_count": 246,
+			"created_at": "Mon Jun 07 09:43:52 +0000 2010",
+			"favourites_count": 619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326327345100201985/EGM0lvUm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326327345100201985/EGM0lvUm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/152963234/1627431541",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#트리플시리즈 #아이틴더유 #신간소개\n\n❝내가 너의 세컨드라고 생각하면 별론데 서로의 스페어라고 생각하니까 오히려 든든해.❞\n\n우리의 일상과 연애 사이로 부는\n자연스럽고 사뿐한 바람\n\n📝 트리플 시리즈 일곱 번째 이야기\n📕 정대건, 『아이 틴더 유』\n\n▶https://t.co/nhjgPyEtfQ https://t.co/Wd52bCphRh"
+	},
+	{
+		"created_at": "Wed Aug 04 13:13:12 +0000 2021",
+		"id": 1422908479287677000,
+		"id_str": "1422908479287676931",
+		"full_text": "어후 야구는 보는게 아님^^",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1131,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어후 야구는 보는게 아님^^"
+	},
+	{
+		"created_at": "Wed Aug 04 02:33:49 +0000 2021",
+		"id": 1422747573434032000,
+		"id_str": "1422747573434032129",
+		"full_text": "다들 일 안하고 회사에서 배구보나봐 밖에서 소리쳐서 이긴거 알았네 ㅋㅋㅋㅋ 아파트도 아니고 진짜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1131,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "다들 일 안하고 회사에서 배구보나봐 밖에서 소리쳐서 이긴거 알았네 ㅋㅋㅋㅋ 아파트도 아니고 진짜"
+	},
+	{
 		"created_at": "Tue Aug 03 11:35:50 +0000 2021",
 		"id": 1422521587849257000,
 		"id_str": "1422521587849256961",
