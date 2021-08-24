@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 23 15:58:44 +0000 2021",
+		"id": 1429835506385244200,
+		"id_str": "1429835506385244165",
+		"full_text": "Gila - Always in love (Acoustic live) https://t.co/aqgrbYcSXG - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						64,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aqgrbYcSXG",
+					"expanded_url": "https://youtu.be/9ezHx89k67c",
+					"display_url": "youtu.be/9ezHx89k67c",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1130,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gila - Always in love (Acoustic live) https://t.co/aqgrbYcSXG - @YouTube"
+	},
+	{
 		"created_at": "Thu Aug 19 15:28:38 +0000 2021",
 		"id": 1428378380064284700,
 		"id_str": "1428378380064284676",
@@ -753,7 +858,7 @@ Grailbird.data.tweets_2021_08 =
 		"created_at": "Thu Aug 19 08:21:40 +0000 2021",
 		"id": 1428270611378294800,
 		"id_str": "1428270929319137282",
-		"full_text": "#로그인벨지움 #월드프리미어\n\n유태오 감독 데뷔작 &lt;로그 인 벨지움&gt;이 제13회 DMZ국제다큐멘터리영화제 오픈시네마 섹션에 초청되어 최초로 공개됩니다!\n\n영화제는 오는 9월 9일부터 16일까지 열리며 자세한 상영 일정 및 예매 일정도 곧 알려드리겠습니다! 🎬🎟❤️‍🔥 https://t.co/vyxL0v1SQ6",
+		"full_text": "#로그인벨지움 #월드프리미어\n\n유태오 감독 데뷔작 &lt;로그 인 벨지움&gt;이 제13회 DMZ국제다큐멘터리영화제 오픈시네마 섹션에 초청되어 최초로 공개됩니다!\n\n영화제는 오는 9월 9일부터 16일까지 열리며 자세한 상영 일정 및 예매 일정도 곧 알려드리겠습니다! 🎬🎟❤️🔥 https://t.co/vyxL0v1SQ6",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1019,7 +1124,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#로그인벨지움 #월드프리미어\n\n유태오 감독 데뷔작 &lt;로그 인 벨지움&gt;이 제13회 DMZ국제다큐멘터리영화제 오픈시네마 섹션에 초청되어 최초로 공개됩니다!\n\n영화제는 오는 9월 9일부터 16일까지 열리며 자세한 상영 일정 및 예매 일정도 곧 알려드리겠습니다! 🎬🎟❤️‍🔥 https://t.co/vyxL0v1SQ6"
+		"text": "#로그인벨지움 #월드프리미어\n\n유태오 감독 데뷔작 &lt;로그 인 벨지움&gt;이 제13회 DMZ국제다큐멘터리영화제 오픈시네마 섹션에 초청되어 최초로 공개됩니다!\n\n영화제는 오는 9월 9일부터 16일까지 열리며 자세한 상영 일정 및 예매 일정도 곧 알려드리겠습니다! 🎬🎟❤️🔥 https://t.co/vyxL0v1SQ6"
 	},
 	{
 		"created_at": "Wed Aug 18 11:42:44 +0000 2021",
