@@ -1,6 +1,1016 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 24 10:27:31 +0000 2021",
+		"id": 1430114481254789000,
+		"id_str": "1430114542432919552",
+		"full_text": "#펭수영통팬싸 #영통팬싸 #영통팬싸후기 #내생일기념 #펭수 #pengsoo \n\n고마워💙 https://t.co/ICteIm0v1m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펭수영통팬싸",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "영통팬싸",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "영통팬싸후기",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"text": "내생일기념",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "펭수",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "pengsoo",
+					"indices": [
+						33,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430113564405092400,
+					"id_str": "1430113564405092365",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1430113564405092365/pu/img/Zae6v1MShnGuVwdS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1430113564405092365/pu/img/Zae6v1MShnGuVwdS.jpg",
+					"url": "https://t.co/ICteIm0v1m",
+					"display_url": "pic.twitter.com/ICteIm0v1m",
+					"expanded_url": "https://twitter.com/giantpengsoo88/status/1430114481254789126/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430113564405092400,
+					"id_str": "1430113564405092365",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1430113564405092365/pu/img/Zae6v1MShnGuVwdS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1430113564405092365/pu/img/Zae6v1MShnGuVwdS.jpg",
+					"url": "https://t.co/ICteIm0v1m",
+					"display_url": "pic.twitter.com/ICteIm0v1m",
+					"expanded_url": "https://twitter.com/giantpengsoo88/status/1430114481254789126/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 59292,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430113564405092365/pu/vid/320x568/wMfnvTtiLGnb9AJJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430113564405092365/pu/vid/480x852/GJUwPmbJxPtlelgM.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430113564405092365/pu/vid/720x1280/-E9K6gYv1iAuu84d.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1430113564405092365/pu/pl/KhFPpuslNWeoGNhX.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1326834874129379300,
+			"id_str": "1326834874129379329",
+			"name": "giantpengsoo",
+			"screen_name": "giantpengsoo88",
+			"location": "EBS",
+			"description": "PENGSOO.\nI AM GIANT.\nI AM 10.\n나는 펭수\n나는 자이언트.\n나는 열살. \n오늘도 달린다.",
+			"url": "https://t.co/r3ool18vqE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3ool18vqE",
+							"expanded_url": "https://www.youtube.com/channel/UCtckgmUcpzqGnzcs7xEqMzQ/videos",
+							"display_url": "youtube.com/channel/UCtckg…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2812,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Thu Nov 12 10:32:34 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429998709056565251/YcdXFnry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429998709056565251/YcdXFnry_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 360,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#펭수영통팬싸 #영통팬싸 #영통팬싸후기 #내생일기념 #펭수 #pengsoo \n\n고마워💙 https://t.co/ICteIm0v1m"
+	},
+	{
+		"created_at": "Tue Aug 24 10:22:54 +0000 2021",
+		"id": 1430113325958848500,
+		"id_str": "1430113377313976331",
+		"full_text": "#펭수영통팬싸 #영통팬싸 #영통팬싸후기 #내생일기념 #펭수 #pengsoo\n\n내가 저녁 메뉴 골라줌 🍜🍕🍙 https://t.co/gx1ROuZxGe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펭수영통팬싸",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "영통팬싸",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "영통팬싸후기",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"text": "내생일기념",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "펭수",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "pengsoo",
+					"indices": [
+						33,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430112107710730200,
+					"id_str": "1430112107710730240",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1430112107710730240/pu/img/q4dhtJjQoNAl8kP_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1430112107710730240/pu/img/q4dhtJjQoNAl8kP_.jpg",
+					"url": "https://t.co/gx1ROuZxGe",
+					"display_url": "pic.twitter.com/gx1ROuZxGe",
+					"expanded_url": "https://twitter.com/giantpengsoo88/status/1430113325958848512/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430112107710730200,
+					"id_str": "1430112107710730240",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1430112107710730240/pu/img/q4dhtJjQoNAl8kP_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1430112107710730240/pu/img/q4dhtJjQoNAl8kP_.jpg",
+					"url": "https://t.co/gx1ROuZxGe",
+					"display_url": "pic.twitter.com/gx1ROuZxGe",
+					"expanded_url": "https://twitter.com/giantpengsoo88/status/1430113325958848512/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 56222,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430112107710730240/pu/vid/480x852/HYenFQZdGV7b-1AQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430112107710730240/pu/vid/320x568/-CIlfbVZAy2em6x5.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430112107710730240/pu/vid/720x1280/gqOY7lElvaft8AAS.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1430112107710730240/pu/pl/hw2C-oppPy6oR9tM.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1326834874129379300,
+			"id_str": "1326834874129379329",
+			"name": "giantpengsoo",
+			"screen_name": "giantpengsoo88",
+			"location": "EBS",
+			"description": "PENGSOO.\nI AM GIANT.\nI AM 10.\n나는 펭수\n나는 자이언트.\n나는 열살. \n오늘도 달린다.",
+			"url": "https://t.co/r3ool18vqE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/r3ool18vqE",
+							"expanded_url": "https://www.youtube.com/channel/UCtckgmUcpzqGnzcs7xEqMzQ/videos",
+							"display_url": "youtube.com/channel/UCtckg…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2812,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Thu Nov 12 10:32:34 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429998709056565251/YcdXFnry_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429998709056565251/YcdXFnry_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 383,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#펭수영통팬싸 #영통팬싸 #영통팬싸후기 #내생일기념 #펭수 #pengsoo\n\n내가 저녁 메뉴 골라줌 🍜🍕🍙 https://t.co/gx1ROuZxGe"
+	},
+	{
+		"created_at": "Tue Aug 24 05:26:21 +0000 2021",
+		"id": 1430037849596784600,
+		"id_str": "1430038751019819010",
+		"full_text": "청문절차에 충실히 응하겠습니다. https://t.co/KC30RFiNHX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430037843372515300,
+					"id_str": "1430037843372515330",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/E9iD14WVoAIPjP3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9iD14WVoAIPjP3.jpg",
+					"url": "https://t.co/KC30RFiNHX",
+					"display_url": "pic.twitter.com/KC30RFiNHX",
+					"expanded_url": "https://twitter.com/patriamea/status/1430037849596784640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 840,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 670,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430037843372515300,
+					"id_str": "1430037843372515330",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/E9iD14WVoAIPjP3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9iD14WVoAIPjP3.jpg",
+					"url": "https://t.co/KC30RFiNHX",
+					"display_url": "pic.twitter.com/KC30RFiNHX",
+					"expanded_url": "https://twitter.com/patriamea/status/1430037849596784640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 840,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 670,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63437440,
+			"id_str": "63437440",
+			"name": "조국",
+			"screen_name": "patriamea",
+			"location": "Seoul, Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1049432,
+			"friends_count": 26915,
+			"listed_count": 8664,
+			"created_at": "Thu Aug 06 10:11:36 +0000 2009",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1423616482605363202/0mfnh3O__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1423616482605363202/0mfnh3O__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63437440/1622110566",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4473,
+		"favorite_count": 7014,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "청문절차에 충실히 응하겠습니다. https://t.co/KC30RFiNHX"
+	},
+	{
+		"created_at": "Tue Aug 24 01:02:58 +0000 2021",
+		"id": 1429972468752523300,
+		"id_str": "1429972468752523267",
+		"full_text": "@HR_pic_ 네 보러가려고 합니다 근데 언제 가야할지 모르겠네요 이러다 겨울에 갈듯",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HR_pic_",
+					"name": "ʜʀ ᴘɪᴄ.",
+					"id": 265341125,
+					"id_str": "265341125",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1429972005818798000,
+		"in_reply_to_status_id_str": "1429972005818798081",
+		"in_reply_to_user_id": 265341125,
+		"in_reply_to_user_id_str": "265341125",
+		"in_reply_to_screen_name": "HR_pic_",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1131,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@HR_pic_ 네 보러가려고 합니다 근데 언제 가야할지 모르겠네요 이러다 겨울에 갈듯"
+	},
+	{
+		"created_at": "Tue Aug 24 01:01:42 +0000 2021",
+		"id": 1429972146835521500,
+		"id_str": "1429972146835521539",
+		"full_text": "헐 박재정 보러갈까나...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1131,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "헐 박재정 보러갈까나..."
+	},
+	{
+		"created_at": "Tue Aug 24 01:01:35 +0000 2021",
+		"id": 1429971997715435500,
+		"id_str": "1429972118259654656",
+		"full_text": "[2021 Soundberry Theater]\n\n여러분과 함께 달콤한 음악 이야기를 채워갈 아티스트들을 소개합니다.\n\n&lt;1회차&gt; - 9월 3일 19:00 딕펑스 / 이승윤\n&lt;2회차&gt; - 9월 4일 14:00 루시 / 이무진\n&lt;3회차&gt; - 9월 4일 19:00 박재정 / 정세운\n\n📌티켓 오픈일 : 8월 25일 (수) 오후 6시\n🎫공식예매처 : 인터파크 https://t.co/VDOtvMD7xG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1429971967608725500,
+					"id_str": "1429971967608725504",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/E9hH7aAVoAAosEB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9hH7aAVoAAosEB.jpg",
+					"url": "https://t.co/VDOtvMD7xG",
+					"display_url": "pic.twitter.com/VDOtvMD7xG",
+					"expanded_url": "https://twitter.com/soundberryfesta/status/1429971997715435525/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429971967608725500,
+					"id_str": "1429971967608725504",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/E9hH7aAVoAAosEB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9hH7aAVoAAosEB.jpg",
+					"url": "https://t.co/VDOtvMD7xG",
+					"display_url": "pic.twitter.com/VDOtvMD7xG",
+					"expanded_url": "https://twitter.com/soundberryfesta/status/1429971997715435525/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2668606796,
+			"id_str": "2668606796",
+			"name": "Soundberry Official",
+			"screen_name": "soundberryfesta",
+			"location": "",
+			"description": "당신의 음악 이야기가 가득한 달콤한 쉼터\n2021 Soundberry Theater\n2021.09.03(FRI)-09.04(SAT)\n블루스퀘어 마스터카드홀",
+			"url": "http://t.co/bdCpisRfIv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/bdCpisRfIv",
+							"expanded_url": "http://www.facebook.com/soundberryfesta",
+							"display_url": "facebook.com/soundberryfesta",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 478,
+			"friends_count": 1360,
+			"listed_count": 4,
+			"created_at": "Tue Jul 22 06:32:36 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429971688200970256/svp7sOb2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429971688200970256/svp7sOb2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2668606796/1629766795",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2021 Soundberry Theater]\n\n여러분과 함께 달콤한 음악 이야기를 채워갈 아티스트들을 소개합니다.\n\n&lt;1회차&gt; - 9월 3일 19:00 딕펑스 / 이승윤\n&lt;2회차&gt; - 9월 4일 14:00 루시 / 이무진\n&lt;3회차&gt; - 9월 4일 19:00 박재정 / 정세운\n\n📌티켓 오픈일 : 8월 25일 (수) 오후 6시\n🎫공식예매처 : 인터파크 https://t.co/VDOtvMD7xG"
+	},
+	{
 		"created_at": "Mon Aug 23 15:58:44 +0000 2021",
 		"id": 1429835506385244200,
 		"id_str": "1429835506385244165",
