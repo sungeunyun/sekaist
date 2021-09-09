@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 08 12:55:19 +0000 2021",
+		"id": 1435587552426086400,
+		"id_str": "1435587552426086413",
+		"full_text": "라디오헤드 kid a mnesia 앨범 관련해서 뜬 상품 다 이쁜데 특히 카세트북 탐난다 … kid a 앨범 조낸 많이 들어서 최소 씨디라도 사고싶네 \nhttps://t.co/Qpw7oCMFIg https://t.co/vLVkSali2T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qpw7oCMFIg",
+					"expanded_url": "https://store.kida-mnesia.com/",
+					"display_url": "store.kida-mnesia.com",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435587477465538600,
+					"id_str": "1435587477465538562",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E-w7NGZVIAItNMn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-w7NGZVIAItNMn.jpg",
+					"url": "https://t.co/vLVkSali2T",
+					"display_url": "pic.twitter.com/vLVkSali2T",
+					"expanded_url": "https://twitter.com/sekaist/status/1435587552426086413/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435587477465538600,
+					"id_str": "1435587477465538562",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E-w7NGZVIAItNMn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-w7NGZVIAItNMn.jpg",
+					"url": "https://t.co/vLVkSali2T",
+					"display_url": "pic.twitter.com/vLVkSali2T",
+					"expanded_url": "https://twitter.com/sekaist/status/1435587552426086413/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435587477461368800,
+					"id_str": "1435587477461368833",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E-w7NGYVgAErVNU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-w7NGYVgAErVNU.jpg",
+					"url": "https://t.co/vLVkSali2T",
+					"display_url": "pic.twitter.com/vLVkSali2T",
+					"expanded_url": "https://twitter.com/sekaist/status/1435587552426086413/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435587477473935400,
+					"id_str": "1435587477473935360",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E-w7NGbVQAAgL6-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-w7NGbVQAAgL6-.jpg",
+					"url": "https://t.co/vLVkSali2T",
+					"display_url": "pic.twitter.com/vLVkSali2T",
+					"expanded_url": "https://twitter.com/sekaist/status/1435587552426086413/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435587477452910600,
+					"id_str": "1435587477452910597",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E-w7NGWUcAUxgkX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-w7NGWUcAUxgkX.jpg",
+					"url": "https://t.co/vLVkSali2T",
+					"display_url": "pic.twitter.com/vLVkSali2T",
+					"expanded_url": "https://twitter.com/sekaist/status/1435587552426086413/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1130,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라디오헤드 kid a mnesia 앨범 관련해서 뜬 상품 다 이쁜데 특히 카세트북 탐난다 … kid a 앨범 조낸 많이 들어서 최소 씨디라도 사고싶네 \nhttps://t.co/Qpw7oCMFIg https://t.co/vLVkSali2T"
+	},
+	{
+		"created_at": "Wed Sep 08 05:03:44 +0000 2021",
+		"id": 1435468822199160800,
+		"id_str": "1435468875382939648",
+		"full_text": "#로그인벨지움 #유태오 감독\n\n제13회 DMZ국제다큐멘터리영화제에서 &lt;로그 인 벨지움&gt; 월드프리미어 상영을 앞둔 유태오 감독님이 소개하는 영화 이야기!\n\n&lt;로그 인 벨지움&gt; 상영일정:\n9/11(토) 11:00 @메가박스 백석 1관\n9/16(목) 14:00 @메가박스 백석 1관\n\n❤️‍🔥❤️‍🔥❤️‍🔥 https://t.co/24BIiwAj04",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로그인벨지움",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "유태오",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435468686693789700,
+					"id_str": "1435468686693789697",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435468686693789697/pu/img/XsefL-nKZd8tRavz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435468686693789697/pu/img/XsefL-nKZd8tRavz.jpg",
+					"url": "https://t.co/24BIiwAj04",
+					"display_url": "pic.twitter.com/24BIiwAj04",
+					"expanded_url": "https://twitter.com/at9film/status/1435468822199160835/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435468686693789700,
+					"id_str": "1435468686693789697",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435468686693789697/pu/img/XsefL-nKZd8tRavz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435468686693789697/pu/img/XsefL-nKZd8tRavz.jpg",
+					"url": "https://t.co/24BIiwAj04",
+					"display_url": "pic.twitter.com/24BIiwAj04",
+					"expanded_url": "https://twitter.com/at9film/status/1435468822199160835/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 124429,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435468686693789697/pu/vid/852x480/OdD9aBhgJ2KzGsXQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435468686693789697/pu/vid/478x270/4xZtf6VO2XodppM3.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1435468686693789697/pu/pl/2smdmVa9lBFhN-wx.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435468686693789697/pu/vid/638x360/YitMCDxvWE3-5T-B.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119295834,
+			"id_str": "119295834",
+			"name": "ATNINE FILM",
+			"screen_name": "at9film",
+			"location": "",
+			"description": "영화사 엣나인필름 공식 계정 ATNINE FILM CO., LTD. official twitter. https://t.co/Nf6uAQK1dH",
+			"url": "https://t.co/zoiAntFDx6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoiAntFDx6",
+							"expanded_url": "http://facebook.com/at9film",
+							"display_url": "facebook.com/at9film",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Nf6uAQK1dH",
+							"expanded_url": "http://www.facebook.com/at9film",
+							"display_url": "facebook.com/at9film",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11312,
+			"friends_count": 4440,
+			"listed_count": 141,
+			"created_at": "Wed Mar 03 06:36:15 +0000 2010",
+			"favourites_count": 3481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432893748732567554/qf_SAyCe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432893748732567554/qf_SAyCe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119295834/1630463467",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#로그인벨지움 #유태오 감독\n\n제13회 DMZ국제다큐멘터리영화제에서 &lt;로그 인 벨지움&gt; 월드프리미어 상영을 앞둔 유태오 감독님이 소개하는 영화 이야기!\n\n&lt;로그 인 벨지움&gt; 상영일정:\n9/11(토) 11:00 @메가박스 백석 1관\n9/16(목) 14:00 @메가박스 백석 1관\n\n❤️‍🔥❤️‍🔥❤️‍🔥 https://t.co/24BIiwAj04"
+	},
+	{
 		"created_at": "Tue Sep 07 13:21:27 +0000 2021",
 		"id": 1435231744626733000,
 		"id_str": "1435231744626733060",
