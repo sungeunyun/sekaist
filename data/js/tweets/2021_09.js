@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 09 14:32:39 +0000 2021",
+		"id": 1435943097645428700,
+		"id_str": "1435974436813881350",
+		"full_text": "꺅!!! 인스타에 조금 큰 맘 먹고 이낙연 지지글 올렸는데, 후보님이 댓글 달아주심!!! 으어 나 성덕된건가ㅠㅠ 내가 뭐라고… sns에 지지글 하나 쓴게 이렇게 응원받을 일인가싶고..(트위터엔 맨날 정치글도배중인데) 엉엉 후보님 힘내세요!! https://t.co/hIqJ6Y3LNr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435943088292184000,
+					"id_str": "1435943088292184068",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1-oX9VQAQmwS_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1-oX9VQAQmwS_.jpg",
+					"url": "https://t.co/hIqJ6Y3LNr",
+					"display_url": "pic.twitter.com/hIqJ6Y3LNr",
+					"expanded_url": "https://twitter.com/uriyuri/status/1435943097645428743/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1130,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 662,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 375,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435943088292184000,
+					"id_str": "1435943088292184068",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1-oX9VQAQmwS_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1-oX9VQAQmwS_.jpg",
+					"url": "https://t.co/hIqJ6Y3LNr",
+					"display_url": "pic.twitter.com/hIqJ6Y3LNr",
+					"expanded_url": "https://twitter.com/uriyuri/status/1435943097645428743/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1130,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 662,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 375,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435943088292200400,
+					"id_str": "1435943088292200457",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1-oX9VgAkJBt6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1-oX9VgAkJBt6.jpg",
+					"url": "https://t.co/hIqJ6Y3LNr",
+					"display_url": "pic.twitter.com/hIqJ6Y3LNr",
+					"expanded_url": "https://twitter.com/uriyuri/status/1435943097645428743/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 401,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 708,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1983,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55275357,
+			"id_str": "55275357",
+			"name": "Yuri",
+			"screen_name": "uriyuri",
+			"location": "busan,korea",
+			"description": "털짐승마니아/ 촌스런 그림쟁이/ Daum 만화속세상에서 뽀짜툰 연재중/ 뽀또,짜구,쪼꼬+ 포비,봉구,꽁지 엄마",
+			"url": "https://t.co/jezRDxF5Xm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jezRDxF5Xm",
+							"expanded_url": "http://uriyuri.com",
+							"display_url": "uriyuri.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12633,
+			"friends_count": 167,
+			"listed_count": 65,
+			"created_at": "Thu Jul 09 15:59:41 +0000 2009",
+			"favourites_count": 1111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187669570049331200/DhnB3VmZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187669570049331200/DhnB3VmZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/55275357/1398221290",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 949,
+		"favorite_count": 1497,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "꺅!!! 인스타에 조금 큰 맘 먹고 이낙연 지지글 올렸는데, 후보님이 댓글 달아주심!!! 으어 나 성덕된건가ㅠㅠ 내가 뭐라고… sns에 지지글 하나 쓴게 이렇게 응원받을 일인가싶고..(트위터엔 맨날 정치글도배중인데) 엉엉 후보님 힘내세요!! https://t.co/hIqJ6Y3LNr"
+	},
+	{
 		"created_at": "Wed Sep 08 12:55:19 +0000 2021",
 		"id": 1435587552426086400,
 		"id_str": "1435587552426086413",
@@ -284,7 +495,7 @@ Grailbird.data.tweets_2021_09 =
 		"created_at": "Wed Sep 08 05:03:44 +0000 2021",
 		"id": 1435468822199160800,
 		"id_str": "1435468875382939648",
-		"full_text": "#로그인벨지움 #유태오 감독\n\n제13회 DMZ국제다큐멘터리영화제에서 &lt;로그 인 벨지움&gt; 월드프리미어 상영을 앞둔 유태오 감독님이 소개하는 영화 이야기!\n\n&lt;로그 인 벨지움&gt; 상영일정:\n9/11(토) 11:00 @메가박스 백석 1관\n9/16(목) 14:00 @메가박스 백석 1관\n\n❤️‍🔥❤️‍🔥❤️‍🔥 https://t.co/24BIiwAj04",
+		"full_text": "#로그인벨지움 #유태오 감독\n\n제13회 DMZ국제다큐멘터리영화제에서 &lt;로그 인 벨지움&gt; 월드프리미어 상영을 앞둔 유태오 감독님이 소개하는 영화 이야기!\n\n&lt;로그 인 벨지움&gt; 상영일정:\n9/11(토) 11:00 @메가박스 백석 1관\n9/16(목) 14:00 @메가박스 백석 1관\n\n❤️🔥❤️🔥❤️🔥 https://t.co/24BIiwAj04",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -509,7 +720,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#로그인벨지움 #유태오 감독\n\n제13회 DMZ국제다큐멘터리영화제에서 &lt;로그 인 벨지움&gt; 월드프리미어 상영을 앞둔 유태오 감독님이 소개하는 영화 이야기!\n\n&lt;로그 인 벨지움&gt; 상영일정:\n9/11(토) 11:00 @메가박스 백석 1관\n9/16(목) 14:00 @메가박스 백석 1관\n\n❤️‍🔥❤️‍🔥❤️‍🔥 https://t.co/24BIiwAj04"
+		"text": "#로그인벨지움 #유태오 감독\n\n제13회 DMZ국제다큐멘터리영화제에서 &lt;로그 인 벨지움&gt; 월드프리미어 상영을 앞둔 유태오 감독님이 소개하는 영화 이야기!\n\n&lt;로그 인 벨지움&gt; 상영일정:\n9/11(토) 11:00 @메가박스 백석 1관\n9/16(목) 14:00 @메가박스 백석 1관\n\n❤️🔥❤️🔥❤️🔥 https://t.co/24BIiwAj04"
 	},
 	{
 		"created_at": "Tue Sep 07 13:21:27 +0000 2021",
