@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 00:00:21 +0000 2021",
+		"id": 1437204382693527600,
+		"id_str": "1437204468827787269",
+		"full_text": "✨제26회 부산국제영화제 공식 포스터 전격 공개✨\n\n여러분….! 📢 드디어! 기다리고 기다리던 제26회 부산국제영화제 공식 포스터가 공개되었습니다!🎊 \n다채로운 색의 모시천을 겹쳐 색을 변주한 이번 공식 포스터는 세계 영화를 선보이는 ‘축제의 장’이 된 ‘영화의 도시’ 부산을 나타냈습니다.🌊 https://t.co/q8vCQmECWl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436332715540828200,
+					"id_str": "1436332715540828160",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/E-7g_qkVUAAOhaa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-7g_qkVUAAOhaa.jpg",
+					"url": "https://t.co/q8vCQmECWl",
+					"display_url": "pic.twitter.com/q8vCQmECWl",
+					"expanded_url": "https://twitter.com/busanfilmfest/status/1437204382693527552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436332715540828200,
+					"id_str": "1436332715540828160",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/E-7g_qkVUAAOhaa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-7g_qkVUAAOhaa.jpg",
+					"url": "https://t.co/q8vCQmECWl",
+					"display_url": "pic.twitter.com/q8vCQmECWl",
+					"expanded_url": "https://twitter.com/busanfilmfest/status/1437204382693527552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 166802176,
+			"id_str": "166802176",
+			"name": "부산국제영화제 BIFF",
+			"screen_name": "busanfilmfest",
+			"location": "Busan, Korea",
+			"description": "#부산국제영화제 공식 트위터입니다                                                                 \nI Busan International Film Festival Official Twitter I",
+			"url": "https://t.co/eFtP1vA0uv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eFtP1vA0uv",
+							"expanded_url": "http://www.biff.kr",
+							"display_url": "biff.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148155,
+			"friends_count": 107,
+			"listed_count": 700,
+			"created_at": "Thu Jul 15 01:24:56 +0000 2010",
+			"favourites_count": 748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1293095168153812994/BR4bXqfO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293095168153812994/BR4bXqfO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/166802176/1610694530",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨제26회 부산국제영화제 공식 포스터 전격 공개✨\n\n여러분….! 📢 드디어! 기다리고 기다리던 제26회 부산국제영화제 공식 포스터가 공개되었습니다!🎊 \n다채로운 색의 모시천을 겹쳐 색을 변주한 이번 공식 포스터는 세계 영화를 선보이는 ‘축제의 장’이 된 ‘영화의 도시’ 부산을 나타냈습니다.🌊 https://t.co/q8vCQmECWl"
+	},
+	{
+		"created_at": "Sun Sep 12 23:32:52 +0000 2021",
+		"id": 1437197552357576700,
+		"id_str": "1437197552357576706",
+		"full_text": "방통위에 신고할 수 있는지 알아봐야겠다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1437196296389988400,
+		"in_reply_to_status_id_str": "1437196296389988360",
+		"in_reply_to_user_id": 133336572,
+		"in_reply_to_user_id_str": "133336572",
+		"in_reply_to_screen_name": "sekaist",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 629,
+			"friends_count": 1132,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "방통위에 신고할 수 있는지 알아봐야겠다"
+	},
+	{
 		"created_at": "Sat Sep 11 13:06:36 +0000 2021",
 		"id": 1436677558418870300,
 		"id_str": "1436677558418870275",
