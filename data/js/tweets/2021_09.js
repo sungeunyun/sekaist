@@ -1,6 +1,579 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 23:40:01 +0000 2021",
+		"id": 1437561736735772700,
+		"id_str": "1437561736735772674",
+		"full_text": "백예린 그럴때마다 가사 수정했구나 ㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 629,
+			"friends_count": 1132,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "백예린 그럴때마다 가사 수정했구나 ㅋㅋ"
+	},
+	{
+		"created_at": "Mon Sep 13 11:15:47 +0000 2021",
+		"id": 1437342665591296000,
+		"id_str": "1437374446436634628",
+		"full_text": "싱글 ‘Dive Baby, Dive’가 발매되었습니다. 링크를 통해 뮤직비디오 풀버전을 확인해보세요!\n\nhttps://t.co/U69ejXnQVo\n\nNew Single ‘Dive Baby, Dive’ is now available on every streaming platform! Check the Music video through the link.\n\n#글렌체크 #GlenCheck\n#DiveBabyDive #EMA https://t.co/LDRUynS8AV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "글렌체크",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "GlenCheck",
+					"indices": [
+						205,
+						215
+					]
+				},
+				{
+					"text": "DiveBabyDive",
+					"indices": [
+						216,
+						229
+					]
+				},
+				{
+					"text": "EMA",
+					"indices": [
+						230,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U69ejXnQVo",
+					"expanded_url": "https://youtu.be/ylakJHYCp4I",
+					"display_url": "youtu.be/ylakJHYCp4I",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437341078357639200,
+					"id_str": "1437341078357639170",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1437341078357639170/pu/img/iy4dh_fuHETDBvi_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1437341078357639170/pu/img/iy4dh_fuHETDBvi_.jpg",
+					"url": "https://t.co/LDRUynS8AV",
+					"display_url": "pic.twitter.com/LDRUynS8AV",
+					"expanded_url": "https://twitter.com/bandglencheck/status/1437342665591296004/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437341078357639200,
+					"id_str": "1437341078357639170",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1437341078357639170/pu/img/iy4dh_fuHETDBvi_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1437341078357639170/pu/img/iy4dh_fuHETDBvi_.jpg",
+					"url": "https://t.co/LDRUynS8AV",
+					"display_url": "pic.twitter.com/LDRUynS8AV",
+					"expanded_url": "https://twitter.com/bandglencheck/status/1437342665591296004/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29863,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1437341078357639170/pu/vid/1280x720/4txe03xw0_lNGOIO.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1437341078357639170/pu/pl/CBpTgTLxT-sv8rwj.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1437341078357639170/pu/vid/640x360/Ri6xM_34ljSARmVH.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1437341078357639170/pu/vid/480x270/nJUuVY0Sa72_2f3d.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 258798345,
+			"id_str": "258798345",
+			"name": "Glen Check",
+			"screen_name": "bandglencheck",
+			"location": "Seoul, KR",
+			"description": "Glen Check Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4986,
+			"friends_count": 0,
+			"listed_count": 105,
+			"created_at": "Mon Feb 28 14:36:33 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1433352828618043395/HU3cgWIp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1433352828618043395/HU3cgWIp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/258798345/1631004834",
+			"profile_link_color": "A23AAB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DCF5E3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "싱글 ‘Dive Baby, Dive’가 발매되었습니다. 링크를 통해 뮤직비디오 풀버전을 확인해보세요!\n\nhttps://t.co/U69ejXnQVo\n\nNew Single ‘Dive Baby, Dive’ is now available on every streaming platform! Check the Music video through the link.\n\n#글렌체크 #GlenCheck\n#DiveBabyDive #EMA https://t.co/LDRUynS8AV"
+	},
+	{
+		"created_at": "Mon Sep 13 11:14:23 +0000 2021",
+		"id": 1437374091275563000,
+		"id_str": "1437374091275563009",
+		"full_text": "동네사람들 글렌체크 신곡 나왔음다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 629,
+			"friends_count": 1132,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "동네사람들 글렌체크 신곡 나왔음다"
+	},
+	{
+		"created_at": "Mon Sep 13 06:47:37 +0000 2021",
+		"id": 1437298203137773600,
+		"id_str": "1437306959145811969",
+		"full_text": "“인생은 코딩 같아\n변수 하나로 모든 게 뒤집혀”\n\n남궁선 감독 X [괴물] 최성은 주연\n&lt;십개월의 미래&gt; 1차 포스터 대공개!👏 \n\n✅1차 포스터 공개 기념 이벤트 \n&lt;십개월의 미래&gt; 포스터를 RT 해주세요! 추첨을 통해 전용 예매권을 드립니다! (~9/26)\n\n&lt;십개월의 미래&gt; 10월 14일 대개봉 https://t.co/62hAsSCPM4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437298197412528000,
+					"id_str": "1437298197412528132",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JPGG0VQAQ6XmC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JPGG0VQAQ6XmC.jpg",
+					"url": "https://t.co/62hAsSCPM4",
+					"display_url": "pic.twitter.com/62hAsSCPM4",
+					"expanded_url": "https://twitter.com/greennaraemovie/status/1437298203137773572/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 839,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1432,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437298197412528000,
+					"id_str": "1437298197412528132",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JPGG0VQAQ6XmC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JPGG0VQAQ6XmC.jpg",
+					"url": "https://t.co/62hAsSCPM4",
+					"display_url": "pic.twitter.com/62hAsSCPM4",
+					"expanded_url": "https://twitter.com/greennaraemovie/status/1437298203137773572/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 839,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1432,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 630900025,
+			"id_str": "630900025",
+			"name": "그린나래미디어",
+			"screen_name": "greennaraemovie",
+			"location": "",
+			"description": "영화만 사랑하는 회사랑",
+			"url": "https://t.co/cmkF8YY0tq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cmkF8YY0tq",
+							"expanded_url": "https://Instagram.com/greennaraemedia",
+							"display_url": "Instagram.com/greennaraemedia",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6281,
+			"friends_count": 1882,
+			"listed_count": 0,
+			"created_at": "Mon Jul 09 08:00:13 +0000 2012",
+			"favourites_count": 2670,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "363535",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432901469284405254/mqaRP04n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432901469284405254/mqaRP04n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/630900025/1630992969",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "“인생은 코딩 같아\n변수 하나로 모든 게 뒤집혀”\n\n남궁선 감독 X [괴물] 최성은 주연\n&lt;십개월의 미래&gt; 1차 포스터 대공개!👏 \n\n✅1차 포스터 공개 기념 이벤트 \n&lt;십개월의 미래&gt; 포스터를 RT 해주세요! 추첨을 통해 전용 예매권을 드립니다! (~9/26)\n\n&lt;십개월의 미래&gt; 10월 14일 대개봉 https://t.co/62hAsSCPM4"
+	},
+	{
 		"created_at": "Mon Sep 13 00:00:21 +0000 2021",
 		"id": 1437204382693527600,
 		"id_str": "1437204468827787269",
