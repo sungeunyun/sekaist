@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 27 09:54:47 +0000 2021",
+		"id": 1442416336076820500,
+		"id_str": "1442427492040466433",
+		"full_text": "우리나라는 9.27.(월) 비엔나에서 개최된 국제원자력기구[IAEA] 이사회에서 만장일치로 차기 IAEA 이사회 의장국으로 선출되었습니다.\n\n자세히보기 &gt; https://t.co/hHlIfYWav0 https://t.co/C2MiOuOwUU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hHlIfYWav0",
+					"expanded_url": "https://vo.la/oiCFv",
+					"display_url": "vo.la/oiCFv",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1442415219620208600,
+					"id_str": "1442415219620208653",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FAR9AAAUYA0oRdA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAR9AAAUYA0oRdA.jpg",
+					"url": "https://t.co/C2MiOuOwUU",
+					"display_url": "pic.twitter.com/C2MiOuOwUU",
+					"expanded_url": "https://twitter.com/mofa_kr/status/1442416336076820481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1442415219620208600,
+					"id_str": "1442415219620208653",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FAR9AAAUYA0oRdA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAR9AAAUYA0oRdA.jpg",
+					"url": "https://t.co/C2MiOuOwUU",
+					"display_url": "pic.twitter.com/C2MiOuOwUU",
+					"expanded_url": "https://twitter.com/mofa_kr/status/1442416336076820481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157128221,
+			"id_str": "157128221",
+			"name": "대한민국 외교부 MOFA_KR",
+			"screen_name": "mofa_kr",
+			"location": "",
+			"description": "대한민국 외교부 \nMinistry of Foreign Affairs, Republic of Korea",
+			"url": "https://t.co/f7K7QhDW9G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/f7K7QhDW9G",
+							"expanded_url": "http://www.mofa.go.kr",
+							"display_url": "mofa.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204437,
+			"friends_count": 138,
+			"listed_count": 0,
+			"created_at": "Fri Jun 18 23:15:15 +0000 2010",
+			"favourites_count": 276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E0E0E0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956042861837012993/uMbjkpcr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956042861837012993/uMbjkpcr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157128221/1577409831",
+			"profile_link_color": "B06203",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCEBD3",
+			"profile_text_color": "757575",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 332,
+		"favorite_count": 347,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리나라는 9.27.(월) 비엔나에서 개최된 국제원자력기구[IAEA] 이사회에서 만장일치로 차기 IAEA 이사회 의장국으로 선출되었습니다.\n\n자세히보기 &gt; https://t.co/hHlIfYWav0 https://t.co/C2MiOuOwUU"
+	},
+	{
+		"created_at": "Mon Sep 27 08:53:19 +0000 2021",
+		"id": 1440716390558695400,
+		"id_str": "1442412022172303364",
+		"full_text": "\"나는 악인에게는 관심이 없다. 그들은 너무 뻔하다. 정말로 흥미로운, 이해할 수 없는 이들은 착한 자들이다.\" 10년도 더 전에 읽어 정확하지는 않지만 벤야멘타 하인학교에서 봤던 잊혀지지 않는 문장. https://t.co/9UrzIKsNxo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9UrzIKsNxo",
+					"expanded_url": "https://twitter.com/tdaysiktak/status/1440618862773297154",
+					"display_url": "twitter.com/tdaysiktak/sta…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3236976408,
+			"id_str": "3236976408",
+			"name": "낮잠",
+			"screen_name": "alinsky00",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64,
+			"friends_count": 184,
+			"listed_count": 0,
+			"created_at": "Fri Jun 05 14:23:58 +0000 2015",
+			"favourites_count": 1499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/622891554781310976/ytGpjRxd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/622891554781310976/ytGpjRxd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3236976408/1518949854",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1440618862773297200,
+		"quoted_status_id_str": "1440618862773297154",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9UrzIKsNxo",
+			"expanded": "https://twitter.com/tdaysiktak/status/1440618862773297154",
+			"display": "twitter.com/tdaysiktak/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 22 10:07:56 +0000 2021",
+			"id": 1440618862773297200,
+			"id_str": "1440618862773297154",
+			"full_text": "알고보면 욕심많고 이기적이고 뭐 그런 거 굳이 드라마로 안봐도 알지. 난 그런 장면들이 좋더라. 투모로우에서 자기가 얼어죽더라도 도서관에 보관된 장서는 절대로 태울 수 없다고 버티는 장면. 사람이 사람답기가 얼마나 힘든데 굳이 본성이 어떻고 하는 이야기가 이젠 더 뻔해보여.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1440618860231598000,
+			"in_reply_to_status_id_str": "1440618860231598088",
+			"in_reply_to_user_id": 202233530,
+			"in_reply_to_user_id_str": "202233530",
+			"in_reply_to_screen_name": "tdaysiktak",
+			"user": {
+				"id": 202233530,
+				"id_str": "202233530",
+				"name": "세상에 이게 무슨 일이람",
+				"screen_name": "tdaysiktak",
+				"location": "in ur heart",
+				"description": "지겹냐... 나도 지겹다...\n\n블락은 쓰라고 있는 기능입니다.\n체인블락 돌립니다. (우리 마주치지 말아요)\n맞팔아닌 비계는 블언블해요.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2354,
+				"friends_count": 744,
+				"listed_count": 13,
+				"created_at": "Wed Oct 13 15:57:21 +0000 2010",
+				"favourites_count": 7693,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 39711,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1442048042958397441/gMFQOxB1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442048042958397441/gMFQOxB1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/202233530/1474784984",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10483,
+			"favorite_count": 6111,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 10336,
+		"favorite_count": 5314,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"나는 악인에게는 관심이 없다. 그들은 너무 뻔하다. 정말로 흥미로운, 이해할 수 없는 이들은 착한 자들이다.\" 10년도 더 전에 읽어 정확하지는 않지만 벤야멘타 하인학교에서 봤던 잊혀지지 않는 문장. https://t.co/9UrzIKsNxo"
+	},
+	{
 		"created_at": "Sun Sep 26 09:33:35 +0000 2021",
 		"id": 1442059766776303600,
 		"id_str": "1442059766776303624",
