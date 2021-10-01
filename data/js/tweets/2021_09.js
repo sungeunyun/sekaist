@@ -1,6 +1,791 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 30 05:49:40 +0000 2021",
+		"id": 1443452967974178800,
+		"id_str": "1443452967974178819",
+		"full_text": "@caritas87 저 누가 떠오르는데... 뒷말생략",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "caritas87",
+					"name": "배부르주아🎗",
+					"id": 142993164,
+					"id_str": "142993164",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1443452412899967000,
+		"in_reply_to_status_id_str": "1443452412899966982",
+		"in_reply_to_user_id": 142993164,
+		"in_reply_to_user_id_str": "142993164",
+		"in_reply_to_screen_name": "caritas87",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1133,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@caritas87 저 누가 떠오르는데... 뒷말생략"
+	},
+	{
+		"created_at": "Thu Sep 30 05:33:24 +0000 2021",
+		"id": 1443448877181386800,
+		"id_str": "1443448877181386759",
+		"full_text": "티켓팅 도와주신 분들 감사합니다 티켓팅으로 보답하겠뜹니다 https://t.co/Jt3Gy5YeST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1443448853605204000,
+					"id_str": "1443448853605203970",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FAgpFaqVQAIK3xj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FAgpFaqVQAIK3xj.jpg",
+					"url": "https://t.co/Jt3Gy5YeST",
+					"display_url": "pic.twitter.com/Jt3Gy5YeST",
+					"expanded_url": "https://twitter.com/sekaist/status/1443448877181386759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 512,
+							"h": 324,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 324,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 324,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443448853605204000,
+					"id_str": "1443448853605203970",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FAgpFaqVQAIK3xj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FAgpFaqVQAIK3xj.jpg",
+					"url": "https://t.co/Jt3Gy5YeST",
+					"display_url": "pic.twitter.com/Jt3Gy5YeST",
+					"expanded_url": "https://twitter.com/sekaist/status/1443448877181386759/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 512,
+							"h": 324,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 324,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 324,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							128,
+							81
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FAgpFaqVQAIK3xj.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1133,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "티켓팅 도와주신 분들 감사합니다 티켓팅으로 보답하겠뜹니다 https://t.co/Jt3Gy5YeST"
+	},
+	{
+		"created_at": "Thu Sep 30 03:20:52 +0000 2021",
+		"id": 1443415520628281300,
+		"id_str": "1443415520628281345",
+		"full_text": "@stayHeon 저두요.......... 하.......",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stayHeon",
+					"name": "DayAn",
+					"id": 992295677798465500,
+					"id_str": "992295677798465536",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1443415463287951400,
+		"in_reply_to_status_id_str": "1443415463287951362",
+		"in_reply_to_user_id": 992295677798465500,
+		"in_reply_to_user_id_str": "992295677798465536",
+		"in_reply_to_screen_name": "stayHeon",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1133,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@stayHeon 저두요.......... 하......."
+	},
+	{
+		"created_at": "Thu Sep 30 03:12:37 +0000 2021",
+		"id": 1443410764971184000,
+		"id_str": "1443413447236984836",
+		"full_text": "🎥 TRAILERㅣ2021 서울국제프라이드영화제 개막작 \n\n&lt;안녕, 내일 또 만나&gt; SO LONG, SEE YOU TOMORROW\nDirectorㅣ백승빈 BAEK Seung-bin\n\nhttps://t.co/uSfuCmDTYN\n_\n2021 서울국제프라이드영화제\n11.04(목) – 11.10(수) CGV명동역 씨네라이브러리\n_\n#서울국제프라이드영화제 #SIPFF #SIPFF2021",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울국제프라이드영화제",
+					"indices": [
+						188,
+						200
+					]
+				},
+				{
+					"text": "SIPFF",
+					"indices": [
+						201,
+						207
+					]
+				},
+				{
+					"text": "SIPFF2021",
+					"indices": [
+						208,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uSfuCmDTYN",
+					"expanded_url": "https://youtu.be/UwGgfUmBhIc",
+					"display_url": "youtu.be/UwGgfUmBhIc",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147946518,
+			"id_str": "147946518",
+			"name": "서울국제프라이드영화제",
+			"screen_name": "SIPFF_Official",
+			"location": "",
+			"description": "2021 서울국제프라이드영화제ㅣ11.04(목) - 11.10(수)ㅣCGV명동역 씨네라이브러리ㅣ문의: pr@sipff.kr",
+			"url": "https://t.co/bhUISZa8rA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bhUISZa8rA",
+							"expanded_url": "http://sipff.kr",
+							"display_url": "sipff.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4872,
+			"friends_count": 1597,
+			"listed_count": 112,
+			"created_at": "Tue May 25 13:02:12 +0000 2010",
+			"favourites_count": 26,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308603498657849344/G3fiuZHT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308603498657849344/G3fiuZHT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147946518/1632991453",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎥 TRAILERㅣ2021 서울국제프라이드영화제 개막작 \n\n&lt;안녕, 내일 또 만나&gt; SO LONG, SEE YOU TOMORROW\nDirectorㅣ백승빈 BAEK Seung-bin\n\nhttps://t.co/uSfuCmDTYN\n_\n2021 서울국제프라이드영화제\n11.04(목) – 11.10(수) CGV명동역 씨네라이브러리\n_\n#서울국제프라이드영화제 #SIPFF #SIPFF2021"
+	},
+	{
+		"created_at": "Thu Sep 30 01:58:59 +0000 2021",
+		"id": 1443394062724202500,
+		"id_str": "1443394914960625668",
+		"full_text": "로피시엘 2021년 하반기 유태오 화보\n📎https://t.co/5HEhNRXZbJ https://t.co/Bnw9LtEdDO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5HEhNRXZbJ",
+					"expanded_url": "https://n.news.naver.com/entertain/article/117/0003540751?lfrom=twitter",
+					"display_url": "n.news.naver.com/entertain/arti…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1443394050699120600,
+					"id_str": "1443394050699120643",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FAf3Pd7VUAMqAxo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAf3Pd7VUAMqAxo.jpg",
+					"url": "https://t.co/Bnw9LtEdDO",
+					"display_url": "pic.twitter.com/Bnw9LtEdDO",
+					"expanded_url": "https://twitter.com/tmiofteoyoo/status/1443394062724202499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 558,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 558,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 558,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443394050699120600,
+					"id_str": "1443394050699120643",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FAf3Pd7VUAMqAxo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAf3Pd7VUAMqAxo.jpg",
+					"url": "https://t.co/Bnw9LtEdDO",
+					"display_url": "pic.twitter.com/Bnw9LtEdDO",
+					"expanded_url": "https://twitter.com/tmiofteoyoo/status/1443394062724202499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 558,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 558,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 558,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1443394053458989000,
+					"id_str": "1443394053458989056",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FAf3PoNVkAAn21j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAf3PoNVkAAn21j.jpg",
+					"url": "https://t.co/Bnw9LtEdDO",
+					"display_url": "pic.twitter.com/Bnw9LtEdDO",
+					"expanded_url": "https://twitter.com/tmiofteoyoo/status/1443394062724202499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 558,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 558,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 558,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1443394057099616300,
+					"id_str": "1443394057099616261",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FAf3P1xVIAUKmRI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAf3P1xVIAUKmRI.jpg",
+					"url": "https://t.co/Bnw9LtEdDO",
+					"display_url": "pic.twitter.com/Bnw9LtEdDO",
+					"expanded_url": "https://twitter.com/tmiofteoyoo/status/1443394062724202499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 430,
+							"h": 586,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 586,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 586,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1443394060727685000,
+					"id_str": "1443394060727685122",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/FAf3QDSVEAIPkWu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAf3QDSVEAIPkWu.jpg",
+					"url": "https://t.co/Bnw9LtEdDO",
+					"display_url": "pic.twitter.com/Bnw9LtEdDO",
+					"expanded_url": "https://twitter.com/tmiofteoyoo/status/1443394062724202499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 430,
+							"h": 287,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 430,
+							"h": 287,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 287,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1293160470006780000,
+			"id_str": "1293160470006779905",
+			"name": "𝐭𝐦𝐢 𝐨𝐟 유태오",
+			"screen_name": "tmiofteoyoo",
+			"location": "중복 흐린눈 plz ",
+			"description": "아~하세요 유태오 덕질 떠먹여드립니다🐢",
+			"url": "https://t.co/fgzqcfj74e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fgzqcfj74e",
+							"expanded_url": "https://www.instagram.com/tmiofteoyoo/",
+							"display_url": "instagram.com/tmiofteoyoo/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5517,
+			"friends_count": 1,
+			"listed_count": 8,
+			"created_at": "Tue Aug 11 12:21:09 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383807483152457731/uaSYRRW2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383807483152457731/uaSYRRW2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1293160470006779905/1625971257",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "로피시엘 2021년 하반기 유태오 화보\n📎https://t.co/5HEhNRXZbJ https://t.co/Bnw9LtEdDO"
+	},
+	{
 		"created_at": "Wed Sep 29 16:08:42 +0000 2021",
 		"id": 1443246365224571000,
 		"id_str": "1443246365224570887",
