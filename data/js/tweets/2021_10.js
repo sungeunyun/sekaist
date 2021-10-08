@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 07 14:18:56 +0000 2021",
+		"id": 1446055879275532300,
+		"id_str": "1446117845478166544",
+		"full_text": "진짜개웃기다 ㅜ https://t.co/YiNHlmDlQ5 https://t.co/AznR3DXfzU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YiNHlmDlQ5",
+					"expanded_url": "https://twitter.com/mona5891/status/1446007444799311873",
+					"display_url": "twitter.com/mona5891/statu…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1446055871750959000,
+					"id_str": "1446055871750959108",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFsJ2EVcAQrNgR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFsJ2EVcAQrNgR.jpg",
+					"url": "https://t.co/AznR3DXfzU",
+					"display_url": "pic.twitter.com/AznR3DXfzU",
+					"expanded_url": "https://twitter.com/haerangsafilm/status/1446055879275532290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 622,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 714,
+							"h": 653,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 714,
+							"h": 653,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446055871750959000,
+					"id_str": "1446055871750959108",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFsJ2EVcAQrNgR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFsJ2EVcAQrNgR.jpg",
+					"url": "https://t.co/AznR3DXfzU",
+					"display_url": "pic.twitter.com/AznR3DXfzU",
+					"expanded_url": "https://twitter.com/haerangsafilm/status/1446055879275532290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 622,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 714,
+							"h": 653,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 714,
+							"h": 653,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1441410684802068500,
+			"id_str": "1441410684802068482",
+			"name": "오미자.",
+			"screen_name": "haerangsafilm",
+			"location": "해랑사",
+			"description": "🙋🏻🏓 다큐멘터리 #성덕 #Fanatic 을 만들었습니다. ooh.mov@gmail.com",
+			"url": "https://t.co/3f7Jl8mazN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3f7Jl8mazN",
+							"expanded_url": "http://instagram.com/haerangsafilm",
+							"display_url": "instagram.com/haerangsafilm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322,
+			"friends_count": 67,
+			"listed_count": 0,
+			"created_at": "Fri Sep 24 14:34:37 +0000 2021",
+			"favourites_count": 126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1443995014581813259/HXCMb7Bd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443995014581813259/HXCMb7Bd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1441410684802068482/1632494253",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1446007444799312000,
+		"quoted_status_id_str": "1446007444799311873",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YiNHlmDlQ5",
+			"expanded": "https://twitter.com/mona5891/status/1446007444799311873",
+			"display": "twitter.com/mona5891/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 07 07:00:15 +0000 2021",
+			"id": 1446007444799312000,
+			"id_str": "1446007444799311873",
+			"full_text": "@MianSasilGuraim 누가 벌떡 일어나서 화내고 무대 앞에 나가서 배우분한테 머라고 하고?? 진행하던 ㅈㅎㅅ 프로그래머가 자봉분들 저 분 안내 좀.. 하는데 저는 제 발로 나갈 겁니다 하고 나가셨다는데요 저도 그 분이 화나신 포인트나 전후사정은 잘 알지 X",
+			"truncated": false,
+			"display_text_range": [
+				17,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MianSasilGuraim",
+						"name": "무부제박사",
+						"id": 1417897921475879000,
+						"id_str": "1417897921475878917",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1446006493476655000,
+			"in_reply_to_status_id_str": "1446006493476655104",
+			"in_reply_to_user_id": 1417897921475879000,
+			"in_reply_to_user_id_str": "1417897921475878917",
+			"in_reply_to_screen_name": "MianSasilGuraim",
+			"user": {
+				"id": 4224623660,
+				"id_str": "4224623660",
+				"name": "mona",
+				"screen_name": "mona5891",
+				"location": "Sans toit ni loi",
+				"description": "🎬😽🌈😷 영화잉여 겸 고양이덕후 @godardthecat",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2801,
+				"friends_count": 433,
+				"listed_count": 14,
+				"created_at": "Fri Nov 13 15:08:39 +0000 2015",
+				"favourites_count": 126055,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 159961,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1342509227013599232/5W49LPXA_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1342509227013599232/5W49LPXA_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4224623660/1553857964",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 688,
+			"favorite_count": 145,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2736,
+		"favorite_count": 556,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "진짜개웃기다 ㅜ https://t.co/YiNHlmDlQ5 https://t.co/AznR3DXfzU"
+	},
+	{
+		"created_at": "Thu Oct 07 11:42:51 +0000 2021",
+		"id": 1446078566953717800,
+		"id_str": "1446078566953717763",
+		"full_text": "온라인 지비하는데 소리가 안나와서 조치하는 동안 감독님이 고양이 자랑함🐱",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1134,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "온라인 지비하는데 소리가 안나와서 조치하는 동안 감독님이 고양이 자랑함🐱"
+	},
+	{
+		"created_at": "Thu Oct 07 07:33:56 +0000 2021",
+		"id": 1446015923626774500,
+		"id_str": "1446015923626774529",
+		"full_text": "부산영화제 3년만에 GV에서 질문을 대면으로 받는다고. 오픈채팅방의 지옥에서 벗어났음 코로나 이전의 일상이 디게 낯설다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1134,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "부산영화제 3년만에 GV에서 질문을 대면으로 받는다고. 오픈채팅방의 지옥에서 벗어났음 코로나 이전의 일상이 디게 낯설다"
+	},
+	{
 		"created_at": "Mon Oct 04 02:57:38 +0000 2021",
 		"id": 1444706300571521000,
 		"id_str": "1444859227378307076",
