@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 10 23:26:41 +0000 2021",
+		"id": 1447340005018390500,
+		"id_str": "1447342854758567936",
+		"full_text": "배부르주아의 구스타 10년 덕질 회고가 궁금하신 분 영노자를 들으새오↙️ 이 기회를 빌어 10덕후의 원작자 @sekaist 님께 감사를 전해봅니다 😂 https://t.co/M3F6aVTipz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sekaist",
+					"name": "캥거루",
+					"id": 133336572,
+					"id_str": "133336572",
+					"indices": [
+						60,
+						68
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447339997015593000,
+					"id_str": "1447339997015592963",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FBX8DxdUUAMRUts.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBX8DxdUUAMRUts.jpg",
+					"url": "https://t.co/M3F6aVTipz",
+					"display_url": "pic.twitter.com/M3F6aVTipz",
+					"expanded_url": "https://twitter.com/caritas87/status/1447340005018390528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447339997015593000,
+					"id_str": "1447339997015592963",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FBX8DxdUUAMRUts.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBX8DxdUUAMRUts.jpg",
+					"url": "https://t.co/M3F6aVTipz",
+					"display_url": "pic.twitter.com/M3F6aVTipz",
+					"expanded_url": "https://twitter.com/caritas87/status/1447340005018390528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447339997023981600,
+					"id_str": "1447339997023981570",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FBX8DxfUUAI6VIQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBX8DxfUUAI6VIQ.jpg",
+					"url": "https://t.co/M3F6aVTipz",
+					"display_url": "pic.twitter.com/M3F6aVTipz",
+					"expanded_url": "https://twitter.com/caritas87/status/1447340005018390528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 624,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 624,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 142993164,
+			"id_str": "142993164",
+			"name": "배부르주아🎗",
+			"screen_name": "caritas87",
+			"location": "대한민국 서울",
+			"description": "귀여움수집가 🐧🎬 롤링페이퍼 작성하기 📝👇🏼",
+			"url": "https://t.co/Y4O6XbeQCN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y4O6XbeQCN",
+							"expanded_url": "https://rollingpaper.site/sender/main?name=%EB%B0%B0%EB%B6%80%EB%A5%B4%EC%A3%BC%EC%95%84&num=1129",
+							"display_url": "rollingpaper.site/sender/main?na…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 491,
+			"friends_count": 224,
+			"listed_count": 4,
+			"created_at": "Wed May 12 08:41:22 +0000 2010",
+			"favourites_count": 6925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1379282234490806272/PpaHqHoK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379282234490806272/PpaHqHoK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/142993164/1588089763",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "배부르주아의 구스타 10년 덕질 회고가 궁금하신 분 영노자를 들으새오↙️ 이 기회를 빌어 10덕후의 원작자 @sekaist 님께 감사를 전해봅니다 😂 https://t.co/M3F6aVTipz"
+	},
+	{
 		"created_at": "Thu Oct 07 14:18:56 +0000 2021",
 		"id": 1446055879275532300,
 		"id_str": "1446117845478166544",
