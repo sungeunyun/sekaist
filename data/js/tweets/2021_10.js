@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 11 08:43:32 +0000 2021",
+		"id": 1447450432507318300,
+		"id_str": "1447482992285216768",
+		"full_text": "옆자리 앉은 사람 되게 구교환씨 닮았네.. 웃음소리도 엄청 닮았네.. 했는데 진짜 본인이었던 건에 대하여.. https://t.co/1OhTpj21Or",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447450427037917200,
+					"id_str": "1447450427037917187",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FBZgfpWVIAMJXNq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBZgfpWVIAMJXNq.jpg",
+					"url": "https://t.co/1OhTpj21Or",
+					"display_url": "pic.twitter.com/1OhTpj21Or",
+					"expanded_url": "https://twitter.com/zzinpro/status/1447450432507318272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1170,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1170,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447450427037917200,
+					"id_str": "1447450427037917187",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FBZgfpWVIAMJXNq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBZgfpWVIAMJXNq.jpg",
+					"url": "https://t.co/1OhTpj21Or",
+					"display_url": "pic.twitter.com/1OhTpj21Or",
+					"expanded_url": "https://twitter.com/zzinpro/status/1447450432507318272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1170,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1170,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1085318436186542100,
+			"id_str": "1085318436186542080",
+			"name": "ZZIN",
+			"screen_name": "zzinpro",
+			"location": "오타쿠는징그러",
+			"description": "기뮨석과 2x9와 … 김댐0.. 그렇게됐다",
+			"url": "https://t.co/9QeFhPlVdP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9QeFhPlVdP",
+							"expanded_url": "https://peing.net/ko/zzinpro",
+							"display_url": "peing.net/ko/zzinpro",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1940,
+			"friends_count": 234,
+			"listed_count": 6,
+			"created_at": "Tue Jan 15 23:30:54 +0000 2019",
+			"favourites_count": 5135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1375954813658140678/KgUqWOOk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1375954813658140678/KgUqWOOk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1085318436186542080/1611388792",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1915,
+		"favorite_count": 1610,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "옆자리 앉은 사람 되게 구교환씨 닮았네.. 웃음소리도 엄청 닮았네.. 했는데 진짜 본인이었던 건에 대하여.. https://t.co/1OhTpj21Or"
+	},
+	{
 		"created_at": "Sun Oct 10 23:26:41 +0000 2021",
 		"id": 1447340005018390500,
 		"id_str": "1447342854758567936",
