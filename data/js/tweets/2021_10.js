@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 14 07:16:20 +0000 2021",
+		"id": 1448545419802284000,
+		"id_str": "1448548210784423936",
+		"full_text": "씨네플레이에서 독점으로 진행한 #십개월의미래 최성은 배우 인터뷰는 링크에서 확인할 수 있습니다. https://t.co/xjr1WeO5j7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "십개월의미래",
+					"indices": [
+						17,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xjr1WeO5j7",
+					"expanded_url": "https://bit.ly/2XdXEFu",
+					"display_url": "bit.ly/2XdXEFu",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1448545417495384000,
+		"in_reply_to_status_id_str": "1448545417495384068",
+		"in_reply_to_user_id": 1279344994034151400,
+		"in_reply_to_user_id_str": "1279344994034151425",
+		"in_reply_to_screen_name": "cineplay_editor",
+		"user": {
+			"id": 1279344994034151400,
+			"id_str": "1279344994034151425",
+			"name": "씨네플레이 : cineplay",
+			"screen_name": "cineplay_editor",
+			"location": "Yeongdeungpo-gu",
+			"description": "🎬 네이버 영화판을 운영하는 씨네플레이입니다.",
+			"url": "https://t.co/uzkHMouxi9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uzkHMouxi9",
+							"expanded_url": "https://bit.ly/36Xe0DV",
+							"display_url": "bit.ly/36Xe0DV",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 871,
+			"friends_count": 471,
+			"listed_count": 9,
+			"created_at": "Sat Jul 04 09:23:31 +0000 2020",
+			"favourites_count": 1864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1287913841255301120/orppGK4X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1287913841255301120/orppGK4X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1279344994034151425/1620365178",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "씨네플레이에서 독점으로 진행한 #십개월의미래 최성은 배우 인터뷰는 링크에서 확인할 수 있습니다. https://t.co/xjr1WeO5j7"
+	},
+	{
+		"created_at": "Thu Oct 14 06:59:41 +0000 2021",
+		"id": 1448544019525484500,
+		"id_str": "1448544019525484544",
+		"full_text": "새해전야 갈말..... 아 요즘 모든게 귀찮",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 625,
+			"friends_count": 1133,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "새해전야 갈말..... 아 요즘 모든게 귀찮"
+	},
+	{
+		"created_at": "Thu Oct 14 05:05:49 +0000 2021",
+		"id": 1448515365139456000,
+		"id_str": "1448515365139456010",
+		"full_text": "블시 가기 너무 귀찮다........",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 625,
+			"friends_count": 1133,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "블시 가기 너무 귀찮다........"
+	},
+	{
+		"created_at": "Thu Oct 14 02:01:12 +0000 2021",
+		"id": 1448258821630005200,
+		"id_str": "1448468904905379842",
+		"full_text": "211013 poem_manse IGTV &lt;김새벽 황인찬의 시로 만난 세계&gt; #김새벽\n\n[EBSx한국문화예술위원회] 10. 김겨울과 함께하는 우리를 켠, 그리고 우리를 켤 글에 관하여\n\n📹 ➭ https://t.co/qYCA5t5ZS6\n📻 (full)  ➭ https://t.co/nzvFB86tVF https://t.co/3hC4jcoXK7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김새벽",
+					"indices": [
+						49,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qYCA5t5ZS6",
+					"expanded_url": "https://www.instagram.com/tv/CU9xi0bD2O0/?utm_medium=copy_link",
+					"display_url": "instagram.com/tv/CU9xi0bD2O0…",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/nzvFB86tVF",
+					"expanded_url": "https://5easy.ebs.co.kr/aujisik/detail/411986",
+					"display_url": "5easy.ebs.co.kr/aujisik/detail…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448258665639596000,
+					"id_str": "1448258665639596034",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448258665639596034/pu/img/WiuGZC3NkCoanKzv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448258665639596034/pu/img/WiuGZC3NkCoanKzv.jpg",
+					"url": "https://t.co/3hC4jcoXK7",
+					"display_url": "pic.twitter.com/3hC4jcoXK7",
+					"expanded_url": "https://twitter.com/saebyukarchive/status/1448258821630005250/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448258665639596000,
+					"id_str": "1448258665639596034",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448258665639596034/pu/img/WiuGZC3NkCoanKzv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448258665639596034/pu/img/WiuGZC3NkCoanKzv.jpg",
+					"url": "https://t.co/3hC4jcoXK7",
+					"display_url": "pic.twitter.com/3hC4jcoXK7",
+					"expanded_url": "https://twitter.com/saebyukarchive/status/1448258821630005250/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 124751,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448258665639596034/pu/pl/YDcfrGrww7kXivWN.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448258665639596034/pu/vid/1280x720/_qfoDE_McUNiW0ny.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448258665639596034/pu/vid/640x360/Kk5I4eZR8Kkd7uTg.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448258665639596034/pu/vid/480x270/BfiIlOrs4fRZc49f.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1448116461608841200,
+		"in_reply_to_status_id_str": "1448116461608841223",
+		"in_reply_to_user_id": 1312432696358961200,
+		"in_reply_to_user_id_str": "1312432696358961152",
+		"in_reply_to_screen_name": "saebyukarchive",
+		"user": {
+			"id": 1312432696358961200,
+			"id_str": "1312432696358961152",
+			"name": "김새벽 아카이브",
+			"screen_name": "saebyukarchive",
+			"location": "",
+			"description": "혜성비디오 둘째 딸",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Sat Oct 03 16:42:01 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312434115740758017/_DMWuXwR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312434115740758017/_DMWuXwR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1312432696358961152/1601746615",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "211013 poem_manse IGTV &lt;김새벽 황인찬의 시로 만난 세계&gt; #김새벽\n\n[EBSx한국문화예술위원회] 10. 김겨울과 함께하는 우리를 켠, 그리고 우리를 켤 글에 관하여\n\n📹 ➭ https://t.co/qYCA5t5ZS6\n📻 (full)  ➭ https://t.co/nzvFB86tVF https://t.co/3hC4jcoXK7"
+	},
+	{
+		"created_at": "Thu Oct 14 01:08:45 +0000 2021",
+		"id": 1448455705426419700,
+		"id_str": "1448455705426419713",
+		"full_text": "관헌악단 여러분 프라이드영화제 가셔야합니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 625,
+			"friends_count": 1133,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "관헌악단 여러분 프라이드영화제 가셔야합니다"
+	},
+	{
 		"created_at": "Wed Oct 13 08:08:49 +0000 2021",
 		"id": 1448197787149955000,
 		"id_str": "1448199029305667586",
