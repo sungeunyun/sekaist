@@ -1,6 +1,138 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 01:33:54 +0000 2021",
+		"id": 1450075392472060000,
+		"id_str": "1450998747647725569",
+		"full_text": "유태오x쿠첸과 함께 하는 팬카페 이벤트! 밥솥부터 배우님이 입었던 CF 착장까지💕 사진도 고르고 상품도 받아가세요! 🐢🐢\n✅ 본 이벤트는 팬카페에서 진행됩니다. 카페에서 참여해주세요! (링크 참고)\n✅ 이벤트 참여기간 : 10/20(수) 20:00~10/25(월)\n#유태오 #teoyoo\nhttps://t.co/CzmMInQT4O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유태오",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "teoyoo",
+					"indices": [
+						153,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CzmMInQT4O",
+					"expanded_url": "https://m.cafe.daum.net/teoyoo/m8R2/14?svc=cafeapp",
+					"display_url": "m.cafe.daum.net/teoyoo/m8R2/14…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1364590151377186800,
+			"id_str": "1364590151377186823",
+			"name": "𝐰𝐡𝐚𝐭𝐓𝐞𝐨𝐘𝐨𝐨𝐬𝐚𝐲𝐬",
+			"screen_name": "whatTeoYoosays",
+			"location": "",
+			"description": "민낯을 드러내기를 주저하지 않는 배우 유태오의 말을 따라갑니다. 트위터 글자수 제한으로 요약하여 게시됩니다. 오류 수정이나 제보는 멘션과 DM으로 부탁드립니다. 💜🐢💜 #유태오 #teoyoo #yooteo | instagram📸 https://t.co/kSiW6iVtyn",
+			"url": "https://t.co/FeS1sxzIrP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FeS1sxzIrP",
+							"expanded_url": "https://linktr.ee/whatTeoYoosays",
+							"display_url": "linktr.ee/whatTeoYoosays",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/kSiW6iVtyn",
+							"expanded_url": "https://url.kr/sd89pq",
+							"display_url": "url.kr/sd89pq",
+							"indices": [
+								128,
+								151
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 383,
+			"friends_count": 14,
+			"listed_count": 2,
+			"created_at": "Wed Feb 24 14:57:10 +0000 2021",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1442523567707492354/r2Pt_gfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442523567707492354/r2Pt_gfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1364590151377186823/1621475349",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유태오x쿠첸과 함께 하는 팬카페 이벤트! 밥솥부터 배우님이 입었던 CF 착장까지💕 사진도 고르고 상품도 받아가세요! 🐢🐢\n✅ 본 이벤트는 팬카페에서 진행됩니다. 카페에서 참여해주세요! (링크 참고)\n✅ 이벤트 참여기간 : 10/20(수) 20:00~10/25(월)\n#유태오 #teoyoo\nhttps://t.co/CzmMInQT4O"
+	},
+	{
 		"created_at": "Wed Oct 20 05:12:04 +0000 2021",
 		"id": 1450691265381556200,
 		"id_str": "1450691265381556227",
