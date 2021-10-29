@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 28 23:38:51 +0000 2021",
+		"id": 1453169619863163000,
+		"id_str": "1453868897862520836",
+		"full_text": "다양성 영화 예매율 압도적 1위🥇\n아담 드라이버 X 마리옹 꼬띠아르 주연\n&lt;아네트&gt; 전국 극장에서 절찬 상영 중🌙\n\nEVENT❕\n메인 예고편을 리트윗해주세요!\n추첨을 통해 스페셜 굿즈를 드립니다.\n(~11/7, 8일 개별 메시지 발표) https://t.co/z4G6tApu0R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1453169453051433000,
+					"id_str": "1453169453051432961",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1453169453051432961/pu/img/IWQo3HJIUrm8H7ju.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1453169453051432961/pu/img/IWQo3HJIUrm8H7ju.jpg",
+					"url": "https://t.co/z4G6tApu0R",
+					"display_url": "pic.twitter.com/z4G6tApu0R",
+					"expanded_url": "https://twitter.com/greennaraemovie/status/1453169619863162880/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1453169453051433000,
+					"id_str": "1453169453051432961",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1453169453051432961/pu/img/IWQo3HJIUrm8H7ju.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1453169453051432961/pu/img/IWQo3HJIUrm8H7ju.jpg",
+					"url": "https://t.co/z4G6tApu0R",
+					"display_url": "pic.twitter.com/z4G6tApu0R",
+					"expanded_url": "https://twitter.com/greennaraemovie/status/1453169619863162880/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 62458,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1453169453051432961/pu/pl/1DuPoTCloYyXN96D.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1453169453051432961/pu/vid/480x270/mvSwfYS2vV1m9C2w.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1453169453051432961/pu/vid/1280x720/wXh8HdvcbFiSKCaW.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1453169453051432961/pu/vid/640x360/KOmwAb3oUmBlm9Ea.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 630900025,
+			"id_str": "630900025",
+			"name": "그린나래미디어",
+			"screen_name": "greennaraemovie",
+			"location": "",
+			"description": "영화만 사랑하는 회사랑",
+			"url": "https://t.co/cmkF8YY0tq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cmkF8YY0tq",
+							"expanded_url": "https://Instagram.com/greennaraemedia",
+							"display_url": "Instagram.com/greennaraemedia",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6334,
+			"friends_count": 1874,
+			"listed_count": 31,
+			"created_at": "Mon Jul 09 08:00:13 +0000 2012",
+			"favourites_count": 2774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "363535",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432901469284405254/mqaRP04n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432901469284405254/mqaRP04n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/630900025/1635298857",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "다양성 영화 예매율 압도적 1위🥇\n아담 드라이버 X 마리옹 꼬띠아르 주연\n&lt;아네트&gt; 전국 극장에서 절찬 상영 중🌙\n\nEVENT❕\n메인 예고편을 리트윗해주세요!\n추첨을 통해 스페셜 굿즈를 드립니다.\n(~11/7, 8일 개별 메시지 발표) https://t.co/z4G6tApu0R"
+	},
+	{
 		"created_at": "Wed Oct 27 12:26:37 +0000 2021",
 		"id": 1453337337971155000,
 		"id_str": "1453337337971154951",
