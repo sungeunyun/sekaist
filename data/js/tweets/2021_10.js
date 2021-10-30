@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 29 12:49:29 +0000 2021",
+		"id": 1454062901505847300,
+		"id_str": "1454067866307743756",
+		"full_text": "아이키 떤배님과 헤이마마 대결 \n#펭수 #pengsoo @giantpengsoo88 https://t.co/ECibcPt4xP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펭수",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "pengsoo",
+					"indices": [
+						22,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "giantpengsoo88",
+					"name": "giantpengsoo",
+					"id": 1326834874129379300,
+					"id_str": "1326834874129379329",
+					"indices": [
+						31,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1454062797005164500,
+					"id_str": "1454062797005164544",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1454062797005164544/pu/img/ui-yq6bIoIr5khpU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1454062797005164544/pu/img/ui-yq6bIoIr5khpU.jpg",
+					"url": "https://t.co/ECibcPt4xP",
+					"display_url": "pic.twitter.com/ECibcPt4xP",
+					"expanded_url": "https://twitter.com/penginmee/status/1454062901505847297/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1454062797005164500,
+					"id_str": "1454062797005164544",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1454062797005164544/pu/img/ui-yq6bIoIr5khpU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1454062797005164544/pu/img/ui-yq6bIoIr5khpU.jpg",
+					"url": "https://t.co/ECibcPt4xP",
+					"display_url": "pic.twitter.com/ECibcPt4xP",
+					"expanded_url": "https://twitter.com/penginmee/status/1454062901505847297/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 36896,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1454062797005164544/pu/vid/480x270/Xbs6WpmgWq9f9cQO.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1454062797005164544/pu/vid/1280x720/gsub82g4zN8PdjYM.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1454062797005164544/pu/pl/MeneXQ1-dXViZu7V.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1454062797005164544/pu/vid/640x360/HIohnNIO2DkxNMeP.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1200007326066806800,
+			"id_str": "1200007326066806785",
+			"name": "펭긴미🐧",
+			"screen_name": "penginmee",
+			"location": "",
+			"description": "펭수의 귀여운 순간순간 간직하려고 만든 펭수앓이계정🐧💙 [fan account]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 477,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Thu Nov 28 11:03:46 +0000 2019",
+			"favourites_count": 147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266022306901446657/eSUFazSS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266022306901446657/eSUFazSS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1200007326066806785/1593003132",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이키 떤배님과 헤이마마 대결 \n#펭수 #pengsoo @giantpengsoo88 https://t.co/ECibcPt4xP"
+	},
+	{
+		"created_at": "Fri Oct 29 10:50:04 +0000 2021",
+		"id": 1454037816363520000,
+		"id_str": "1454037816363520004",
+		"full_text": "[라이브] 감감묻: 새해전야 (출처 : 충무로영화제-감독주간 | 네이버TV) https://t.co/m7iboNytjZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m7iboNytjZ",
+					"expanded_url": "http://naver.me/xRQAAidj",
+					"display_url": "naver.me/xRQAAidj",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 625,
+			"friends_count": 1132,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[라이브] 감감묻: 새해전야 (출처 : 충무로영화제-감독주간 | 네이버TV) https://t.co/m7iboNytjZ"
+	},
+	{
+		"created_at": "Fri Oct 29 04:35:59 +0000 2021",
+		"id": 1453891869440495600,
+		"id_str": "1453943673431883779",
+		"full_text": "2021 대한민국 대중문화예술상 대통령표창을 받았습니다. 생각지도 못한 큰 상을 받아 얼떨떨할 뿐입니다. 앞으로 할 일들에 대한 격려로 겸허히 받아들이고 더 진하게, 열심히, 즐겁게 음악하겠습니다. 진심으로 감사드립니다! 제 노래를 지켜주시는 우리 팬 여러분께 모든 영광을 돌립니다! ❤️🙏 https://t.co/hi7IMkWS05",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1453891855725494300,
+					"id_str": "1453891855725494272",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FC1C8JJaAAAMW8W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC1C8JJaAAAMW8W.jpg",
+					"url": "https://t.co/hi7IMkWS05",
+					"display_url": "pic.twitter.com/hi7IMkWS05",
+					"expanded_url": "https://twitter.com/jucklee/status/1453891869440495618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1794,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1453891855725494300,
+					"id_str": "1453891855725494272",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FC1C8JJaAAAMW8W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC1C8JJaAAAMW8W.jpg",
+					"url": "https://t.co/hi7IMkWS05",
+					"display_url": "pic.twitter.com/hi7IMkWS05",
+					"expanded_url": "https://twitter.com/jucklee/status/1453891869440495618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1794,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1453891855721332700,
+					"id_str": "1453891855721332736",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FC1C8JIagAArpeY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC1C8JIagAArpeY.jpg",
+					"url": "https://t.co/hi7IMkWS05",
+					"display_url": "pic.twitter.com/hi7IMkWS05",
+					"expanded_url": "https://twitter.com/jucklee/status/1453891869440495618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 51315123,
+			"id_str": "51315123",
+			"name": "이적",
+			"screen_name": "jucklee",
+			"location": "Seoul, Korea",
+			"description": "singer-songwriter. 6th Solo Album 《Trace》",
+			"url": "https://t.co/k4xObh8QLR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k4xObh8QLR",
+							"expanded_url": "http://leejuck.com",
+							"display_url": "leejuck.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1329615,
+			"friends_count": 234,
+			"listed_count": 6516,
+			"created_at": "Sat Jun 27 02:18:28 +0000 2009",
+			"favourites_count": 2596,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320900176207171585/IyNHFtD2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320900176207171585/IyNHFtD2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/51315123/1474466813",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 563,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021 대한민국 대중문화예술상 대통령표창을 받았습니다. 생각지도 못한 큰 상을 받아 얼떨떨할 뿐입니다. 앞으로 할 일들에 대한 격려로 겸허히 받아들이고 더 진하게, 열심히, 즐겁게 음악하겠습니다. 진심으로 감사드립니다! 제 노래를 지켜주시는 우리 팬 여러분께 모든 영광을 돌립니다! ❤️🙏 https://t.co/hi7IMkWS05"
+	},
+	{
 		"created_at": "Thu Oct 28 23:38:51 +0000 2021",
 		"id": 1453169619863163000,
 		"id_str": "1453868897862520836",
