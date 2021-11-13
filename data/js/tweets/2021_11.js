@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 10:24:24 +0000 2021",
+		"id": 1459104788050710500,
+		"id_str": "1459104788050710529",
+		"full_text": "멜랑꼴리아랑 이렇게 된 이상 청와대로 간다 봐야지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1130,
+			"listed_count": 13,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "멜랑꼴리아랑 이렇게 된 이상 청와대로 간다 봐야지"
+	},
+	{
+		"created_at": "Fri Nov 12 03:21:12 +0000 2021",
+		"id": 1458989302990327800,
+		"id_str": "1458998284698021890",
+		"full_text": "오늘 11월 12일 #이렇게된이상청와대로간다 이미 방영은 시작되었습니다 on 웨이브 wavve 플랫폼 @wavve_official https://t.co/ylxYqdgLKJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이렇게된이상청와대로간다",
+					"indices": [
+						11,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wavve_official",
+					"name": "wavve(웨이브)",
+					"id": 859926865972043800,
+					"id_str": "859926865972043776",
+					"indices": [
+						57,
+						72
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458989293855473700,
+					"id_str": "1458989293855473666",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9fCF9agAIT21w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9fCF9agAIT21w.jpg",
+					"url": "https://t.co/ylxYqdgLKJ",
+					"display_url": "pic.twitter.com/ylxYqdgLKJ",
+					"expanded_url": "https://twitter.com/SitcomUnion/status/1458989302990327810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458989293855473700,
+					"id_str": "1458989293855473666",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FD9fCF9agAIT21w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD9fCF9agAIT21w.jpg",
+					"url": "https://t.co/ylxYqdgLKJ",
+					"display_url": "pic.twitter.com/ylxYqdgLKJ",
+					"expanded_url": "https://twitter.com/SitcomUnion/status/1458989302990327810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 950978287508926500,
+			"id_str": "950978287508926464",
+			"name": "시트콤 협동조합 x 창작집단 송편",
+			"screen_name": "SitcomUnion",
+			"location": "",
+			"description": "직접 만들면 ‘시트콤 협동조합’, 의뢰받은 기획을 집필하면 ‘창작집단 송편’. 우리에겐 여러분이 유니콘🦄 아니아니 유니온🙋🏻‍♀️#그새끼를죽였어야했는데 #제발그남자만나지마요 #이렇게된이상청와대로간다",
+			"url": "https://t.co/0lFKvcgKI0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0lFKvcgKI0",
+							"expanded_url": "https://www.facebook.com/SitcomUnIon/",
+							"display_url": "facebook.com/SitcomUnIon/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723,
+			"friends_count": 15,
+			"listed_count": 5,
+			"created_at": "Wed Jan 10 06:31:06 +0000 2018",
+			"favourites_count": 41,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950980362406043649/xA8JIVlh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950980362406043649/xA8JIVlh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/950978287508926464/1635475827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 11월 12일 #이렇게된이상청와대로간다 이미 방영은 시작되었습니다 on 웨이브 wavve 플랫폼 @wavve_official https://t.co/ylxYqdgLKJ"
+	},
+	{
 		"created_at": "Wed Nov 10 03:06:12 +0000 2021",
 		"id": 1458269735099850800,
 		"id_str": "1458269735099850753",
