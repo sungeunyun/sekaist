@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 13 08:04:23 +0000 2021",
+		"id": 1459431588719206400,
+		"id_str": "1459431935491543040",
+		"full_text": "🎬#서울독립영화제2021 페스티벌 초이스 장편 쇼케이스 3\n\n&lt;#로그인벨지움&gt; #유태오\n\n작품에 대한 상세 정보는 홈페이지에서 확인하세요!\n🎥 https://t.co/F9Nl3r0ugL\n\n#서울독립영화제 #서독제 #SIFF #SIFF2021 https://t.co/q0ukrx4Lms",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울독립영화제2021",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "로그인벨지움",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"text": "유태오",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "서울독립영화제",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "서독제",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "SIFF",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "SIFF2021",
+					"indices": [
+						131,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F9Nl3r0ugL",
+					"expanded_url": "http://SIFF.KR",
+					"display_url": "SIFF.KR",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1459083637924974600,
+					"id_str": "1459083637924974592",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FD-01pAaUAA3sbH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD-01pAaUAA3sbH.jpg",
+					"url": "https://t.co/q0ukrx4Lms",
+					"display_url": "pic.twitter.com/q0ukrx4Lms",
+					"expanded_url": "https://twitter.com/siff_kr/status/1459431588719206403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459083637924974600,
+					"id_str": "1459083637924974592",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FD-01pAaUAA3sbH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD-01pAaUAA3sbH.jpg",
+					"url": "https://t.co/q0ukrx4Lms",
+					"display_url": "pic.twitter.com/q0ukrx4Lms",
+					"expanded_url": "https://twitter.com/siff_kr/status/1459431588719206403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114711570,
+			"id_str": "114711570",
+			"name": "서울독립영화제",
+			"screen_name": "siff_kr",
+			"location": "",
+			"description": "제47회 서울독립영화제\n2021.11.25(목) ~ 12.3(금)\n_\n📍 한국영화의 새로운 도전, 서울독립영화제\n👉서울독립영화제 NOW👉 https://t.co/7B5PXkkHCA",
+			"url": "https://t.co/nya5a2Odim",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nya5a2Odim",
+							"expanded_url": "http://www.siff.kr",
+							"display_url": "siff.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7B5PXkkHCA",
+							"expanded_url": "http://lnk.bio/siff.kr",
+							"display_url": "lnk.bio/siff.kr",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40924,
+			"friends_count": 4738,
+			"listed_count": 275,
+			"created_at": "Tue Feb 16 10:48:53 +0000 2010",
+			"favourites_count": 180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6D68AF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1445303962735824896/zceh3RYp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445303962735824896/zceh3RYp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114711570/1633422269",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎬#서울독립영화제2021 페스티벌 초이스 장편 쇼케이스 3\n\n&lt;#로그인벨지움&gt; #유태오\n\n작품에 대한 상세 정보는 홈페이지에서 확인하세요!\n🎥 https://t.co/F9Nl3r0ugL\n\n#서울독립영화제 #서독제 #SIFF #SIFF2021 https://t.co/q0ukrx4Lms"
+	},
+	{
 		"created_at": "Fri Nov 12 10:24:24 +0000 2021",
 		"id": 1459104788050710500,
 		"id_str": "1459104788050710529",
@@ -208,7 +453,7 @@ Grailbird.data.tweets_2021_11 =
 			"name": "시트콤 협동조합 x 창작집단 송편",
 			"screen_name": "SitcomUnion",
 			"location": "",
-			"description": "직접 만들면 ‘시트콤 협동조합’, 의뢰받은 기획을 집필하면 ‘창작집단 송편’. 우리에겐 여러분이 유니콘🦄 아니아니 유니온🙋🏻‍♀️#그새끼를죽였어야했는데 #제발그남자만나지마요 #이렇게된이상청와대로간다",
+			"description": "직접 만들면 ‘시트콤 협동조합’, 의뢰받은 기획을 집필하면 ‘창작집단 송편’. 우리에겐 여러분이 유니콘🦄 아니아니 유니온🙋🏻♀️#그새끼를죽였어야했는데 #제발그남자만나지마요 #이렇게된이상청와대로간다",
 			"url": "https://t.co/0lFKvcgKI0",
 			"entities": {
 				"url": {
