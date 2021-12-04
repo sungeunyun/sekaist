@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 03 02:04:51 +0000 2021",
+		"id": 1466588520685121500,
+		"id_str": "1466589216314642436",
+		"full_text": "&lt;씨네21&gt; 1334호 표지의 주인공은! &lt;로그 인 벨지움&gt;으로 연출 데뷔하는 감독 유태오!\n시나리오부터 엔딩곡까지 그의 손이 닿지 않은 파트가 없다는 그의 첫 연출작 제작에 얽힌 비하인드, 씨네21에서 만나보시죠! 그리고~ https://t.co/WHDsnWZZeI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466588508353855500,
+					"id_str": "1466588508353855490",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FFpeemAaAAIWJXm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFpeemAaAAIWJXm.jpg",
+					"url": "https://t.co/WHDsnWZZeI",
+					"display_url": "pic.twitter.com/WHDsnWZZeI",
+					"expanded_url": "https://twitter.com/cine21_editor/status/1466588520685121536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 969,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1238,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466588508353855500,
+					"id_str": "1466588508353855490",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FFpeemAaAAIWJXm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFpeemAaAAIWJXm.jpg",
+					"url": "https://t.co/WHDsnWZZeI",
+					"display_url": "pic.twitter.com/WHDsnWZZeI",
+					"expanded_url": "https://twitter.com/cine21_editor/status/1466588520685121536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 969,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1238,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130821868,
+			"id_str": "130821868",
+			"name": "cine21_editor",
+			"screen_name": "cine21_editor",
+			"location": "서울, 영등포구, 당산",
+			"description": "영화주간지 씨네21 공식 계정",
+			"url": "https://t.co/widrRqJEIg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/widrRqJEIg",
+							"expanded_url": "http://www.cine21.com",
+							"display_url": "cine21.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 441314,
+			"friends_count": 86,
+			"listed_count": 1697,
+			"created_at": "Thu Apr 08 12:28:06 +0000 2010",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245611566659035136/pjOBmXRZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245611566659035136/pjOBmXRZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130821868/1606440002",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;씨네21&gt; 1334호 표지의 주인공은! &lt;로그 인 벨지움&gt;으로 연출 데뷔하는 감독 유태오!\n시나리오부터 엔딩곡까지 그의 손이 닿지 않은 파트가 없다는 그의 첫 연출작 제작에 얽힌 비하인드, 씨네21에서 만나보시죠! 그리고~ https://t.co/WHDsnWZZeI"
+	},
+	{
 		"created_at": "Thu Dec 02 06:30:48 +0000 2021",
 		"id": 1466293757247033300,
 		"id_str": "1466293757247033346",
@@ -87,7 +262,7 @@ Grailbird.data.tweets_2021_12 =
 		"created_at": "Thu Dec 02 01:57:12 +0000 2021",
 		"id": 1466000952389894100,
 		"id_str": "1466224903045087239",
-		"full_text": "영화의 모든 순간에 당신이 있었다👨‍👩‍👧‍👦\n\n#도서관같은곳 #공부하듯이다녔던\n#희망을주는것 #새로운자극 #애인같은존재\n\n영화인들의 릴레이 인터뷰 미리보기👀\n\n** 고레에다 히로카즈 감독님 특별 인터뷰와\n감독, 배우님들이 함께하는 온라인 토크콘서트 바로가기 GO &gt;\n- https://t.co/Ycva5UWy5K https://t.co/5uFJd2dJMw",
+		"full_text": "영화의 모든 순간에 당신이 있었다👨👩👧👦\n\n#도서관같은곳 #공부하듯이다녔던\n#희망을주는것 #새로운자극 #애인같은존재\n\n영화인들의 릴레이 인터뷰 미리보기👀\n\n** 고레에다 히로카즈 감독님 특별 인터뷰와\n감독, 배우님들이 함께하는 온라인 토크콘서트 바로가기 GO &gt;\n- https://t.co/Ycva5UWy5K https://t.co/5uFJd2dJMw",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -333,7 +508,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "영화의 모든 순간에 당신이 있었다👨‍👩‍👧‍👦\n\n#도서관같은곳 #공부하듯이다녔던\n#희망을주는것 #새로운자극 #애인같은존재\n\n영화인들의 릴레이 인터뷰 미리보기👀\n\n** 고레에다 히로카즈 감독님 특별 인터뷰와\n감독, 배우님들이 함께하는 온라인 토크콘서트 바로가기 GO &gt;\n- https://t.co/Ycva5UWy5K https://t.co/5uFJd2dJMw"
+		"text": "영화의 모든 순간에 당신이 있었다👨👩👧👦\n\n#도서관같은곳 #공부하듯이다녔던\n#희망을주는것 #새로운자극 #애인같은존재\n\n영화인들의 릴레이 인터뷰 미리보기👀\n\n** 고레에다 히로카즈 감독님 특별 인터뷰와\n감독, 배우님들이 함께하는 온라인 토크콘서트 바로가기 GO &gt;\n- https://t.co/Ycva5UWy5K https://t.co/5uFJd2dJMw"
 	},
 	{
 		"created_at": "Wed Dec 01 17:22:42 +0000 2021",
