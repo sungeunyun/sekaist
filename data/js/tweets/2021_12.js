@@ -1,10 +1,224 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 06 07:06:34 +0000 2021",
+		"id": 1467750878904201200,
+		"id_str": "1467752306989240320",
+		"full_text": "#쿠씨네상영작\n&lt;#로그인벨지움&gt; 미니GV 예매 오픈!\n바로 예매하기👉\nhttps://t.co/Almm9Mcp9d\n\n영진위 6천원 할인은 당일/현장 발권만 적용됩니다‼️\n인터넷 예매하신 분들 중 할인을 받고 싶으신 분들은\n상영시작 20분 전까지 직접 취소 후 현장 발권 하시기 바랍니다.\n\n#loginbelgium #유태오 https://t.co/ZhloeIT8iw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쿠씨네상영작",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "로그인벨지움",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"text": "loginbelgium",
+					"indices": [
+						167,
+						180
+					]
+				},
+				{
+					"text": "유태오",
+					"indices": [
+						181,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Almm9Mcp9d",
+					"expanded_url": "https://bit.ly/3IlnWYZ",
+					"display_url": "bit.ly/3IlnWYZ",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1467750731662848000,
+					"id_str": "1467750731662848001",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FF5_g5OVcAE60a_.png",
+					"media_url_https": "https://pbs.twimg.com/media/FF5_g5OVcAE60a_.png",
+					"url": "https://t.co/ZhloeIT8iw",
+					"display_url": "pic.twitter.com/ZhloeIT8iw",
+					"expanded_url": "https://twitter.com/kucinema/status/1467750878904201216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467750731662848000,
+					"id_str": "1467750731662848001",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FF5_g5OVcAE60a_.png",
+					"media_url_https": "https://pbs.twimg.com/media/FF5_g5OVcAE60a_.png",
+					"url": "https://t.co/ZhloeIT8iw",
+					"display_url": "pic.twitter.com/ZhloeIT8iw",
+					"expanded_url": "https://twitter.com/kucinema/status/1467750878904201216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 261111873,
+			"id_str": "261111873",
+			"name": "KU시네마테크",
+			"screen_name": "kucinema",
+			"location": "광진구 화양동 건국대학교 예술문화관 B108호",
+			"description": "예술영화전용관 KU시네마테크 트위터입니다:)",
+			"url": "https://t.co/4ynrhwZalo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4ynrhwZalo",
+							"expanded_url": "http://www.kucinema.net",
+							"display_url": "kucinema.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14764,
+			"friends_count": 3037,
+			"listed_count": 174,
+			"created_at": "Sat Mar 05 07:42:40 +0000 2011",
+			"favourites_count": 547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BCEBE2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626675621758832640/Y6EElVyM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626675621758832640/Y6EElVyM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/261111873/1424085664",
+			"profile_link_color": "E84B12",
+			"profile_sidebar_border_color": "EBC1EB",
+			"profile_sidebar_fill_color": "EBF5DC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "#쿠씨네상영작\n&lt;#로그인벨지움&gt; 미니GV 예매 오픈!\n바로 예매하기👉\nhttps://t.co/Almm9Mcp9d\n\n영진위 6천원 할인은 당일/현장 발권만 적용됩니다‼️\n인터넷 예매하신 분들 중 할인을 받고 싶으신 분들은\n상영시작 20분 전까지 직접 취소 후 현장 발권 하시기 바랍니다.\n\n#loginbelgium #유태오 https://t.co/ZhloeIT8iw"
+	},
+	{
 		"created_at": "Sun Dec 05 13:58:02 +0000 2021",
 		"id": 1467493385212952600,
 		"id_str": "1467493471326175235",
-		"full_text": "인간 유태오, 배우 유태오의 가장 솔직한 이야기와 \n&lt;로그 인 벨지움&gt;의 다양한 매력을 나눌 수 있었던 오늘❤️‍🔥\n\n개봉주 주말! \n관객분들의 뜨거운 응원과 사랑에 힘입어 #로그인벨지움 은 2주차를 향해 달려갑니다!🏃🏻‍♀️🏃🏻‍♂️💨 \n오늘도 함께해주신 관객분들께 진심으로 감사드립니다🙌🏻✨ https://t.co/JCXkTJtAFg",
+		"full_text": "인간 유태오, 배우 유태오의 가장 솔직한 이야기와 \n&lt;로그 인 벨지움&gt;의 다양한 매력을 나눌 수 있었던 오늘❤️🔥\n\n개봉주 주말! \n관객분들의 뜨거운 응원과 사랑에 힘입어 #로그인벨지움 은 2주차를 향해 달려갑니다!🏃🏻♀️🏃🏻♂️💨 \n오늘도 함께해주신 관객분들께 진심으로 감사드립니다🙌🏻✨ https://t.co/JCXkTJtAFg",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -299,7 +513,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "인간 유태오, 배우 유태오의 가장 솔직한 이야기와 \n&lt;로그 인 벨지움&gt;의 다양한 매력을 나눌 수 있었던 오늘❤️‍🔥\n\n개봉주 주말! \n관객분들의 뜨거운 응원과 사랑에 힘입어 #로그인벨지움 은 2주차를 향해 달려갑니다!🏃🏻‍♀️🏃🏻‍♂️💨 \n오늘도 함께해주신 관객분들께 진심으로 감사드립니다🙌🏻✨ https://t.co/JCXkTJtAFg"
+		"text": "인간 유태오, 배우 유태오의 가장 솔직한 이야기와 \n&lt;로그 인 벨지움&gt;의 다양한 매력을 나눌 수 있었던 오늘❤️🔥\n\n개봉주 주말! \n관객분들의 뜨거운 응원과 사랑에 힘입어 #로그인벨지움 은 2주차를 향해 달려갑니다!🏃🏻♀️🏃🏻♂️💨 \n오늘도 함께해주신 관객분들께 진심으로 감사드립니다🙌🏻✨ https://t.co/JCXkTJtAFg"
 	},
 	{
 		"created_at": "Sat Dec 04 16:04:51 +0000 2021",
