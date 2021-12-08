@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 02:25:19 +0000 2021",
+		"id": 1468037553194471400,
+		"id_str": "1468043917954543617",
+		"full_text": "🍈멜론스테이션 12월 2주차🍈\n끊임없이 도전하는 배우 겸 감독, 유태오와🙋🏻‍♂️\n4년 5개월 만의 완전체 컴백! 티아라까지🔥\n\n이번주 멜론스테이션 편성표를\n지금 확인해보세요! 👉🏻👉🏻👉🏻\n\n#멜론 #melon #멜론스테이션\n#유태오 #티아라 #최엘비\n#저드 #jerd\n#나얼 #에코브릿지 https://t.co/SzgcqubiQH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "melon",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "멜론스테이션",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "유태오",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "티아라",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "최엘비",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "저드",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "jerd",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "나얼",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "에코브릿지",
+					"indices": [
+						155,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1468036852695580700,
+					"id_str": "1468036852695580672",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-DvVIaQAADtfN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-DvVIaQAADtfN.jpg",
+					"url": "https://t.co/SzgcqubiQH",
+					"display_url": "pic.twitter.com/SzgcqubiQH",
+					"expanded_url": "https://twitter.com/melon/status/1468037553194471429/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468036852695580700,
+					"id_str": "1468036852695580672",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-DvVIaQAADtfN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-DvVIaQAADtfN.jpg",
+					"url": "https://t.co/SzgcqubiQH",
+					"display_url": "pic.twitter.com/SzgcqubiQH",
+					"expanded_url": "https://twitter.com/melon/status/1468037553194471429/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468036852695580700,
+					"id_str": "1468036852695580674",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FF-DvVIaQAIPqIg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF-DvVIaQAIPqIg.jpg",
+					"url": "https://t.co/SzgcqubiQH",
+					"display_url": "pic.twitter.com/SzgcqubiQH",
+					"expanded_url": "https://twitter.com/melon/status/1468037553194471429/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "음악이 필요한 순간 '멜론'",
+			"url": "http://t.co/Wo8qZOx1KA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wo8qZOx1KA",
+							"expanded_url": "http://www.melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151146,
+			"friends_count": 71,
+			"listed_count": 638,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1592531049",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🍈멜론스테이션 12월 2주차🍈\n끊임없이 도전하는 배우 겸 감독, 유태오와🙋🏻‍♂️\n4년 5개월 만의 완전체 컴백! 티아라까지🔥\n\n이번주 멜론스테이션 편성표를\n지금 확인해보세요! 👉🏻👉🏻👉🏻\n\n#멜론 #melon #멜론스테이션\n#유태오 #티아라 #최엘비\n#저드 #jerd\n#나얼 #에코브릿지 https://t.co/SzgcqubiQH"
+	},
+	{
 		"created_at": "Mon Dec 06 07:06:34 +0000 2021",
 		"id": 1467750878904201200,
 		"id_str": "1467752306989240320",
