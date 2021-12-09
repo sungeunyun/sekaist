@@ -1,10 +1,205 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 01:27:37 +0000 2021",
+		"id": 1468391682052100000,
+		"id_str": "1468391783331930115",
+		"full_text": "멜론 스테이션 \"영화&amp;박선영\"에\n🌟유태오 감독님 오셨다🌟\n유태오 감독이 추천하는 영화와 음악 이야기부터 &lt;로그 인 벨지움&gt; 이야기까지 마구마구❤️‍🔥\n함께 들어요➿\n\n&gt;&gt; https://t.co/JfhuBvL93O https://t.co/XMYXAMZHp0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JfhuBvL93O",
+					"expanded_url": "http://kko.to/BYcE833fH",
+					"display_url": "kko.to/BYcE833fH",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468391671016525800,
+					"id_str": "1468391671016525825",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FGDGceYVEAE0Lkp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGDGceYVEAE0Lkp.jpg",
+					"url": "https://t.co/XMYXAMZHp0",
+					"display_url": "pic.twitter.com/XMYXAMZHp0",
+					"expanded_url": "https://twitter.com/at9film/status/1468391682052100097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 465,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1711,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 821,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468391671016525800,
+					"id_str": "1468391671016525825",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FGDGceYVEAE0Lkp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGDGceYVEAE0Lkp.jpg",
+					"url": "https://t.co/XMYXAMZHp0",
+					"display_url": "pic.twitter.com/XMYXAMZHp0",
+					"expanded_url": "https://twitter.com/at9film/status/1468391682052100097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 465,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1711,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 821,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119295834,
+			"id_str": "119295834",
+			"name": "ATNINE FILM",
+			"screen_name": "at9film",
+			"location": "",
+			"description": "영화사 엣나인필름 공식 계정 ATNINE FILM CO., LTD. official twitter. https://t.co/hVh9Jy9gPe",
+			"url": "https://t.co/IwkIlMjR5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IwkIlMjR5B",
+							"expanded_url": "https://linktr.ee/at9film",
+							"display_url": "linktr.ee/at9film",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hVh9Jy9gPe",
+							"expanded_url": "http://linktr.ee/at9film",
+							"display_url": "linktr.ee/at9film",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11553,
+			"friends_count": 4415,
+			"listed_count": 147,
+			"created_at": "Wed Mar 03 06:36:15 +0000 2010",
+			"favourites_count": 3842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461142385891876864/QVxPWHO4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461142385891876864/QVxPWHO4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119295834/1637198468",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "멜론 스테이션 \"영화&amp;박선영\"에\n🌟유태오 감독님 오셨다🌟\n유태오 감독이 추천하는 영화와 음악 이야기부터 &lt;로그 인 벨지움&gt; 이야기까지 마구마구❤️‍🔥\n함께 들어요➿\n\n&gt;&gt; https://t.co/JfhuBvL93O https://t.co/XMYXAMZHp0"
+	},
+	{
 		"created_at": "Tue Dec 07 02:25:19 +0000 2021",
 		"id": 1468037553194471400,
 		"id_str": "1468043917954543617",
-		"full_text": "🍈멜론스테이션 12월 2주차🍈\n끊임없이 도전하는 배우 겸 감독, 유태오와🙋🏻‍♂️\n4년 5개월 만의 완전체 컴백! 티아라까지🔥\n\n이번주 멜론스테이션 편성표를\n지금 확인해보세요! 👉🏻👉🏻👉🏻\n\n#멜론 #melon #멜론스테이션\n#유태오 #티아라 #최엘비\n#저드 #jerd\n#나얼 #에코브릿지 https://t.co/SzgcqubiQH",
+		"full_text": "🍈멜론스테이션 12월 2주차🍈\n끊임없이 도전하는 배우 겸 감독, 유태오와🙋🏻♂️\n4년 5개월 만의 완전체 컴백! 티아라까지🔥\n\n이번주 멜론스테이션 편성표를\n지금 확인해보세요! 👉🏻👉🏻👉🏻\n\n#멜론 #melon #멜론스테이션\n#유태오 #티아라 #최엘비\n#저드 #jerd\n#나얼 #에코브릿지 https://t.co/SzgcqubiQH",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -280,7 +475,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🍈멜론스테이션 12월 2주차🍈\n끊임없이 도전하는 배우 겸 감독, 유태오와🙋🏻‍♂️\n4년 5개월 만의 완전체 컴백! 티아라까지🔥\n\n이번주 멜론스테이션 편성표를\n지금 확인해보세요! 👉🏻👉🏻👉🏻\n\n#멜론 #melon #멜론스테이션\n#유태오 #티아라 #최엘비\n#저드 #jerd\n#나얼 #에코브릿지 https://t.co/SzgcqubiQH"
+		"text": "🍈멜론스테이션 12월 2주차🍈\n끊임없이 도전하는 배우 겸 감독, 유태오와🙋🏻♂️\n4년 5개월 만의 완전체 컴백! 티아라까지🔥\n\n이번주 멜론스테이션 편성표를\n지금 확인해보세요! 👉🏻👉🏻👉🏻\n\n#멜론 #melon #멜론스테이션\n#유태오 #티아라 #최엘비\n#저드 #jerd\n#나얼 #에코브릿지 https://t.co/SzgcqubiQH"
 	},
 	{
 		"created_at": "Mon Dec 06 07:06:34 +0000 2021",
