@@ -1,10 +1,295 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 12 07:03:26 +0000 2021",
+		"id": 1469925121536462800,
+		"id_str": "1469925845930483717",
+		"full_text": "네 ??? https://t.co/7DWdMFJ9Av",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7DWdMFJ9Av",
+					"expanded_url": "https://twitter.com/eaeon1219/status/1469761997999058945",
+					"display_url": "twitter.com/eaeon1219/stat…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116168125,
+			"id_str": "116168125",
+			"name": "이이언",
+			"screen_name": "eaeon",
+			"location": "Seoul",
+			"description": "못Mot, 나이트오프 Night Off https://t.co/yvBc6hKe9G  그러지 마 Don't MV 👇",
+			"url": "https://t.co/DVhWSsbsaU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DVhWSsbsaU",
+							"expanded_url": "https://youtu.be/oVPYa7QCmRg",
+							"display_url": "youtu.be/oVPYa7QCmRg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yvBc6hKe9G",
+							"expanded_url": "http://instagram.com/eaeon/",
+							"display_url": "instagram.com/eaeon/",
+							"indices": [
+								22,
+								45
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 180754,
+			"friends_count": 605,
+			"listed_count": 629,
+			"created_at": "Sun Feb 21 12:16:58 +0000 2010",
+			"favourites_count": 2718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BAD4DE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2725238239/dbc4b660aaa6ad2e3cfd6dd5e0061aac_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2725238239/dbc4b660aaa6ad2e3cfd6dd5e0061aac_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116168125/1401466661",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1469761997999059000,
+		"quoted_status_id_str": "1469761997999058945",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7DWdMFJ9Av",
+			"expanded": "https://twitter.com/eaeon1219/status/1469761997999058945",
+			"display": "twitter.com/eaeon1219/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 11 20:12:21 +0000 2021",
+			"id": 1469761997999059000,
+			"id_str": "1469761997999058945",
+			"full_text": "💙뮤지션 이이언님의 생일을 맞아 생일카페를 진행합니다! \n💙장소: 앤디스커피 연남점 \n💙일시: 12월 18,19일  \n💙기본 특전과 스페셜 특전에 관한 설명은 타래로 이어집니다. https://t.co/fpbjfhbwG1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1469761991099121700,
+						"id_str": "1469761991099121667",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/FGWkvmfVgAMzCZG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGWkvmfVgAMzCZG.jpg",
+						"url": "https://t.co/fpbjfhbwG1",
+						"display_url": "pic.twitter.com/fpbjfhbwG1",
+						"expanded_url": "https://twitter.com/eaeon1219/status/1469761997999058945/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 680,
+								"h": 588,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 680,
+								"h": 588,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 588,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1469761991099121700,
+						"id_str": "1469761991099121667",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/FGWkvmfVgAMzCZG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGWkvmfVgAMzCZG.jpg",
+						"url": "https://t.co/fpbjfhbwG1",
+						"display_url": "pic.twitter.com/fpbjfhbwG1",
+						"expanded_url": "https://twitter.com/eaeon1219/status/1469761997999058945/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 680,
+								"h": 588,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 680,
+								"h": 588,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 588,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1452837749204013000,
+				"id_str": "1452837749204013056",
+				"name": "이이언 생일 카페",
+				"screen_name": "eaeon1219",
+				"location": "",
+				"description": "우리의 기념일",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27,
+				"friends_count": 0,
+				"listed_count": 0,
+				"created_at": "Tue Oct 26 03:21:42 +0000 2021",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1456634592891641859/wM7H75HQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1456634592891641859/wM7H75HQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1452837749204013056/1636123726",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 261,
+		"favorite_count": 399,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네 ??? https://t.co/7DWdMFJ9Av"
+	},
+	{
 		"created_at": "Wed Dec 08 01:27:37 +0000 2021",
 		"id": 1468391682052100000,
 		"id_str": "1468391783331930115",
-		"full_text": "멜론 스테이션 \"영화&amp;박선영\"에\n🌟유태오 감독님 오셨다🌟\n유태오 감독이 추천하는 영화와 음악 이야기부터 &lt;로그 인 벨지움&gt; 이야기까지 마구마구❤️‍🔥\n함께 들어요➿\n\n&gt;&gt; https://t.co/JfhuBvL93O https://t.co/XMYXAMZHp0",
+		"full_text": "멜론 스테이션 \"영화&amp;박선영\"에\n🌟유태오 감독님 오셨다🌟\n유태오 감독이 추천하는 영화와 음악 이야기부터 &lt;로그 인 벨지움&gt; 이야기까지 마구마구❤️🔥\n함께 들어요➿\n\n&gt;&gt; https://t.co/JfhuBvL93O https://t.co/XMYXAMZHp0",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -193,7 +478,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "멜론 스테이션 \"영화&amp;박선영\"에\n🌟유태오 감독님 오셨다🌟\n유태오 감독이 추천하는 영화와 음악 이야기부터 &lt;로그 인 벨지움&gt; 이야기까지 마구마구❤️‍🔥\n함께 들어요➿\n\n&gt;&gt; https://t.co/JfhuBvL93O https://t.co/XMYXAMZHp0"
+		"text": "멜론 스테이션 \"영화&amp;박선영\"에\n🌟유태오 감독님 오셨다🌟\n유태오 감독이 추천하는 영화와 음악 이야기부터 &lt;로그 인 벨지움&gt; 이야기까지 마구마구❤️🔥\n함께 들어요➿\n\n&gt;&gt; https://t.co/JfhuBvL93O https://t.co/XMYXAMZHp0"
 	},
 	{
 		"created_at": "Tue Dec 07 02:25:19 +0000 2021",
