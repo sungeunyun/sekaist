@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 14 02:06:55 +0000 2021",
+		"id": 1470576001248034800,
+		"id_str": "1470576001248034816",
+		"full_text": "헐 기다렸던 지비 소식 현민기자님이랑 https://t.co/ACpBRxCbFc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470575997028233200,
+					"id_str": "1470575997028233220",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/FGiJE-4VcAQWSqs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGiJE-4VcAQWSqs.jpg",
+					"url": "https://t.co/ACpBRxCbFc",
+					"display_url": "pic.twitter.com/ACpBRxCbFc",
+					"expanded_url": "https://twitter.com/sekaist/status/1470576001248034816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470575997028233200,
+					"id_str": "1470575997028233220",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/FGiJE-4VcAQWSqs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGiJE-4VcAQWSqs.jpg",
+					"url": "https://t.co/ACpBRxCbFc",
+					"display_url": "pic.twitter.com/ACpBRxCbFc",
+					"expanded_url": "https://twitter.com/sekaist/status/1470576001248034816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1131,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "헐 기다렸던 지비 소식 현민기자님이랑 https://t.co/ACpBRxCbFc"
+	},
+	{
+		"created_at": "Tue Dec 14 01:18:38 +0000 2021",
+		"id": 1470563849317515300,
+		"id_str": "1470563849317515264",
+		"full_text": "이 부분이 젤 웃김 근데 매니져님도 하루종일 같이 투어한게 너무 웃겨",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 1131,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이 부분이 젤 웃김 근데 매니져님도 하루종일 같이 투어한게 너무 웃겨"
+	},
+	{
+		"created_at": "Tue Dec 14 01:18:05 +0000 2021",
+		"id": 1470413123429728300,
+		"id_str": "1470563713648594944",
+		"full_text": "매니저님 나가다가 다시 오시더니 “제가 올리지 말라고 했다는 말은 하지 말아주세요 없어보이니까..”라고 하심 하지만 나는 그 얘기까지 방금 트위터에 써버렸음 죄송합니다 엠바고 지켰잖아요..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1470413122196623400,
+		"in_reply_to_status_id_str": "1470413122196623361",
+		"in_reply_to_user_id": 1085318436186542100,
+		"in_reply_to_user_id_str": "1085318436186542080",
+		"in_reply_to_screen_name": "zzinpro",
+		"user": {
+			"id": 1085318436186542100,
+			"id_str": "1085318436186542080",
+			"name": "ZZIN",
+			"screen_name": "zzinpro",
+			"location": "오타쿠는징그러",
+			"description": "기뮨석과 2x9와 … 김댐0.. 그렇게됐다",
+			"url": "https://t.co/9QeFhPlVdP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9QeFhPlVdP",
+							"expanded_url": "https://peing.net/ko/zzinpro",
+							"display_url": "peing.net/ko/zzinpro",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2236,
+			"friends_count": 238,
+			"listed_count": 7,
+			"created_at": "Tue Jan 15 23:30:54 +0000 2019",
+			"favourites_count": 5762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1375954813658140678/KgUqWOOk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1375954813658140678/KgUqWOOk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1085318436186542080/1611388792",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 225,
+		"favorite_count": 210,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "매니저님 나가다가 다시 오시더니 “제가 올리지 말라고 했다는 말은 하지 말아주세요 없어보이니까..”라고 하심 하지만 나는 그 얘기까지 방금 트위터에 써버렸음 죄송합니다 엠바고 지켰잖아요.."
+	},
+	{
 		"created_at": "Mon Dec 13 23:42:53 +0000 2021",
 		"id": 1470539754336923600,
 		"id_str": "1470539754336923648",
