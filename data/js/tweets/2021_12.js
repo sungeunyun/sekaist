@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 15 13:45:21 +0000 2021",
+		"id": 1471113970602115000,
+		"id_str": "1471114157424807937",
+		"full_text": "유태오 감독 &amp; 새소년 황소윤 &amp; 이은선 영화저널리스트와 함께 흥겨움으로 가득했던 오늘의 씨네토크📸\n놓칠 수 없는💫멋진 세 분과 이야기 나누러 와주신 모든 분들 감사드립니다!\n\n\"알지 못하는 타인이 이 사람의 하트❤️‍🩹를 꺼내서 보여주는 느낌이었다\"\n\n&lt;로그 인 벨지움&gt; 절찬상영중➿ https://t.co/9cUEp8Igka",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471113962238316500,
+					"id_str": "1471113962238316547",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FGpyWrdVEAM4Sm8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGpyWrdVEAM4Sm8.jpg",
+					"url": "https://t.co/9cUEp8Igka",
+					"display_url": "pic.twitter.com/9cUEp8Igka",
+					"expanded_url": "https://twitter.com/at9film/status/1471113970602115080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471113962238316500,
+					"id_str": "1471113962238316547",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FGpyWrdVEAM4Sm8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGpyWrdVEAM4Sm8.jpg",
+					"url": "https://t.co/9cUEp8Igka",
+					"display_url": "pic.twitter.com/9cUEp8Igka",
+					"expanded_url": "https://twitter.com/at9film/status/1471113970602115080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471113962238320600,
+					"id_str": "1471113962238320648",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FGpyWrdVIAgXGGp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGpyWrdVIAgXGGp.jpg",
+					"url": "https://t.co/9cUEp8Igka",
+					"display_url": "pic.twitter.com/9cUEp8Igka",
+					"expanded_url": "https://twitter.com/at9film/status/1471113970602115080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119295834,
+			"id_str": "119295834",
+			"name": "ATNINE FILM",
+			"screen_name": "at9film",
+			"location": "",
+			"description": "영화사 엣나인필름 공식 계정 ATNINE FILM CO., LTD. official twitter. https://t.co/hVh9Jy9gPe",
+			"url": "https://t.co/IwkIlMjR5B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IwkIlMjR5B",
+							"expanded_url": "https://linktr.ee/at9film",
+							"display_url": "linktr.ee/at9film",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hVh9Jy9gPe",
+							"expanded_url": "http://linktr.ee/at9film",
+							"display_url": "linktr.ee/at9film",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11556,
+			"friends_count": 4410,
+			"listed_count": 146,
+			"created_at": "Wed Mar 03 06:36:15 +0000 2010",
+			"favourites_count": 3839,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461142385891876864/QVxPWHO4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461142385891876864/QVxPWHO4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119295834/1637198468",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 36,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유태오 감독 &amp; 새소년 황소윤 &amp; 이은선 영화저널리스트와 함께 흥겨움으로 가득했던 오늘의 씨네토크📸\n놓칠 수 없는💫멋진 세 분과 이야기 나누러 와주신 모든 분들 감사드립니다!\n\n\"알지 못하는 타인이 이 사람의 하트❤️‍🩹를 꺼내서 보여주는 느낌이었다\"\n\n&lt;로그 인 벨지움&gt; 절찬상영중➿ https://t.co/9cUEp8Igka"
+	},
+	{
 		"created_at": "Tue Dec 14 02:06:55 +0000 2021",
 		"id": 1470576001248034800,
 		"id_str": "1470576001248034816",
