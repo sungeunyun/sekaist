@@ -1,10 +1,198 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 04:49:36 +0000 2021",
+		"id": 1471341719862276000,
+		"id_str": "1471341719862276099",
+		"full_text": "@ddss0814 30분 앞으로 당기나봐 10시 안넘길라고 ㅠㅠ 행사가 취소된건 아닌듯",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ddss0814",
+					"name": "🖤",
+					"id": 1250795549680267300,
+					"id_str": "1250795549680267265",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1471341610021822500,
+		"in_reply_to_status_id_str": "1471341610021822466",
+		"in_reply_to_user_id": 1250795549680267300,
+		"in_reply_to_user_id_str": "1250795549680267265",
+		"in_reply_to_screen_name": "ddss0814",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1131,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@ddss0814 30분 앞으로 당기나봐 10시 안넘길라고 ㅠㅠ 행사가 취소된건 아닌듯"
+	},
+	{
+		"created_at": "Thu Dec 16 04:47:41 +0000 2021",
+		"id": 1471341237651267600,
+		"id_str": "1471341237651267589",
+		"full_text": "@ddss0814 나는 다른 영화이긴함 ㅠㅠ 시간 바꿔서 재오픈한대",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ddss0814",
+					"name": "🖤",
+					"id": 1250795549680267300,
+					"id_str": "1250795549680267265",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1471333641725018000,
+		"in_reply_to_status_id_str": "1471333641725018117",
+		"in_reply_to_user_id": 1250795549680267300,
+		"in_reply_to_user_id_str": "1250795549680267265",
+		"in_reply_to_screen_name": "ddss0814",
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel   맥거핀 유태오 그리고 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 1131,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@ddss0814 나는 다른 영화이긴함 ㅠㅠ 시간 바꿔서 재오픈한대"
+	},
+	{
 		"created_at": "Wed Dec 15 13:45:21 +0000 2021",
 		"id": 1471113970602115000,
 		"id_str": "1471114157424807937",
-		"full_text": "유태오 감독 &amp; 새소년 황소윤 &amp; 이은선 영화저널리스트와 함께 흥겨움으로 가득했던 오늘의 씨네토크📸\n놓칠 수 없는💫멋진 세 분과 이야기 나누러 와주신 모든 분들 감사드립니다!\n\n\"알지 못하는 타인이 이 사람의 하트❤️‍🩹를 꺼내서 보여주는 느낌이었다\"\n\n&lt;로그 인 벨지움&gt; 절찬상영중➿ https://t.co/9cUEp8Igka",
+		"full_text": "유태오 감독 &amp; 새소년 황소윤 &amp; 이은선 영화저널리스트와 함께 흥겨움으로 가득했던 오늘의 씨네토크📸\n놓칠 수 없는💫멋진 세 분과 이야기 나누러 와주신 모든 분들 감사드립니다!\n\n\"알지 못하는 타인이 이 사람의 하트❤️🩹를 꺼내서 보여주는 느낌이었다\"\n\n&lt;로그 인 벨지움&gt; 절찬상영중➿ https://t.co/9cUEp8Igka",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -219,7 +407,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "유태오 감독 &amp; 새소년 황소윤 &amp; 이은선 영화저널리스트와 함께 흥겨움으로 가득했던 오늘의 씨네토크📸\n놓칠 수 없는💫멋진 세 분과 이야기 나누러 와주신 모든 분들 감사드립니다!\n\n\"알지 못하는 타인이 이 사람의 하트❤️‍🩹를 꺼내서 보여주는 느낌이었다\"\n\n&lt;로그 인 벨지움&gt; 절찬상영중➿ https://t.co/9cUEp8Igka"
+		"text": "유태오 감독 &amp; 새소년 황소윤 &amp; 이은선 영화저널리스트와 함께 흥겨움으로 가득했던 오늘의 씨네토크📸\n놓칠 수 없는💫멋진 세 분과 이야기 나누러 와주신 모든 분들 감사드립니다!\n\n\"알지 못하는 타인이 이 사람의 하트❤️🩹를 꺼내서 보여주는 느낌이었다\"\n\n&lt;로그 인 벨지움&gt; 절찬상영중➿ https://t.co/9cUEp8Igka"
 	},
 	{
 		"created_at": "Tue Dec 14 02:06:55 +0000 2021",
