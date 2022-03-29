@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 28 01:24:21 +0000 2022",
+		"id": 1508252519364915200,
+		"id_str": "1508253626548244481",
+		"full_text": "Video of Timothée Chalamet at the #Oscars tonight! https://t.co/S8fRHcZATT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Oscars",
+					"indices": [
+						34,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1508252501291659300,
+					"id_str": "1508252501291659268",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1508252501291659268/pu/img/TCQONMeO5Z_VghUX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1508252501291659268/pu/img/TCQONMeO5Z_VghUX.jpg",
+					"url": "https://t.co/S8fRHcZATT",
+					"display_url": "pic.twitter.com/S8fRHcZATT",
+					"expanded_url": "https://twitter.com/tchalametupdate/status/1508252519364915201/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 888,
+							"h": 488,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 888,
+							"h": 488,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1508252501291659300,
+					"id_str": "1508252501291659268",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1508252501291659268/pu/img/TCQONMeO5Z_VghUX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1508252501291659268/pu/img/TCQONMeO5Z_VghUX.jpg",
+					"url": "https://t.co/S8fRHcZATT",
+					"display_url": "pic.twitter.com/S8fRHcZATT",
+					"expanded_url": "https://twitter.com/tchalametupdate/status/1508252519364915201/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 888,
+							"h": 488,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 888,
+							"h": 488,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							111,
+							61
+						],
+						"duration_millis": 3981,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1508252501291659268/pu/pl/E24S5kjCpKATaDwK.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508252501291659268/pu/vid/654x360/KM6fDXaNQYV-Acgh.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508252501291659268/pu/vid/888x488/6eoWu99rR-mNpJXF.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1508252501291659268/pu/vid/490x270/01Ybfx-PM3kxZQzl.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 949769237970604000,
+			"id_str": "949769237970604032",
+			"name": "Timothée Chalamet Updates",
+			"screen_name": "tchalametupdate",
+			"location": "lexi | she/her",
+			"description": "Updates on Academy Award nominated actor Timothée Chalamet! Instagram: tchalamet.updates",
+			"url": "https://t.co/AulrWaahAG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AulrWaahAG",
+							"expanded_url": "http://Instagram.com/tchalamet.updates",
+							"display_url": "Instagram.com/tchalamet.upda…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74380,
+			"friends_count": 25,
+			"listed_count": 193,
+			"created_at": "Sat Jan 06 22:26:47 +0000 2018",
+			"favourites_count": 1438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1475707419963510785/Pwi930v__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1475707419963510785/Pwi930v__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/949769237970604032/1588735717",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 784,
+		"favorite_count": 3773,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Video of Timothée Chalamet at the #Oscars tonight! https://t.co/S8fRHcZATT"
+	},
+	{
 		"created_at": "Fri Mar 25 10:21:09 +0000 2022",
 		"id": 1507301555854508000,
 		"id_str": "1507301555854508034",
