@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 11 13:23:18 +0000 2022",
+		"id": 1557664890390982700,
+		"id_str": "1557719307944988673",
+		"full_text": "특정인에게 줄 서는 최고위원 후보님들, \n뭐가 그리 당당하십니까? \n자신의 이름과 비전은 없고, \n오로지 특정인만 쫓는 정치가  \n그렇게 당당하십니까? \n\n또 뭐가 그리도 \n윤영찬이 불편하고 두렵습니까?\n윤영찬을 떨어뜨리기 위한 \n전략적 짝짓기 투표 독려, \n부끄럽지 않습니까?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214942134320562200,
+			"id_str": "1214942134320562177",
+			"name": "윤영찬",
+			"screen_name": "yyc1964",
+			"location": "대한민국 성남시",
+			"description": "성남시 중원구 더불어민주당 국회의원 윤영찬입니다. 동아일보, 네이버를 거쳐 문재인정부 청와대 초대 국민소통수석으로 일한 뒤 국회에서 일하고 있습니다. 후원: 농협 301-0263-7685-51 영수증 발급신청:https://t.co/0RTw3VaFI9",
+			"url": "https://t.co/Bpwxb4nKZR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bpwxb4nKZR",
+							"expanded_url": "http://www.facebook.com/youngchan.yoon.18",
+							"display_url": "facebook.com/youngchan.yoon…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0RTw3VaFI9",
+							"expanded_url": "https://forms.gle/6i7KrUiWtkbGaH5G8",
+							"display_url": "forms.gle/6i7KrUiWtkbGaH…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14792,
+			"friends_count": 4165,
+			"listed_count": 56,
+			"created_at": "Wed Jan 08 16:09:22 +0000 2020",
+			"favourites_count": 350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1523493765071081472/AgoB_zJo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1523493765071081472/AgoB_zJo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1214942134320562177/1659016764",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1246,
+		"favorite_count": 1653,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "특정인에게 줄 서는 최고위원 후보님들, \n뭐가 그리 당당하십니까? \n자신의 이름과 비전은 없고, \n오로지 특정인만 쫓는 정치가  \n그렇게 당당하십니까? \n\n또 뭐가 그리도 \n윤영찬이 불편하고 두렵습니까?\n윤영찬을 떨어뜨리기 위한 \n전략적 짝짓기 투표 독려, \n부끄럽지 않습니까?"
+	},
+	{
 		"created_at": "Wed Aug 10 12:05:36 +0000 2022",
 		"id": 1557337365638946800,
 		"id_str": "1557337365638946816",
