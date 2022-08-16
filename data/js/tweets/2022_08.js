@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 15 14:50:07 +0000 2022",
+		"id": 1558015477380575200,
+		"id_str": "1559190708627509249",
+		"full_text": "거대한 의심이진실을 덮쳐온다🌊\n⠀\n히스테릭 심리 스릴러 &lt;파로호&gt;\n#CGV서프라이즈쿠폰 8월 16일(화) 오후 4시 오픈!\n⠀\n섬뜩한 스릴 선사하는 &lt;파로호&gt;\n극장에서 보면서 여름철 무더위 날려버리세요👊\n⠀\n#영화파로호  #8월18일대개봉 #임상수감독\n#이중옥 #김대건 #공민정 #강말금 #김연교 #변중희 https://t.co/o98fX4URN3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CGV서프라이즈쿠폰",
+					"indices": [
+						43,
+						54
+					]
+				},
+				{
+					"text": "영화파로호",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "8월18일대개봉",
+					"indices": [
+						136,
+						145
+					]
+				},
+				{
+					"text": "임상수감독",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "이중옥",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "김대건",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "공민정",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "강말금",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "김연교",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "변중희",
+					"indices": [
+						178,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1558015305577689000,
+					"id_str": "1558015305577689088",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ8uqmuUcAAtV_4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ8uqmuUcAAtV_4.jpg",
+					"url": "https://t.co/o98fX4URN3",
+					"display_url": "pic.twitter.com/o98fX4URN3",
+					"expanded_url": "https://twitter.com/thecoup__cop/status/1558015477380575232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558015305577689000,
+					"id_str": "1558015305577689088",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ8uqmuUcAAtV_4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ8uqmuUcAAtV_4.jpg",
+					"url": "https://t.co/o98fX4URN3",
+					"display_url": "pic.twitter.com/o98fX4URN3",
+					"expanded_url": "https://twitter.com/thecoup__cop/status/1558015477380575232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1161460955210870800,
+			"id_str": "1161460955210870785",
+			"name": "더쿱 THE COUP",
+			"screen_name": "thecoup__cop",
+			"location": "",
+			"description": "영화사 (주)더쿱&더쿱디스트리뷰션 공식 트위터 🎞 그녀, 캐롤, 스포트라이트 수입/배급 🏞 #파로호  2022.08.18 🤝🏻 #다잘된거야 2022.09.07 👀 #EverythingEverywhereAllatOnce 2022 개봉 예정 ▼더쿱 linktree 확인하러 가자!▼",
+			"url": "https://t.co/zjpq3Q36xY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjpq3Q36xY",
+							"expanded_url": "https://linktr.ee/thecoup__cop",
+							"display_url": "linktr.ee/thecoup__cop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 678,
+			"friends_count": 254,
+			"listed_count": 0,
+			"created_at": "Wed Aug 14 02:14:05 +0000 2019",
+			"favourites_count": 1505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1546311341287571456/tmlqapgm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546311341287571456/tmlqapgm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1161460955210870785/1657504329",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "거대한 의심이진실을 덮쳐온다🌊\n⠀\n히스테릭 심리 스릴러 &lt;파로호&gt;\n#CGV서프라이즈쿠폰 8월 16일(화) 오후 4시 오픈!\n⠀\n섬뜩한 스릴 선사하는 &lt;파로호&gt;\n극장에서 보면서 여름철 무더위 날려버리세요👊\n⠀\n#영화파로호  #8월18일대개봉 #임상수감독\n#이중옥 #김대건 #공민정 #강말금 #김연교 #변중희 https://t.co/o98fX4URN3"
+	},
+	{
 		"created_at": "Sun Aug 14 10:18:04 +0000 2022",
 		"id": 1558759853580886000,
 		"id_str": "1558759853580886016",
