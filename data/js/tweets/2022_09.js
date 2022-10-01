@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 08:10:30 +0000 2022",
+		"id": 1575759983534170000,
+		"id_str": "1575759983534170112",
+		"full_text": "맨날 영화제가면 맥거핀이 공연해서 못갔는데 올해는 부국제 가서 덕질함 개이득 개좋아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133336572,
+			"id_str": "133336572",
+			"name": "캥거루",
+			"screen_name": "sekaist",
+			"location": "South Korea",
+			"description": "Don't get sentimental. It always ends up drivel 맥거핀 펭수🐧💙 ㄷㅡ6",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 595,
+			"friends_count": 1103,
+			"listed_count": 14,
+			"created_at": "Thu Apr 15 15:02:16 +0000 2010",
+			"favourites_count": 2072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3218324254/443f8cf3a23d28cbd7ceef010f2f3000_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133336572/1492614623",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "맨날 영화제가면 맥거핀이 공연해서 못갔는데 올해는 부국제 가서 덕질함 개이득 개좋아"
+	},
+	{
+		"created_at": "Fri Sep 30 08:09:56 +0000 2022",
+		"id": 1575758413765615600,
+		"id_str": "1575759839392718848",
+		"full_text": "[공연안내] 10월 8~9일 부산\n동방비스페셜 &amp; 월간객석X동네방네비프 공연에 맥거핀이 참가합니다! 10/8~9일 양일간 공연 진행 예정입니다\n10월 8일(토) 18:00 부산진구 부산시민공원\n10월 9일(일) 18:00 동구 북항 친수공원 https://t.co/vJKQf9xF0E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1575758403276017700,
+					"id_str": "1575758403276017665",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd4360cakAERHex.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd4360cakAERHex.jpg",
+					"url": "https://t.co/vJKQf9xF0E",
+					"display_url": "pic.twitter.com/vJKQf9xF0E",
+					"expanded_url": "https://twitter.com/BandMacguffin/status/1575758413765615616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575758403276017700,
+					"id_str": "1575758403276017665",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd4360cakAERHex.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd4360cakAERHex.jpg",
+					"url": "https://t.co/vJKQf9xF0E",
+					"display_url": "pic.twitter.com/vJKQf9xF0E",
+					"expanded_url": "https://twitter.com/BandMacguffin/status/1575758413765615616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1575758403263430700,
+					"id_str": "1575758403263430656",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd4360ZagAAMgPx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd4360ZagAAMgPx.jpg",
+					"url": "https://t.co/vJKQf9xF0E",
+					"display_url": "pic.twitter.com/vJKQf9xF0E",
+					"expanded_url": "https://twitter.com/BandMacguffin/status/1575758413765615616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1575758403263398000,
+					"id_str": "1575758403263397888",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd4360ZaAAAACMH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd4360ZaAAAACMH.jpg",
+					"url": "https://t.co/vJKQf9xF0E",
+					"display_url": "pic.twitter.com/vJKQf9xF0E",
+					"expanded_url": "https://twitter.com/BandMacguffin/status/1575758413765615616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 911595592974868500,
+			"id_str": "911595592974868482",
+			"name": "밴드맥거핀봇",
+			"screen_name": "BandMacguffin",
+			"location": "",
+			"description": "밴드 맥거핀(Macguffin) 팬계정입니다.",
+			"url": "https://t.co/a82bggXP2O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a82bggXP2O",
+							"expanded_url": "http://Instagram.com/mgff_official",
+							"display_url": "Instagram.com/mgff_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 126,
+			"listed_count": 2,
+			"created_at": "Sat Sep 23 14:18:20 +0000 2017",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912146229219360769/QSxZQK5v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912146229219360769/QSxZQK5v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/911595592974868482/1527592886",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연안내] 10월 8~9일 부산\n동방비스페셜 &amp; 월간객석X동네방네비프 공연에 맥거핀이 참가합니다! 10/8~9일 양일간 공연 진행 예정입니다\n10월 8일(토) 18:00 부산진구 부산시민공원\n10월 9일(일) 18:00 동구 북항 친수공원 https://t.co/vJKQf9xF0E"
+	},
+	{
 		"created_at": "Thu Sep 29 01:44:03 +0000 2022",
 		"id": 1575300341289349000,
 		"id_str": "1575300341289349120",
