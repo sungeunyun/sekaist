@@ -1,6 +1,831 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 04:22:04 +0000 2022",
+		"id": 1580397935178571800,
+		"id_str": "1580413535099662337",
+		"full_text": "#서울독립영화제2022 본선 단편경쟁 부문 상영작 발표\n\n작품공모를 통해 접수된 총 1,423편의 작품 중 예심을 통해 선정된 작품은 총 28편입니다.\n\n이 작품들은 오는 12월 1일(목)부터 12월 9일(금)까지\n서울독립영화제2022 본선 단편경쟁 부문에서 상영됩니다.\n\n✅https://t.co/39XLhFkvyk https://t.co/6jT0SUlMc0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울독립영화제2022",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/39XLhFkvyk",
+					"expanded_url": "https://bit.ly/3RXLcQg",
+					"display_url": "bit.ly/3RXLcQg",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580397144216768500,
+					"id_str": "1580397144216768512",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6y1FEVEAA8sfe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6y1FEVEAA8sfe.jpg",
+					"url": "https://t.co/6jT0SUlMc0",
+					"display_url": "pic.twitter.com/6jT0SUlMc0",
+					"expanded_url": "https://twitter.com/siff_kr/status/1580397935178571776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580397144216768500,
+					"id_str": "1580397144216768512",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6y1FEVEAA8sfe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6y1FEVEAA8sfe.jpg",
+					"url": "https://t.co/6jT0SUlMc0",
+					"display_url": "pic.twitter.com/6jT0SUlMc0",
+					"expanded_url": "https://twitter.com/siff_kr/status/1580397935178571776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580397171794333700,
+					"id_str": "1580397171794333696",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6y2rzVUAAp9wd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6y2rzVUAAp9wd.jpg",
+					"url": "https://t.co/6jT0SUlMc0",
+					"display_url": "pic.twitter.com/6jT0SUlMc0",
+					"expanded_url": "https://twitter.com/siff_kr/status/1580397935178571776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580397172037599200,
+					"id_str": "1580397172037599233",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6y2stVQAEX_Bx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6y2stVQAEX_Bx.jpg",
+					"url": "https://t.co/6jT0SUlMc0",
+					"display_url": "pic.twitter.com/6jT0SUlMc0",
+					"expanded_url": "https://twitter.com/siff_kr/status/1580397935178571776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580397172226371600,
+					"id_str": "1580397172226371584",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6y2taVsAA5-tm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6y2taVsAA5-tm.jpg",
+					"url": "https://t.co/6jT0SUlMc0",
+					"display_url": "pic.twitter.com/6jT0SUlMc0",
+					"expanded_url": "https://twitter.com/siff_kr/status/1580397935178571776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114711570,
+			"id_str": "114711570",
+			"name": "서울독립영화제",
+			"screen_name": "siff_kr",
+			"location": "",
+			"description": "📍 한국영화의 새로운 도전, 서울독립영화제\n📍 매년 연말에 개최되며, 한 해의 독립영화를 결산하는 국내 경쟁 독립영화제입니다.\n_\n🔎 서울독립영화제 NOW 🔎\nhttps://t.co/1wvBpF96Cw",
+			"url": "https://t.co/nya5a2Odim",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nya5a2Odim",
+							"expanded_url": "http://www.siff.kr",
+							"display_url": "siff.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1wvBpF96Cw",
+							"expanded_url": "http://lnk.bio/siff.kr/",
+							"display_url": "lnk.bio/siff.kr/",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40539,
+			"friends_count": 4642,
+			"listed_count": 275,
+			"created_at": "Tue Feb 16 10:48:53 +0000 2010",
+			"favourites_count": 316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6D68AF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1578200954146471936/NKTZoUJi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578200954146471936/NKTZoUJi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114711570/1663825135",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서울독립영화제2022 본선 단편경쟁 부문 상영작 발표\n\n작품공모를 통해 접수된 총 1,423편의 작품 중 예심을 통해 선정된 작품은 총 28편입니다.\n\n이 작품들은 오는 12월 1일(목)부터 12월 9일(금)까지\n서울독립영화제2022 본선 단편경쟁 부문에서 상영됩니다.\n\n✅https://t.co/39XLhFkvyk https://t.co/6jT0SUlMc0"
+	},
+	{
+		"created_at": "Thu Oct 13 04:22:01 +0000 2022",
+		"id": 1580397849711296500,
+		"id_str": "1580413522927763456",
+		"full_text": "#서울독립영화제2022 본선 장편경쟁 부문 상영작 발표\n\n작품공모를 통해 접수된 총 151편의 작품 중 예심을 통해 선정된 작품은 총 13편입니다.\n\n이 작품들은 오는 서울독립영화제2022 본선 장편경쟁 부문에서 상영됩니다.\n\n✅공지 참조: https://t.co/vIfZYUvI0w https://t.co/gDgeCfO1tl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울독립영화제2022",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vIfZYUvI0w",
+					"expanded_url": "https://bit.ly/3VzeHv4",
+					"display_url": "bit.ly/3VzeHv4",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580396244957941800,
+					"id_str": "1580396244957941760",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6yAvEUUAA3hZD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6yAvEUUAA3hZD.jpg",
+					"url": "https://t.co/gDgeCfO1tl",
+					"display_url": "pic.twitter.com/gDgeCfO1tl",
+					"expanded_url": "https://twitter.com/siff_kr/status/1580397849711296513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580396244957941800,
+					"id_str": "1580396244957941760",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6yAvEUUAA3hZD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6yAvEUUAA3hZD.jpg",
+					"url": "https://t.co/gDgeCfO1tl",
+					"display_url": "pic.twitter.com/gDgeCfO1tl",
+					"expanded_url": "https://twitter.com/siff_kr/status/1580397849711296513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580396263937216500,
+					"id_str": "1580396263937216512",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6yB1xVEAAUGPE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6yB1xVEAAUGPE.jpg",
+					"url": "https://t.co/gDgeCfO1tl",
+					"display_url": "pic.twitter.com/gDgeCfO1tl",
+					"expanded_url": "https://twitter.com/siff_kr/status/1580397849711296513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114711570,
+			"id_str": "114711570",
+			"name": "서울독립영화제",
+			"screen_name": "siff_kr",
+			"location": "",
+			"description": "📍 한국영화의 새로운 도전, 서울독립영화제\n📍 매년 연말에 개최되며, 한 해의 독립영화를 결산하는 국내 경쟁 독립영화제입니다.\n_\n🔎 서울독립영화제 NOW 🔎\nhttps://t.co/1wvBpF96Cw",
+			"url": "https://t.co/nya5a2Odim",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nya5a2Odim",
+							"expanded_url": "http://www.siff.kr",
+							"display_url": "siff.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1wvBpF96Cw",
+							"expanded_url": "http://lnk.bio/siff.kr/",
+							"display_url": "lnk.bio/siff.kr/",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40539,
+			"friends_count": 4642,
+			"listed_count": 275,
+			"created_at": "Tue Feb 16 10:48:53 +0000 2010",
+			"favourites_count": 316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6D68AF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1578200954146471936/NKTZoUJi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578200954146471936/NKTZoUJi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114711570/1663825135",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서울독립영화제2022 본선 장편경쟁 부문 상영작 발표\n\n작품공모를 통해 접수된 총 151편의 작품 중 예심을 통해 선정된 작품은 총 13편입니다.\n\n이 작품들은 오는 서울독립영화제2022 본선 장편경쟁 부문에서 상영됩니다.\n\n✅공지 참조: https://t.co/vIfZYUvI0w https://t.co/gDgeCfO1tl"
+	},
+	{
+		"created_at": "Thu Oct 13 04:21:58 +0000 2022",
+		"id": 1580395947556712400,
+		"id_str": "1580413512697798662",
+		"full_text": "#서울독립영화제2022 새로운선택 부문 상영작 발표\n\n이번 새로운선택 부문은 총 20편(단편 13편, 장편 7편)으로 오는 12월 1일(목)부터 12월 9일(금)까지 서울독립영화제2022 새로운선택 부문에서 상영됩니다.\n\n✅공지사항 참조 https://t.co/YEUGzE7WWt https://t.co/cO0ULDPKoL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울독립영화제2022",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YEUGzE7WWt",
+					"expanded_url": "https://bit.ly/3yDba4O",
+					"display_url": "bit.ly/3yDba4O",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580391936652849200,
+					"id_str": "1580391936652849159",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6uF9YVsAcLWbD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6uF9YVsAcLWbD.jpg",
+					"url": "https://t.co/cO0ULDPKoL",
+					"display_url": "pic.twitter.com/cO0ULDPKoL",
+					"expanded_url": "https://twitter.com/siff_kr/status/1580395947556712448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580391936652849200,
+					"id_str": "1580391936652849159",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6uF9YVsAcLWbD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6uF9YVsAcLWbD.jpg",
+					"url": "https://t.co/cO0ULDPKoL",
+					"display_url": "pic.twitter.com/cO0ULDPKoL",
+					"expanded_url": "https://twitter.com/siff_kr/status/1580395947556712448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580391955460108300,
+					"id_str": "1580391955460108288",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6uHDcVsAAWu61.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6uHDcVsAAWu61.jpg",
+					"url": "https://t.co/cO0ULDPKoL",
+					"display_url": "pic.twitter.com/cO0ULDPKoL",
+					"expanded_url": "https://twitter.com/siff_kr/status/1580395947556712448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580391956017860600,
+					"id_str": "1580391956017860613",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe6uHFhUUAUtjri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe6uHFhUUAUtjri.jpg",
+					"url": "https://t.co/cO0ULDPKoL",
+					"display_url": "pic.twitter.com/cO0ULDPKoL",
+					"expanded_url": "https://twitter.com/siff_kr/status/1580395947556712448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114711570,
+			"id_str": "114711570",
+			"name": "서울독립영화제",
+			"screen_name": "siff_kr",
+			"location": "",
+			"description": "📍 한국영화의 새로운 도전, 서울독립영화제\n📍 매년 연말에 개최되며, 한 해의 독립영화를 결산하는 국내 경쟁 독립영화제입니다.\n_\n🔎 서울독립영화제 NOW 🔎\nhttps://t.co/1wvBpF96Cw",
+			"url": "https://t.co/nya5a2Odim",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nya5a2Odim",
+							"expanded_url": "http://www.siff.kr",
+							"display_url": "siff.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1wvBpF96Cw",
+							"expanded_url": "http://lnk.bio/siff.kr/",
+							"display_url": "lnk.bio/siff.kr/",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40539,
+			"friends_count": 4642,
+			"listed_count": 275,
+			"created_at": "Tue Feb 16 10:48:53 +0000 2010",
+			"favourites_count": 316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6D68AF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1578200954146471936/NKTZoUJi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1578200954146471936/NKTZoUJi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114711570/1663825135",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서울독립영화제2022 새로운선택 부문 상영작 발표\n\n이번 새로운선택 부문은 총 20편(단편 13편, 장편 7편)으로 오는 12월 1일(목)부터 12월 9일(금)까지 서울독립영화제2022 새로운선택 부문에서 상영됩니다.\n\n✅공지사항 참조 https://t.co/YEUGzE7WWt https://t.co/cO0ULDPKoL"
+	},
+	{
 		"created_at": "Sun Oct 09 14:31:52 +0000 2022",
 		"id": 1579117445721514000,
 		"id_str": "1579117445721513985",
