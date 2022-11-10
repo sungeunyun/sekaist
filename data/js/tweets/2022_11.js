@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 09 08:56:09 +0000 2022",
+		"id": 1590266917952303000,
+		"id_str": "1590266985824555008",
+		"full_text": "지금이라도 내가 입양할 수 있다면 대환영이라는 걸 밝혀둡니다.\nhttps://t.co/5YKkAyWO4Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5YKkAyWO4Q",
+					"expanded_url": "https://m.facebook.com/story.php?story_fbid=pfbid024YFWVi4mygrg8NUC23Qwq9MPEuYzKGBZoP7HeNyEKiYLLFnuPjvur3NHh4YWF46bl&id=100044611621429",
+					"display_url": "m.facebook.com/story.php?stor…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444465942,
+			"id_str": "444465942",
+			"name": "문재인",
+			"screen_name": "moonriver365",
+			"location": "대한민국",
+			"description": "대한민국 19대 대통령 문재인입니다. @thebluehousekr @TheBlueHouseENG",
+			"url": "https://t.co/CDr1rG3qIe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CDr1rG3qIe",
+							"expanded_url": "http://19report.president.pa.go.kr",
+							"display_url": "19report.president.pa.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2156935,
+			"friends_count": 138945,
+			"listed_count": 7590,
+			"created_at": "Fri Dec 23 08:46:08 +0000 2011",
+			"favourites_count": 717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/444465942/1652091566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33036,
+		"favorite_count": 28392,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금이라도 내가 입양할 수 있다면 대환영이라는 걸 밝혀둡니다.\nhttps://t.co/5YKkAyWO4Q"
+	},
+	{
 		"created_at": "Tue Nov 08 14:50:02 +0000 2022",
 		"id": 1589993654189691000,
 		"id_str": "1589993654189690881",
