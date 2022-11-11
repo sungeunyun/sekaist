@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 10 13:32:57 +0000 2022",
+		"id": 1590686296728825900,
+		"id_str": "1590699030899994625",
+		"full_text": "221110 아시아 퓨처 포럼\n우리새 펭수 💙🐧\n\n펭수 무릎담요 하고있어ㅠㅠㅠㅠ\n\n#펭수 #PENGSOO \n#EBS의줏대 #6경만큼펭랑해 https://t.co/uswPmpSgVB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펭수",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "PENGSOO",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"text": "EBS의줏대",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "6경만큼펭랑해",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1590686285273800700,
+					"id_str": "1590686285273800704",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FhNAv6bUoAAugpm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhNAv6bUoAAugpm.jpg",
+					"url": "https://t.co/uswPmpSgVB",
+					"display_url": "pic.twitter.com/uswPmpSgVB",
+					"expanded_url": "https://twitter.com/i_am_saddist/status/1590686296728825858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1335,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590686285273800700,
+					"id_str": "1590686285273800704",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FhNAv6bUoAAugpm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhNAv6bUoAAugpm.jpg",
+					"url": "https://t.co/uswPmpSgVB",
+					"display_url": "pic.twitter.com/uswPmpSgVB",
+					"expanded_url": "https://twitter.com/i_am_saddist/status/1590686296728825858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1335,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 435079620,
+			"id_str": "435079620",
+			"name": "새디",
+			"screen_name": "i_am_saddist",
+			"location": "",
+			"description": "Band TOXIC. Ricrd. CNEMA.\n사진 = ❤",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394,
+			"friends_count": 63,
+			"listed_count": 3,
+			"created_at": "Mon Dec 12 17:08:27 +0000 2011",
+			"favourites_count": 235,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419663336766021633/ttL_9VPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419663336766021633/ttL_9VPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/435079620/1412869850",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "221110 아시아 퓨처 포럼\n우리새 펭수 💙🐧\n\n펭수 무릎담요 하고있어ㅠㅠㅠㅠ\n\n#펭수 #PENGSOO \n#EBS의줏대 #6경만큼펭랑해 https://t.co/uswPmpSgVB"
+	},
+	{
+		"created_at": "Thu Nov 10 04:21:19 +0000 2022",
+		"id": 1590540615062007800,
+		"id_str": "1590560208983851008",
+		"full_text": "그런 분에게 '사료값'이니 '파양'이니 하며 모욕했던 이들, 지금도 모욕하며 거짓을 퍼뜨리는 이들은 정말로 반성해야 합니다. 아무리 정치가 비정해도 인간의 선의를 완전히 버리지는 맙시다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1590540519545114600,
+		"in_reply_to_status_id_str": "1590540519545114627",
+		"in_reply_to_user_id": 1214942134320562200,
+		"in_reply_to_user_id_str": "1214942134320562177",
+		"in_reply_to_screen_name": "yyc1964",
+		"user": {
+			"id": 1214942134320562200,
+			"id_str": "1214942134320562177",
+			"name": "윤영찬",
+			"screen_name": "yyc1964",
+			"location": "대한민국 성남시",
+			"description": "성남시 중원구 더불어민주당 국회의원 윤영찬입니다. 동아일보, 네이버를 거쳐 문재인정부 청와대 초대 국민소통수석으로 일한 뒤 국회에서 일하고 있습니다. 후원: 농협 301-0263-7685-51 영수증 발급신청:https://t.co/Ldk1ldFWfh…",
+			"url": "https://t.co/Bpwxb45BLJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bpwxb45BLJ",
+							"expanded_url": "http://www.facebook.com/youngchan.yoon.18",
+							"display_url": "facebook.com/youngchan.yoon…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Ldk1ldFWfh",
+							"expanded_url": "http://forms.gle/6i7KrUiWtkbGaH",
+							"display_url": "forms.gle/6i7KrUiWtkbGaH",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16440,
+			"friends_count": 4448,
+			"listed_count": 56,
+			"created_at": "Wed Jan 08 16:09:22 +0000 2020",
+			"favourites_count": 436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1523493765071081472/AgoB_zJo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1523493765071081472/AgoB_zJo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1214942134320562177/1668060219",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 760,
+		"favorite_count": 1122,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그런 분에게 '사료값'이니 '파양'이니 하며 모욕했던 이들, 지금도 모욕하며 거짓을 퍼뜨리는 이들은 정말로 반성해야 합니다. 아무리 정치가 비정해도 인간의 선의를 완전히 버리지는 맙시다."
+	},
+	{
 		"created_at": "Wed Nov 09 08:56:09 +0000 2022",
 		"id": 1590266917952303000,
 		"id_str": "1590266985824555008",
